@@ -8,10 +8,10 @@ getwd()
 setwd("~/Dropbox/IntroduccionR")
 
 
-# Descargar la página 
+# Descargar la home de la página 
 
-#url <- "http://contributors.rubyonrails.org/"
-#download.file(url, destfile = "Data/contributors00.txt")
+url <- "http://contributors.rubyonrails.org/"
+download.file(url, destfile = "Data/contributors00.txt")
 
 # Leer el archivo en R
 contributors <- readLines("Data/contributors00.txt")
