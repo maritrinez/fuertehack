@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Alisdair McDiarmid to Ruby on Rails" />
+    <meta name="keywords" content="Alisdair McDiarmid,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Alisdair McDiarmid - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Alisdair McDiarmid</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc4e387d7a478f75cdd4375b6c62e918b4b132b0"><span class="sha1">fc4e387</span></a></td>
+  <td class="commit-date">2012-11-25</td>
+  <td class="commit-message">Don&#39;t call will_change! for datetime nil-&gt;&quot;&quot;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94a1758f8202eee65f167337541d102d1faeaad2"><span class="sha1">94a1758</span></a></td>
+  <td class="commit-date">2006-08-07</td>
+  <td class="commit-message"> r3022@ks:  jeremy | 2005-11-12 18:40:42 -0800</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94e3e22eb8a7e22e68397b10f8fdeac99b0f540c"><span class="sha1">94e3e22</span></a></td>
+  <td class="commit-date">2006-04-26</td>
+  <td class="commit-message">Mention in docs that config.frameworks doesn&#39;t work when...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a2f26b971bf61263582604ad7e1af14b9566949e"><span class="sha1">a2f26b9</span></a></td>
+  <td class="commit-date">2005-06-18</td>
+  <td class="commit-message">Fixed that adding a record to a has_and_belongs_to colle...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/787951348bd498ef16e0c2f24aa677499bc6b1ef"><span class="sha1">7879513</span></a></td>
+  <td class="commit-date">2005-04-30</td>
+  <td class="commit-message">Fixed incompatibility with Base#find with an array of id...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b4fe4daa840741dce464b3c9ff5a7e447375bdd5"><span class="sha1">b4fe4da</span></a></td>
+  <td class="commit-date">2005-04-30</td>
+  <td class="commit-message">Fixed assert_redirected_to to work with :only_path =&gt; fa...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dd497853a5375caa217237e067346ad2b3d89c2"><span class="sha1">0dd4978</span></a></td>
+  <td class="commit-date">2005-04-19</td>
+  <td class="commit-message">More documentation #1148 [Alisdair McDiarmid]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e3b8b36fa1524bd9b0c66af07732f8950ccf38e"><span class="sha1">5e3b8b3</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">Fixed url_for(nil) in functional tests #1116 [Alisdair M...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6717ed61c11e62c11eb7d5c42638962abfc6dd8b"><span class="sha1">6717ed6</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">Fixed acts_as_list to trigger remove_from_list on destro...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

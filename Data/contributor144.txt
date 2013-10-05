@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Chad Woolley to Ruby on Rails" />
+    <meta name="keywords" content="Chad Woolley,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #144 Chad Woolley - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #144 <span class="fn">Chad Woolley</span> - All time<br/>
+    <span class="listing-total">Showing 25 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a4c32897585dde2b939b269f23ea537393e6fc0b"><span class="sha1">a4c3289</span></a></td>
+  <td class="commit-date">2010-02-07</td>
+  <td class="commit-message">remove all sudo references from CI build script</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/09a88a347d1f94869b945dfaa47ca54dd1940d46"><span class="sha1">09a88a3</span></a></td>
+  <td class="commit-date">2010-02-04</td>
+  <td class="commit-message">fix rubygems/bundler install in ci build script</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e71825d40d4427ad1bf8b819adea5987fbf59fc5"><span class="sha1">e71825d</span></a></td>
+  <td class="commit-date">2010-02-04</td>
+  <td class="commit-message">remove arel directory, breaks &#39;git submodule init&#39;, whic...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c978160d25ddacdc5bf4fb7a1de40654b318d1d"><span class="sha1">2c97816</span></a></td>
+  <td class="commit-date">2010-02-02</td>
+  <td class="commit-message">Fix invocation of system commands in ci script</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9a7ec6db50722e892145110c8527bca81c08041"><span class="sha1">b9a7ec6</span></a></td>
+  <td class="commit-date">2010-01-12</td>
+  <td class="commit-message">reduce max size of fixture IDs to fix sqlite2 tests, bec...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e7b02b21a65bcf86dbd61d37dcf682e4153bd99"><span class="sha1">6e7b02b</span></a></td>
+  <td class="commit-date">2009-10-08</td>
+  <td class="commit-message">Fix for Ruby 1.9 - define_method throws an exception und...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32cea98c3b5bd077692f5b20756e0e3c75e0c524"><span class="sha1">32cea98</span></a></td>
+  <td class="commit-date">2009-10-08</td>
+  <td class="commit-message">Ruby 1.9: Fix ActiveResource::ConnectionError#to_s when ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1901747001676a24e77b95dc61d81d9201111f5a"><span class="sha1">1901747</span></a></td>
+  <td class="commit-date">2009-09-29</td>
+  <td class="commit-message">reduce max size of fixture IDs to fix sqlite2 tests, bec...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f95a7f896e42bed994a843e0ea8073d0373f59fe"><span class="sha1">f95a7f8</span></a></td>
+  <td class="commit-date">2009-09-28</td>
+  <td class="commit-message">make mysql and postgresql rebuild databases on every CI ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/438ff3b5b9e669392c0607364b70de010e862cec"><span class="sha1">438ff3b</span></a></td>
+  <td class="commit-date">2009-09-26</td>
+  <td class="commit-message">include nokogiri gem, so activesupport nokogiri tests run</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a11ca1c7ebe7a45fd01de7e73ebe6c46c1e4bfa"><span class="sha1">4a11ca1</span></a></td>
+  <td class="commit-date">2009-09-26</td>
+  <td class="commit-message">include nokogiri gem, so activesupport nokogiri tests run</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/70ed47f5b41f3e99f96e14da4299af260a6bcb79"><span class="sha1">70ed47f</span></a></td>
+  <td class="commit-date">2009-08-30</td>
+  <td class="commit-message">CI config updates: do not send CI emails unless explicit...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8e7ff12a82f4cde563d6d8777e644811929bf50"><span class="sha1">d8e7ff1</span></a></td>
+  <td class="commit-date">2009-08-30</td>
+  <td class="commit-message">CI config updates: do not send CI emails unless explicit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/22e946873cf459715ead0d3dcf29402e9ff99285"><span class="sha1">22e9468</span></a></td>
+  <td class="commit-date">2009-08-29</td>
+  <td class="commit-message">Send CI notifications to core list.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f413a703ba5bcf4b369932ae805615c4a34d34cb"><span class="sha1">f413a70</span></a></td>
+  <td class="commit-date">2009-08-12</td>
+  <td class="commit-message">make mysql and postgresql rebuild databases on every CI ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5679bf64d515e3c0d343c3562db09e9c7ff422fc"><span class="sha1">5679bf6</span></a></td>
+  <td class="commit-date">2009-05-27</td>
+  <td class="commit-message">Fix failing CI test (broken in 2daac47 or e693f45): make...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f1b283e03633410729aa006f6abf070c713095d"><span class="sha1">0f1b283</span></a></td>
+  <td class="commit-date">2009-05-21</td>
+  <td class="commit-message">Fix eager association test related to different ordering...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6dc3a6a954b742ac7160593f94962b9b93a2ce25"><span class="sha1">6dc3a6a</span></a></td>
+  <td class="commit-date">2009-05-19</td>
+  <td class="commit-message">Upgrade CI server to latest RubyGems [#2665 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/289e3b90728cacdb96d61e721b30de566a0a8134"><span class="sha1">289e3b9</span></a></td>
+  <td class="commit-date">2008-08-26</td>
+  <td class="commit-message">use double quotes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fb20d6f09d5e91280bf2b5888a7299b50dba7a7b"><span class="sha1">fb20d6f</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">properly reference geminstaller config under ci dir</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/337b043c9373014b034b79c487f70594ebb6a910"><span class="sha1">337b043</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Include the CI configuration and setup instructions.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bff217272dbdb17f366f9986496ef04e2599d2c2"><span class="sha1">bff2172</span></a></td>
+  <td class="commit-date">2007-11-17</td>
+  <td class="commit-message">RAILS_GEM_VERSION may be set to any valid gem version sp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4249ffe2498e9a77242205f95245ba1fcca92732"><span class="sha1">4249ffe</span></a></td>
+  <td class="commit-date">2007-11-17</td>
+  <td class="commit-message">Load config/preinitializer.rb, if present, before loadin...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2bfd6772a4f3f9e0ff395cfd415dafbc1c9dec80"><span class="sha1">2bfd677</span></a></td>
+  <td class="commit-date">2007-10-26</td>
+  <td class="commit-message">Use  instead of STDERR in boot.rb. Closes #9988 [thewool...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2559feb53923cd4ca1615b3c6c0c3a12ef7186d7"><span class="sha1">2559feb</span></a></td>
+  <td class="commit-date">2007-10-23</td>
+  <td class="commit-message">Refactor and test boot.rb. Include tests from and closes...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

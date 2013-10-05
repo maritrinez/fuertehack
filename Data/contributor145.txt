@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Cody Fauser to Ruby on Rails" />
+    <meta name="keywords" content="Cody Fauser,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #144 Cody Fauser - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #144 <span class="fn">Cody Fauser</span> - All time<br/>
+    <span class="listing-total">Showing 25 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c090e5e0755bea3a7cd7135329f8dae6094810b6"><span class="sha1">c090e5e</span></a></td>
+  <td class="commit-date">2009-01-20</td>
+  <td class="commit-message">Restore cookie store httponly default to true. Remove ex...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8907d2e6ed8e40445a1148077dc49849d751098"><span class="sha1">b8907d2</span></a></td>
+  <td class="commit-date">2009-01-15</td>
+  <td class="commit-message">Use :secure key in session_options example instead of :s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3107ce3b04a14bd5674da6812acbff30aedaf73"><span class="sha1">d3107ce</span></a></td>
+  <td class="commit-date">2009-01-13</td>
+  <td class="commit-message">Use :key instead of old :session_key in session_store.rb...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6a94fc1c611216c6d1001bb6044973b01dbba38"><span class="sha1">b6a94fc</span></a></td>
+  <td class="commit-date">2009-01-13</td>
+  <td class="commit-message">Remove legacy reloadable? method from ActiveRecord::Sess...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2c10f27565318b5efbdc57fb608b2afe9ae445d"><span class="sha1">f2c10f2</span></a></td>
+  <td class="commit-date">2008-10-07</td>
+  <td class="commit-message">Add ActiveResource::Base#to_xml and ActiveResource::Base...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/91871f25f01f6b5d67e7da4aeb6dec0fae7b18fe"><span class="sha1">91871f2</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Improve explanation of with_options</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17aecd210dfd1ac1556c300a33416575d4568fef"><span class="sha1">17aecd2</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Explain returning in a bit more detail</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/308456e5da602c8156d9b6337b8126b4239cd63c"><span class="sha1">308456e</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Change &#39;equals to&#39; to &#39;equal to&#39;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce8fded9bb75dca4ffcd88ba9de9b0a2e74493d6"><span class="sha1">ce8fded</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Add some documentation and examples for Base64 encode64 ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03819e0a5a31a55467ddfdfccd75486d7583978e"><span class="sha1">03819e0</span></a></td>
+  <td class="commit-date">2008-08-19</td>
+  <td class="commit-message">Update listing of ActiveResource errors</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/061923371cc8f24b93aedb7842938a69fea6ac19"><span class="sha1">0619233</span></a></td>
+  <td class="commit-date">2008-08-15</td>
+  <td class="commit-message">Fix tiny typo in example</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47e79cbf776c045012ecf2e2723fb640205c852c"><span class="sha1">47e79cb</span></a></td>
+  <td class="commit-date">2008-08-15</td>
+  <td class="commit-message">Remove incorrect Active Resource documentation regarding...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11ea3e947a1b5a59a5f77ba392a32f57e157903e"><span class="sha1">11ea3e9</span></a></td>
+  <td class="commit-date">2008-05-23</td>
+  <td class="commit-message">Fixup weird RDoc markup that does not render correctly</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce63b2e5df22f4d80a90bc5b117c55044917d175"><span class="sha1">ce63b2e</span></a></td>
+  <td class="commit-date">2008-05-19</td>
+  <td class="commit-message">Markup inline code in ActiveRecord::Base docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9226b3e8355e7b6aa3be62fff56117d75c408831"><span class="sha1">9226b3e</span></a></td>
+  <td class="commit-date">2008-05-14</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8c46c86f0b785f6afc3c58eeb1b347543f5901e"><span class="sha1">b8c46c8</span></a></td>
+  <td class="commit-date">2008-05-14</td>
+  <td class="commit-message">Improve and cleanup ActionMailer documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4809dcc1b50330a04ec61dd1fef6cdba9892ac3d"><span class="sha1">4809dcc</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">* Remove default_url_options from mailer generator</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfda4cdc5a0ac1b8e846f0838eca36075b3be987"><span class="sha1">bfda4cd</span></a></td>
+  <td class="commit-date">2007-06-08</td>
+  <td class="commit-message">Fixed query methods on resources. [Cody Fauser]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64a80ef756ae89e85470b598e9c09b66d50a8103"><span class="sha1">64a80ef</span></a></td>
+  <td class="commit-date">2007-01-15</td>
+  <td class="commit-message">Allow inGroupsOf and eachSlice to be called through rjs....</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e24d2f72344baecbcd6fbb76fe3a3171762182e0"><span class="sha1">e24d2f7</span></a></td>
+  <td class="commit-date">2007-01-12</td>
+  <td class="commit-message">Apply scoping during initialize instead of create.  Fixe...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ee0c1b2aae3cb90869c79235470e6b69296feeb"><span class="sha1">0ee0c1b</span></a></td>
+  <td class="commit-date">2006-12-05</td>
+  <td class="commit-message">Add AssociationCollection#create! to be consistent with ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad62d461e835fefd4c251c402b4e815de03e229d"><span class="sha1">ad62d46</span></a></td>
+  <td class="commit-date">2006-11-24</td>
+  <td class="commit-message">Added CSV to Mime::SET so that respond_to csv will work</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f49ba114dbb330c1865682c111a9ba372cb40bda"><span class="sha1">f49ba11</span></a></td>
+  <td class="commit-date">2006-03-19</td>
+  <td class="commit-message">Add :script option to in_place_editor to support evalScr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6cfb4e0e4209e06b4ba561b688ee2c3b942e3dd"><span class="sha1">a6cfb4e</span></a></td>
+  <td class="commit-date">2006-03-19</td>
+  <td class="commit-message">Fix mixed case enumerable methods in the JavaScript Coll...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e9d6fea533e6b6fd1d9a6024de113370fdd13926"><span class="sha1">e9d6fea</span></a></td>
+  <td class="commit-date">2006-03-13</td>
+  <td class="commit-message">Don&#39;t replace application.js in public/javascripts if it...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

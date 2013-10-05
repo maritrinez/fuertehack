@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Zheng Jia to Ruby on Rails" />
+    <meta name="keywords" content="Zheng Jia,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #430 Zheng Jia - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #430 <span class="fn">Zheng Jia</span> - All time<br/>
+    <span class="listing-total">Showing 7 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1adf5662b54adf2f1d63a3934629c0f3aadeacb9"><span class="sha1">1adf566</span></a></td>
+  <td class="commit-date">2011-10-11</td>
+  <td class="commit-message">Fixed serialization issues with multiple includes with o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/74eb8486dac8f1c9b7d75c0523fdd4a6ce0c230f"><span class="sha1">74eb848</span></a></td>
+  <td class="commit-date">2011-07-22</td>
+  <td class="commit-message">remove ruby-prof for rubinius in Gemfile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad14926b44596f090c0ef060c1b2c2dde4c71016"><span class="sha1">ad14926</span></a></td>
+  <td class="commit-date">2010-12-18</td>
+  <td class="commit-message">Fix the example in ActiveSupport::Concern</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a51328ae8d51f8d1a637780d5b82fd27261758f"><span class="sha1">4a51328</span></a></td>
+  <td class="commit-date">2010-11-21</td>
+  <td class="commit-message">Minor fix on Rails:Railtie documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55759a66f488872b875a0e6310982a845b5a95dd"><span class="sha1">55759a6</span></a></td>
+  <td class="commit-date">2010-11-21</td>
+  <td class="commit-message">Minor fix on Rails:Railtie documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45e3827eb22b243c6bc4358fcbee7feed3de3873"><span class="sha1">45e3827</span></a></td>
+  <td class="commit-date">2010-11-16</td>
+  <td class="commit-message">Minor fix on Rails:Railtie documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a6ac4fc26bacbd2a6c978cace156e300b77508e"><span class="sha1">8a6ac4f</span></a></td>
+  <td class="commit-date">2010-11-11</td>
+  <td class="commit-message">Remove unused Configurable in Rails::Engine and Rails::A...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

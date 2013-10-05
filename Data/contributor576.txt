@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Elomar França to Ruby on Rails" />
+    <meta name="keywords" content="Elomar França,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #549 Elomar França - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #549 <span class="fn">Elomar França</span> - All time<br/>
+    <span class="listing-total">Showing 5 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/176c386409fd57bc03b9ebf1570a8955e21e0800"><span class="sha1">176c386</span></a></td>
+  <td class="commit-date">2010-06-24</td>
+  <td class="commit-message">Fix bug where ActiveResource::HttpMock would overwrite A...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15b0947579a85103f06cb8868ce5da58b8f3430d"><span class="sha1">15b0947</span></a></td>
+  <td class="commit-date">2010-06-03</td>
+  <td class="commit-message">Adding to_key to ActiveResource objects using ActiveMode...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7bd30b9585ec709cb56d26a54182e438bae00a08"><span class="sha1">7bd30b9</span></a></td>
+  <td class="commit-date">2010-05-26</td>
+  <td class="commit-message">Adding to_key to ActiveResource objects using ActiveMode...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/edec1afe25014749f0e2df86d27477b45586a9e3"><span class="sha1">edec1af</span></a></td>
+  <td class="commit-date">2010-05-16</td>
+  <td class="commit-message">Don&#39;t carry default value when changing column for a bin...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ddadcc7cf8332415ba48b66904ee6136b43dda6b"><span class="sha1">ddadcc7</span></a></td>
+  <td class="commit-date">2010-05-16</td>
+  <td class="commit-message">Don&#39;t carry default value when changing column for a bin...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

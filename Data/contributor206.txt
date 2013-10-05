@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Josiah Ivey to Ruby on Rails" />
+    <meta name="keywords" content="Josiah Ivey,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #200 Josiah Ivey - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #200 <span class="fn">Josiah Ivey</span> - All time<br/>
+    <span class="listing-total">Showing 17 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f44d85a030f6e22421b26f0d5a0c869fae3efe5f"><span class="sha1">f44d85a</span></a></td>
+  <td class="commit-date">2011-03-31</td>
+  <td class="commit-message">Grammar tweaks to the guides guidelines</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21063e5e27c5891376a666a2050f12f1455140fa"><span class="sha1">21063e5</span></a></td>
+  <td class="commit-date">2010-08-17</td>
+  <td class="commit-message">Debugging Guide: Improve grammar for the RJS section</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a665aa6d24e56f7c990cbdcd9a6e43188f75f94"><span class="sha1">9a665aa</span></a></td>
+  <td class="commit-date">2010-08-17</td>
+  <td class="commit-message">Debugging Guide: Highlight using config over ActionView:...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a55edc725a4272c732dc93bd6aaec9ed0aa20cc"><span class="sha1">2a55edc</span></a></td>
+  <td class="commit-date">2010-08-16</td>
+  <td class="commit-message">Debugging Guide: Improve grammar for the RJS section</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52ed3404bc0daf9a13fe83d5a56dbe50b0ad6340"><span class="sha1">52ed340</span></a></td>
+  <td class="commit-date">2010-06-13</td>
+  <td class="commit-message">Routing guide: Fix path</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/24ac08fd68a683c1c3904c430c738584a4944549"><span class="sha1">24ac08f</span></a></td>
+  <td class="commit-date">2010-06-03</td>
+  <td class="commit-message">Form Helpers guide: Use new syntax for fields_for examples</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3633cb854165f9e338ecddca516bfb3dabadfa33"><span class="sha1">3633cb8</span></a></td>
+  <td class="commit-date">2010-06-02</td>
+  <td class="commit-message">Revert &quot;Guides: Give code container a proper bottom margin&quot;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b71fc22ca205db8f083c2eab1cc3969f7addb69"><span class="sha1">4b71fc2</span></a></td>
+  <td class="commit-date">2010-06-02</td>
+  <td class="commit-message">Guides: Give code container a proper bottom margin</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96e2094b8b634e4af0d9d3c8a1db9bbb7023a4a7"><span class="sha1">96e2094</span></a></td>
+  <td class="commit-date">2010-05-25</td>
+  <td class="commit-message">Form Helpers guide: Use new syntax for fields_for examples</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/695cabce39474dd75af19f6a70bb2104091cdf49"><span class="sha1">695cabc</span></a></td>
+  <td class="commit-date">2010-05-19</td>
+  <td class="commit-message">Testing guide: Replace removed word</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/256e13b3a3d0b985fe67f97ef7ec622460d0ab01"><span class="sha1">256e13b</span></a></td>
+  <td class="commit-date">2010-05-19</td>
+  <td class="commit-message">Testing guide: Grammar, punctuation, and emphasize that ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea9398f9bafeec8fb0c527710b4708625fb60c21"><span class="sha1">ea9398f</span></a></td>
+  <td class="commit-date">2010-05-17</td>
+  <td class="commit-message">Guides: Fix numerous broken links</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/774f596693a78c9a2f5cc92049a74ec817abffa1"><span class="sha1">774f596</span></a></td>
+  <td class="commit-date">2010-05-16</td>
+  <td class="commit-message">Fix punctuation and keep the tone consistent</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dd3b4630fea4bd4d4010b7096c9ee79d34c4501"><span class="sha1">0dd3b46</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">image_tag should be audio_tag, and change typo &#39;image&#39; t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44a98967676492995d19fd4d541dbc9d52bf6b53"><span class="sha1">44a9896</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">Change typo &#39;image&#39; to &#39;audio file&#39;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/015114cbbbd29935a901640070957ddca5e00bde"><span class="sha1">015114c</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">image_tag should be audio_tag</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/902c78dc268254ff7b10b13aee6caa2c2ab55b39"><span class="sha1">902c78d</span></a></td>
+  <td class="commit-date">2009-08-16</td>
+  <td class="commit-message">Fix typo in debugging guide</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

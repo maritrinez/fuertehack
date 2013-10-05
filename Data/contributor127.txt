@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Stefan Sprenger to Ruby on Rails" />
+    <meta name="keywords" content="Stefan Sprenger,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #123 Stefan Sprenger - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #123 <span class="fn">Stefan Sprenger</span> - All time<br/>
+    <span class="listing-total">Showing 31 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0fab87f824dcd4bb3e2a9afa4e4bea703e5db761"><span class="sha1">0fab87f</span></a></td>
+  <td class="commit-date">2011-06-10</td>
+  <td class="commit-message">Prepend bundle exec to get the correct Rake version</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/331d58fb04821546b1e622290432a2dd13e52301"><span class="sha1">331d58f</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Prepend bundle exec to get the correct Rake version</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/246c36757065aa74a88b67db4c70e9e5cf3bd8b3"><span class="sha1">246c367</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Use RAILS_ISOLATED_ENGINE and fix namespaced generators ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ea90ffdb8a08438e72054518f8f0b54c628b3ea"><span class="sha1">8ea90ff</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Use mattr_accessor :namespace</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64f337eeb0072616520c8ec7f40e2fdd5b90f26e"><span class="sha1">64f337e</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Don&#39;t create full Rails application if RAILS_ISOLATION_C...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f18283194bfb43fc020be37d6fa7cd3149fa8b5e"><span class="sha1">f182831</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Use namespace if it&#39;s a mountable engine</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a06530aa50e1aed5c7dff6f1256abb555c497b6"><span class="sha1">1a06530</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Added regression tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/402163916b0d65c33208f3ebf1a488dce93d7ad3"><span class="sha1">4021639</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Move test/engine/generators_test.rb to test/railties/gen...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5afd83c03b8c7ef67b66b828b087221733124e95"><span class="sha1">5afd83c</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Add test for helper generator</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a60624d6c08af9ed7e514ed8b4f87c8915c8bb55"><span class="sha1">a60624d</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Clean up engine&#39;s generator test and use bundle exec for...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fd59a3a1d7d81f6a9b54e2f958b78d929f6db9fc"><span class="sha1">fd59a3a</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">We moved engine commands to rails/engine/commands</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ac5c03f169b3e3055040e84ca088df134c2bfbb"><span class="sha1">0ac5c03</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">Add destroy to engine&#39;s commands</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e38d3752c377b400aea1d0b854bebf3734664cd7"><span class="sha1">e38d375</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">Generate script/rails only if --full is given</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f00592466bd91107ecdfd055140cb2b36e29f50"><span class="sha1">5f00592</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">Refactor identifying generator&#39;s destination root</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0ee2270d3e0bdcc0433e4af56c616f71553378c"><span class="sha1">a0ee227</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">Fix appending &#39;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d111de8139b5d44945afb1a4ecd5960fcba6b366"><span class="sha1">d111de8</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">We&#39;re using module not class for namespacing</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7476767e608a1835dde5acdb43db2b9c55ce3f8"><span class="sha1">b747676</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">Move requiring engine out of the switch case</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9935c308f14df1eab1e1334dc007bae999dab92f"><span class="sha1">9935c30</span></a></td>
+  <td class="commit-date">2011-05-27</td>
+  <td class="commit-message">Fix and test ENGINE_PATH and ENGINE_ROOT</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/835c9cee3ede273030bae5dcf465176d64b287dd"><span class="sha1">835c9ce</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">Introducing engine commands</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60281af200180d752b8300bdad3c0a869d56347f"><span class="sha1">60281af</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">Move load_generators from Rails::Application to Rails::E...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ee461237a04122559bf9871df602eec4079cd08"><span class="sha1">6ee4612</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">We&#39;re now using generators directly</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4686ace999467935e659260d1a23c6617bc51986"><span class="sha1">4686ace</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">Use global namespace Rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11862932ecfe528e7bc12c983e3b85b65350c24d"><span class="sha1">1186293</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">Use plugin name consistently</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/22be5ca8b91b1ee8bf2aeb8ae29a64a45968ac24"><span class="sha1">22be5ca</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Improve test assertion</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/360b98f0618873e5c0a41f0a5e029868b8deadf9"><span class="sha1">360b98f</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Remove whitespaces from empty line</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5cf934eab50cae0b375713a0af7b5f2a2904ff45"><span class="sha1">5cf934e</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Add test files to engine&#39;s gemspec</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2a0a94c6efcce7a0b6223d33bc3ba4eee692827"><span class="sha1">e2a0a94</span></a></td>
+  <td class="commit-date">2011-05-24</td>
+  <td class="commit-message">Add test for shebang in engine&#39;s script/rails file</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e366cd7f91436ed1a781cdf879357eb0c3bec09d"><span class="sha1">e366cd7</span></a></td>
+  <td class="commit-date">2011-05-24</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab0d2f2d628afa0df32294ca4702998190c4311c"><span class="sha1">ab0d2f2</span></a></td>
+  <td class="commit-date">2011-05-24</td>
+  <td class="commit-message">Remove shebang from the template since it&#39;s already adde...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/855d14dd945c6d341242a0d8fd48cb4d424af8d1"><span class="sha1">855d14d</span></a></td>
+  <td class="commit-date">2011-05-24</td>
+  <td class="commit-message">Add test for gemspec of the generated engine</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3d7751b54112d226ea5ebac65cf0551a9cf00ba"><span class="sha1">e3d7751</span></a></td>
+  <td class="commit-date">2011-05-24</td>
+  <td class="commit-message">Add folders app and config to the engine&#39;s gemspec if th...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Cezary Baginski to Ruby on Rails" />
+    <meta name="keywords" content="Cezary Baginski,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #430 Cezary Baginski - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #430 <span class="fn">Cezary Baginski</span> - All time<br/>
+    <span class="listing-total">Showing 7 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1423cf9b3bf950fd2b30f4620a5a5b039aa76477"><span class="sha1">1423cf9</span></a></td>
+  <td class="commit-date">2012-04-01</td>
+  <td class="commit-message">Correct invalid route example [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/256a15c23581865559cc758c2e377cd395cc05b3"><span class="sha1">256a15c</span></a></td>
+  <td class="commit-date">2010-05-02</td>
+  <td class="commit-message">AR: fixed postgres fixture tests [#4519 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8b1b273c21a2f1a6eeccca5fbe0303679c2d707d"><span class="sha1">8b1b273</span></a></td>
+  <td class="commit-date">2010-05-01</td>
+  <td class="commit-message">AR: fixed postgres transaction tests [#4519 state:commited]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1067a7be52ec8deb208ce46a82f16ed8d0199bd4"><span class="sha1">1067a7b</span></a></td>
+  <td class="commit-date">2010-04-28</td>
+  <td class="commit-message">Fix BigDecimal JSON encoding test. [#4495 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/490a3335d56c124c8113aac0b63ad367f81bb450"><span class="sha1">490a333</span></a></td>
+  <td class="commit-date">2010-04-26</td>
+  <td class="commit-message">Action Pack: fix tests with -K*, work around Ruby 1.9.1 ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec7716abcdaa79082a32ee087391eac31859a522"><span class="sha1">ec7716a</span></a></td>
+  <td class="commit-date">2010-04-25</td>
+  <td class="commit-message">actionpack: added missing encoding comments [#4466 state...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44423126c6f6133a1d9cf1d0832b527e8711d40f"><span class="sha1">4442312</span></a></td>
+  <td class="commit-date">2009-04-02</td>
+  <td class="commit-message">Additional template render test for backup files [#2367 ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

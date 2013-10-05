@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Julian Tarkhanov to Ruby on Rails" />
+    <meta name="keywords" content="Julian Tarkhanov,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 Julian Tarkhanov - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">Julian Tarkhanov</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f756bfbe89da504729a1e59d1cbfc4044257057d"><span class="sha1">f756bfb</span></a></td>
+  <td class="commit-date">2008-02-02</td>
+  <td class="commit-message">Merge r8782 from trunk: TestSession supports indifferent...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36fa00a1ebc4bedb355db6cbaf45ec9911df8da6"><span class="sha1">36fa00a</span></a></td>
+  <td class="commit-date">2008-02-02</td>
+  <td class="commit-message">Merge r8782 from trunk: TestSession supports indifferent...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e1d91c24bfd260df8609d5008fe40210f32cfd9"><span class="sha1">9e1d91c</span></a></td>
+  <td class="commit-date">2008-02-02</td>
+  <td class="commit-message">TestSession supports indifferent access. Closes #7372.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f517348db260fb0794a3644f761ac91fe540472"><span class="sha1">7f51734</span></a></td>
+  <td class="commit-date">2007-06-15</td>
+  <td class="commit-message">Make ActionView#view_paths an attr_accessor for real thi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/454842a1f6660453a417facacc0a109e9a54d0fd"><span class="sha1">454842a</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">Merge [6086] from trunk. References #7372.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/09c708981ce058fe9b1cbead4fac9fbb58de6a97"><span class="sha1">09c7089</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">TestSession supports indifferent access so session[&#39;foo&#39;...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2bc5e6cd145b00f20bb272692cf3c53b9c823136"><span class="sha1">2bc5e6c</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">Merge [6078] from trunk. References #6977.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad29870c21f2f196858251831f527e52a7ef27cb"><span class="sha1">ad29870</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">select :multiple =&gt; true suffixes the attribute name wit...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef6c3c4289eba6ac5bef5fafcba1c5b067bb4833"><span class="sha1">ef6c3c4</span></a></td>
+  <td class="commit-date">2006-11-20</td>
+  <td class="commit-message">Merge [5597] from trunk.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9104d63f9917df5a363e073f62402a91a16ccf40"><span class="sha1">9104d63</span></a></td>
+  <td class="commit-date">2006-11-20</td>
+  <td class="commit-message">Quote ActiveSupport::Multibyte::Chars. Closes #6653.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f238d495b70a264abdb864fe8107e02766b285b4"><span class="sha1">f238d49</span></a></td>
+  <td class="commit-date">2006-10-03</td>
+  <td class="commit-message">Add ActiveSupport::Multibyte.  Provides String#chars whi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ffc84d23ff8f78bf43b277d64a4bcda51e932fc"><span class="sha1">2ffc84d</span></a></td>
+  <td class="commit-date">2006-06-05</td>
+  <td class="commit-message">Make sure :id and friends are properly unescaped (closes...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/325cb1269cb2aa8e1abe7bc103db3cb47ae5eaf6"><span class="sha1">325cb12</span></a></td>
+  <td class="commit-date">2006-04-30</td>
+  <td class="commit-message">Namespaced OrderedHash so the Rails implementation does ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b72a4b12fbb33d32ae3f9b9d004ca5888d42d58"><span class="sha1">4b72a4b</span></a></td>
+  <td class="commit-date">2005-10-13</td>
+  <td class="commit-message">Unset the X-Requested-With header when using the xhr wra...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcdcd9b9fa2f6fe37d2481b1b201fd24bf5b37c6"><span class="sha1">fcdcd9b</span></a></td>
+  <td class="commit-date">2005-07-04</td>
+  <td class="commit-message">Hashes sent via multipart post should be converted to st...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

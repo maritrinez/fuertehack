@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Dmitry Vorotilin to Ruby on Rails" />
+    <meta name="keywords" content="Dmitry Vorotilin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #150 Dmitry Vorotilin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #150 <span class="fn">Dmitry Vorotilin</span> - All time<br/>
+    <span class="listing-total">Showing 24 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c22376fe04b89e8f34620139720b85a85ce3428"><span class="sha1">2c22376</span></a></td>
+  <td class="commit-date">2013-04-02</td>
+  <td class="commit-message">Common behavior with adding formats to lookup_context fo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89828a405254bca8cf65259c54990dfe1921326d"><span class="sha1">89828a4</span></a></td>
+  <td class="commit-date">2013-03-22</td>
+  <td class="commit-message">When we pass id to update_attributes it will try to set ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b04051d4e0c8066ec79cd4978606e4728dfa6ffa"><span class="sha1">b04051d</span></a></td>
+  <td class="commit-date">2013-03-06</td>
+  <td class="commit-message">Fix ActiveRecord `subclass_from_attrs` when eager_load i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5b50c7d4d569069a1826c2876d654da7b047acc8"><span class="sha1">5b50c7d</span></a></td>
+  <td class="commit-date">2012-11-30</td>
+  <td class="commit-message">Fixed description for ActiveSupport::Concern typical case</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/346ccf376c13bef58e575474a2f717b78dfa583d"><span class="sha1">346ccf3</span></a></td>
+  <td class="commit-date">2012-11-01</td>
+  <td class="commit-message">Kernel#capture replaced by version which can catch outpu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbcb6257ee3c7335bc76fbf5dcfe363d9d5590ce"><span class="sha1">bbcb625</span></a></td>
+  <td class="commit-date">2012-09-19</td>
+  <td class="commit-message">Since in sprockets-rails uglifier&#39;s version doesn&#39;t matt...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d29283a26816a84feadc18b57651b22adae57e4a"><span class="sha1">d29283a</span></a></td>
+  <td class="commit-date">2012-09-19</td>
+  <td class="commit-message">Use last version of sprockets-rails and syncing tests fo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/551066633d83939b1077eef38c3e2d449b230849"><span class="sha1">5510666</span></a></td>
+  <td class="commit-date">2012-09-10</td>
+  <td class="commit-message">Rake assets:precompile shouldn&#39;t fail quietly.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a6e8e464c0d8b77d11fbfcf3d650423b060394c"><span class="sha1">3a6e8e4</span></a></td>
+  <td class="commit-date">2012-09-01</td>
+  <td class="commit-message">Sprockets-rails tests fail</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f4b54a13f35594ff85c9b6cdfd6edbb5f98acf0"><span class="sha1">8f4b54a</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">Refactor to reset_table_name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8cf300c9060f9aa6d8754b80e9dca6c44e6145d1"><span class="sha1">8cf300c</span></a></td>
+  <td class="commit-date">2012-07-26</td>
+  <td class="commit-message">Missed extend for eager_autoload</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb19ca3457c7b9908c71376f9b3b4431fcd24c6f"><span class="sha1">eb19ca3</span></a></td>
+  <td class="commit-date">2012-07-18</td>
+  <td class="commit-message">Common behavior with adding formats to lookup_context fo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ffdca21e4489967abcc709333c4835ee45059337"><span class="sha1">ffdca21</span></a></td>
+  <td class="commit-date">2012-07-05</td>
+  <td class="commit-message">Show in log correct wrapped keys</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8f9e667e46242cf64e50487385aaa6504359df1"><span class="sha1">e8f9e66</span></a></td>
+  <td class="commit-date">2012-06-19</td>
+  <td class="commit-message">Added test for case when view doesn&#39;t have logger method...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4717c2ffc6c2416cfbf5fb560689606eadd3b3c6"><span class="sha1">4717c2f</span></a></td>
+  <td class="commit-date">2012-06-15</td>
+  <td class="commit-message">Added test for case when view doesn&#39;t have logger method...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b1ea3d896a6a1ebefdf3fcd461396ddbf8df230"><span class="sha1">3b1ea3d</span></a></td>
+  <td class="commit-date">2012-06-15</td>
+  <td class="commit-message">ActionController::Metal doesn&#39;t have logger method, chec...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/425608e761ff1b89490397982407b3cb44cd1d7e"><span class="sha1">425608e</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">One-liner code for logger in ActionView::Helpers::Contro...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ccaf982ad8e2b9859d398387e483901f60fedd69"><span class="sha1">ccaf982</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">Metal controller doesn&#39;t have logger method, check it an...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32a433e1c04264b891a4b4793ac0c75f0acaf9df"><span class="sha1">32a433e</span></a></td>
+  <td class="commit-date">2012-05-20</td>
+  <td class="commit-message">Show in log correct wrapped keys</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/346bb018499cde6699fcce6c68dd7e9be45c75e1"><span class="sha1">346bb01</span></a></td>
+  <td class="commit-date">2012-05-06</td>
+  <td class="commit-message">More faster rails dbconsole</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29aa03a46843c3e0461bc4df131d4e8f8d96bc81"><span class="sha1">29aa03a</span></a></td>
+  <td class="commit-date">2012-05-04</td>
+  <td class="commit-message">Added test for assets:precompile for index files</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cf429711b0cf62b83200719c434b8550c66eeb35"><span class="sha1">cf42971</span></a></td>
+  <td class="commit-date">2012-05-04</td>
+  <td class="commit-message">Fix #3993 assets:precompile task does not detect index f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/580e767a8e12ee15ac367e6f89489e4ad6d863cc"><span class="sha1">580e767</span></a></td>
+  <td class="commit-date">2012-05-01</td>
+  <td class="commit-message">Added test for assets:precompile for index files</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df8457748ebbfa092c4c10aedda57aeef2f28776"><span class="sha1">df84577</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Fix #3993 assets:precompile task does not detect index f...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

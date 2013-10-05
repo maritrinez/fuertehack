@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Mark McSpadden to Ruby on Rails" />
+    <meta name="keywords" content="Mark McSpadden,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Mark McSpadden - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Mark McSpadden</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d485d51f8cd6e122a66d754f95918d378a9bb33"><span class="sha1">1d485d5</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">Reorder deep_symbolize_keys methods</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2b5b60fc3c4251536b837937391ebdd028892b15"><span class="sha1">2b5b60f</span></a></td>
+  <td class="commit-date">2012-05-23</td>
+  <td class="commit-message">Add Hash#deep_transform_keys and Hash#deep_transform_key...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ff887321b930197a8d62ddd0fc1dcb965ccda29"><span class="sha1">6ff8873</span></a></td>
+  <td class="commit-date">2012-05-23</td>
+  <td class="commit-message">Add Hash#transform_keys and Hash#transform_keys! and ref...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3e1d08a918011f594a89e34084b5dcc8aafe715"><span class="sha1">b3e1d08</span></a></td>
+  <td class="commit-date">2012-05-17</td>
+  <td class="commit-message">Fix documentation around duplicable regarding Class and ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f06d5842b4c5969c2013d25bea4078563a02b13"><span class="sha1">2f06d58</span></a></td>
+  <td class="commit-date">2012-05-17</td>
+  <td class="commit-message">Remove special cases for duplicable? on Class and Module</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8792c7b2ea4f5fe7a5610225433ea8dd8d0f83e"><span class="sha1">c8792c7</span></a></td>
+  <td class="commit-date">2012-03-21</td>
+  <td class="commit-message">Allow manual rollbacks in after_save to reset object cor...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a93cbbd40c22821336953647e43ae5a8771b7886"><span class="sha1">a93cbbd</span></a></td>
+  <td class="commit-date">2012-02-14</td>
+  <td class="commit-message">Remove double test for header inheritance leaks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0101d27de606db25c244aae2243f337cfbba6ed0"><span class="sha1">0101d27</span></a></td>
+  <td class="commit-date">2012-02-14</td>
+  <td class="commit-message">Allow ActiveResource subclasses to inherit headers from ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/532cd49530bd1acca96c1c615b6b328bce42103a"><span class="sha1">532cd49</span></a></td>
+  <td class="commit-date">2012-01-27</td>
+  <td class="commit-message">Add Inflection test (and fixes) to ensure singularizing ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

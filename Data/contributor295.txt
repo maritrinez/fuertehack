@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Stefan Penner to Ruby on Rails" />
+    <meta name="keywords" content="Stefan Penner,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Stefan Penner - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Stefan Penner</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4bc2cbc3cfa231b3dea0dce38a6fa2723c7ed94d"><span class="sha1">4bc2cbc</span></a></td>
+  <td class="commit-date">2010-03-07</td>
+  <td class="commit-message">Load RAILS_VERSION relative to the gemspec file.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c493370f332715dee0ef795a66e896d7f0471cbe"><span class="sha1">c493370</span></a></td>
+  <td class="commit-date">2010-01-31</td>
+  <td class="commit-message">UJS documentation.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3aa1ea1ae4baa4a03d03644e798eeb98a4745785"><span class="sha1">3aa1ea1</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">Merge branch &#39;rails/master&#39; into ujs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2e338aed706b3ee8fb8d51040be87689597e087b"><span class="sha1">2e338ae</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">updated tests + docs, plus minor inconsistency fixes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/253f335294d8207e050d3994eaabe2c8c1fca8b6"><span class="sha1">253f335</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">tests + docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b8ced53c4031170538c455c3d3fae3c967cc247"><span class="sha1">1b8ced5</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">Added regression tests that discovered the previous issue. </td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/255066b6c7a5877de20e9aef9b58f886c7e66e13"><span class="sha1">255066b</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">first round of documenation for ujs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f97e03fb01c39038f40f4a30fa2fe8e493e4691"><span class="sha1">8f97e03</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">fixed failing tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77fc50a08be40abe7eea715755b5497f0e9b91f5"><span class="sha1">77fc50a</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">fixed failing tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c362a76d00c9d023e23fb15aae638512a09e2948"><span class="sha1">c362a76</span></a></td>
+  <td class="commit-date">2010-01-03</td>
+  <td class="commit-message">Fixed multiparameter attribute assignment bug RE: Ticket...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3dd14adbe351a56fd676003b47ff2f585258d25"><span class="sha1">b3dd14a</span></a></td>
+  <td class="commit-date">2010-01-03</td>
+  <td class="commit-message">Failing test case RE: Ticket 3131</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d531cbc80959dfc35ee1dcbac133d52d63beacc9"><span class="sha1">d531cbc</span></a></td>
+  <td class="commit-date">2010-01-03</td>
+  <td class="commit-message">fixed missing or incorrect session data error message</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

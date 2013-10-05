@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by David Chelimsky to Ruby on Rails" />
+    <meta name="keywords" content="David Chelimsky,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #82 David Chelimsky - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #82 <span class="fn">David Chelimsky</span> - All time<br/>
+    <span class="listing-total">Showing 50 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b16b08ebde636dd530afeeb00ca32f6d49fda819"><span class="sha1">b16b08e</span></a></td>
+  <td class="commit-date">2013-09-11</td>
+  <td class="commit-message">Reduce Duration#inspect to a single series of transforma...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/af3ea544dd670409e80585329b019f598d29cef5"><span class="sha1">af3ea54</span></a></td>
+  <td class="commit-date">2013-08-12</td>
+  <td class="commit-message">Refactor Duration#inspect</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/908c0392796b945efb8c82fde5a4844788446ece"><span class="sha1">908c039</span></a></td>
+  <td class="commit-date">2013-08-12</td>
+  <td class="commit-message">Use chop instead of singularize in Duration#inspect</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcce01132de9734c9f7a6973bfff1b16b07ef84a"><span class="sha1">dcce011</span></a></td>
+  <td class="commit-date">2012-05-20</td>
+  <td class="commit-message">Raise Assertion instead of RoutingError for routing asse...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7fd726d62e8483c5bdb39c7f5b9d267e6b7fbaa6"><span class="sha1">7fd726d</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Paramify param values in controller tests.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7af1e0051c5fae0a851a9c7f84892573639e5c5"><span class="sha1">a7af1e0</span></a></td>
+  <td class="commit-date">2011-06-25</td>
+  <td class="commit-message">Get the fixture_path from self.class instead of ActiveSu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f0c71c8524856c32bc056bdb38136b3d18f2aaf"><span class="sha1">3f0c71c</span></a></td>
+  <td class="commit-date">2011-05-22</td>
+  <td class="commit-message">use to_param (and change method to name accordingly)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9277e72a3ca1009f135b1eb194ff6f3c96a55c1b"><span class="sha1">9277e72</span></a></td>
+  <td class="commit-date">2011-05-22</td>
+  <td class="commit-message">Stringify param values in controller tests.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/13950a8cc94ab93bb20976f2797b1df9740849b3"><span class="sha1">13950a8</span></a></td>
+  <td class="commit-date">2011-05-17</td>
+  <td class="commit-message">add more robust test for wrapping params with anonymous ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14d5e3e45901f104adce36a762a8e543a694d3ef"><span class="sha1">14d5e3e</span></a></td>
+  <td class="commit-date">2011-05-17</td>
+  <td class="commit-message">better test name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29e8ca3698f470432e0a776be7d0b1d5c4e16389"><span class="sha1">29e8ca3</span></a></td>
+  <td class="commit-date">2011-05-17</td>
+  <td class="commit-message">add failing test for https://github.com/rails/rails/issu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d00dfca7f6ea528ed5344b6cc1058c9f0402361"><span class="sha1">8d00dfc</span></a></td>
+  <td class="commit-date">2011-04-25</td>
+  <td class="commit-message">rename test case to better describe use case</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/220782e4f0ace529f4a48ff207d286f804a2ed75"><span class="sha1">220782e</span></a></td>
+  <td class="commit-date">2011-04-23</td>
+  <td class="commit-message">rename test case to better describe use case</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a26d407f6380493b39ad84e7f1b29899ead6a1f2"><span class="sha1">a26d407</span></a></td>
+  <td class="commit-date">2011-04-13</td>
+  <td class="commit-message">ActionView::PathSet# accepts String or Array</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fb4dc1a51217f24dd31714fbe1647c1d34ae1441"><span class="sha1">fb4dc1a</span></a></td>
+  <td class="commit-date">2010-11-15</td>
+  <td class="commit-message">only abort in test_help in production env</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1c13b0dd7b22b5f6289ca1a09f1d7a8c7c8584b"><span class="sha1">f1c13b0</span></a></td>
+  <td class="commit-date">2010-11-09</td>
+  <td class="commit-message">use persisted? instead of new_record? wherever possible</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f06652a57e727700c3a673dc1f86e3b1e07ce1f"><span class="sha1">1f06652</span></a></td>
+  <td class="commit-date">2010-11-09</td>
+  <td class="commit-message">use persisted? instead of new_record? wherever possible</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86571a1f4372ce51df08c8dabb22f3d3ec0e08a3"><span class="sha1">86571a1</span></a></td>
+  <td class="commit-date">2010-10-04</td>
+  <td class="commit-message">Add view_assigns and deprecate _assigns for AV::TC on 3-...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f656796d05715174568536cfe119a3959a020f23"><span class="sha1">f656796</span></a></td>
+  <td class="commit-date">2010-10-03</td>
+  <td class="commit-message">Rename _assigns to view_assigns in AV::TC</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2380c71601e12bcedc849e99d7a4f4ef6151baf2"><span class="sha1">2380c71</span></a></td>
+  <td class="commit-date">2010-10-03</td>
+  <td class="commit-message">Added test case to specify that _assigns returns a Hash ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/672ce11d684e1211836ca22cf5b0ca6f626f1719"><span class="sha1">672ce11</span></a></td>
+  <td class="commit-date">2010-09-24</td>
+  <td class="commit-message">only abort in test_help in production env</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32b8be95331928990a61a43023a343a0583b53c7"><span class="sha1">32b8be9</span></a></td>
+  <td class="commit-date">2010-06-23</td>
+  <td class="commit-message">Expose view via the view() method in AV::TestCase::Behavior</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e0df4b0c5df7fdd1daa5653c255c4737f5526fc"><span class="sha1">0e0df4b</span></a></td>
+  <td class="commit-date">2010-06-23</td>
+  <td class="commit-message">In ActionView::TestCase::Behavior, assign variables righ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f29fb0dd9ef3e563f9813ee09e7a9b826f70e3f2"><span class="sha1">f29fb0d</span></a></td>
+  <td class="commit-date">2010-06-22</td>
+  <td class="commit-message">update the list of instance variables that are excluded ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0576ec4ddd5f806c6ae98184d28391fc239db1ef"><span class="sha1">0576ec4</span></a></td>
+  <td class="commit-date">2010-06-22</td>
+  <td class="commit-message">Add support for specifying locals in view tests with ass...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86002a0dfe45c972a2498e33a6a2a882804603bd"><span class="sha1">86002a0</span></a></td>
+  <td class="commit-date">2010-06-19</td>
+  <td class="commit-message">Support render_template in view tests. Useful for specif...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c125116013d4b4222f507cfbd1da5ae90bd225d9"><span class="sha1">c125116</span></a></td>
+  <td class="commit-date">2010-06-13</td>
+  <td class="commit-message">docfix (email instead of emai)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d588bbd4311fc2060167bbaa021209a91641ba11"><span class="sha1">d588bbd</span></a></td>
+  <td class="commit-date">2010-06-12</td>
+  <td class="commit-message">Move ActionMailer::TC to AV::TC::Behavior</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bdcf70cca89df906a3510464ef46a44646fd29a3"><span class="sha1">bdcf70c</span></a></td>
+  <td class="commit-date">2010-06-08</td>
+  <td class="commit-message">Memoize the object returned by _view in ActionView::Test...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6fec21d1affe069686d681964d208a4b0df7182"><span class="sha1">d6fec21</span></a></td>
+  <td class="commit-date">2010-06-03</td>
+  <td class="commit-message">In AV::TC, move protect_against_forgery? from the test_c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/70dca37cfd04bd029f9684eb41d6c8658200ff78"><span class="sha1">70dca37</span></a></td>
+  <td class="commit-date">2010-06-03</td>
+  <td class="commit-message">reorganize tests for AV::TC</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e09e0a073bf7923c22dc0f87de1c284daff78cae"><span class="sha1">e09e0a0</span></a></td>
+  <td class="commit-date">2010-06-03</td>
+  <td class="commit-message">fix small doc bug about running single unit test files</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e02db06ece7aeecec7c37f5b0e3de7d65c8684e6"><span class="sha1">e02db06</span></a></td>
+  <td class="commit-date">2010-05-26</td>
+  <td class="commit-message">In AV::TC, move protect_against_forgery? from the test_c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ae7e93920999511447179f7c44e4654ebfda476"><span class="sha1">9ae7e93</span></a></td>
+  <td class="commit-date">2010-05-26</td>
+  <td class="commit-message">reorganize tests for AV::TC</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/163152bfd0ea5344472d24b6f89e8c957dbd66f5"><span class="sha1">163152b</span></a></td>
+  <td class="commit-date">2010-05-26</td>
+  <td class="commit-message">Support configuration of controller.controller_path on i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0855e0404424483e097b2396dc2e54d8f17e74d0"><span class="sha1">0855e04</span></a></td>
+  <td class="commit-date">2010-05-25</td>
+  <td class="commit-message">fix small doc bug about running single unit test files</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e583b69e8b3017e85440c97b325ca7ae0c32dfb"><span class="sha1">8e583b6</span></a></td>
+  <td class="commit-date">2010-05-24</td>
+  <td class="commit-message">Move AV::TC to AV::TC::Behavior [#4678 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/35a114a8941cb22d29a536f1215a23a8cf7c4756"><span class="sha1">35a114a</span></a></td>
+  <td class="commit-date">2010-05-15</td>
+  <td class="commit-message">Modified default_scope to merge with any pre-existing de...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3dcbedc67f49ef64f33570f3e24ac00a47c0181"><span class="sha1">b3dcbed</span></a></td>
+  <td class="commit-date">2010-05-03</td>
+  <td class="commit-message">move assert_template tests to their own test case [#4501...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/849ab9294244ac94f9ce4621c8cd325a2992a382"><span class="sha1">849ab92</span></a></td>
+  <td class="commit-date">2010-05-03</td>
+  <td class="commit-message">Eliminate false positives when passing symbols to assert...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8672a97e11b1a3697b0147b83fd1f812395997a1"><span class="sha1">8672a97</span></a></td>
+  <td class="commit-date">2010-05-02</td>
+  <td class="commit-message">add NullResolver</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3044967ed48e27104e8c97719c798ee2f416846"><span class="sha1">a304496</span></a></td>
+  <td class="commit-date">2010-05-02</td>
+  <td class="commit-message">add tests for FixtureResolver</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/91125f9927ffbe1a16494910ae0e8228a4400439"><span class="sha1">91125f9</span></a></td>
+  <td class="commit-date">2010-05-02</td>
+  <td class="commit-message">move FixtureResolver to a file that is accessible outsid...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/176fbfd66fe500ddfd04ffeb08ed014e705a82f9"><span class="sha1">176fbfd</span></a></td>
+  <td class="commit-date">2010-04-26</td>
+  <td class="commit-message">extract ActionController::TestCase::Behavior</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/864bd9c21fdc8ce265c48fdfa2d4d7917032e717"><span class="sha1">864bd9c</span></a></td>
+  <td class="commit-date">2010-04-25</td>
+  <td class="commit-message">allow unsubscribe by name or subscription [#4433 state:r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4327ad51abfddde822766702d154df11bd5b47a3"><span class="sha1">4327ad5</span></a></td>
+  <td class="commit-date">2010-04-17</td>
+  <td class="commit-message">access assigns as a method or hash, with strings or symb...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6684eeb786663839cf383ea54b681d429a83177"><span class="sha1">a6684ee</span></a></td>
+  <td class="commit-date">2010-02-22</td>
+  <td class="commit-message">don&#39;t set @expected.date in generated mailer test</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/557e19346ad144deecd7d76a8a4e4cec22a6597e"><span class="sha1">557e193</span></a></td>
+  <td class="commit-date">2007-06-27</td>
+  <td class="commit-message">Prefix nested resource named routes with their action na...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42ebf559cc6ed80fa3bf55ecc1dea7c9e593f45e"><span class="sha1">42ebf55</span></a></td>
+  <td class="commit-date">2007-05-26</td>
+  <td class="commit-message">Add support for assert_select_rjs with :show and :hide. ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc4d23f2d736a81be36edb0abf42774634741bf3"><span class="sha1">dc4d23f</span></a></td>
+  <td class="commit-date">2007-05-26</td>
+  <td class="commit-message">Make assert_select&#39;s failure messages clearer about what...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

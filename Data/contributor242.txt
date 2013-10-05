@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Chris McGrath to Ruby on Rails" />
+    <meta name="keywords" content="Chris McGrath,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #242 Chris McGrath - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #242 <span class="fn">Chris McGrath</span> - All time<br/>
+    <span class="listing-total">Showing 14 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60289ab659a12d1297b9f94e12cd1a9b06fd8652"><span class="sha1">60289ab</span></a></td>
+  <td class="commit-date">2013-01-17</td>
+  <td class="commit-message">Don&#39;t change the original i18n data</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6bb784eab0d286d1966c12e1bacc793113d6fbae"><span class="sha1">6bb784e</span></a></td>
+  <td class="commit-date">2013-01-17</td>
+  <td class="commit-message">Remove i18n symbol dependency</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0fd9743ae1e20a7c28409ce1cdfa02dc965733e6"><span class="sha1">0fd9743</span></a></td>
+  <td class="commit-date">2007-05-02</td>
+  <td class="commit-message">apply [6648] to 1.2 stable</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a3bb880db43f7bfba3a2838841baaff3d9050af"><span class="sha1">5a3bb88</span></a></td>
+  <td class="commit-date">2007-05-02</td>
+  <td class="commit-message">Update UrlWriter to accept :anchor parameter. Closes #6771.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c0e7b1b51cb775e55a4b10a9872f74cecacd6a7"><span class="sha1">3c0e7b1</span></a></td>
+  <td class="commit-date">2006-09-12</td>
+  <td class="commit-message">Fix script/console --sandbox for internal transactions c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/891a962a192bdd7eb0402b41e11a5e5657fe961c"><span class="sha1">891a962</span></a></td>
+  <td class="commit-date">2006-03-19</td>
+  <td class="commit-message">Added nicer message for assert_redirected_to (closes #42...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a519401176126cd808aa5e3562a21f34a64de65"><span class="sha1">6a51940</span></a></td>
+  <td class="commit-date">2005-09-20</td>
+  <td class="commit-message">Fixed memory leak with Active Record classes when Depend...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c0129af6d045654284f60db26124b9324d2fa94"><span class="sha1">3c0129a</span></a></td>
+  <td class="commit-date">2005-09-20</td>
+  <td class="commit-message">Fixed memory leak with Active Record classes when Depend...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/703ac4c5ac68f68b48debd1bfc352cd687b2df30"><span class="sha1">703ac4c</span></a></td>
+  <td class="commit-date">2005-07-07</td>
+  <td class="commit-message">Added more efficient implementation of the development m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9d22c7596118051ba8908c163c797b90cca7aa3"><span class="sha1">d9d22c7</span></a></td>
+  <td class="commit-date">2005-07-03</td>
+  <td class="commit-message">Fixed that single-table inheritance sub-classes couldn&#39;t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e1d002673777bb1240e27949a853a8f287d1f56"><span class="sha1">7e1d002</span></a></td>
+  <td class="commit-date">2005-06-30</td>
+  <td class="commit-message">Fixed memory leak with Object#remove_subclasses_of, whic...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cef57e0cc244062663ad5fc5652072a12f06aaf2"><span class="sha1">cef57e0</span></a></td>
+  <td class="commit-date">2005-03-26</td>
+  <td class="commit-message">Added documentation on models in sessions #929 [c.r.mcgr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/838ae35d63c34872d46bee8b006796ebdd9c7722"><span class="sha1">838ae35</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added validates_numericality_of #716 [skanthak/c.r.mcgrath]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/59c2a4d51194058153b741b8682b1dd1b5e93939"><span class="sha1">59c2a4d</span></a></td>
+  <td class="commit-date">2005-01-10</td>
+  <td class="commit-message">Fixed script/console to work with Windows (that requires...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Tim Pope to Ruby on Rails" />
+    <meta name="keywords" content="Tim Pope,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #136 Tim Pope - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #136 <span class="fn">Tim Pope</span> - All time<br/>
+    <span class="listing-total">Showing 27 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e315b0e0a551fcb09e73b2b704492923d4806f3"><span class="sha1">8e315b0</span></a></td>
+  <td class="commit-date">2012-04-03</td>
+  <td class="commit-message">DATABASE_URL allows omission of database.yml</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a49944844fad2edf10ba833937c05f9d9c61d132"><span class="sha1">a499448</span></a></td>
+  <td class="commit-date">2012-04-03</td>
+  <td class="commit-message">DATABASE_URL allows omission of database.yml</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6349791d5aaf652631b29f1371701fc2985fda83"><span class="sha1">6349791</span></a></td>
+  <td class="commit-date">2012-03-24</td>
+  <td class="commit-message">Return an actual boolean from xml_http_request?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e89ba63b885b4b8e65d0516b568c0057a3847b7c"><span class="sha1">e89ba63</span></a></td>
+  <td class="commit-date">2011-02-03</td>
+  <td class="commit-message">Drop remaining script/plugin sources references</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9b9b2937ce3bef3bca9d22821e76c40cc74fa689"><span class="sha1">9b9b293</span></a></td>
+  <td class="commit-date">2009-03-10</td>
+  <td class="commit-message">Properly decode \u escape sequences in JSON [#1100 state...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e6c50e21bdb8c99116a7dc6921ef3eb4ed9531a"><span class="sha1">1e6c50e</span></a></td>
+  <td class="commit-date">2009-03-09</td>
+  <td class="commit-message">Ensure has_many :through works with changed primary keys...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c086070824bf7dd2bc4c9ce97956d82ac3fa206"><span class="sha1">5c08607</span></a></td>
+  <td class="commit-date">2008-07-14</td>
+  <td class="commit-message">Make script/plugin install &lt;plugin&gt; -r &lt;revision&gt; option...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a95ee73cfbcfeada3b053c5b0fb7b5125ef12c7"><span class="sha1">3a95ee7</span></a></td>
+  <td class="commit-date">2008-07-02</td>
+  <td class="commit-message">Make rake test:uncommitted work with Git.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a0d8adcf25e27f7976a1d0996be05f21ffc3805"><span class="sha1">3a0d8ad</span></a></td>
+  <td class="commit-date">2008-05-13</td>
+  <td class="commit-message">Fix tests broken by mocha absence [#186 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d5ea1857fc0be912b89c4c5032733163da5b31b"><span class="sha1">1d5ea18</span></a></td>
+  <td class="commit-date">2008-02-16</td>
+  <td class="commit-message">Sort files to test to make load order platform independe...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/569a78cbe018741abcff549b6a35ed688ece2d68"><span class="sha1">569a78c</span></a></td>
+  <td class="commit-date">2008-02-07</td>
+  <td class="commit-message">Apply [8810], [8811], [8812], and [8813] to 2.0 stable</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a9fc4424ff7402326bf17c8bfd89bf6cbc42c8c"><span class="sha1">4a9fc44</span></a></td>
+  <td class="commit-date">2008-02-07</td>
+  <td class="commit-message">Remove ERB trim variables from trace template in case Ac...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9661395d38d18d89b268d729606c7c9180e622e6"><span class="sha1">9661395</span></a></td>
+  <td class="commit-date">2007-12-13</td>
+  <td class="commit-message">Remove references to nonexistent :joins documentation. C...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92f02adf407d6884ffea789b39f78f44b7fd3722"><span class="sha1">92f02ad</span></a></td>
+  <td class="commit-date">2007-12-02</td>
+  <td class="commit-message">Don&#39;t escape forward slashes with String#to_json, our un...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7c5da6260918d770f9d7abd311337ff1cb09d60"><span class="sha1">e7c5da6</span></a></td>
+  <td class="commit-date">2007-12-02</td>
+  <td class="commit-message">Handle 8.1 default formatting. Closes #10333 [Tim Pope]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee1ad762a4eff7bd1c04abe2290311a4b93f5459"><span class="sha1">ee1ad76</span></a></td>
+  <td class="commit-date">2007-11-04</td>
+  <td class="commit-message">Added --skip-timestamps to generators that produce model...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ba23348de4c7765b67e3715d2ab84c998bb1cea"><span class="sha1">3ba2334</span></a></td>
+  <td class="commit-date">2007-10-29</td>
+  <td class="commit-message">Excise generated whitespace. Closes #10017 [Tim Pope]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c708346688ee3cdd5583795ccd9b10590abd36b1"><span class="sha1">c708346</span></a></td>
+  <td class="commit-date">2007-10-29</td>
+  <td class="commit-message">Change JSON to encode %w(&lt; &gt; &amp;) as 4 digit hex codes to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a9f43ecbb99f470cc8720c09a1c9480abdc845e"><span class="sha1">8a9f43e</span></a></td>
+  <td class="commit-date">2007-09-06</td>
+  <td class="commit-message">Fix activesupport atomic_write tests when Dir.tmpdir is ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83ce4c59be3d5f1f1246b46f53370f5f65fd0dc5"><span class="sha1">83ce4c5</span></a></td>
+  <td class="commit-date">2007-06-01</td>
+  <td class="commit-message">Remove RAILS_ROOT from backtrace paths. Closes #8540.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2ad603f52cd2414a104ab75b6d475d6cdd5ca7c"><span class="sha1">e2ad603</span></a></td>
+  <td class="commit-date">2007-05-27</td>
+  <td class="commit-message">Normalize whitespace. Closes #8385 [Time Pope]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/74d1512b99e17c25de5ed42eb844374969847619"><span class="sha1">74d1512</span></a></td>
+  <td class="commit-date">2007-05-24</td>
+  <td class="commit-message">Added option to suppress :size when using :maxlength for...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7befb896e72e6087d2d413990d319c990154c7e"><span class="sha1">c7befb8</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Generators use *.html.erb view template naming. Closes #...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/178880ef7c4953470453c258abccf99b98c92bb9"><span class="sha1">178880e</span></a></td>
+  <td class="commit-date">2007-04-21</td>
+  <td class="commit-message">Use XSD-compatible type names for Hash#to_xml and make t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb7a3045e3035d7de35a43297a4f36255e4f178d"><span class="sha1">eb7a304</span></a></td>
+  <td class="commit-date">2007-04-20</td>
+  <td class="commit-message">apply [6543] to edge. Closes #5044 [tpope]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e522f75cbc31940698aae53459a777e5e6952f2c"><span class="sha1">e522f75</span></a></td>
+  <td class="commit-date">2007-04-20</td>
+  <td class="commit-message">Return the string representation from an Xml Builder whe...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d5b913fcf73b352f5a426c862dbeb483d67a9a3"><span class="sha1">4d5b913</span></a></td>
+  <td class="commit-date">2006-11-05</td>
+  <td class="commit-message">pluralize helper interprets nil as zero. Closes #6474.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

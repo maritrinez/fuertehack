@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Yaroslav Markin to Ruby on Rails" />
+    <meta name="keywords" content="Yaroslav Markin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #193 Yaroslav Markin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #193 <span class="fn">Yaroslav Markin</span> - All time<br/>
+    <span class="listing-total">Showing 18 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a84e9b4f31ac39b0e466f8f0efc507a52dbb02c0"><span class="sha1">a84e9b4</span></a></td>
+  <td class="commit-date">2010-04-10</td>
+  <td class="commit-message">Fix Array#to_xml to produce valid markup when working wi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17db28f1ca0597fa1e9abdcacd934ca27d589fb9"><span class="sha1">17db28f</span></a></td>
+  <td class="commit-date">2009-01-27</td>
+  <td class="commit-message">Improve i18n support for number_to_human_size helper:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a858f87425cb3ae5815d0356605ef74a4ae174b"><span class="sha1">1a858f8</span></a></td>
+  <td class="commit-date">2009-01-01</td>
+  <td class="commit-message">Update flash[] docs a bit.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b92b141fd0759476690a174d5e2f8f0f2d9f1b7"><span class="sha1">3b92b14</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Fix &#39;i18n&#39; require broken by 0.0.1 -&gt; 0.1.1 commit [#165...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1648df79b78d07c7713a75313b53db61a14a77bc"><span class="sha1">1648df7</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Update i18n gem to version 0.1.1 (Rails&#39; changes were ba...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66ee5890c5f21995b7fe0c486547f1287afe2b55"><span class="sha1">66ee589</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Introduce dynamic scopes for ActiveRecord: you can now u...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fdaa9ed0336634c33b5a529dfe4f5ed506a1fc5e"><span class="sha1">fdaa9ed</span></a></td>
+  <td class="commit-date">2008-12-27</td>
+  <td class="commit-message">Fix ActionPack build on Windows: we really should not te...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28347d889bb4304e681bf885fea734067fdd8ff6"><span class="sha1">28347d8</span></a></td>
+  <td class="commit-date">2008-12-27</td>
+  <td class="commit-message">Refactor ActiveRecord::Base#new_record? [#1647 state:com...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e98adfc8e19a39fa45d4acd94145d318d151964"><span class="sha1">6e98adf</span></a></td>
+  <td class="commit-date">2008-12-27</td>
+  <td class="commit-message">ActiveRecord::Base#new_record? now returns false for exi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa0502494ea4be27f6e1b03ba66b856add231f81"><span class="sha1">fa05024</span></a></td>
+  <td class="commit-date">2008-12-27</td>
+  <td class="commit-message">It is better to have this commented out to let locale-ch...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/276ea48de96a0c4242139ec9323eefb6f254c2a1"><span class="sha1">276ea48</span></a></td>
+  <td class="commit-date">2008-12-21</td>
+  <td class="commit-message">Remove dead commented out code [#1467 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/010cce6ad1d134786eaa3f814319ebbe2e63123b"><span class="sha1">010cce6</span></a></td>
+  <td class="commit-date">2008-11-25</td>
+  <td class="commit-message">Fix an example of using Inflector&#39;s #parameterize.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5b5730cc6e9194fb5f67fe79d2c7849e200ba6ed"><span class="sha1">5b5730c</span></a></td>
+  <td class="commit-date">2008-11-24</td>
+  <td class="commit-message">Don&#39;t generate public/dispatch.cgi/fcgi/rb files by defa...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c98bcfa55c8e61a0a956ebd2cc15b9e5216aa685"><span class="sha1">c98bcfa</span></a></td>
+  <td class="commit-date">2008-11-24</td>
+  <td class="commit-message">I18n guide: changed to reflect new i18n locale naming, a...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/68d2130a6b0e2bcc5e9a0d265bcae75fdcd18bb3"><span class="sha1">68d2130</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Add i18n for number_to_human_size() helper storage units...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d36158794b19ee8ea49d74061218b37d4301f0f9"><span class="sha1">d361587</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Add i18n for number_to_human_size() helper storage units...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/867fc613b0ebfea3a4fc53efc64f9f849ec3609e"><span class="sha1">867fc61</span></a></td>
+  <td class="commit-date">2008-09-12</td>
+  <td class="commit-message">Improve ActiveRecord I18n translations documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d912bd5672316454457ae83f6e9dda5197beeb6f"><span class="sha1">d912bd5</span></a></td>
+  <td class="commit-date">2008-05-07</td>
+  <td class="commit-message">Add a filter_parameter_logging usage hint to generated A...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

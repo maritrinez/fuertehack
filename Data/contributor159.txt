@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jan De Poorter to Ruby on Rails" />
+    <meta name="keywords" content="Jan De Poorter,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #155 Jan De Poorter - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #155 <span class="fn">Jan De Poorter</span> - All time<br/>
+    <span class="listing-total">Showing 23 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96f5e59a26329aa972b8061a818410b0b378f306"><span class="sha1">96f5e59</span></a></td>
+  <td class="commit-date">2010-06-19</td>
+  <td class="commit-message">Make sure a namespaced &lt;%= render form %&gt; still renders ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4560385fa4fa6925aa220bbaf6b2608c2bbd7039"><span class="sha1">4560385</span></a></td>
+  <td class="commit-date">2010-06-08</td>
+  <td class="commit-message">Make sure namespaces are nested within resources</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72074aac334a846fbb53e7cb12c0254c15004c26"><span class="sha1">72074aa</span></a></td>
+  <td class="commit-date">2010-03-29</td>
+  <td class="commit-message">Add _index to named collection routes for uncountable re...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dfc7ff64298e1a0656639a630cc0ddbf93c1eeb9"><span class="sha1">dfc7ff6</span></a></td>
+  <td class="commit-date">2010-03-07</td>
+  <td class="commit-message">Make sure nested singular resources get the correct name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/277c799d58be4b3e0e885d7b3fd6d954facc111b"><span class="sha1">277c799</span></a></td>
+  <td class="commit-date">2009-03-09</td>
+  <td class="commit-message">Fix find_by_last when order is given [#2127 state:commit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/050e58441bf7e60d167f6708072f8fa7aee2ce76"><span class="sha1">050e584</span></a></td>
+  <td class="commit-date">2008-09-22</td>
+  <td class="commit-message">Association#first and last should not load the associati...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db116a2ed688d36570f412a42e9fc33dcbca56c7"><span class="sha1">db116a2</span></a></td>
+  <td class="commit-date">2008-08-29</td>
+  <td class="commit-message">Fix NamedScope regex so methods containing &quot;an&quot; get dele...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2752cebb8b707989c13e45be7d62b77196c42b91"><span class="sha1">2752ceb</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Fix that label_tag doesn&#39;t take a symbol for a name. [#7...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7aaf1689dda863b72623f0e52ad87e2b739cb22b"><span class="sha1">7aaf168</span></a></td>
+  <td class="commit-date">2008-07-29</td>
+  <td class="commit-message">Fix that label_tag doesn&#39;t take a symbol for a name. [#7...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93e10f9911fb2a096681ee0a0bc82487a9a06c44"><span class="sha1">93e10f9</span></a></td>
+  <td class="commit-date">2008-07-23</td>
+  <td class="commit-message">Ensure NamedScope#any? uses COUNT query wherever possibl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be099c07ab0411c6295458960f5f2d4d6a4dc8ac"><span class="sha1">be099c0</span></a></td>
+  <td class="commit-date">2008-06-27</td>
+  <td class="commit-message">Make sure associated has_many/habtm objects get saved ev...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2b761166d28c1aba9165da76fba28027171fd2d"><span class="sha1">b2b7611</span></a></td>
+  <td class="commit-date">2008-06-27</td>
+  <td class="commit-message">Make sure associated has_many/habtm objects get saved ev...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c83a1839464a77cb774fc4a04cefa53b36248041"><span class="sha1">c83a183</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Added some has_many tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25a432763721167a3606085841d5517a8cc16991"><span class="sha1">25a4327</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Fix FormOptionsHelper tests.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23223ce415da13a09287325d114ce2d2e3923edf"><span class="sha1">23223ce</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Add :validate option to associations. [#301 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0b3685a0e221b54fdf3c27326564950a419d823"><span class="sha1">d0b3685</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Added some has_many tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca9641f8a7ca1142d0ea99405a079c8699bd443c"><span class="sha1">ca9641f</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Fix FormOptionsHelper tests.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f140bbddaf70abc61570f6cfdcbfba5771ffc78"><span class="sha1">7f140bb</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Add :validate option to associations. [#301 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abb1bd2efa43b8efbb3faf4ccfb9246704a9044c"><span class="sha1">abb1bd2</span></a></td>
+  <td class="commit-date">2008-05-29</td>
+  <td class="commit-message">Ensure AssociationCollection#count works with empty cond...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca9413674ea70dc67ab517734af2e40dac21beef"><span class="sha1">ca94136</span></a></td>
+  <td class="commit-date">2008-03-26</td>
+  <td class="commit-message">Improve documentation.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8cc28daad61dca238e00c92221492dca82e69dc6"><span class="sha1">8cc28da</span></a></td>
+  <td class="commit-date">2008-03-11</td>
+  <td class="commit-message">Add warning in documentation for increment!, decrement! ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c71de0330657509d98be901bed9c1e442bbde30d"><span class="sha1">c71de03</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">2-0-stable: Add label_tag helper for generating elements...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7701e6466dd5f6ca1b3eb1bfaf73f1d0723bb324"><span class="sha1">7701e64</span></a></td>
+  <td class="commit-date">2008-01-21</td>
+  <td class="commit-message">Add label_tag helper for generating elements. Closes #10...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

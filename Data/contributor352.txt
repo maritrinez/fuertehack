@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Adam Meehan to Ruby on Rails" />
+    <meta name="keywords" content="Adam Meehan,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Adam Meehan - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Adam Meehan</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/acf583a5e00be0fb684f73ad51cdad0237c981b2"><span class="sha1">acf583a</span></a></td>
+  <td class="commit-date">2012-09-05</td>
+  <td class="commit-message">Update changelog with time column type casting fix</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce7cdb90728d2883e6eee100f3c6a845d3569d63"><span class="sha1">ce7cdb9</span></a></td>
+  <td class="commit-date">2012-09-05</td>
+  <td class="commit-message">Fix for time type columns with invalid time</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0823bbd757f3654a08d300e27873758da606f06a"><span class="sha1">0823bbd</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Fix before_type_cast for timezone aware attributes by ca...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c5908a86492271ca55a6f54ccfd62b521cdc47c9"><span class="sha1">c5908a8</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Fix before_type_cast for timezone aware attributes by ca...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c109e243f13a632637236786535a3a0f344115a"><span class="sha1">5c109e2</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">typo in AM</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a43640ed1de6f65f152df2b0ab61f5bc740d805"><span class="sha1">9a43640</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">typo in AM</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8fbb5177a7a3618d7b40bccbb3b36876a10a8918"><span class="sha1">8fbb517</span></a></td>
+  <td class="commit-date">2010-06-29</td>
+  <td class="commit-message">accepts_nested_attributes_for typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4e56cc2f9917073c8774c28703cb6e3b7cbba848"><span class="sha1">4e56cc2</span></a></td>
+  <td class="commit-date">2009-05-25</td>
+  <td class="commit-message">typo in AS</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f25ffdb3d8160127c07836fa566d1e2e5a52792"><span class="sha1">9f25ffd</span></a></td>
+  <td class="commit-date">2008-06-25</td>
+  <td class="commit-message">example output of content_tag block form was incorrectly...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

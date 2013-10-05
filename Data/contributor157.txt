@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Courtenay Gasking to Ruby on Rails" />
+    <meta name="keywords" content="Courtenay Gasking,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #155 Courtenay Gasking - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #155 <span class="fn">Courtenay Gasking</span> - All time<br/>
+    <span class="listing-total">Showing 23 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18049864cbe4bbdfd7eb0e96238877bfe74d79fd"><span class="sha1">1804986</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">Inspect options hashes in RenderError message so it&#39;s ac...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c0656c9ee9ecc7ffeebea69dc0cd371d978b254"><span class="sha1">5c0656c</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">Fix layouts in symlinked paths. Closes #9136 [court3nay,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b78a2a245cb69e958e3d62d4c0e6fcab2eb3e76"><span class="sha1">4b78a2a</span></a></td>
+  <td class="commit-date">2007-03-27</td>
+  <td class="commit-message">Add helpful debugging info to the ActiveRecord::Statemen...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/891a962a192bdd7eb0402b41e11a5e5657fe961c"><span class="sha1">891a962</span></a></td>
+  <td class="commit-date">2006-03-19</td>
+  <td class="commit-message">Added nicer message for assert_redirected_to (closes #42...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df97ed5e4c986be875248ec1b27d7acfc200ae9c"><span class="sha1">df97ed5</span></a></td>
+  <td class="commit-date">2006-03-18</td>
+  <td class="commit-message">Nicer error message on has_many :through when :through r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0293c80f0ad06de4b80f50cd47868ff50aa7590"><span class="sha1">a0293c8</span></a></td>
+  <td class="commit-date">2005-11-21</td>
+  <td class="commit-message">Improve expire_fragment documentation.  Closes #2966.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/af0ad4d50b9a498fd980ff7c4ee18cd5e1d174ae"><span class="sha1">af0ad4d</span></a></td>
+  <td class="commit-date">2005-11-13</td>
+  <td class="commit-message"> r3053@asus:  jeremy | 2005-11-13 14:37:39 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44ca6f4b6203455703d00d82e1c5952c6d7402e7"><span class="sha1">44ca6f4</span></a></td>
+  <td class="commit-date">2005-11-13</td>
+  <td class="commit-message">Only include builtin filters whose filenames match /^[a-...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0886bb391d97ec96d3028d5cac93ce2f7f8467e6"><span class="sha1">0886bb3</span></a></td>
+  <td class="commit-date">2005-10-10</td>
+  <td class="commit-message">Fixed that an instance variable with the same name as a ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9852197f83e19939951e700b51f806477ada2769"><span class="sha1">9852197</span></a></td>
+  <td class="commit-date">2005-09-26</td>
+  <td class="commit-message"> r3573@asus:  jeremy | 2005-09-26 11:38:44 -0700</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73594d88f3c396596179bf680f363fd0b2543238"><span class="sha1">73594d8</span></a></td>
+  <td class="commit-date">2005-08-14</td>
+  <td class="commit-message"> Fix typo in validations documentation #1938 [court3nay]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7073abe15906d5b4bbd7cd455136fbd2c52a8a49"><span class="sha1">7073abe</span></a></td>
+  <td class="commit-date">2005-07-14</td>
+  <td class="commit-message">Fixed bug with :success/:failure callbacks for the JavaS...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14e7c7c21dcffd8f4388883eb241e0cc0ad23bbc"><span class="sha1">14e7c7c</span></a></td>
+  <td class="commit-date">2005-07-10</td>
+  <td class="commit-message">Better documentation for Calling multiple redirects or r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0fe8e3d6c28f64cf1e35bd129595cd79a7c77091"><span class="sha1">0fe8e3d</span></a></td>
+  <td class="commit-date">2005-07-09</td>
+  <td class="commit-message">Added a config example in README #1626 [courtenay]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14762fd229dfdde98bef224f198ff1ade7336b5b"><span class="sha1">14762fd</span></a></td>
+  <td class="commit-date">2005-07-09</td>
+  <td class="commit-message">better error message for missing associations #1631 [cou...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47a3bafe26fb5f773ac082162c3e595ce80d9ad7"><span class="sha1">47a3baf</span></a></td>
+  <td class="commit-date">2005-07-09</td>
+  <td class="commit-message">Added a VERSION parameter to the migrate task that allow...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4bed0ab99d6f3ec49d41a6c862871e568a9225a8"><span class="sha1">4bed0ab</span></a></td>
+  <td class="commit-date">2005-07-09</td>
+  <td class="commit-message"> r2960@asus:  jeremy | 2005-07-09 02:12:35 -0700</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17041729c20f4735b9d174c9d2de24dad79db742"><span class="sha1">1704172</span></a></td>
+  <td class="commit-date">2005-07-08</td>
+  <td class="commit-message"> r2951@asus:  jeremy | 2005-07-08 18:09:30 -0700</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c8ebe468477e75e4808ffc9fa5aa28112aa9ec6"><span class="sha1">2c8ebe4</span></a></td>
+  <td class="commit-date">2005-07-08</td>
+  <td class="commit-message">Added better error message for &quot;packets out of order&quot; #1...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/31702951365c26f930a5f39698cb51309e111e98"><span class="sha1">3170295</span></a></td>
+  <td class="commit-date">2005-07-06</td>
+  <td class="commit-message">Added warning about setting the test database to the sam...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f61c431fa3beecb532c0c58c83e47f9759e64a5"><span class="sha1">2f61c43</span></a></td>
+  <td class="commit-date">2005-07-02</td>
+  <td class="commit-message">Added evaluation of &lt;SCRIPT&gt; blocks in content returned ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a995f42be0f9a14705d188c46c1db995baa01cf1"><span class="sha1">a995f42</span></a></td>
+  <td class="commit-date">2005-06-25</td>
+  <td class="commit-message">Added tests for whiny nil #1476 [court3nay/marcel]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/540d005ca5d7c4f462a041751dba438af0e281a2"><span class="sha1">540d005</span></a></td>
+  <td class="commit-date">2005-06-24</td>
+  <td class="commit-message">Improved AbstractRequest documentation.  Closes #1483.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

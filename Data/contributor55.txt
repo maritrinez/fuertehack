@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Cheah Chu Yeow to Ruby on Rails" />
+    <meta name="keywords" content="Cheah Chu Yeow,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #55 Cheah Chu Yeow - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #55 <span class="fn">Cheah Chu Yeow</span> - All time<br/>
+    <span class="listing-total">Showing 88 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d70e1a9d2b656283d62b794e1ae8ed4b22473874"><span class="sha1">d70e1a9</span></a></td>
+  <td class="commit-date">2012-04-05</td>
+  <td class="commit-message">Fix slightly awkward English in Action Caching section o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f323b425f29b633e07441cbc97fcbecf7e4b61a8"><span class="sha1">f323b42</span></a></td>
+  <td class="commit-date">2011-11-13</td>
+  <td class="commit-message">Fix bad English.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9703fe92ea0d39eed7bec44027468e6fed70a8a"><span class="sha1">d9703fe</span></a></td>
+  <td class="commit-date">2011-11-13</td>
+  <td class="commit-message">Clearing cache in action caching is not &quot;the exact same ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/650ec898e5f4668b63925d05f8b722a5226a79dd"><span class="sha1">650ec89</span></a></td>
+  <td class="commit-date">2011-11-13</td>
+  <td class="commit-message">Suggest a workaround for page caching and parameters ins...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a02b40a3d28c4b262dd49a8a6166c0275dfd9964"><span class="sha1">a02b40a</span></a></td>
+  <td class="commit-date">2011-11-13</td>
+  <td class="commit-message">Fix &quot;in memory&quot; where it should be &quot;in-memory&quot;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df5c9fd9f42e9bebb02bb61acf70de3d17bc8152"><span class="sha1">df5c9fd</span></a></td>
+  <td class="commit-date">2011-11-11</td>
+  <td class="commit-message">Update Memcached website to its new one at http://memcac...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e34e4d43301618307f94123d3710f094297f91f3"><span class="sha1">e34e4d4</span></a></td>
+  <td class="commit-date">2011-11-11</td>
+  <td class="commit-message">Fix &quot;in memory&quot; where it should be &quot;in-memory&quot;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c389b832f0f3aad2bf9550c81a20a8c5e6574423"><span class="sha1">c389b83</span></a></td>
+  <td class="commit-date">2011-04-22</td>
+  <td class="commit-message">Grammar fixes for Object#in? documentation.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/beec6c8b2abfd3286bd7c0a1c7ecb04686af6448"><span class="sha1">beec6c8</span></a></td>
+  <td class="commit-date">2011-03-02</td>
+  <td class="commit-message">Fix Action caching bug where an action that has a non-ca...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ee55557440a644453482a678e4ff08a4b5ebd3e"><span class="sha1">2ee5555</span></a></td>
+  <td class="commit-date">2011-03-02</td>
+  <td class="commit-message">Fix Action caching bug where an action that has a non-ca...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f58b9ad5331d3619fc68a4706d5f85a95510a63"><span class="sha1">6f58b9a</span></a></td>
+  <td class="commit-date">2010-12-29</td>
+  <td class="commit-message">Fix typo in ActionPack changelog.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a21a3d1f44b51910f535e30bff4fcb63f111392d"><span class="sha1">a21a3d1</span></a></td>
+  <td class="commit-date">2010-12-29</td>
+  <td class="commit-message">Remove link to outdated Github tag comparison in ActionP...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86dba29562c8ff38b930bddbe593739ad12922a6"><span class="sha1">86dba29</span></a></td>
+  <td class="commit-date">2010-11-27</td>
+  <td class="commit-message">Fix missing word in ActionMailer::Base documentation.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad8e1ba45271ad910ba943840f6f58e973e9a046"><span class="sha1">ad8e1ba</span></a></td>
+  <td class="commit-date">2010-11-25</td>
+  <td class="commit-message">Fix missing word in ActionMailer::Base documentation.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad4615e97896428ca140411081442f1b5e7d6089"><span class="sha1">ad4615e</span></a></td>
+  <td class="commit-date">2010-04-19</td>
+  <td class="commit-message">Rails on Rack Rails guide: indicate that Metal pieces no...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e00c72c9718e518eb99058781f6ee71fa46b38fe"><span class="sha1">e00c72c</span></a></td>
+  <td class="commit-date">2010-04-19</td>
+  <td class="commit-message">Rails on Rack Rails guide: indicate that Metal pieces no...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14ee31cdd09ef100cd2cb9eb9bd50c3a6d5e7f45"><span class="sha1">14ee31c</span></a></td>
+  <td class="commit-date">2009-11-20</td>
+  <td class="commit-message">Indicate that the :method routing condition can also acc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c790b631d0c45fe7ccdad9ea15a322e73a6ed7b"><span class="sha1">3c790b6</span></a></td>
+  <td class="commit-date">2009-05-12</td>
+  <td class="commit-message">Remove space between JSON keys and values since we&#39;re no...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4fa6615b15451fcdea17b33ebd78e3f4a848e4e7"><span class="sha1">4fa6615</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Ensure url_for(nil) falls back to url_for({}). [#472 sta...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52f88f09bca26715089c59e761fe15ee17cd3d8c"><span class="sha1">52f88f0</span></a></td>
+  <td class="commit-date">2008-08-12</td>
+  <td class="commit-message">Fix reference to incorrect block variable in :cache_path...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce4a1bb8538bd7cc5ee3cbf1156dc587482a7839"><span class="sha1">ce4a1bb</span></a></td>
+  <td class="commit-date">2008-07-09</td>
+  <td class="commit-message">Remove some Symbol#to_proc usage in runtime code.  [#484...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96708af6a58a48c2324a3bf8d34232bc29b398c9"><span class="sha1">96708af</span></a></td>
+  <td class="commit-date">2008-07-09</td>
+  <td class="commit-message">Ensure url_for(nil) falls back to url_for({}). [#472 sta...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42612fe6d1dee97877726777eb1ab843f39b06e2"><span class="sha1">42612fe</span></a></td>
+  <td class="commit-date">2008-06-27</td>
+  <td class="commit-message">Allow single quote (the &#39; character) in the middle of UR...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c1e8ab0fecd5ee7f9328578016ef1e61214eeee"><span class="sha1">3c1e8ab</span></a></td>
+  <td class="commit-date">2008-06-27</td>
+  <td class="commit-message">Allow single quote (the &#39; character) in the middle of UR...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c1ae8b92ac1a9a5f11d5a593a7d8fb6f32c6da9d"><span class="sha1">c1ae8b9</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">Allow script/about to run in production mode instead of ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1cfd1248734ceaa50c1857f33d7ee0ecfdce3e6"><span class="sha1">f1cfd12</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">Allow script/about to run in production mode instead of ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b5e9badea281ce0c371ff1c00461febe66f4e2b2"><span class="sha1">b5e9bad</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">It&#39;s select_date, not select_datetime - fix copy and pas...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f9b48f36fa21d96210af59870fcace27f2c45fc8"><span class="sha1">f9b48f3</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">Use consistent &quot;takes precedence over&quot; verbiage and remo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7247ee6a49d32c27310121086cb3b6c6268c323a"><span class="sha1">7247ee6</span></a></td>
+  <td class="commit-date">2008-06-02</td>
+  <td class="commit-message">Faster Hash#slice that doesn&#39;t use Enumerable#include?.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/952ec79bec313e0001adfc8c86f7970448d32db9"><span class="sha1">952ec79</span></a></td>
+  <td class="commit-date">2008-06-02</td>
+  <td class="commit-message">Faster Hash#slice that doesn&#39;t use Enumerable#include?.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb007e4197d6b6513e5accda79cf7edc3d773888"><span class="sha1">eb007e4</span></a></td>
+  <td class="commit-date">2008-05-31</td>
+  <td class="commit-message">Make a note about script/destroy in &#39;script/generate sca...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/377b2fdd0817d4706df9a5de13e651f1928c5e81"><span class="sha1">377b2fd</span></a></td>
+  <td class="commit-date">2008-05-29</td>
+  <td class="commit-message">Add examples for #to_json for Date, Time, DateTime, Time...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f2f88f128104355b100487008800aeb369ca425"><span class="sha1">8f2f88f</span></a></td>
+  <td class="commit-date">2008-05-11</td>
+  <td class="commit-message">Remove unused JSON methods. [#164 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/405de50af0b4bf4b2f34a3e6f27e9f3aa5e04eb7"><span class="sha1">405de50</span></a></td>
+  <td class="commit-date">2008-05-07</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae6b46f00b5b8b2939c6b37ce3329c83de7e71db"><span class="sha1">ae6b46f</span></a></td>
+  <td class="commit-date">2008-05-07</td>
+  <td class="commit-message">Document AttributeAssignmentError and MultiparameterAssi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aca44bcd92ef783abdf484b58abdde6786db0f89"><span class="sha1">aca44bc</span></a></td>
+  <td class="commit-date">2008-05-07</td>
+  <td class="commit-message">Make a note about ActiveResource::Timeouterror being rai...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee1d508a6bbdbfafb20516ebb4b452f1596f9ebe"><span class="sha1">ee1d508</span></a></td>
+  <td class="commit-date">2008-05-06</td>
+  <td class="commit-message">Allow ActionController::Base#default_url_options to have...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a6b4392c16c665eb713705f2b38e959a658eeef"><span class="sha1">6a6b439</span></a></td>
+  <td class="commit-date">2008-05-04</td>
+  <td class="commit-message">Ensure that default_url_options, if defined, are used in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cf32baf915442ffe153ec0e4d8148f147776c30a"><span class="sha1">cf32baf</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">Rescue from Timeout::Error in ActiveResource::Connection.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/105910429d5873dce677ef32eef5f705e0625d86"><span class="sha1">1059104</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">Introduce ActiveResource::Base.timeout. This allows a ti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca9413674ea70dc67ab517734af2e40dac21beef"><span class="sha1">ca94136</span></a></td>
+  <td class="commit-date">2008-03-26</td>
+  <td class="commit-message">Improve documentation.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cae1d960d294e4e910895f4a25b6e5a59e91d492"><span class="sha1">cae1d96</span></a></td>
+  <td class="commit-date">2008-02-18</td>
+  <td class="commit-message">Check the host string contains %d before using String#%,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2168178bdbb14f1b8a97f22a3eb78dd533c9cb34"><span class="sha1">2168178</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">TimeZone#to_s uses UTC rather than GMT; reapplying chang...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca66f4471f7fcd554d469b0e45267c6ae77884c1"><span class="sha1">ca66f44</span></a></td>
+  <td class="commit-date">2008-01-10</td>
+  <td class="commit-message">Merge [8616] to stable: UrlWriter respects relative_url_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/59f222dbf7c05e3d1f9e71831bc79e2a5ed4a5b5"><span class="sha1">59f222d</span></a></td>
+  <td class="commit-date">2008-01-10</td>
+  <td class="commit-message">UrlWriter respects relative_url_root. Closes #10748.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/083b0b7f3f430b9377c08f603eb9063d80c4595a"><span class="sha1">083b0b7</span></a></td>
+  <td class="commit-date">2008-01-07</td>
+  <td class="commit-message">Catchup Backport to 2.0 of the following Changesets:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/880081549d600a3d592241aadc8b2c6653a3d716"><span class="sha1">8800815</span></a></td>
+  <td class="commit-date">2008-01-06</td>
+  <td class="commit-message">Use a decorator module for Files instantiated by Hash.fr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a1b0349362fd6c17af5aeff481996f6fac235828"><span class="sha1">a1b0349</span></a></td>
+  <td class="commit-date">2008-01-06</td>
+  <td class="commit-message">The asset_host block takes the controller request as an ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca4c7ab362d0110bfade496ca66b30bafdb7f25e"><span class="sha1">ca4c7ab</span></a></td>
+  <td class="commit-date">2008-01-06</td>
+  <td class="commit-message">Support render :text =&gt; nil. Closes #6684.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/523658c1dffc6d125898caac6bf43118fbb3e27e"><span class="sha1">523658c</span></a></td>
+  <td class="commit-date">2008-01-06</td>
+  <td class="commit-message">Simplify and speedup Hash#stringify_keys! References #10...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ff47ba9adb39976723752abfd6fbb72d7a55eaf1"><span class="sha1">ff47ba9</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">Ruby 1.9 compat: add #raise to AS::BasicObject, fixup Du...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e21c48baf7a021a5c65004977f9359bc301aac9d"><span class="sha1">e21c48b</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">db:sessions:clear task uses session_table_name method. C...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9def906fd05d120312223d0d9bc565cc2972f85a"><span class="sha1">9def906</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">Correct Hash#assert_valid_keys docs. Closes #10621 [Chea...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/131acec68532d32241037d05fd530db30b2b6020"><span class="sha1">131acec</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">Merge [8519] from trunk: SQLite: db:drop:all doesn&#39;t fai...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/072b9d9fba2f1268a3b66de32eb6033124960f92"><span class="sha1">072b9d9</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">SQLite: db:drop:all doesn&#39;t fail silently if the databas...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/470fc0209699d70e9e2349d35f3210757a7a7d17"><span class="sha1">470fc02</span></a></td>
+  <td class="commit-date">2007-12-21</td>
+  <td class="commit-message">Document custom methods. Closes #10589.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3bfb661e3e8f8f03948cfc23f7dcc743cd06ab4"><span class="sha1">a3bfb66</span></a></td>
+  <td class="commit-date">2007-12-21</td>
+  <td class="commit-message">Update layout docs. Closes #10584 [Cheah Chu Yeow]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2556e674035a416cb98a336d96e7a5ea3d496ab6"><span class="sha1">2556e67</span></a></td>
+  <td class="commit-date">2007-12-21</td>
+  <td class="commit-message">App generate says sqlite3 is the default and mentions fr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11a75f9a3801d544194e90423ff5f16ffc0eb21e"><span class="sha1">11a75f9</span></a></td>
+  <td class="commit-date">2007-12-19</td>
+  <td class="commit-message">Ruby 1.9 compat: Update idiosyncratic block variable usa...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f91acf0258b3d40cbb31663e965669b7199be051"><span class="sha1">f91acf0</span></a></td>
+  <td class="commit-date">2007-12-18</td>
+  <td class="commit-message">Ruby 1.9 compat: move from the deprecated Base64 module ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab9e4c0eaacba34c9f1d16cf34c82e0e906edad5"><span class="sha1">ab9e4c0</span></a></td>
+  <td class="commit-date">2007-12-17</td>
+  <td class="commit-message">Ruby 1.9 compatibility. References #1689.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56e646296af1929f07f0e2981deddba95cdbf5d0"><span class="sha1">56e6462</span></a></td>
+  <td class="commit-date">2007-12-16</td>
+  <td class="commit-message">Added option to pass proc to ActionController::Base.asse...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6743504ba2091d180f8f9318bec4d97d6ab347c3"><span class="sha1">6743504</span></a></td>
+  <td class="commit-date">2007-12-15</td>
+  <td class="commit-message">Revert const_missing bypass in favor of Duration constan...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/887870f20c347179aef0545ee2019c02ed9f74d1"><span class="sha1">887870f</span></a></td>
+  <td class="commit-date">2007-12-15</td>
+  <td class="commit-message">Ruby 1.9 compat: define Duration#== [chuyeow]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb152cd8ca2502c4b426a46fa9d86d9cff68d0cb"><span class="sha1">bb152cd</span></a></td>
+  <td class="commit-date">2007-12-15</td>
+  <td class="commit-message">Ruby 1.9 compat: normalize date and time xmlschema to ma...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3d90733e937d11b6905ff11ce006a591ec11b4f4"><span class="sha1">3d90733</span></a></td>
+  <td class="commit-date">2007-12-15</td>
+  <td class="commit-message">Ruby 1.9 compat: prefer builtin String#starts_ and ends_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc3e55d11759d2f423f3f76986ee6f8f219d53cc"><span class="sha1">dc3e55d</span></a></td>
+  <td class="commit-date">2007-12-10</td>
+  <td class="commit-message">TimeZone#to_s uses UTC rather than GMT. References #1689.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bcbcc0260b4f75e9da7f009dfc7e3e0233158274"><span class="sha1">bcbcc02</span></a></td>
+  <td class="commit-date">2007-12-10</td>
+  <td class="commit-message">Ruby 1.9 compat: TimeZone avoids localtime conversion. R...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0b5f640f2f4ad4f6c42d33300129601210257de"><span class="sha1">d0b5f64</span></a></td>
+  <td class="commit-date">2007-12-10</td>
+  <td class="commit-message">Fix javascript_tag method name collision. Closes #10337.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d2fd67b51e204e77e24d1b493cebae72d8fa33d"><span class="sha1">2d2fd67</span></a></td>
+  <td class="commit-date">2007-12-09</td>
+  <td class="commit-message">Move #to_query methods where they ought to belong. Close...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bafd698acb160fd241efe6f027b83676b9e80d1f"><span class="sha1">bafd698</span></a></td>
+  <td class="commit-date">2007-12-09</td>
+  <td class="commit-message">render :xml and :json preserve custom content types. Clo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef57b93a82acab5a79620e405af5534cdf0e89c3"><span class="sha1">ef57b93</span></a></td>
+  <td class="commit-date">2007-12-09</td>
+  <td class="commit-message">to_sentence returns self[0].to_s instead of just self[0]...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4d845ef54ff348afc8516c9168654ae6cd327c7"><span class="sha1">e4d845e</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document automatically generated predicate methods for a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/519f2c9d718f53ba6a256d23ed808877dc9e1cf5"><span class="sha1">519f2c9</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document Date conversions.  Closes #10368 [chuyeow]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab12c14494146dcda336f2d56fd2e529389eb793"><span class="sha1">ab12c14</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Enhance documentation for Active Support&#39;s Time Conversi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a622d0045771459e6d4cc32307f31f87e5b938a"><span class="sha1">3a622d0</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Fix broken test (closes #10364) [chuyeow]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c4cb2dd01410417b5ab027aff5d472d68d9cbdb1"><span class="sha1">c4cb2dd</span></a></td>
+  <td class="commit-date">2007-12-03</td>
+  <td class="commit-message">Fixed that to_xml should not automatically pass :procs t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bff217272dbdb17f366f9986496ef04e2599d2c2"><span class="sha1">bff2172</span></a></td>
+  <td class="commit-date">2007-11-17</td>
+  <td class="commit-message">RAILS_GEM_VERSION may be set to any valid gem version sp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7464a398e18592010243845edad1fa09b82d16a1"><span class="sha1">7464a39</span></a></td>
+  <td class="commit-date">2007-11-06</td>
+  <td class="commit-message">Minor documentation enhancements and white-space fixes. ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa1313dd3b754e5786117578ea4dd62c0f3b09da"><span class="sha1">aa1313d</span></a></td>
+  <td class="commit-date">2007-11-06</td>
+  <td class="commit-message">Grammatical and whitespace fixes for form helper docs.  ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c708346688ee3cdd5583795ccd9b10590abd36b1"><span class="sha1">c708346</span></a></td>
+  <td class="commit-date">2007-10-29</td>
+  <td class="commit-message">Change JSON to encode %w(&lt; &gt; &amp;) as 4 digit hex codes to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7c3581cba243aa17a9f002b40c5f017d8e968492"><span class="sha1">7c3581c</span></a></td>
+  <td class="commit-date">2007-10-24</td>
+  <td class="commit-message">Document Enumerable and Hash #to_json. Add test for hash...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe234a1538dd96c6e0d3ca44b651fcc7abc4663e"><span class="sha1">fe234a1</span></a></td>
+  <td class="commit-date">2007-10-15</td>
+  <td class="commit-message">Fix Json related documentation for render and the AR ser...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58a5eef53eee7768d68cc034a1563914d21a68cb"><span class="sha1">58a5eef</span></a></td>
+  <td class="commit-date">2007-10-05</td>
+  <td class="commit-message">Disambiguate Time, Date, and DateTime#to_json formatting...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1968708e12972515fdc8eefdcaff95edbebc76b"><span class="sha1">b196870</span></a></td>
+  <td class="commit-date">2007-10-04</td>
+  <td class="commit-message">Hash#to_json takes :only or :except options to specific ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/81da956188037b3045fae73726a372f4951ca0c4"><span class="sha1">81da956</span></a></td>
+  <td class="commit-date">2007-09-30</td>
+  <td class="commit-message">Docfix (closes #9740) [chuyeow]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7275d2749cb829d89bffe7e6aa87c99084351f6a"><span class="sha1">7275d27</span></a></td>
+  <td class="commit-date">2007-09-30</td>
+  <td class="commit-message">Fixed JSON encoding to use quoted keys according to the ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbdb4e55f6eceb40c2047c614f5b47cef253dfb0"><span class="sha1">bbdb4e5</span></a></td>
+  <td class="commit-date">2007-09-28</td>
+  <td class="commit-message">Added :include option to to_json (closes #9677) [chuyeow]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

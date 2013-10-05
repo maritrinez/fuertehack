@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Matt Bridges to Ruby on Rails" />
+    <meta name="keywords" content="Matt Bridges,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Matt Bridges - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Matt Bridges</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e1cb39f7257e24672761e4e309330bf85d7c270"><span class="sha1">7e1cb39</span></a></td>
+  <td class="commit-date">2013-07-09</td>
+  <td class="commit-message">Fix simple_format output example ending tag</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08ac4b967255af6a5d10f36bdec2bf514e5dd500"><span class="sha1">08ac4b9</span></a></td>
+  <td class="commit-date">2013-01-16</td>
+  <td class="commit-message">clear specific logs when using rake log:clear</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc9433f49598d9af163756f465ab76cb658a6dd0"><span class="sha1">bc9433f</span></a></td>
+  <td class="commit-date">2013-01-14</td>
+  <td class="commit-message">fix reference to ActiveSupport::ProxyObject</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/139461fc144983186c96bd50388d463895201ad3"><span class="sha1">139461f</span></a></td>
+  <td class="commit-date">2013-01-10</td>
+  <td class="commit-message">Updating Array access docs more consistent</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7342f14c943271c5c5b78213c764aa6a3fec4016"><span class="sha1">7342f14</span></a></td>
+  <td class="commit-date">2013-01-09</td>
+  <td class="commit-message">adding small mention one single line blocks in contribut...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/68ad9e39064d50261cfd0e26036400a552dfca39"><span class="sha1">68ad9e3</span></a></td>
+  <td class="commit-date">2013-01-09</td>
+  <td class="commit-message">use multiline do-end blocks and rearrange definition for...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/216d5fd8f6942aa97c7ee2338aa388a70366f5b5"><span class="sha1">216d5fd</span></a></td>
+  <td class="commit-date">2013-01-04</td>
+  <td class="commit-message">Small typo fix in railties/CHANGELOG.md</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f6364e454ad1ade2834bbe91cf1e9111ee8df4ab"><span class="sha1">f6364e4</span></a></td>
+  <td class="commit-date">2013-01-03</td>
+  <td class="commit-message">Typo and grammar fixes in the ActionPack CHANGELOG</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/13cdfacba518509cd282e4cb42e3233265878cab"><span class="sha1">13cdfac</span></a></td>
+  <td class="commit-date">2012-10-16</td>
+  <td class="commit-message">Adding reference a few Time and Date aliases</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6366625e04c516bf5f4bd6f561c3bb1945b0c82"><span class="sha1">d636662</span></a></td>
+  <td class="commit-date">2012-02-21</td>
+  <td class="commit-message">Adding :last_week, :last_month, and :last_year aliases t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abb1423a8d662cc277a07ebdbf0e31a4849822b6"><span class="sha1">abb1423</span></a></td>
+  <td class="commit-date">2012-01-26</td>
+  <td class="commit-message">Fixed small typo in ActveRecord/CHANGELOG.md</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

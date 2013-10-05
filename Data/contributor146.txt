@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Florian Weber to Ruby on Rails" />
+    <meta name="keywords" content="Florian Weber,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #144 Florian Weber - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #144 <span class="fn">Florian Weber</span> - All time<br/>
+    <span class="listing-total">Showing 25 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb4c6797bf83a7f31b490e3172fd8e17c2c6ca5a"><span class="sha1">bb4c679</span></a></td>
+  <td class="commit-date">2006-04-03</td>
+  <td class="commit-message">Fixed that AssociationCollection#delete_all should work ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee1ef122d7214da438353b892e84d2513651ce74"><span class="sha1">ee1ef12</span></a></td>
+  <td class="commit-date">2005-12-21</td>
+  <td class="commit-message">Better language for the CHANGELOG entry of previous commit.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cf448036b65e00034ceeae439904eba45700a496"><span class="sha1">cf44803</span></a></td>
+  <td class="commit-date">2005-12-21</td>
+  <td class="commit-message">Fixed that saving a model with multiple habtm associatio...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c6e01f5b60c4864f0e92149d1e81077519f503d5"><span class="sha1">c6e01f5</span></a></td>
+  <td class="commit-date">2005-12-21</td>
+  <td class="commit-message">Fixed that saving a model with multiple habtm associatio...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87c328791282510c90638fc9ab2418dd08b01383"><span class="sha1">87c3287</span></a></td>
+  <td class="commit-date">2005-11-24</td>
+  <td class="commit-message">Credit everybody that helped =)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b762e0141c9f93b844ace8a2734923cc1f0b75bf"><span class="sha1">b762e01</span></a></td>
+  <td class="commit-date">2005-11-24</td>
+  <td class="commit-message">Made test_update_attributes_after_push_without_duplicate...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f951bbf9feaace53b1e1c8ef277dc4740d3591b"><span class="sha1">1f951bb</span></a></td>
+  <td class="commit-date">2005-11-24</td>
+  <td class="commit-message">Made test_update_attributes_after_push_without_duplicate...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b87294c6716357443deb09d2dbe9857ae2acc1b2"><span class="sha1">b87294c</span></a></td>
+  <td class="commit-date">2005-11-23</td>
+  <td class="commit-message">Fixed bug where using update_attribute after pushing a r...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c66ac2102be2d7a53872c7bb96939f616275010e"><span class="sha1">c66ac21</span></a></td>
+  <td class="commit-date">2005-11-23</td>
+  <td class="commit-message">Fixed bug where using update_attribute after pushing a r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e6f412def3ec9defcc1a97d1d9c4a8880b18d624"><span class="sha1">e6f412d</span></a></td>
+  <td class="commit-date">2005-11-09</td>
+  <td class="commit-message">Allow capital letters in the email address in the the va...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5859d0b17ccbf5907a2eb2a979257ec6474e677"><span class="sha1">d5859d0</span></a></td>
+  <td class="commit-date">2005-10-31</td>
+  <td class="commit-message">Added that an DuplicateMigrationVersionError gets raised...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/88bc13a01d435b337ae0abf623545f327d07ef25"><span class="sha1">88bc13a</span></a></td>
+  <td class="commit-date">2005-10-26</td>
+  <td class="commit-message">Removed the dead test settings</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49bee8826acb2ec4dc638fd42b69342913e21ac5"><span class="sha1">49bee88</span></a></td>
+  <td class="commit-date">2005-10-25</td>
+  <td class="commit-message">Minor documentation fix</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07bff0b535941c6a52555466d1e412f2b9305231"><span class="sha1">07bff0b</span></a></td>
+  <td class="commit-date">2005-10-20</td>
+  <td class="commit-message">Fixed misspell of &quot;initialize_framework_settings&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a1f14d1a85b3abd36cd6cdd093d11fd4bbd4605e"><span class="sha1">a1f14d1</span></a></td>
+  <td class="commit-date">2005-10-16</td>
+  <td class="commit-message">Made the rails command use the application name for data...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9285f6c7ae3e4addf940b033713e6d0e09ae1540"><span class="sha1">9285f6c</span></a></td>
+  <td class="commit-date">2005-10-14</td>
+  <td class="commit-message">Made the instantiated/transactional fixtures settings be...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66ecf31ffe751d2eeec124b081e80a38d2d47d87"><span class="sha1">66ecf31</span></a></td>
+  <td class="commit-date">2005-09-20</td>
+  <td class="commit-message">Fixed that the create_x method from belongs_to wouldn&#39;t ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f95c49a15e85c007e9c94c107232f9fee600aa8"><span class="sha1">6f95c49</span></a></td>
+  <td class="commit-date">2005-09-19</td>
+  <td class="commit-message">Fixed that Observers didn&#39;t observe sub-classes #627 [Fl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4307d7ecbe897880a59ae2da717a893ccf0f3fde"><span class="sha1">4307d7e</span></a></td>
+  <td class="commit-date">2005-09-13</td>
+  <td class="commit-message">Fixed various problems with has_and_belongs_to_many when...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e92f36d7506ebb7248d046e19299553edad6f53"><span class="sha1">0e92f36</span></a></td>
+  <td class="commit-date">2005-07-05</td>
+  <td class="commit-message">Added callbacks on push_with_attributes #1594 [Florian W...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4180e57b7091f529a671199c22530058d5bb4cf7"><span class="sha1">4180e57</span></a></td>
+  <td class="commit-date">2005-07-04</td>
+  <td class="commit-message">Added callback hooks to association collections #1549 [F...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df95128e9402feb1fc08b4ac45db73daa2edade3"><span class="sha1">df95128</span></a></td>
+  <td class="commit-date">2005-07-03</td>
+  <td class="commit-message">Fixed that has_and_belongs_to_many didn&#39;t respect single...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/496ee0cd1b2840fcccfa2695b8489463a548cc34"><span class="sha1">496ee0c</span></a></td>
+  <td class="commit-date">2005-05-19</td>
+  <td class="commit-message">Fixed that FormHelper#checkbox should return a checked c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9015ce4cc243d4022e294b9062afe53d46910b06"><span class="sha1">9015ce4</span></a></td>
+  <td class="commit-date">2005-03-15</td>
+  <td class="commit-message">Fixed options_for_select on selected line issue #624 [Fl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a40c6b52258df9f790fd160104c3ab18e0494e7"><span class="sha1">8a40c6b</span></a></td>
+  <td class="commit-date">2004-12-07</td>
+  <td class="commit-message">Fixed has_and_belongs_to_many guessing of foreign key so...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

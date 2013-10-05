@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Sam Umbach to Ruby on Rails" />
+    <meta name="keywords" content="Sam Umbach,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #174 Sam Umbach - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #174 <span class="fn">Sam Umbach</span> - All time<br/>
+    <span class="listing-total">Showing 21 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/95a83cc2487435ceb2a37e95875c4277e223916b"><span class="sha1">95a83cc</span></a></td>
+  <td class="commit-date">2011-12-31</td>
+  <td class="commit-message">SCSS processor is provided by the sass gem</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/003d0ff3f8f26c797cc6b85ccc580da28a9637a1"><span class="sha1">003d0ff</span></a></td>
+  <td class="commit-date">2011-12-31</td>
+  <td class="commit-message">Minor readability improvements</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3224db6aea90bb86b8d3e492b2a60f5c768132a"><span class="sha1">c3224db</span></a></td>
+  <td class="commit-date">2011-12-30</td>
+  <td class="commit-message">Minor readability improvements</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8daa9f5da90a83ff196159fd34efb8115c12b68a"><span class="sha1">8daa9f5</span></a></td>
+  <td class="commit-date">2011-12-30</td>
+  <td class="commit-message">SCSS processor is provided by the sass gem</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a070dd123c67ee05e5bc224dacb7c43a0aca1099"><span class="sha1">a070dd1</span></a></td>
+  <td class="commit-date">2011-12-05</td>
+  <td class="commit-message">Simplify load and require tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f815540e0bab25013edb7f628874bba19130965"><span class="sha1">0f81554</span></a></td>
+  <td class="commit-date">2011-12-05</td>
+  <td class="commit-message">Test that require and load raise LoadError if file not f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/31cead708c86ad7b7fbd12a7774bbecf1d2d6ffb"><span class="sha1">31cead7</span></a></td>
+  <td class="commit-date">2011-12-05</td>
+  <td class="commit-message">Test return value of ActiveSupport::Dependencies::Loadab...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a780f62a21b43b136af4c3faa51681909b58443"><span class="sha1">9a780f6</span></a></td>
+  <td class="commit-date">2011-12-05</td>
+  <td class="commit-message">Test return value of ActiveSupport::Dependencies::Loadab...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/289ae94b67ac26c6c3bd42cc743e122a38b3e17b"><span class="sha1">289ae94</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Simplify load and require tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0531e26daa01d619386bc8df9518a987a1295b87"><span class="sha1">0531e26</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Test that require and load raise LoadError if file not f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9effced47fff7cf78734bba64bc95735db29ba0a"><span class="sha1">9effced</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Test return value of ActiveSupport::Dependencies::Loadab...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfc467f73e801717325b4addef4fa05798462d5c"><span class="sha1">cfc467f</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Simplify load and require tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a9f0630822f60adfb418c34ec9cea30a2a716ed"><span class="sha1">2a9f063</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Test that require and load raise LoadError if file not f...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0a485309a03bdf290d3c42186916dac5e900db65"><span class="sha1">0a48530</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Test return value of ActiveSupport::Dependencies::Loadab...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dea2e9cde697128c0f34751b9f4a3385cb8f324f"><span class="sha1">dea2e9c</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Test return value of ActiveSupport::Dependencies::Loadab...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93580f49361210903a4e9cfa34a89da8ddb15815"><span class="sha1">93580f4</span></a></td>
+  <td class="commit-date">2011-12-03</td>
+  <td class="commit-message">Test return value of ActiveSupport::Dependencies::Loadab...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/353479167af47ebe824c5599bcd8185fc2894a91"><span class="sha1">3534791</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Add failing test: ActiveSupport::Cache::FileStore#file_p...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c2c7f657f02912a5915b490b59b81d2b80ac1940"><span class="sha1">c2c7f65</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Switch Tilt link to Textile format</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc58a7b2fb065becc14356398542d3390af727a5"><span class="sha1">dc58a7b</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Fix typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bae54c5430847ea5c3b71ae2d28d30f77628cc88"><span class="sha1">bae54c5</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">Switch Tilt link to Textile format</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ade629e206d17c2aa321de9c53a0a68310e2f865"><span class="sha1">ade629e</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">Fix typo</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

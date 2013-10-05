@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Avner Cohen to Ruby on Rails" />
+    <meta name="keywords" content="Avner Cohen,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #136 Avner Cohen - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #136 <span class="fn">Avner Cohen</span> - All time<br/>
+    <span class="listing-total">Showing 27 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abc75f027337863cca1167372447872e1c6f1339"><span class="sha1">abc75f0</span></a></td>
+  <td class="commit-date">2013-08-07</td>
+  <td class="commit-message">Minor align BR tags with HTML void - with reference to t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86f2061cd53057012109f072976ceb1773fcd194"><span class="sha1">86f2061</span></a></td>
+  <td class="commit-date">2013-08-06</td>
+  <td class="commit-message">Revert &quot;Removing obsolete html tags in favor of markdown...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/157dc275da0ad38635337b7c1d96de656d91de8e"><span class="sha1">157dc27</span></a></td>
+  <td class="commit-date">2013-08-06</td>
+  <td class="commit-message">Removing obsolete html tags in favor of markdown code bl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8553b7ac2f5388271c6c1caaf35c66e997f95cc3"><span class="sha1">8553b7a</span></a></td>
+  <td class="commit-date">2012-11-10</td>
+  <td class="commit-message">1.9 hash syntax in activesupport</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/890da5149df19c54124929ff8b533014b6b46e69"><span class="sha1">890da51</span></a></td>
+  <td class="commit-date">2012-11-10</td>
+  <td class="commit-message">1.9 Syntax related changes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c580182ff3c16d2247aabc85100bf8c6edb0f82"><span class="sha1">3c58018</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">1.9 hash syntax changes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8659212df2d29dc1c3b20a58dde00a56a776817d"><span class="sha1">8659212</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">Actionmailer to 1.9 hash syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08d3e534ab860f4a1ecef85ac8f707fd56a66d53"><span class="sha1">08d3e53</span></a></td>
+  <td class="commit-date">2012-11-07</td>
+  <td class="commit-message">Hash Syntax to 1.9 converison</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d20a52930aa80d7f219465d6fc414a68b16ef2a8"><span class="sha1">d20a529</span></a></td>
+  <td class="commit-date">2012-10-31</td>
+  <td class="commit-message">1.9 hash syntax changes to docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be4a4cd38ff2c2db0f6b69bb72fb3557bd5a6e21"><span class="sha1">be4a4cd</span></a></td>
+  <td class="commit-date">2012-10-29</td>
+  <td class="commit-message">Hash Syntax to 1.9 related changes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62f273b6501db72e3c902d947e6828dcab9c004a"><span class="sha1">62f273b</span></a></td>
+  <td class="commit-date">2012-10-27</td>
+  <td class="commit-message">Multiple changes to 1,9 hash syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9edd4e18c411e6834569bbe7b6350f02342970d8"><span class="sha1">9edd4e1</span></a></td>
+  <td class="commit-date">2012-10-23</td>
+  <td class="commit-message">Migration of docs to 1.9 hash syntax</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b89052014c2bf3b8fbbcfb93f657a17dd7e7ca3"><span class="sha1">3b89052</span></a></td>
+  <td class="commit-date">2012-10-23</td>
+  <td class="commit-message">Updated activerecord test comments to new hash syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30d2627cff29252efe4d711bb9d9bc2b1719293c"><span class="sha1">30d2627</span></a></td>
+  <td class="commit-date">2012-10-23</td>
+  <td class="commit-message">Another batch of hash syntax changes to comment, this ti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77eb1fb22d0f25183eb608b8ae55d9f1eb8bec59"><span class="sha1">77eb1fb</span></a></td>
+  <td class="commit-date">2012-10-22</td>
+  <td class="commit-message">convert comments to 1.9 hash syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7fbb21dc802c9eb96d30c6231e2b3dc473dbe9dd"><span class="sha1">7fbb21d</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">More changes around 1.9 hash syntax</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71c67d1fd863bfa8fa820e4dc6e1d158586d6d4b"><span class="sha1">71c67d1</span></a></td>
+  <td class="commit-date">2012-10-20</td>
+  <td class="commit-message">Hash Syntax changes to 1.9 format</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d761eab42b5f0dc4a819c271f16579f84724c3ae"><span class="sha1">d761eab</span></a></td>
+  <td class="commit-date">2012-10-16</td>
+  <td class="commit-message">Moving code base to 1.9 hash syntax</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c615161585f8c3c5d430cc7f3bb77300dc7833d1"><span class="sha1">c615161</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">Hash syntax to 1.9 style</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6ddc395b3fbc2b2213a0120612eb46288554aaa"><span class="sha1">a6ddc39</span></a></td>
+  <td class="commit-date">2012-10-13</td>
+  <td class="commit-message">1.9 hash syntax changes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a2c843885470dddbad9430963190464a22167921"><span class="sha1">a2c8438</span></a></td>
+  <td class="commit-date">2012-10-11</td>
+  <td class="commit-message">1.9 hash syntax changes.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61c64dc942a1a5fc142aab09f94f51bff0fee962"><span class="sha1">61c64dc</span></a></td>
+  <td class="commit-date">2012-10-11</td>
+  <td class="commit-message">1.9 hash syntax for guides, work-in-progress</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23839ab8c60a5133d2afdec254ed579166479e21"><span class="sha1">23839ab</span></a></td>
+  <td class="commit-date">2012-10-10</td>
+  <td class="commit-message">migrating guides to new hash syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4c6f75c86608d331b443eec266e2561bc9b4286a"><span class="sha1">4c6f75c</span></a></td>
+  <td class="commit-date">2012-10-10</td>
+  <td class="commit-message">gradually moving documentation to new hash syntax</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b49f159e24d310aa5457cb0ccecbe9b638fe6886"><span class="sha1">b49f159</span></a></td>
+  <td class="commit-date">2012-10-09</td>
+  <td class="commit-message">moving to new hash syntax, for discussion before I take ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28fc89323ce5e5d29fb9254a95cce917a88974c2"><span class="sha1">28fc893</span></a></td>
+  <td class="commit-date">2012-10-09</td>
+  <td class="commit-message">Fixed unclosing tag</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ecb39e6956077a07a0bddb69bad5457116757898"><span class="sha1">ecb39e6</span></a></td>
+  <td class="commit-date">2012-10-08</td>
+  <td class="commit-message">Closed unclosed &lt;tt&gt;, working on a complete solution for...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

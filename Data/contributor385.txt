@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Alexey Zatsepin to Ruby on Rails" />
+    <meta name="keywords" content="Alexey Zatsepin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Alexey Zatsepin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Alexey Zatsepin</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49182b87b258786ae5942eeb475618794291e976"><span class="sha1">49182b8</span></a></td>
+  <td class="commit-date">2012-12-17</td>
+  <td class="commit-message">AR supporting new int4range and int8range data type on P...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a4a095ed7ea6f0f65cc9e3bf3258cbdd0ddc210"><span class="sha1">9a4a095</span></a></td>
+  <td class="commit-date">2012-12-16</td>
+  <td class="commit-message">AR supporting new intrange data type on PostgreSQL &gt;= 9.2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52fe604da3b72ebbe4d7789917cdcb2ef68b2e6d"><span class="sha1">52fe604</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Fix eager association test. Closes #10381 [alexey]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d336ca5280523c4f4c9387d8a6778273469f856c"><span class="sha1">d336ca5</span></a></td>
+  <td class="commit-date">2005-01-22</td>
+  <td class="commit-message">Fixed that the content-header was being set to applicati...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93f7cb2a80b53d38eb01aaeade8f5c8bf13090f2"><span class="sha1">93f7cb2</span></a></td>
+  <td class="commit-date">2005-01-20</td>
+  <td class="commit-message">Added TestResponse#binary_content that&#39;ll return as a st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a33b9a73745401c1c715ee65f7e30f029d3e6a7"><span class="sha1">9a33b9a</span></a></td>
+  <td class="commit-date">2005-01-16</td>
+  <td class="commit-message">Added more informative error message for &quot;file not found...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d61071e7cba0d14a0f1a66b21d4af3656104e02"><span class="sha1">1d61071</span></a></td>
+  <td class="commit-date">2005-01-13</td>
+  <td class="commit-message">Fixed that controller tests can now assert on the use of...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a971dc5e4aa45f747d375c3703fadc5d1568c876"><span class="sha1">a971dc5</span></a></td>
+  <td class="commit-date">2005-01-11</td>
+  <td class="commit-message">Fixed default scope of acts_as_list from &quot;1&quot; to &quot;1 = 1&quot;,...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

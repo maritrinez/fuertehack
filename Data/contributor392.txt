@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Chris Wanstrath to Ruby on Rails" />
+    <meta name="keywords" content="Chris Wanstrath,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Chris Wanstrath - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Chris Wanstrath</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/51730792ca930a896361eb92354a42bc56903de1"><span class="sha1">5173079</span></a></td>
+  <td class="commit-date">2008-11-19</td>
+  <td class="commit-message">Added Object#try. ( Taken from http://ozmm.org/posts/try...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/334178722b8c33aba4acefe7f89e767a5660fc46"><span class="sha1">3341787</span></a></td>
+  <td class="commit-date">2008-11-14</td>
+  <td class="commit-message">Properly check silence_spec_warnings class variable [#13...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49cb41270ae8db886987b8a3762d8e512d646ffa"><span class="sha1">49cb412</span></a></td>
+  <td class="commit-date">2007-11-11</td>
+  <td class="commit-message">Only load ActionMailer::TestCase if ActionMailer is load...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/907d6ce28587593ec2bc93b4aeb216ca9d583a95"><span class="sha1">907d6ce</span></a></td>
+  <td class="commit-date">2007-10-07</td>
+  <td class="commit-message">Extend the console +helper+ method to allow you to inclu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d81ac8d6f30fa8a277c60a80a8d81e34de51b61b"><span class="sha1">d81ac8d</span></a></td>
+  <td class="commit-date">2007-07-01</td>
+  <td class="commit-message">Merge delete-with-options for cookies from trunk to release</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fd65d89e07d57d809c69043b52a3a1319fb3c2ad"><span class="sha1">fd65d89</span></a></td>
+  <td class="commit-date">2007-07-01</td>
+  <td class="commit-message">Allow you to delete cookies with options. Closes #3685 [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e105e599e706780905d4c348394da989de3b200f"><span class="sha1">e105e59</span></a></td>
+  <td class="commit-date">2007-05-11</td>
+  <td class="commit-message">Sexy dumper now has its groove on (closes #8281) [Chris ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11c715a53fd6309c37883b7d44462cc0a66f3bba"><span class="sha1">11c715a</span></a></td>
+  <td class="commit-date">2006-07-05</td>
+  <td class="commit-message">Added exception handling of missing layouts (closes #537...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

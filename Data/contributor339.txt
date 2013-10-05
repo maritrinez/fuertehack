@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Max Lapshin to Ruby on Rails" />
+    <meta name="keywords" content="Max Lapshin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Max Lapshin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Max Lapshin</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e29c084eb0551eb18b666c8df53b9985af8aa16"><span class="sha1">9e29c08</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">Make sure link_to generates the form with the specified ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0af4b0755f507d41590b5315966c9a20949f79f9"><span class="sha1">0af4b07</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Make sure link_to generates the form with the specified ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a4603fafbf4d959ebc8f9435457eaf6fa4004e9"><span class="sha1">5a4603f</span></a></td>
+  <td class="commit-date">2009-04-21</td>
+  <td class="commit-message">Fixed dumping from postgresql columns in index in wrong ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de4cc53f7428090600b9e31ee39cf8c4c0df811e"><span class="sha1">de4cc53</span></a></td>
+  <td class="commit-date">2009-04-21</td>
+  <td class="commit-message">Fixed wrong quoting of index names in postgres [#2402 st...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f3ac4f387dd748db349ec217030d2b13260516f1"><span class="sha1">f3ac4f3</span></a></td>
+  <td class="commit-date">2009-04-21</td>
+  <td class="commit-message">Fixed dumping from postgresql columns in index in wrong ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cdcd638c2f27ebf98ba7aa59512547f58a5e0c61"><span class="sha1">cdcd638</span></a></td>
+  <td class="commit-date">2009-04-21</td>
+  <td class="commit-message">Fixed wrong quoting of index names in postgres [#2402 st...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60601234708b34c81dcd6a58a0cad79a7520ce10"><span class="sha1">6060123</span></a></td>
+  <td class="commit-date">2009-04-21</td>
+  <td class="commit-message">Support multiple schemas in table names for postgresql [...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/70de8e64e30092b2b1b77869e459b4868f5b9577"><span class="sha1">70de8e6</span></a></td>
+  <td class="commit-date">2009-04-05</td>
+  <td class="commit-message">Support multiple schemas in table names for postgresql [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1fe9d6cc88dbad26e865c7c2bfd83da25796e2f1"><span class="sha1">1fe9d6c</span></a></td>
+  <td class="commit-date">2009-02-06</td>
+  <td class="commit-message">Support true/false in query_attribute for calculated col...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c6bde58c52f63d9e40979b89bc5db0c786159da"><span class="sha1">9c6bde5</span></a></td>
+  <td class="commit-date">2009-02-06</td>
+  <td class="commit-message">Fixed tests of postgresql money insertion when non-C locale</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

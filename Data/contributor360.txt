@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Edward Tsech to Ruby on Rails" />
+    <meta name="keywords" content="Edward Tsech,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Edward Tsech - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Edward Tsech</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b98a343da5b9fd6a6ffa7eeac42c141f5b64e961"><span class="sha1">b98a343</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">Add comment for attr_accessible/attr_protected :as optio...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21190f37f8b48bbb991aa7a6400ed4e20bb3768b"><span class="sha1">21190f3</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">Test Hash#except can receive more than one argument.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1065ef8fd3ad499feec01b39292ee435c1f71c13"><span class="sha1">1065ef8</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">Fix copypaste. [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a9c27e7d5e82099f783f68897bba6741aad2c53c"><span class="sha1">a9c27e7</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">Add example for image_submit_tag with confirmation. [ci ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3bd01c154e8294cbd0ecaa2aa0b7b3ac322592c"><span class="sha1">b3bd01c</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">Add annotaion for class_eval in AbstractController#helpe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8d1f10ac42b171b8d0e73a6a59f7e7e4b094a23"><span class="sha1">e8d1f10</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">Improve readability of metaprogramming annotations at Ab...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3305256c95d0d2a621ce85461b881a723cc2d0d3"><span class="sha1">3305256</span></a></td>
+  <td class="commit-date">2012-05-01</td>
+  <td class="commit-message">Add empty rows to improve readability. [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d752eabde35be96f9d8ab913b21c04e7f6aec485"><span class="sha1">d752eab</span></a></td>
+  <td class="commit-date">2012-05-01</td>
+  <td class="commit-message">Add few lines to describe how aggregation part caching w...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e8f2be51ad4e200cd9231a0591facc252cbf0c4"><span class="sha1">6e8f2be</span></a></td>
+  <td class="commit-date">2012-05-01</td>
+  <td class="commit-message">Add line which gives a little bit more information how *...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

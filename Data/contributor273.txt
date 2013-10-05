@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Olek Janiszewski to Ruby on Rails" />
+    <meta name="keywords" content="Olek Janiszewski,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #257 Olek Janiszewski - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #257 <span class="fn">Olek Janiszewski</span> - All time<br/>
+    <span class="listing-total">Showing 13 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/534030cf83b078b10c08ffb587cc56e86773ea8c"><span class="sha1">534030c</span></a></td>
+  <td class="commit-date">2013-05-03</td>
+  <td class="commit-message">Do not overwrite manually built records during one-to-on...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e05a6f6380c6ddbef5a0620b30d19dbca7f2f15"><span class="sha1">8e05a6f</span></a></td>
+  <td class="commit-date">2013-03-08</td>
+  <td class="commit-message">Fix incorrectly appended square brackets to a multiple s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dce4383319d8fcccc26d12fc0bbd4b19a149ee41"><span class="sha1">dce4383</span></a></td>
+  <td class="commit-date">2013-02-26</td>
+  <td class="commit-message">Fix touching an invalid parent record for belongs_to</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57bfbc249e2af753163788d07ac7a658b4f5484a"><span class="sha1">57bfbc2</span></a></td>
+  <td class="commit-date">2013-01-24</td>
+  <td class="commit-message">Allow passing interpolations to `#default_i18n_subject`,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce73055139013d44b36d0c2cd3ab42146c0b4353"><span class="sha1">ce73055</span></a></td>
+  <td class="commit-date">2012-11-29</td>
+  <td class="commit-message">Add #seconds_until_end_of_day to DateTime and Time</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6b26a6040db97a55e23a7f10f2e9ba859eb11dc"><span class="sha1">d6b26a6</span></a></td>
+  <td class="commit-date">2012-02-12</td>
+  <td class="commit-message">Add HTML5 input[type=&quot;date&quot;] helper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7afbc89c37e56531c9ef4e34369e329aab1b21de"><span class="sha1">7afbc89</span></a></td>
+  <td class="commit-date">2012-01-18</td>
+  <td class="commit-message">Add ActiveRecord::Base#with_lock</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abe915f23777efe10f17d611bf5718ca855a0704"><span class="sha1">abe915f</span></a></td>
+  <td class="commit-date">2011-12-16</td>
+  <td class="commit-message">Fix expanding cache key for single element arrays</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a8134aceb363d581d6b49aeb08feeadaf474d051"><span class="sha1">a8134ac</span></a></td>
+  <td class="commit-date">2011-12-04</td>
+  <td class="commit-message">Do not validate associated records marked for destruction</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a650dd05f82028e8d1310f1b68b7bc430ea47dcf"><span class="sha1">a650dd0</span></a></td>
+  <td class="commit-date">2011-11-23</td>
+  <td class="commit-message">Fix #3737 AS::expand_cache_key generates wrong key in ce...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8e6dc9cf12096908a7a53dec07a397ba23b1088"><span class="sha1">d8e6dc9</span></a></td>
+  <td class="commit-date">2011-11-23</td>
+  <td class="commit-message">Fix #3737 AS::expand_cache_key generates wrong key in ce...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a4d54b5ccd2a13b3396b830db23d1fbe1f8b4d8"><span class="sha1">6a4d54b</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Documentation fixes for rendering partials</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2beea3b249763edcb133c1b7078958ef14815812"><span class="sha1">2beea3b</span></a></td>
+  <td class="commit-date">2011-07-09</td>
+  <td class="commit-message">Documentation fixes for rendering partials</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

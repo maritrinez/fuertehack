@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jeff Dutil to Ruby on Rails" />
+    <meta name="keywords" content="Jeff Dutil,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Jeff Dutil - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Jeff Dutil</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/521fedc043270487897991352ce017aa5b163901"><span class="sha1">521fedc</span></a></td>
+  <td class="commit-date">2012-01-26</td>
+  <td class="commit-message">Add :password_confirmation as a filtered param by default.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37f1cf0a8b9ce1bc9c25dc2bec99e3edcdb8b254"><span class="sha1">37f1cf0</span></a></td>
+  <td class="commit-date">2011-09-09</td>
+  <td class="commit-message">Travis-ci build image should link to the rails travis ci...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2cf0bb4e03dba15e09f8b90a945439936fa17e37"><span class="sha1">2cf0bb4</span></a></td>
+  <td class="commit-date">2011-09-06</td>
+  <td class="commit-message">Revert &quot;Use https for travis-ci build status image to pr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a873ea8e9fa5613acf6bfde3cfa2b17daf9a43df"><span class="sha1">a873ea8</span></a></td>
+  <td class="commit-date">2011-09-06</td>
+  <td class="commit-message">Use https for travis-ci build status image to prevent Gi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b411c80cc963e553867833a598954c308fd056f"><span class="sha1">4b411c8</span></a></td>
+  <td class="commit-date">2011-08-18</td>
+  <td class="commit-message">Fix ruby typo to correctly render code block in initiali...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f3bac4c6033f9fae14c9ea44d94aa860e1a059f"><span class="sha1">6f3bac4</span></a></td>
+  <td class="commit-date">2011-08-18</td>
+  <td class="commit-message">Fix spacing in plugins.textile to fix html rendering and...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6783ce0de4511e2568765f2e4919758d70690391"><span class="sha1">6783ce0</span></a></td>
+  <td class="commit-date">2011-08-17</td>
+  <td class="commit-message">Updates to remove extra whitespaces and notably fix a wh...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6eadf5d192f208d21f876603a0a1607fa80bb68a"><span class="sha1">6eadf5d</span></a></td>
+  <td class="commit-date">2011-08-17</td>
+  <td class="commit-message">Fix typo in i18n.textile header and remove extra whitesp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f302370c0527cd5f24889e7068134e59b65b40f1"><span class="sha1">f302370</span></a></td>
+  <td class="commit-date">2011-08-17</td>
+  <td class="commit-message">Fix ruby typo to correctly render code block in initiali...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ff894dcc75b46274e20a20c26b679e204e6c82b"><span class="sha1">7ff894d</span></a></td>
+  <td class="commit-date">2011-08-17</td>
+  <td class="commit-message">Fix spacing in plugins.textile to fix html rendering and...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b4e67f6ddae1134ac9e79f87b86676f8bbd6bb7"><span class="sha1">4b4e67f</span></a></td>
+  <td class="commit-date">2011-08-16</td>
+  <td class="commit-message">Fix formatting of active_record_validations_callbacks.te...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c5f97b5063d1d60341f9e984f29a3b9812fb4c7e"><span class="sha1">c5f97b5</span></a></td>
+  <td class="commit-date">2011-08-16</td>
+  <td class="commit-message">Fix formatting of active_record_validations_callbacks.te...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

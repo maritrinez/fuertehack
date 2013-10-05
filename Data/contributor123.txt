@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Gosha Arinich to Ruby on Rails" />
+    <meta name="keywords" content="Gosha Arinich,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #123 Gosha Arinich - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #123 <span class="fn">Gosha Arinich</span> - All time<br/>
+    <span class="listing-total">Showing 31 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/caa54db8a000b537473f30bf6d64eead9154cbb7"><span class="sha1">caa54db</span></a></td>
+  <td class="commit-date">2013-01-10</td>
+  <td class="commit-message">clearer conditional in constraint match check</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/38efe878c9ae66d29300bdfba867eddf84386824"><span class="sha1">38efe87</span></a></td>
+  <td class="commit-date">2013-01-10</td>
+  <td class="commit-message">add asset pipeline guides section on implementing &amp; regi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00f68c52c59e211fbc73f6061db4eaef037afded"><span class="sha1">00f68c5</span></a></td>
+  <td class="commit-date">2013-01-10</td>
+  <td class="commit-message">update assets guide code styling</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae1f86fab5f80d00dc75541aef04eea8a349fb97"><span class="sha1">ae1f86f</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">access `@path` and `@routes` via reader methods in journey</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7f9c596b3c793ef5e0025719f75147334acbab7"><span class="sha1">a7f9c59</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">refactor ShowExceptions&#39; #call to use def-rescue instead...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1907409596b9831e0fac2128b8f6da20b96b2003"><span class="sha1">1907409</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">more woring improvements to the engines guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a8d4e2788b977da39f1b8a3ed7fb67fafecbcd0f"><span class="sha1">a8d4e27</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">improve wording of the engines guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0acf92184dab8d97db7d447bea8e3c6097b33722"><span class="sha1">0acf921</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">prefer american spelling of &#39;behavior&#39;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d73cc03010d8c936fbcbbf8a77e15c9724872310"><span class="sha1">d73cc03</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">remove begin-rescue in favor of def-rescue</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c445b076121cffb5e77235ffa14f68b2aa8b3e16"><span class="sha1">c445b07</span></a></td>
+  <td class="commit-date">2013-01-06</td>
+  <td class="commit-message">refactor DebugExceptions by combining two conditionals i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2467ec8b5ce1be8481283943e830c56d0c827040"><span class="sha1">2467ec8</span></a></td>
+  <td class="commit-date">2013-01-06</td>
+  <td class="commit-message">refactor Journey::Routes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c730bef3d8574e48a72f5960f6d3d36ed96ca8a6"><span class="sha1">c730bef</span></a></td>
+  <td class="commit-date">2013-01-06</td>
+  <td class="commit-message">refactor Route#ast to use or-equals and block, instead o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a439d23de4c7c187b0deda8e02138b3dccf0181"><span class="sha1">7a439d2</span></a></td>
+  <td class="commit-date">2013-01-06</td>
+  <td class="commit-message">delegate to :class rather than &#39;self.class&#39;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/732d3507da930c8d21e21d2c87c96594bb1e4d2c"><span class="sha1">732d350</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">prefer do-end for multiline block</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/af660ee717f7e76303ba4672bd18ee0d57683dda"><span class="sha1">af660ee</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">place article name in the beginning of guides page title</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/76ab8be6137a1462adf0e2d555eca3f7726c7ab6"><span class="sha1">76ab8be</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">fix guides&#39; warning bottom padding</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11f74f08b880deeb6b400fb5f82c5273b5e8b51c"><span class="sha1">11f74f0</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">wrap terminal prompt marks in a pre tag</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5322a3e95e3fc303241cf898e8c5fef6e4857712"><span class="sha1">5322a3e</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">fix img width in guides</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25852593df6f9c45eec64f413d2ac1687465cf20"><span class="sha1">2585259</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">proper article in the getting started guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/434d9cbd8649ce0d0be53669bf595c00771195e2"><span class="sha1">434d9cb</span></a></td>
+  <td class="commit-date">2013-01-05</td>
+  <td class="commit-message">allow toggling about env, not just showing</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a59a6dfdca217e31a52779d92aa56b67c6689cb"><span class="sha1">1a59a6d</span></a></td>
+  <td class="commit-date">2013-01-03</td>
+  <td class="commit-message">TODO typo fix</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a5b5e19fc38955d5e755574276fc39fdee438fa"><span class="sha1">1a5b5e1</span></a></td>
+  <td class="commit-date">2013-01-03</td>
+  <td class="commit-message">move error page js into script tag</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7d45785e506d68b9612fc597b4758b44750941d"><span class="sha1">d7d4578</span></a></td>
+  <td class="commit-date">2013-01-03</td>
+  <td class="commit-message">fix env toggling, improve error page styling</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77f2ba9559ff53987ce3e026f33275678617768e"><span class="sha1">77f2ba9</span></a></td>
+  <td class="commit-date">2013-01-03</td>
+  <td class="commit-message">refactor Routing::Mapper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66844ece691d3821de8e6993e31e147df02b4b3b"><span class="sha1">66844ec</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">make symbol reference in docs appear as code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ef780c3e2df86fa678982a5db80421ccf4d4dee"><span class="sha1">8ef780c</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">remove another unnecessary dup</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aca0c6d315258fe83bea81ce4d5e606ac18856ec"><span class="sha1">aca0c6d</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">remove unnecessary #dup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7c1af53b1cddc35de5a2e0788d7a2073365458f3"><span class="sha1">7c1af53</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">replace #flatten with Array()</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30f86ea24a8a855419f1d8c22ab67491cf72a60c"><span class="sha1">30f86ea</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">add source line padding</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb932d5e9867713d0df738864b7f08e22f49b5e8"><span class="sha1">bb932d5</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">allow toggling dumps instead of just showing</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fb58c0ed4a167ff04b7cbf4e4560fffb68109638"><span class="sha1">fb58c0e</span></a></td>
+  <td class="commit-date">2013-01-01</td>
+  <td class="commit-message">remove unnecessary always-nil var from #compact</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

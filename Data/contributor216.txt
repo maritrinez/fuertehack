@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Grant Hutchins to Ruby on Rails" />
+    <meta name="keywords" content="Grant Hutchins,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Grant Hutchins - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Grant Hutchins</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4e09301b0ce6f24bbc3980725d87774792867d01"><span class="sha1">4e09301</span></a></td>
+  <td class="commit-date">2013-06-15</td>
+  <td class="commit-message">Don&#39;t modify args in TableDefinition#primary_key</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d07f061985792a8f15a49e5eb471bf7bb0ed097"><span class="sha1">8d07f06</span></a></td>
+  <td class="commit-date">2013-05-11</td>
+  <td class="commit-message">Don&#39;t modify args in TableDefinition#primary_key</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/175ba04cf38134e156208c7e59808c40e8c25aa5"><span class="sha1">175ba04</span></a></td>
+  <td class="commit-date">2012-11-02</td>
+  <td class="commit-message">Support :multiple option on input tags with :index</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5917c6eb285b0327ab340ee2933db88d5f5ba3bd"><span class="sha1">5917c6e</span></a></td>
+  <td class="commit-date">2012-09-27</td>
+  <td class="commit-message">Improve documentation for subscribe block</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f6bedc960dfbd2a5262d65c69fb51789b060643e"><span class="sha1">f6bedc9</span></a></td>
+  <td class="commit-date">2012-06-28</td>
+  <td class="commit-message">Speed up Hash#transform_keys using Hash#each_key</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee235b3d3a5993d95f9ae5abbfb745f73c4903ba"><span class="sha1">ee235b3</span></a></td>
+  <td class="commit-date">2012-04-01</td>
+  <td class="commit-message">Don&#39;t include deprecation in AM::Naming anymore</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18d275ada1b23bf07cc51a815385afac6bb2b8cb"><span class="sha1">18d275a</span></a></td>
+  <td class="commit-date">2012-03-29</td>
+  <td class="commit-message">Make controller namespace partial prefix optional</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0e83d5af7385317fdcc91390e1b3a02b0cf56b8"><span class="sha1">a0e83d5</span></a></td>
+  <td class="commit-date">2012-03-28</td>
+  <td class="commit-message">Test that render gets correct exact template name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b142bd84d83b222fca393355cdd76416648e5625"><span class="sha1">b142bd8</span></a></td>
+  <td class="commit-date">2012-03-11</td>
+  <td class="commit-message">assert_template matches against Regexp</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf8d7574bfb80b44ba353bf055122efbaa3d57da"><span class="sha1">bf8d757</span></a></td>
+  <td class="commit-date">2012-03-10</td>
+  <td class="commit-message">Remove ActiveModel::Naming#partial_path</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e78c5eeba10001223a81203c7b544c09b8394831"><span class="sha1">e78c5ee</span></a></td>
+  <td class="commit-date">2012-03-10</td>
+  <td class="commit-message">Fix comments about to_partial_path</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c4cf9073a15c7185ee7da345c41e341009a7a690"><span class="sha1">c4cf907</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Give attribution to Peter Jaros for the patch we paired on.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e671a8536f17b6f23b5251652015ce8c1557f1f"><span class="sha1">6e671a8</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Let ActiveModel instances define partial paths.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b407034c9daf8103c99739bc6b96ed9b3ea13eaa"><span class="sha1">b407034</span></a></td>
+  <td class="commit-date">2011-07-28</td>
+  <td class="commit-message">Give attribution to Peter Jaros for the patch we paired on.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf812074fd55e7dcfa426d6c9bfd4d8d68922194"><span class="sha1">bf81207</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Let ActiveModel instances define partial paths.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b9c38c1a8ab8fdd9c77ac87d13c413f8c741928"><span class="sha1">6b9c38c</span></a></td>
+  <td class="commit-date">2011-07-08</td>
+  <td class="commit-message">ActiveRecord::Base should pass ActiveModel::Lint.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

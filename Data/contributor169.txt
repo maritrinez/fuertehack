@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Chad Fowler to Ruby on Rails" />
+    <meta name="keywords" content="Chad Fowler,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #167 Chad Fowler - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #167 <span class="fn">Chad Fowler</span> - All time<br/>
+    <span class="listing-total">Showing 22 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6f99325613baf0534c10677da9c82ac27b628c0"><span class="sha1">b6f9932</span></a></td>
+  <td class="commit-date">2010-07-26</td>
+  <td class="commit-message">fix bad logic in determining if in rails app subdir</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcc758acb0bf210ec8a1c25afeafb7da0334f0b9"><span class="sha1">dcc758a</span></a></td>
+  <td class="commit-date">2010-06-10</td>
+  <td class="commit-message">detect being inside a rails application even from a subd...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f614a80e725228c0cc0c03fd731c6cbad0ffcb7"><span class="sha1">8f614a8</span></a></td>
+  <td class="commit-date">2007-02-04</td>
+  <td class="commit-message">Fix gem deprecation warnings, which also means depending...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c4d8d97e9cb7261e8150b952e8eab3c15d4ad635"><span class="sha1">c4d8d97</span></a></td>
+  <td class="commit-date">2007-02-04</td>
+  <td class="commit-message">Fix gem deprecation warnings, which also means depending...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d3092478cf2f572ffc9a106c2eedc520986e60d"><span class="sha1">7d30924</span></a></td>
+  <td class="commit-date">2006-04-07</td>
+  <td class="commit-message">Don&#39;t match commented out RAILS_GEM_VERSIONs.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66f546644b52394a60f6c17cfb544f86aac3b824"><span class="sha1">66f5466</span></a></td>
+  <td class="commit-date">2006-03-28</td>
+  <td class="commit-message">Allow load_fixtures to load a subset of total fixture da...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48e7edc31b873c343d3e696fc02af354a74f0683"><span class="sha1">48e7edc</span></a></td>
+  <td class="commit-date">2006-03-19</td>
+  <td class="commit-message">Reject Ruby 1.8.3 when loading Rails; extract version ch...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe94ba10037088549d4fc619b9e196dfad1dff46"><span class="sha1">fe94ba1</span></a></td>
+  <td class="commit-date">2006-03-18</td>
+  <td class="commit-message">Added access to remote_addr in integration tests (closes...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3ea34f7d30b9866da8f34be4108f8449218f9fd"><span class="sha1">e3ea34f</span></a></td>
+  <td class="commit-date">2006-03-12</td>
+  <td class="commit-message">Use the Rake API instead of shelling out to create the t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34df9be0e5bfcae1c84d1598bbcc3679314eca28"><span class="sha1">34df9be</span></a></td>
+  <td class="commit-date">2006-01-29</td>
+  <td class="commit-message">Template paths with dot chars in them no longer mess up ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/921c5a7fdcdf5bde6461abbf707b5412634544b5"><span class="sha1">921c5a7</span></a></td>
+  <td class="commit-date">2005-12-11</td>
+  <td class="commit-message">Apply [3276] to stable. Update instructions on how to fi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f5a4ba52820346400d611aeb72d5106b7ba01f4e"><span class="sha1">f5a4ba5</span></a></td>
+  <td class="commit-date">2005-12-11</td>
+  <td class="commit-message">Update instructions on how to find and install generator...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2b0cc7bf4c08a4ea137b4a752bb1cc0994d7d3a"><span class="sha1">d2b0cc7</span></a></td>
+  <td class="commit-date">2005-12-09</td>
+  <td class="commit-message"> r3416@asus:  jeremy | 2005-12-09 15:07:21 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08309ba51a12eda2be2a8bd142255c14e78a2d4b"><span class="sha1">08309ba</span></a></td>
+  <td class="commit-date">2005-12-09</td>
+  <td class="commit-message">Generator looks in vendor/generators also.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9318131e053fdfff5e86e33a513bd1e98b74abe6"><span class="sha1">9318131</span></a></td>
+  <td class="commit-date">2005-11-13</td>
+  <td class="commit-message">Eliminate Subversion dependencies in scripts/plugin.  Co...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37e2085ff11c21c8132557e449ceadd1e600180b"><span class="sha1">37e2085</span></a></td>
+  <td class="commit-date">2005-11-06</td>
+  <td class="commit-message">Fail gracefully when plugin was not found [Chad Fowler]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3275cadaa410fc00365db41d0155e4fa463e128"><span class="sha1">d3275ca</span></a></td>
+  <td class="commit-date">2005-11-06</td>
+  <td class="commit-message">Enable HTTP installation of plugins when svn isn&#39;t avaia...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30b9d6d28a946f37cd41e9dad50fb7c9224dac6d"><span class="sha1">30b9d6d</span></a></td>
+  <td class="commit-date">2005-11-01</td>
+  <td class="commit-message">The freeze_gems Rake task accepts the VERSION environmen...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08acb95a3fea6b8c29133528c7e0166c7b87a0f4"><span class="sha1">08acb95</span></a></td>
+  <td class="commit-date">2005-10-29</td>
+  <td class="commit-message">Improve script/plugin on Windows.  Closes #2646.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8b427cdefd9ec851e2853d4bf21dd8fd676096d"><span class="sha1">e8b427c</span></a></td>
+  <td class="commit-date">2005-10-06</td>
+  <td class="commit-message">Raise an exception when invalid options are passed to Ac...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72c3ffc7fb636859343b69fcf3c2bb418abe6883"><span class="sha1">72c3ffc</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">Make the migration generator only check files ending in ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1448d749f59bf5c964fb646d0b6fb7a0614ad4c5"><span class="sha1">1448d74</span></a></td>
+  <td class="commit-date">2005-09-03</td>
+  <td class="commit-message">Fixed the scaffold generator to fail right away if the d...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

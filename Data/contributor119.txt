@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Kevin Clark to Ruby on Rails" />
+    <meta name="keywords" content="Kevin Clark,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #119 Kevin Clark - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #119 <span class="fn">Kevin Clark</span> - All time<br/>
+    <span class="listing-total">Showing 32 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae8179f05c49867e1136204bdf6d14a8fd4a7596"><span class="sha1">ae8179f</span></a></td>
+  <td class="commit-date">2007-10-15</td>
+  <td class="commit-message">Expand Routes::DynamicSegment test coverage. Closes #712...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/160af194e49a8a0f5cf2b21c497a978db5fb4507"><span class="sha1">160af19</span></a></td>
+  <td class="commit-date">2007-06-09</td>
+  <td class="commit-message">Routing: improve static segment test coverage.  #7117 [K...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/025f8954157b685c35ad00599d66730ce9a6e1aa"><span class="sha1">025f895</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Modernize cookie testing code, and increase coverage (He...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcd73821c2d19adbcf7e595137e4ba25af0e2cde"><span class="sha1">fcd7382</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Modernize cookie testing code, and increase coverage (He...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2205ea5e9e45478f9391e5a6d9ad5767a9415ca"><span class="sha1">d2205ea</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Improve Test Coverage for ActionController::Routing::Rou...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e9e86fd134e363c487cb8501fbebe7881bcf422a"><span class="sha1">e9e86fd</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Heckling ActionController::Resources::Resource revealed ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/582c028b14bff4229eae5e45a2d4f886a5865ed3"><span class="sha1">582c028</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Heckling ActionController::Resources::Resource revealed ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dfa070aab9d4426876f52e546bb921054b5a87c0"><span class="sha1">dfa070a</span></a></td>
+  <td class="commit-date">2006-11-07</td>
+  <td class="commit-message">Merge [5466] from trunk.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57313c54bfc3a47f32507cb466df91b5a9688db7"><span class="sha1">57313c5</span></a></td>
+  <td class="commit-date">2006-11-07</td>
+  <td class="commit-message">assert_response supports symbolic status codes. Closes #...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71dbef6d27210259ae263b84120f94fe9d6784e7"><span class="sha1">71dbef6</span></a></td>
+  <td class="commit-date">2006-09-03</td>
+  <td class="commit-message">Integration tests: thoroughly test ActionController::Int...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f6339eb17710ce81117e06725a4403e33a934d24"><span class="sha1">f6339eb</span></a></td>
+  <td class="commit-date">2006-09-03</td>
+  <td class="commit-message">Thoroughly test the FCGI dispatcher. Closes #5970.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7aa9eed88fdfb1a8010c4ca7468e9ebd527494f1"><span class="sha1">7aa9eed</span></a></td>
+  <td class="commit-date">2006-09-01</td>
+  <td class="commit-message">Deprecation: update docs. Closes #5998.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42cabeb4b89713be5b08c3116e48082c3a343bca"><span class="sha1">42cabeb</span></a></td>
+  <td class="commit-date">2006-08-29</td>
+  <td class="commit-message">Railties: generator tests passing</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b031198638d4ef2ba199ef4a1abb4627dcd0bad7"><span class="sha1">b031198</span></a></td>
+  <td class="commit-date">2006-08-29</td>
+  <td class="commit-message">Cleaning up railties tests. Set RAILS_ROOT for Rails::In...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b4dd5408228c342f36bfd8290d39de2cf7bbd71"><span class="sha1">4b4dd54</span></a></td>
+  <td class="commit-date">2006-08-24</td>
+  <td class="commit-message">Clashing type columns due to a sloppy join shouldn&#39;t wre...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/767eaa9df13549037f053c89a0a0d334b3086873"><span class="sha1">767eaa9</span></a></td>
+  <td class="commit-date">2006-08-22</td>
+  <td class="commit-message">Clean up and run the Active Record integration tests by ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/02021d89b1928e9869b0038afc08cb6b3e719014"><span class="sha1">02021d8</span></a></td>
+  <td class="commit-date">2006-08-11</td>
+  <td class="commit-message">Tweak fixtures so they don&#39;t try to use a non-ActiveReco...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4874df1d674bccbe2fa41a12bb93fa63a5d489ee"><span class="sha1">4874df1</span></a></td>
+  <td class="commit-date">2006-08-08</td>
+  <td class="commit-message">backport of ActionMailer documentation enhancements from...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94a1758f8202eee65f167337541d102d1faeaad2"><span class="sha1">94a1758</span></a></td>
+  <td class="commit-date">2006-08-07</td>
+  <td class="commit-message"> r3022@ks:  jeremy | 2005-11-12 18:40:42 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ba9a1eac1057c8accf242558e8896a7a6f21b32"><span class="sha1">6ba9a1e</span></a></td>
+  <td class="commit-date">2006-06-21</td>
+  <td class="commit-message">Fix indent in pagination documentation. Closes #4990.  [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7252666b74e00c569b431d1a798fb7280923929f"><span class="sha1">7252666</span></a></td>
+  <td class="commit-date">2006-05-17</td>
+  <td class="commit-message">Add layout attribute to response object with the name of...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0a407bca505db3116eb9ff71022022a14300ee47"><span class="sha1">0a407bc</span></a></td>
+  <td class="commit-date">2006-05-10</td>
+  <td class="commit-message">ActionMailer::Base documentation rewrite. Closes #4991 [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dd5397a57c39da78f22e0fec517ff6e5ede7628a"><span class="sha1">dd5397a</span></a></td>
+  <td class="commit-date">2006-04-27</td>
+  <td class="commit-message">ActionController::Base Summary documentation rewrite. Cl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cbded64014e41c386b9c6122da3872d592441f49"><span class="sha1">cbded64</span></a></td>
+  <td class="commit-date">2006-04-26</td>
+  <td class="commit-message">Documentation for AbstractRequest. Closes #4895. [kevin....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ada11d6313bd1f74c6a229caca36ca063b38da4e"><span class="sha1">ada11d6</span></a></td>
+  <td class="commit-date">2006-02-27</td>
+  <td class="commit-message">Add set_fixture_class to allow the use of table name acc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d49a5fcb4cfe90824337dc3756bae7161cea768b"><span class="sha1">d49a5fc</span></a></td>
+  <td class="commit-date">2006-02-09</td>
+  <td class="commit-message">* Fix pagination problems when using include</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea30f7353be3a977c5ea50d8efaa02acf26dd133"><span class="sha1">ea30f73</span></a></td>
+  <td class="commit-date">2006-01-22</td>
+  <td class="commit-message">Raise a RedirectBackError if redirect_to :back is called...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b98684c3e1ff718569ed02552516f05b03a59f3e"><span class="sha1">b98684c</span></a></td>
+  <td class="commit-date">2006-01-13</td>
+  <td class="commit-message">Fix date errors for SQLServer in association tests. Clos...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06303ed34eea1f9c3dfa8c7d0ada186b0faf648f"><span class="sha1">06303ed</span></a></td>
+  <td class="commit-date">2005-10-25</td>
+  <td class="commit-message">Allow symbols to rename columns when using SQLite adapte...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b33557b6221c0d9f4d0a7374771b9272c48951a8"><span class="sha1">b33557b</span></a></td>
+  <td class="commit-date">2005-09-09</td>
+  <td class="commit-message">Added -c/--svn option to the generator that&#39;ll add new f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c44d35268d66374c5e2f0337183d5255c499a3c"><span class="sha1">6c44d35</span></a></td>
+  <td class="commit-date">2005-09-02</td>
+  <td class="commit-message">AbstractRequest#domain returns nil when host is an ip ad...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc6570dfcb69cbe9c1435fecb7d5949802c57401"><span class="sha1">bc6570d</span></a></td>
+  <td class="commit-date">2005-06-21</td>
+  <td class="commit-message">Added tag_options as a third parameter to AssetHelper#au...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

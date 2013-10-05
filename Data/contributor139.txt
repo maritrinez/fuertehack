@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ravil Bayramgalin to Ruby on Rails" />
+    <meta name="keywords" content="Ravil Bayramgalin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #136 Ravil Bayramgalin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #136 <span class="fn">Ravil Bayramgalin</span> - All time<br/>
+    <span class="listing-total">Showing 27 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9c5566acef049f924ade61da2247a5c9456eba0"><span class="sha1">c9c5566</span></a></td>
+  <td class="commit-date">2012-08-18</td>
+  <td class="commit-message">Use inversed parent for first and last child of has_many...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2e04a343eb668fe73864156ed9f3c373d42a588c"><span class="sha1">2e04a34</span></a></td>
+  <td class="commit-date">2012-08-11</td>
+  <td class="commit-message">Update changelog to reflect support of cookie jar option...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca07bc0de7282cf95376a507a2a5e1dd3ac66481"><span class="sha1">ca07bc0</span></a></td>
+  <td class="commit-date">2012-08-10</td>
+  <td class="commit-message">Test actual content of permanent cookie</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbe634e72cfbe9d66f08e0e22b0c718f136ae934"><span class="sha1">bbe634e</span></a></td>
+  <td class="commit-date">2012-08-10</td>
+  <td class="commit-message">Dont stream back cookie value if it was set to the same ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/058dc9a09680e9e2a5777c441b966a6f5e12cf82"><span class="sha1">058dc9a</span></a></td>
+  <td class="commit-date">2012-08-10</td>
+  <td class="commit-message">Revert &quot;Revert &quot;Merge pull request #6084 from brainopia/...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1579033100fe5a5738791c6f2fd4309c7ca3d78"><span class="sha1">e157903</span></a></td>
+  <td class="commit-date">2012-08-10</td>
+  <td class="commit-message">Test actual content of permanent cookie</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d18dd34719b1f9a3d2e3a516ccb83e7067dcd91"><span class="sha1">2d18dd3</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Dont stream back cookie value if it was set to the same ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ff2667d21a2c183d031acce44d95d06a8c99c035"><span class="sha1">ff2667d</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Dont set cookie header for deletion of unexisting data</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dbe5162496623c919457da1db7b5843f3dbe733f"><span class="sha1">dbe5162</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Simplify matching with array of possible domains</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/312ee8637366572425c9b3147a6477583333cf34"><span class="sha1">312ee86</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Use more appropriate one-liner for class declaration</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8dba9f13ea91cc15c40a9b12e15ea65aae1024e4"><span class="sha1">8dba9f1</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Remove unused ivars left from close checks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41219386268f670399a905c11e28b1ef76939ee1"><span class="sha1">4121938</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Support cookie jar options for all cookie stores</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a087b8b5e3da3f8cf5a68b6bd354497810bbbd9"><span class="sha1">3a087b8</span></a></td>
+  <td class="commit-date">2012-01-26</td>
+  <td class="commit-message">Fix contributing guide to reflect preferred position on ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/51ccb7f59c83120bf6869f1febfebaec44bcface"><span class="sha1">51ccb7f</span></a></td>
+  <td class="commit-date">2012-01-26</td>
+  <td class="commit-message">Fix contributing guide to reflect preferred position on ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b258bec4317d1013ad4ce2659fa46c4b0bb43c96"><span class="sha1">b258bec</span></a></td>
+  <td class="commit-date">2012-01-25</td>
+  <td class="commit-message">Deprecate DateTime.local_offset</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73709f7ffacca74cea2111b42a1ef65a7f8ebc3b"><span class="sha1">73709f7</span></a></td>
+  <td class="commit-date">2012-01-20</td>
+  <td class="commit-message">Removed unused assigns from ActionView::Template::Error</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e58a2dff70240d0b7634636a54a379e78cada3be"><span class="sha1">e58a2df</span></a></td>
+  <td class="commit-date">2012-01-18</td>
+  <td class="commit-message">Update time zone offset information</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e3d26733b8eb05e09c52c4533db6c2cfe8b07eb"><span class="sha1">8e3d267</span></a></td>
+  <td class="commit-date">2011-09-18</td>
+  <td class="commit-message">Fix test to reflect use of to_param for keys</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a04e370e4cc016bb7b59fe6bb704e4ca37d62f3"><span class="sha1">3a04e37</span></a></td>
+  <td class="commit-date">2011-09-16</td>
+  <td class="commit-message">Fix Hash#to_query edge case with html_safe string on 1.8...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c2687c390f0ac850af399e176f37de9f3fa2df6b"><span class="sha1">c2687c3</span></a></td>
+  <td class="commit-date">2011-05-31</td>
+  <td class="commit-message">Remove autoload for a couple of constants which don&#39;t ex...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb33bd944d03d174ac7eac5d59fc280b35b1a3bd"><span class="sha1">eb33bd9</span></a></td>
+  <td class="commit-date">2011-01-28</td>
+  <td class="commit-message">Psych correctly gets visitor for SafeBuffer from superclass</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/452dba72f5bac3118a3405408665ae372ebbe6a1"><span class="sha1">452dba7</span></a></td>
+  <td class="commit-date">2011-01-28</td>
+  <td class="commit-message">Remove unneeded yaml_as declaration</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8491f16e128d2d2cfe53676f36c5d4c281712bde"><span class="sha1">8491f16</span></a></td>
+  <td class="commit-date">2011-01-21</td>
+  <td class="commit-message">Add tld_length option when using domain :all in cookies</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/91a4193ee002d20e1b9bd637a5f14ac6213c8f39"><span class="sha1">91a4193</span></a></td>
+  <td class="commit-date">2011-01-21</td>
+  <td class="commit-message">Support list of possible domains for cookies</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/da82b0a746c36ea1274041b0d2401903abf33904"><span class="sha1">da82b0a</span></a></td>
+  <td class="commit-date">2011-01-15</td>
+  <td class="commit-message">Remove reference to ActiveRecord from ActiveModel comments</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ebc47465a5865ab91dc7d058d2d8a0cc961510d7"><span class="sha1">ebc4746</span></a></td>
+  <td class="commit-date">2010-12-15</td>
+  <td class="commit-message">Fix edge cases for domain :all option on cookie store</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/439c23dce33148064c258eaf6e79f9d4563c88a4"><span class="sha1">439c23d</span></a></td>
+  <td class="commit-date">2010-12-15</td>
+  <td class="commit-message">Fix edge cases for domain :all option on cookie store</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

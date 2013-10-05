@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Mark J. Titorenko to Ruby on Rails" />
+    <meta name="keywords" content="Mark J. Titorenko,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #105 Mark J. Titorenko - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #105 <span class="fn">Mark J. Titorenko</span> - All time<br/>
+    <span class="listing-total">Showing 36 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30e882cfb30ece2e2c77110ae20cd4a009b0e8f6"><span class="sha1">30e882c</span></a></td>
+  <td class="commit-date">2013-06-21</td>
+  <td class="commit-message">Fix BacktraceCleaner#noise for multiple silencers.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3678e45ecf8e17527722889d5347325083ad560"><span class="sha1">a3678e4</span></a></td>
+  <td class="commit-date">2013-06-20</td>
+  <td class="commit-message">Fix BacktraceCleaner#noise for multiple silencers.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/109a1b3358d8d973405b15cd76ec1872adc64d4c"><span class="sha1">109a1b3</span></a></td>
+  <td class="commit-date">2013-01-08</td>
+  <td class="commit-message">Revert cb3181e - no longer required.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc66b6b00472426b3e01ea8f394825af3c66b6ef"><span class="sha1">fc66b6b</span></a></td>
+  <td class="commit-date">2013-01-08</td>
+  <td class="commit-message">Fix CookieStore middleware inheritance hierarchy s.t. it...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7faa620fd697fe7323487e893596bc761e8d8b33"><span class="sha1">7faa620</span></a></td>
+  <td class="commit-date">2012-07-03</td>
+  <td class="commit-message">Fix NumberHelper options wrapping to prevent verbatim bl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/946875db2246b88c922a8370652d5c44dbb1939e"><span class="sha1">946875d</span></a></td>
+  <td class="commit-date">2012-05-09</td>
+  <td class="commit-message">Consistent CHANGELOG entry indentation.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/821771374f32e77d9ca3fb951ef53d629199a4c8"><span class="sha1">8217713</span></a></td>
+  <td class="commit-date">2012-05-09</td>
+  <td class="commit-message">Add CHANGELOG section for unreleased Rails 3.2.4; docume...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9b777d5adb6e8765c38965bef934d8b1c4e2815b"><span class="sha1">9b777d5</span></a></td>
+  <td class="commit-date">2012-05-09</td>
+  <td class="commit-message">Add CHANGELOG section for unreleased Rails 3.2.4; docume...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/705a70fb59b396d0fef2bd1aa0fca3c83e258b16"><span class="sha1">705a70f</span></a></td>
+  <td class="commit-date">2012-05-09</td>
+  <td class="commit-message">Bring activesupport CHANGELOG up-to-date/consistent with...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8c9aeca4e054a365d2b64f542617a40f656c666"><span class="sha1">e8c9aec</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">Fix NumberHelper options wrapping to prevent verbatim bl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61587b18d2b4b03041cc7e54da00cff6344abeec"><span class="sha1">61587b1</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">Remove accidentally pasted NOTE section during introduct...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f174e8dcef66446cb7483c48dc746887b29078b6"><span class="sha1">f174e8d</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">Corrections to +beginning_of_day+ and +end_of_day+ examp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8c4777f446d9e14deb077f44d31579a5a96e68ae"><span class="sha1">8c4777f</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">Added documentation for +beginning_of_hour+ and +end_of_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/145cc69524c43d24c257be30a7ea458a284d164f"><span class="sha1">145cc69</span></a></td>
+  <td class="commit-date">2012-05-04</td>
+  <td class="commit-message">added beginning_of_hour support to core_ext calculations...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6223d72b52b0d0bf0d8e0820673f4bf15b3321f6"><span class="sha1">6223d72</span></a></td>
+  <td class="commit-date">2012-05-04</td>
+  <td class="commit-message">enable tests for beginning_of_* and end_of_* within time...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8c3f4bec1fc6b50025f256f5244acbb8e892c9ee"><span class="sha1">8c3f4be</span></a></td>
+  <td class="commit-date">2012-05-04</td>
+  <td class="commit-message">added beginning_of_hour support to core_ext calculations...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f41b58d3b25eb57ba5c890b713301ba2e3fcb9b7"><span class="sha1">f41b58d</span></a></td>
+  <td class="commit-date">2011-10-07</td>
+  <td class="commit-message">use thread locals and an instance variable within QueryC...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/110ce85482a3f57f7776067f206408ecc36b9363"><span class="sha1">110ce85</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">added comment about why nondigest assets requires a rein...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26a62a6552b19332f23cc4af87d74ae3ee4aa123"><span class="sha1">26a62a6</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">only reinvoke if necessary</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42eda8f8a19e30e9d5de4e8963df1ee6ed8ce5a1"><span class="sha1">42eda8f</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">only execute the nondigest task if needed</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee51cc30ff93201c9e76e7fcfa2d298e4e1568c3"><span class="sha1">ee51cc3</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">don&#39;t munge the environment, let rake do that for us</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b41bd968c6734737d14c542c514b8deef30a3ffe"><span class="sha1">b41bd96</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">assets compilation task refactoring</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/871cbae6e4dc248c60554ffdf0f2d823792b2fe0"><span class="sha1">871cbae</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">added comment about why nondigest assets requires a rein...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45cdb3ea9d4cb7650e98df53ed10c317c05fc1fa"><span class="sha1">45cdb3e</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">only reinvoke if necessary</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20173e268228236c9006446c098507ea24138050"><span class="sha1">20173e2</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">only execute the nondigest task if needed</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbdb7f325874727dd7cabde41731877953e0024b"><span class="sha1">bbdb7f3</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">don&#39;t munge the environment, let rake do that for us</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/63bab287ec8a0789485bd90417f64f7e696d2898"><span class="sha1">63bab28</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">assets compilation task refactoring</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c69ef31676b8d0c7a54313b4c53aa7279b6f516"><span class="sha1">9c69ef3</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">correct path used in &quot;digested assets are not mistakenly...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f0b78e045f005fee96c11be150549d6092a2177"><span class="sha1">1f0b78e</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">add failing test: &quot;digested assets are removed from conf...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5eca91793d69fa1acead48dfc79c3d9de817df9"><span class="sha1">a5eca91</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">correct path used in &quot;digested assets are not mistakenly...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8093e3842393c6f148f5842ba0edef8bdd7b3285"><span class="sha1">8093e38</span></a></td>
+  <td class="commit-date">2011-10-04</td>
+  <td class="commit-message">add failing test: &quot;digested assets are removed from conf...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7648c213d17f1a58a022fb220efe6310e3f56c3"><span class="sha1">a7648c2</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">add failing test for #3198</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b1e4a265ff5138e4581a6e1d42e19051ec6a0b7"><span class="sha1">6b1e4a2</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">add failing test for #3198</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f22407dd34024886edd8a8f618dc0b19152776a0"><span class="sha1">f22407d</span></a></td>
+  <td class="commit-date">2011-09-13</td>
+  <td class="commit-message">Don&#39;t mount Sprockets at config.assets.prefix if config....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/74191edb22d69902efff5bde3eb7cdf5544bc3e6"><span class="sha1">74191ed</span></a></td>
+  <td class="commit-date">2007-06-11</td>
+  <td class="commit-message">Merge [7002] to stable: fix syntax error in dispatcher t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4e275dde3b6ff1bcdc5f12631faa48585cb491f"><span class="sha1">e4e275d</span></a></td>
+  <td class="commit-date">2007-06-11</td>
+  <td class="commit-message">Fix syntax error in dispatcher than wrecked failsafe res...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

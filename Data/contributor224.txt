@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Semyon Perepelitsa to Ruby on Rails" />
+    <meta name="keywords" content="Semyon Perepelitsa,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Semyon Perepelitsa - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Semyon Perepelitsa</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d1f33e09635af7bca1399de0533091fa7b47a49f"><span class="sha1">d1f33e0</span></a></td>
+  <td class="commit-date">2013-08-23</td>
+  <td class="commit-message">Fix typo in file path, should include extension.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/540ebe37cd1a9551b739c552a0d4efd2adc7ff22"><span class="sha1">540ebe3</span></a></td>
+  <td class="commit-date">2013-01-30</td>
+  <td class="commit-message">Fix `content_tag_for` with array html option.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2197e1f36575d90712da62abd6cbc27bf1feba6b"><span class="sha1">2197e1f</span></a></td>
+  <td class="commit-date">2012-11-21</td>
+  <td class="commit-message">Refactoring, testing and documenting pg_connection.distinct</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/150c6dc30f20f46c90c289704150268b7fb9edd9"><span class="sha1">150c6dc</span></a></td>
+  <td class="commit-date">2012-09-06</td>
+  <td class="commit-message">Redirect block with arity of 1 is deprecated.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46fc0f22e2e59234bdc37a58b04038caf5829f4b"><span class="sha1">46fc0f2</span></a></td>
+  <td class="commit-date">2012-01-31</td>
+  <td class="commit-message">Dont do underscore and camelize, only camelize is fine</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0706c3626fcab9cd87a522071a3f6027a6fb79d"><span class="sha1">d0706c3</span></a></td>
+  <td class="commit-date">2012-01-31</td>
+  <td class="commit-message">There is an &quot;inherit&quot; option on const_get too, why not u...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb1813cab859a404ffbb0bc8077407632b92a2f1"><span class="sha1">bb1813c</span></a></td>
+  <td class="commit-date">2012-01-21</td>
+  <td class="commit-message">Replace regexp matching with a simple string manipulation.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1729720871d73fa306faca7b05c5c05efa6eec49"><span class="sha1">1729720</span></a></td>
+  <td class="commit-date">2012-01-21</td>
+  <td class="commit-message">Why do we even need a constant here? A variable is fine.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7bf3c1a119e02ba5f40aa3df9e0a5be141abb3a"><span class="sha1">b7bf3c1</span></a></td>
+  <td class="commit-date">2012-01-21</td>
+  <td class="commit-message">TaggedLogging wraps an object, not a class.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/717510757df8601e241a5cde9466e795ad2b661d"><span class="sha1">7175107</span></a></td>
+  <td class="commit-date">2012-01-21</td>
+  <td class="commit-message">Do not use the same Logger constant for class (from stdl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d696f8de92ceb3cb38b11ec3b200b082b9578742"><span class="sha1">d696f8d</span></a></td>
+  <td class="commit-date">2012-01-15</td>
+  <td class="commit-message">Pass a symbol instead of a block. This is faster and mor...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2aedb202c1c06011b5cb1715a6c76bf0104b287f"><span class="sha1">2aedb20</span></a></td>
+  <td class="commit-date">2011-12-19</td>
+  <td class="commit-message">Fix syntax error in rdocs.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e66dd14b9378bcda2249d54adaa6bb29083d88a6"><span class="sha1">e66dd14</span></a></td>
+  <td class="commit-date">2011-09-13</td>
+  <td class="commit-message">Fix a typo in date</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21b4244d410bf5832b09f9b0bb06a12f8c886072"><span class="sha1">21b4244</span></a></td>
+  <td class="commit-date">2011-09-12</td>
+  <td class="commit-message">Fix a typo in date</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6d772c0953b418da774b2c3bf5cc297508669da7"><span class="sha1">6d772c0</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">Fix typo: =&gt; instead of =</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6822f39f67729884d7911b42542c965434a22250"><span class="sha1">6822f39</span></a></td>
+  <td class="commit-date">2011-04-22</td>
+  <td class="commit-message">Remove HTML escaping from Record Tag Helper docs.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

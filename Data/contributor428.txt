@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Tim Lucas to Ruby on Rails" />
+    <meta name="keywords" content="Tim Lucas,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Tim Lucas - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Tim Lucas</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6d474032a27c6ea86e97e7011b1e66de4b7c652"><span class="sha1">d6d4740</span></a></td>
+  <td class="commit-date">2011-09-07</td>
+  <td class="commit-message">Make sure require_tzinfo only calls Kernel#require if TZ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2147f35df251f215d845e870f21fd4010976eba3"><span class="sha1">2147f35</span></a></td>
+  <td class="commit-date">2011-09-07</td>
+  <td class="commit-message">Make sure require_tzinfo only calls Kernel#require if TZ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a406643b959d4bb601c62857ca38ebcd91eec4a8"><span class="sha1">a406643</span></a></td>
+  <td class="commit-date">2007-11-11</td>
+  <td class="commit-message">Improve documentation for IrreversibleMigrations.  Close...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a8d3d51f78b19993d3168d3c86e90e69c4a7ef4"><span class="sha1">4a8d3d5</span></a></td>
+  <td class="commit-date">2007-03-09</td>
+  <td class="commit-message">Merge [6364] from trunk. Consistently quote primary key ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98165fd31e7be605ef37e096e8423ce8953ef4ed"><span class="sha1">98165fd</span></a></td>
+  <td class="commit-date">2007-03-09</td>
+  <td class="commit-message">Consistently quote primary key column names. Closes #7763.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c59bce8596b980535664d0caa5b650384c7a0e91"><span class="sha1">c59bce8</span></a></td>
+  <td class="commit-date">2007-03-08</td>
+  <td class="commit-message">Fix typo. References #7727, closes #7762.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa5080ae248b0043216a506ae491f52b24af27d7"><span class="sha1">fa5080a</span></a></td>
+  <td class="commit-date">2006-10-15</td>
+  <td class="commit-message">Tidy up the markup on the bundled error pages.  Closes #...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a83ebfe703e922c4b0e2333521ed23208003f13"><span class="sha1">6a83ebf</span></a></td>
+  <td class="commit-date">2006-02-26</td>
+  <td class="commit-message">Fixed form_for regression (closes #3962) [t.lucas@toolma...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Brian Morearty to Ruby on Rails" />
+    <meta name="keywords" content="Brian Morearty,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Brian Morearty - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Brian Morearty</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/275a064cef9e2cd8112f6d96e8c571e2e69bfb98"><span class="sha1">275a064</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">Revert the guide after removing varargs from `in?`.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/88eb1a8644081a3e6943576873283980f891d828"><span class="sha1">88eb1a8</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">Revert &quot;Object#in? also accepts multiple parameters&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62c62bc360bf1ce3db0a11be47a974fcc0777362"><span class="sha1">62c62bc</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">Revert the guide after removing varargs from `in?`.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7da403dde3a037a014741420bb7c6e7c7521a48"><span class="sha1">d7da403</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">Revert &quot;Object#in? also accepts multiple parameters&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a76d08733da72cf1ee808a38304a9927e734765"><span class="sha1">5a76d08</span></a></td>
+  <td class="commit-date">2012-09-23</td>
+  <td class="commit-message">Update test to match new non-sorting of attributes.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/263764d13a9cd4eae60d1fa9e50af57f506f3dd4"><span class="sha1">263764d</span></a></td>
+  <td class="commit-date">2012-09-23</td>
+  <td class="commit-message">Removed sorting of attribute names in controller generator.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11146f1485ac83950c1079a458bd5fbae6ab405b"><span class="sha1">11146f1</span></a></td>
+  <td class="commit-date">2011-08-24</td>
+  <td class="commit-message">Remove extra word from sentence in initialization guide.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/635d991683c439da56fa72853880e88e6ac291ed"><span class="sha1">635d991</span></a></td>
+  <td class="commit-date">2011-04-10</td>
+  <td class="commit-message">Add support for Object#in? and Object#either? in Active ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c56e314866dff5d72c2a90e5e785c9a12d73d22b"><span class="sha1">c56e314</span></a></td>
+  <td class="commit-date">2011-02-05</td>
+  <td class="commit-message">Updates to ActiveRecord::Timestamp documentation.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a29bfae2cbb956e469942ed1d4ea8c702085a1a"><span class="sha1">3a29bfa</span></a></td>
+  <td class="commit-date">2011-02-04</td>
+  <td class="commit-message">Change Time.zone= docs.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8da518bbfedc2a06b1d96912ddae00e57f21748"><span class="sha1">c8da518</span></a></td>
+  <td class="commit-date">2007-12-17</td>
+  <td class="commit-message">Tagged Rails 2.0.2</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/436da684dc3e85c4251d6e586913b8520add8638"><span class="sha1">436da68</span></a></td>
+  <td class="commit-date">2007-12-17</td>
+  <td class="commit-message">Allow headers[Accept] to be set by hand when calling xml...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by maiha to Ruby on Rails" />
+    <meta name="keywords" content="maiha,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #242 maiha - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #242 <span class="fn">maiha</span> - All time<br/>
+    <span class="listing-total">Showing 14 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef4fb3dee2e897b245ee6f545232378db3de7b38"><span class="sha1">ef4fb3d</span></a></td>
+  <td class="commit-date">2006-10-02</td>
+  <td class="commit-message">save! shouldn&#39;t validate twice. Closes #6324.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e72ff355c35879ffaf262f4bd91ce7612f028a8e"><span class="sha1">e72ff35</span></a></td>
+  <td class="commit-date">2006-06-03</td>
+  <td class="commit-message">Fixed that Module#alias_method_chain should work with bo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4394e402b7a482675ceb5ab9e832defe930bd71e"><span class="sha1">4394e40</span></a></td>
+  <td class="commit-date">2006-06-03</td>
+  <td class="commit-message">Fixed that count distinct should use the selected column...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/932622294194888cf7f9c5a10c082b75f0b7ab8d"><span class="sha1">9326222</span></a></td>
+  <td class="commit-date">2006-03-25</td>
+  <td class="commit-message">Use example.com as standard (closes #4413) [anna]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55854c4195177d2d5cbf0497c77e63b24cb76074"><span class="sha1">55854c4</span></a></td>
+  <td class="commit-date">2006-03-04</td>
+  <td class="commit-message">Added cascading eager loading that allows for queries li...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/116658e69b9c4a722e6ae8717629b8cd0057db89"><span class="sha1">116658e</span></a></td>
+  <td class="commit-date">2006-03-03</td>
+  <td class="commit-message">Fixed that calling HasOneProxy#build_model repeatedly wo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1215d54c2f31c4d19b2432ab05751fe2eaec0319"><span class="sha1">1215d54</span></a></td>
+  <td class="commit-date">2006-02-26</td>
+  <td class="commit-message">Added support for nested scopes (closes #3407) [anna@wot...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/647130d7ff43c91c5be14e27a9bcd1ad4a61985e"><span class="sha1">647130d</span></a></td>
+  <td class="commit-date">2006-02-26</td>
+  <td class="commit-message">Added collision option to template generation in generat...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8896efd41aca929ef91ee28a0e406bffeb253834"><span class="sha1">8896efd</span></a></td>
+  <td class="commit-date">2006-02-19</td>
+  <td class="commit-message">Ensure backwards compatibility with symbolized action na...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62d749ab0ef1787e050537bd9a6f833b30f1331d"><span class="sha1">62d749a</span></a></td>
+  <td class="commit-date">2006-01-14</td>
+  <td class="commit-message">Don&#39;t hardcode id in acts_as_list.  Closes #3370</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/35c50bf93822d8af19b9bc1959a38a1bb8af67b7"><span class="sha1">35c50bf</span></a></td>
+  <td class="commit-date">2006-01-13</td>
+  <td class="commit-message">Fix problems with the plugin loader where plugins could ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e2b3d8b5a37e70134cf4dd05f6ff9e6d19bb0eb"><span class="sha1">1e2b3d8</span></a></td>
+  <td class="commit-date">2006-01-13</td>
+  <td class="commit-message">Escape database name in MySQL adapter when creating and ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a19d148b7ae29872c1a7314a09bb14d338fc390"><span class="sha1">8a19d14</span></a></td>
+  <td class="commit-date">2005-12-08</td>
+  <td class="commit-message"> r3389@asus:  jeremy | 2005-12-07 20:52:39 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df901ce3455159f2a01d443239f33b50b5dacf4e"><span class="sha1">df901ce</span></a></td>
+  <td class="commit-date">2005-12-08</td>
+  <td class="commit-message">SQLite: find database file when RAILS_ROOT is a symlink....</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Arturo Pie to Ruby on Rails" />
+    <meta name="keywords" content="Arturo Pie,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Arturo Pie - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Arturo Pie</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3006c59bc7a50c925f6b744447f1d94533a64241"><span class="sha1">3006c59</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">7914 Using a better way to get the defaults from db.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3980465f2651ae2520828d9aec3b310da69521fe"><span class="sha1">3980465</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">#7914 get default value when type uses schema name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8fb841bddefbd2b7ad6b3d7b560111ef0d7fefda"><span class="sha1">8fb841b</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">#7914 Remove code for unsupported postgreSQL version.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/40475cf3649af4a6d868299b1796b36358f90917"><span class="sha1">40475cf</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">#7914 Using a better way to get the defaults from db.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/54b3f417411097f7404d15355858f56ad66e8294"><span class="sha1">54b3f41</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">#7914 Add change of previous commit to CHANGELOG.md</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2da85edda36692c882ff25ccf7dbd038de2f771c"><span class="sha1">2da85ed</span></a></td>
+  <td class="commit-date">2012-10-13</td>
+  <td class="commit-message">#7914 get default value when type uses schema name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5d4e1c8507ec95d8c0366b37b26b97426b91100"><span class="sha1">a5d4e1c</span></a></td>
+  <td class="commit-date">2012-10-13</td>
+  <td class="commit-message">Update guides/source/contributing_to_ruby_on_rails.md</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/058ae7e1c90b555756c9ecd029d60b5cd0341be0"><span class="sha1">058ae7e</span></a></td>
+  <td class="commit-date">2012-10-12</td>
+  <td class="commit-message">Fix small typo in development_dependencies_install</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6896cd451545679a6413939fc4eae68f3cc3ba8b"><span class="sha1">6896cd4</span></a></td>
+  <td class="commit-date">2012-03-30</td>
+  <td class="commit-message">refactor instantiate method in base, so we remove nestin...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/714a2c810deb9d219442f7c981e61eb6d5c45d33"><span class="sha1">714a2c8</span></a></td>
+  <td class="commit-date">2012-03-30</td>
+  <td class="commit-message">refactor the checking of the attributes of the record in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c8f84d3a6b199b04394ed1a5bba3bc0d8f1e811"><span class="sha1">2c8f84d</span></a></td>
+  <td class="commit-date">2012-03-30</td>
+  <td class="commit-message">Do not add record to identity map if the record doesn&#39;t ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b29e868cc335e2a696c36b6d7ccdf199ed8abf70"><span class="sha1">b29e868</span></a></td>
+  <td class="commit-date">2012-03-30</td>
+  <td class="commit-message">Adds a test that breaks IM when using #select</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14af11664147dc4b59de85970965b7b6d49975ac"><span class="sha1">14af116</span></a></td>
+  <td class="commit-date">2012-03-29</td>
+  <td class="commit-message">refactor instantiate method in base, so we remove nestin...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15a2e0dee2d6bd3dcc7eb47ff1a28a9c7433be38"><span class="sha1">15a2e0d</span></a></td>
+  <td class="commit-date">2012-03-28</td>
+  <td class="commit-message">refactor the checking of the attributes of the record in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a00a42dc013602c74fc6aca89fc9a69fe29c05b5"><span class="sha1">a00a42d</span></a></td>
+  <td class="commit-date">2012-03-28</td>
+  <td class="commit-message">Do not add record to identity map if the record doesn&#39;t ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/488ea89a4be686b2e1ed2a4280756d4c42377719"><span class="sha1">488ea89</span></a></td>
+  <td class="commit-date">2012-03-28</td>
+  <td class="commit-message">Adds a test that breaks IM when using #select</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

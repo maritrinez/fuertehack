@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Norbert Crombach to Ruby on Rails" />
+    <meta name="keywords" content="Norbert Crombach,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 Norbert Crombach - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">Norbert Crombach</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/964dfc15572d7c10771c81ac3cbfb455dd5e378e"><span class="sha1">964dfc1</span></a></td>
+  <td class="commit-date">2008-10-04</td>
+  <td class="commit-message">First draft of ActiveSupport::Rescuable</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e16ecaf84c05b054a8ec3b776b3223880edda3d4"><span class="sha1">e16ecaf</span></a></td>
+  <td class="commit-date">2007-12-06</td>
+  <td class="commit-message">Fixed that the truncation of strings longer than 50 char...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f70b74a5bc4b5dbd415cf42a4a16a7ded173765e"><span class="sha1">f70b74a</span></a></td>
+  <td class="commit-date">2007-10-11</td>
+  <td class="commit-message">Backport fix to allow :controller=&gt;:some_symbol [norbert]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b095ce63f2dbc88c1cb6da018d02e3707b8b48b9"><span class="sha1">b095ce6</span></a></td>
+  <td class="commit-date">2007-09-28</td>
+  <td class="commit-message">Fixtures test fixes and general cleanup. Closes #9682 [n...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6f49d9b786bfcc049a99f843de8e4d838de1179"><span class="sha1">a6f49d9</span></a></td>
+  <td class="commit-date">2007-09-23</td>
+  <td class="commit-message">Introduce ActionController::Base.rescue_from to declare ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f29043f456af423c4ec7599040625c87321aa77"><span class="sha1">3f29043</span></a></td>
+  <td class="commit-date">2007-09-15</td>
+  <td class="commit-message">Added Array#rand (closes #9170) [norbert]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f0dbd22c4647bf8e37fd9b58ce6652aaca27376e"><span class="sha1">f0dbd22</span></a></td>
+  <td class="commit-date">2007-09-02</td>
+  <td class="commit-message">Allow Float#round to take a precision argument.  Closes ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93eaaef43c5614a61bde3eace9a539b5703f3168"><span class="sha1">93eaaef</span></a></td>
+  <td class="commit-date">2007-08-28</td>
+  <td class="commit-message">Use extract_options instead of ad-hoc partial implementa...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea07212d9780841fbfb3368247ccc0b4bdee5bf5"><span class="sha1">ea07212</span></a></td>
+  <td class="commit-date">2007-07-25</td>
+  <td class="commit-message">dont call #collect on a string when returning query cach...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34b081112536e382845e8dee146d884b4af20c4a"><span class="sha1">34b0811</span></a></td>
+  <td class="commit-date">2007-07-24</td>
+  <td class="commit-message">Added Array#extract_options! to encapsulate the pattern ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/230615b2860165368b95aa31a75d719b0b0c379f"><span class="sha1">230615b</span></a></td>
+  <td class="commit-date">2007-07-24</td>
+  <td class="commit-message">assert_difference belongs in Assertions, not forced onto...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a450e769f1c7f5c68799f570856d020863528d17"><span class="sha1">a450e76</span></a></td>
+  <td class="commit-date">2007-07-01</td>
+  <td class="commit-message">Allow you to render views with periods in the name.  Clo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/404a357013f6a544692841770b03a1ccf0b57ea7"><span class="sha1">404a357</span></a></td>
+  <td class="commit-date">2007-05-26</td>
+  <td class="commit-message"> Fix syntax error in code example for routing documentat...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43cd97e7fa7043246da7129520ba8b69fbaea82e"><span class="sha1">43cd97e</span></a></td>
+  <td class="commit-date">2007-05-22</td>
+  <td class="commit-message">Generated scaffold functional tests use assert_differenc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93c29e58f39563feb71c30e4d62b36a672a46831"><span class="sha1">93c29e5</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Fix documentation typo in routes. Closes #8250.  [norbert]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

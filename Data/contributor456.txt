@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Lance Ivy to Ruby on Rails" />
+    <meta name="keywords" content="Lance Ivy,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #430 Lance Ivy - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #430 <span class="fn">Lance Ivy</span> - All time<br/>
+    <span class="listing-total">Showing 7 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a145955fb7a7c3963453733b3fbac8a2c12a45d7"><span class="sha1">a145955</span></a></td>
+  <td class="commit-date">2013-05-05</td>
+  <td class="commit-message">use canonical #controller_path logic in controller test ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e08e196fa5c7183aec1f6dbeebe6bb7539e3c66"><span class="sha1">9e08e19</span></a></td>
+  <td class="commit-date">2010-05-24</td>
+  <td class="commit-message">Ensure auto_link does not ignore multiple trailing punct...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a44a1257d879311d88c2d10c366ab0d6561f903a"><span class="sha1">a44a125</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Don&#39;t cascade autosave validation to destroyed children....</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7c1e4ef64bd26927708da641584a6a13d9b1391c"><span class="sha1">7c1e4ef</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Don&#39;t cascade autosave validation to destroyed children....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11bac700784efe232083f94e3d28d171957e667e"><span class="sha1">11bac70</span></a></td>
+  <td class="commit-date">2009-05-17</td>
+  <td class="commit-message">Ensure auto_link does not ignore multiple trailing punct...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5dbc9d40a49f5f0f50c2f3ebe6dda942f0e61562"><span class="sha1">5dbc9d4</span></a></td>
+  <td class="commit-date">2009-02-13</td>
+  <td class="commit-message">Changed API of NestedAttributes to take an array, or has...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd1a9ed991e8988dbcc28023b91e76b5ee45f79b"><span class="sha1">cd1a9ed</span></a></td>
+  <td class="commit-date">2008-11-22</td>
+  <td class="commit-message">Add TestResponse#client_error? to check for 4xx status c...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Rodrigo Navarro to Ruby on Rails" />
+    <meta name="keywords" content="Rodrigo Navarro,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Rodrigo Navarro - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Rodrigo Navarro</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8166e4b0c3db7837e3880e44b56800fe531cdcd2"><span class="sha1">8166e4b</span></a></td>
+  <td class="commit-date">2011-06-08</td>
+  <td class="commit-message">No need to create a new Arel::Table, as the arel_table m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f97f056f9707101a14d0ff43db0866ddc7515c2"><span class="sha1">3f97f05</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Pointing out that dynamic_form plugin must be installed ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ff10c17aa6955c1e7c6b3ce17f01f80649abf2b"><span class="sha1">6ff10c1</span></a></td>
+  <td class="commit-date">2011-02-27</td>
+  <td class="commit-message">Pointing out that dynamic_form plugin must be installed ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b2412978f5adfd245670e61e46f224b25b041e4"><span class="sha1">0b24129</span></a></td>
+  <td class="commit-date">2011-02-23</td>
+  <td class="commit-message">Fixing wrong class name.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29399e00c9a0875b6823989c636058910fd7c86b"><span class="sha1">29399e0</span></a></td>
+  <td class="commit-date">2011-02-23</td>
+  <td class="commit-message">ActiveModel::Validator#validate must receive have a reco...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26a50689c9079087d5323d45921d3af958c03eb4"><span class="sha1">26a5068</span></a></td>
+  <td class="commit-date">2011-02-21</td>
+  <td class="commit-message">Adding new examples for update_all method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b39766fda560bb911bd4f8247101d641d4f60958"><span class="sha1">b39766f</span></a></td>
+  <td class="commit-date">2011-02-21</td>
+  <td class="commit-message">Adding examples</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62fd3346843845cbf0266e8eab895d7cf285c24e"><span class="sha1">62fd334</span></a></td>
+  <td class="commit-date">2011-02-21</td>
+  <td class="commit-message">Adding new examples for update_all method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4da0157aaffef6063d5ad2984c4a4e472f15f0d5"><span class="sha1">4da0157</span></a></td>
+  <td class="commit-date">2011-02-21</td>
+  <td class="commit-message">Adding examples</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77c099c231f2efb36a2a77a32138ed5c6761ec19"><span class="sha1">77c099c</span></a></td>
+  <td class="commit-date">2010-04-25</td>
+  <td class="commit-message">Fix validates_numericaly_of only integer error message [...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

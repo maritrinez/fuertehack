@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Leon Breedt to Ruby on Rails" />
+    <meta name="keywords" content="Leon Breedt,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #56 Leon Breedt - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #56 <span class="fn">Leon Breedt</span> - All time<br/>
+    <span class="listing-total">Showing 82 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98ae24b9676fb4c28d25c13ace8d08ec741aad04"><span class="sha1">98ae24b</span></a></td>
+  <td class="commit-date">2005-11-09</td>
+  <td class="commit-message">Fix that XML-RPC date/time values did not have well-defi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9aafcd92de48ff82ff0341bc3ae1fca2a50ab81a"><span class="sha1">9aafcd9</span></a></td>
+  <td class="commit-date">2005-08-24</td>
+  <td class="commit-message">fix invalid request XML generation in test process.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbba128f73e9a297ca6252c85d3c42b34241ff2f"><span class="sha1">fbba128</span></a></td>
+  <td class="commit-date">2005-08-16</td>
+  <td class="commit-message">special-case non-existent target method handling for &#39;sy...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9d79880e81a035c96ca70d7e342549236ed1f242"><span class="sha1">9d79880</span></a></td>
+  <td class="commit-date">2005-08-16</td>
+  <td class="commit-message">add &#39;system.multicall&#39; support to XML-RPC. boxcarred met...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2eba7134455863f936d0b1e8e88284c08ef6b083"><span class="sha1">2eba713</span></a></td>
+  <td class="commit-date">2005-08-14</td>
+  <td class="commit-message">Fix duplicate XSD entries for custom types (#1729), and ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/056838d2fc959ab71f598dee8b8b0691608f8a72"><span class="sha1">056838d</span></a></td>
+  <td class="commit-date">2005-08-14</td>
+  <td class="commit-message">Allow multiple invocations in the same WS test #1720</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cbf709fc5c7725f64471980ca52f3f99d6bb568b"><span class="sha1">cbf709f</span></a></td>
+  <td class="commit-date">2005-08-12</td>
+  <td class="commit-message">fix rendering of scaffolding (@content_for_layout has to...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eaadd18f3f2c8e59a79f451e706aa15447c10018"><span class="sha1">eaadd18</span></a></td>
+  <td class="commit-date">2005-08-12</td>
+  <td class="commit-message">Add API::Base.soap_client and API::Base.xmlrpc_client he...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ebdecfb89c840cdf8c0a35084f962e3174fcf1c"><span class="sha1">7ebdecf</span></a></td>
+  <td class="commit-date">2005-07-22</td>
+  <td class="commit-message">Add comment in config/environment.rb explaining $KCODE a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03d91590258e7cc6e27a8b0c1dc21ff93b70884a"><span class="sha1">03d9159</span></a></td>
+  <td class="commit-date">2005-07-16</td>
+  <td class="commit-message">we should respect charset for incoming messages and not ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f92f6a1301aea5a920ec212ec3274551f2767e15"><span class="sha1">f92f6a1</span></a></td>
+  <td class="commit-date">2005-07-13</td>
+  <td class="commit-message">add changelog entry.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7f3751ce04e144f0794cc817ec13d850ceb6fd8"><span class="sha1">b7f3751</span></a></td>
+  <td class="commit-date">2005-07-13</td>
+  <td class="commit-message">make sure that we get back a SOAPString when $KCODE is U...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dfc422b784d3f62daa5a876d65b0ac983c33408a"><span class="sha1">dfc422b</span></a></td>
+  <td class="commit-date">2005-07-13</td>
+  <td class="commit-message">always send back SOAP responses as UTF-8, we can&#39;t guara...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8be47a6a3088440f71b2995c1402020d9df13d3"><span class="sha1">f8be47a</span></a></td>
+  <td class="commit-date">2005-07-06</td>
+  <td class="commit-message">ensure the second manual WS request of scaffolding conta...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d01c44d550998190108ee31647e42393a65b6469"><span class="sha1">d01c44d</span></a></td>
+  <td class="commit-date">2005-07-06</td>
+  <td class="commit-message">fix bug in unit test causing spurious failures, and make...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b07366c2fc12dcd38c1498e3239beb03103a09e"><span class="sha1">1b07366</span></a></td>
+  <td class="commit-date">2005-06-25</td>
+  <td class="commit-message">add RDoc for base signature types</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07f237bdae9051cfc5bd38d7608f7a63de54e01b"><span class="sha1">07f237b</span></a></td>
+  <td class="commit-date">2005-06-25</td>
+  <td class="commit-message">clean up cases where we override #inherited</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ebb6fb09280f828258432223fd543de9dfda6370"><span class="sha1">ebb6fb0</span></a></td>
+  <td class="commit-date">2005-06-25</td>
+  <td class="commit-message">fix WSDL generation, change the way protocols are instan...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa7f4a066466f8587ddd11b96dcbbe5008ab63a9"><span class="sha1">fa7f4a0</span></a></td>
+  <td class="commit-date">2005-06-13</td>
+  <td class="commit-message">Add workaround for SOAP4R changing find_mapped_soap_clas...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/887e67c80e12308467526d731e74fafef9f07ac9"><span class="sha1">887e67c</span></a></td>
+  <td class="commit-date">2005-06-13</td>
+  <td class="commit-message">Fix moduled controller URLs in WSDL, and add unit test t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46e68538c08d751554b2c6f512659993ef62c218"><span class="sha1">46e6853</span></a></td>
+  <td class="commit-date">2005-05-31</td>
+  <td class="commit-message">fix scaffolding template paths (Pathname does weird thin...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92b925b1c55d9216d2af74fcdaf774b3d2b69160"><span class="sha1">92b925b</span></a></td>
+  <td class="commit-date">2005-05-20</td>
+  <td class="commit-message">memo to self: add :rest dispatching mode, and vanilla XM...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/979880dd24d74cd2e99a06eab6c9969a1b5b2ceb"><span class="sha1">979880d</span></a></td>
+  <td class="commit-date">2005-05-08</td>
+  <td class="commit-message">add test to ensure the bug fixed by [1295] can&#39;t occur a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/190eaf93078d2fae54b0f88a3325f2965b560fe3"><span class="sha1">190eaf9</span></a></td>
+  <td class="commit-date">2005-05-08</td>
+  <td class="commit-message">fix that functional testing for :layered SOAP would comp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/884fd4792d33032ffa88e08d17a9cf14b733c078"><span class="sha1">884fd47</span></a></td>
+  <td class="commit-date">2005-05-07</td>
+  <td class="commit-message">support using invocation filters in :direct controllers ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47a7084b94b8cd0dfc43e0b8f1775eef31c5170d"><span class="sha1">47a7084</span></a></td>
+  <td class="commit-date">2005-05-07</td>
+  <td class="commit-message">add base64 signature type (thanks, Shugo Maeda!)</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/421045e2ff9e0f2077b4f1f23541f197b3249bd7"><span class="sha1">421045e</span></a></td>
+  <td class="commit-date">2005-05-05</td>
+  <td class="commit-message">remove usages of @request, @response, @params, and repla...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/811f6a7aab10b0c75ab2882b30075335761d1275"><span class="sha1">811f6a7</span></a></td>
+  <td class="commit-date">2005-05-05</td>
+  <td class="commit-message">fix boolean field rendering in scaffolding</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a02f1b85f01c87848cfb02548a6e09654ee3e261"><span class="sha1">a02f1b8</span></a></td>
+  <td class="commit-date">2005-05-05</td>
+  <td class="commit-message">fix :delegated invocation in the scaffolding</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a080b1a231ba26e3d74fd1770abc97068a9d7095"><span class="sha1">a080b1a</span></a></td>
+  <td class="commit-date">2005-05-01</td>
+  <td class="commit-message">add support for structured types as input parameters to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8694a79bb2d543a46867454b743c38ce85380e4e"><span class="sha1">8694a79</span></a></td>
+  <td class="commit-date">2005-04-28</td>
+  <td class="commit-message">default to using UTF-8 as response encoding for SOAP if ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/896fea505b67f6dd842a58c72bcd919c593d925a"><span class="sha1">896fea5</span></a></td>
+  <td class="commit-date">2005-04-28</td>
+  <td class="commit-message">add charset=utf-8 to SOAP response content type, and mak...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/74c9fd2ba50964cd44b9ff34a63bdecdfbd1ab62"><span class="sha1">74c9fd2</span></a></td>
+  <td class="commit-date">2005-04-27</td>
+  <td class="commit-message">add entry for nil casting change</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3cf461323c0401e56e4a7d7962745bbbe5316fd1"><span class="sha1">3cf4613</span></a></td>
+  <td class="commit-date">2005-04-19</td>
+  <td class="commit-message">Fix regression where nil values were incorrectly being c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c11cc309fa7eb83f76237d022b119802bd7a4968"><span class="sha1">c11cc30</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">add backwards compatibility for the public API change ma...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5feb7e26e8ae45030e075ec387e4c0cccc3b05ec"><span class="sha1">5feb7e2</span></a></td>
+  <td class="commit-date">2005-04-16</td>
+  <td class="commit-message">Send a stripped down message in the text following 500, ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f32666924493fb21a72ad56fb2cf4091aad4141"><span class="sha1">7f32666</span></a></td>
+  <td class="commit-date">2005-04-16</td>
+  <td class="commit-message">Remove a cause of casting failure for XML-RPC by ignorin...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a677da209b16f43198b3485dda89dce862fb9bfb"><span class="sha1">a677da2</span></a></td>
+  <td class="commit-date">2005-04-10</td>
+  <td class="commit-message">Added rollbacks of transactions if they&#39;re active as the...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a04fc268b769f9e38ebdec0674fc3c6ec57fef1c"><span class="sha1">a04fc26</span></a></td>
+  <td class="commit-date">2005-04-10</td>
+  <td class="commit-message">add missing public API change</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/642713358400c186a41856c5464a232a20d0ebd1"><span class="sha1">6427133</span></a></td>
+  <td class="commit-date">2005-04-05</td>
+  <td class="commit-message">support SOAP invocation of layered services in scaffoldi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1155ea0aa3c25b4683c6343162cd49dbe0fec094"><span class="sha1">1155ea0</span></a></td>
+  <td class="commit-date">2005-04-05</td>
+  <td class="commit-message">initial go at making :layered dispatching generate WSDL ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97e39fcb6418a5b1d5254ebb1059df796db21701"><span class="sha1">97e39fc</span></a></td>
+  <td class="commit-date">2005-04-05</td>
+  <td class="commit-message">make XMLRPC::FaultException have a #message, otherwise t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9b42cd8cc1d52e5a8d80b67b17e5887c15e90904"><span class="sha1">9b42cd8</span></a></td>
+  <td class="commit-date">2005-04-05</td>
+  <td class="commit-message">add API::Method#expects_to_hash convenience as well</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a5bac1de0c6a851d5e2a224629ee0a135db6bc2"><span class="sha1">7a5bac1</span></a></td>
+  <td class="commit-date">2005-04-05</td>
+  <td class="commit-message">add API::Method#expects_index_of helper to get the index of</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/361dcad8fd022065bc38fd557b0ec02d6e3f1a0b"><span class="sha1">361dcad</span></a></td>
+  <td class="commit-date">2005-04-05</td>
+  <td class="commit-message">be explicit about the object to do #instance_eval in for...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7a7d85dbdd2e13612affe48cca39aa48643944d"><span class="sha1">d7a7d85</span></a></td>
+  <td class="commit-date">2005-04-04</td>
+  <td class="commit-message"> * Fix casting of nested members in structured types if ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2cfe309dc498bedaa7ca78c16d1270c359f70cdd"><span class="sha1">2cfe309</span></a></td>
+  <td class="commit-date">2005-04-03</td>
+  <td class="commit-message">don&#39;t use SyncEnumerator, its far too slow to be used in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17e5035bc566815b8aa8c192fec97a781f726938"><span class="sha1">17e5035</span></a></td>
+  <td class="commit-date">2005-04-03</td>
+  <td class="commit-message">use #rescue_action in WS scaffolding so that exceptions ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e5fdff8f467a48dd68efc854ef0f9d8302d33d2f"><span class="sha1">e5fdff8</span></a></td>
+  <td class="commit-date">2005-04-03</td>
+  <td class="commit-message">remove finished tasks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcfe3febd3cbf535dbd4ae47563b4876f7a42239"><span class="sha1">fcfe3fe</span></a></td>
+  <td class="commit-date">2005-04-03</td>
+  <td class="commit-message">allow selecting the protocol to use when invoking the</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/353497458b460d03114905e001f782c6f0b463fa"><span class="sha1">3534974</span></a></td>
+  <td class="commit-date">2005-04-02</td>
+  <td class="commit-message">filter out embedded nil values for XML-RPC</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aaea48fe9826b9e5d2d5b92795a297b8f238c58d"><span class="sha1">aaea48f</span></a></td>
+  <td class="commit-date">2005-04-02</td>
+  <td class="commit-message">* collapse &#39;ws&#39; back into protocols, it just added compl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0de97c81dbe80e4abc50ec1434b33fe3219f2fd4"><span class="sha1">0de97c8</span></a></td>
+  <td class="commit-date">2005-03-31</td>
+  <td class="commit-message">display the amount of time taken to invoke a scaffolding...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f198eb58ece74409827f3d4a739e49a1a0ecab5"><span class="sha1">0f198eb</span></a></td>
+  <td class="commit-date">2005-03-31</td>
+  <td class="commit-message">remove ActiveRecordSoapMarshallable, can&#39;t reproduce the...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b94bd32f3116b469b48400382dbc964bf17994d1"><span class="sha1">b94bd32</span></a></td>
+  <td class="commit-date">2005-03-29</td>
+  <td class="commit-message">first pass of web service scaffolding. add ability to qu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37270359ac5a4e09eb3caff58963327bfb699460"><span class="sha1">3727035</span></a></td>
+  <td class="commit-date">2005-03-29</td>
+  <td class="commit-message">remove wrongheaded uses of &quot;rescue nil&quot; if it will mask ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b14e5d8334ac5c46d69c1eee4fcb2f3a73da3e6a"><span class="sha1">b14e5d8</span></a></td>
+  <td class="commit-date">2005-03-28</td>
+  <td class="commit-message">don&#39;t hide exceptions when we fail to parse XML-RPC mess...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/594063f23cf8e7cecd24329e801992784f420b55"><span class="sha1">594063f</span></a></td>
+  <td class="commit-date">2005-03-28</td>
+  <td class="commit-message">generalize casting code to be used by both SOAP and XML-...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8032c4ffd47ba4deb5cbd88a462b837240eb593c"><span class="sha1">8032c4f</span></a></td>
+  <td class="commit-date">2005-03-26</td>
+  <td class="commit-message">allow direct dispatching methods to declare their parame...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2805207b71df948ed889ec9bac70b727bb0ffeb"><span class="sha1">e280520</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">add missing entries</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75c304f82f7a5e8b061537cde6e605920c5d9b0b"><span class="sha1">75c304f</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">make the response QName match up with that declared for ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9776bfc8a0e110dce751d0e78305432a155b93cd"><span class="sha1">9776bfc</span></a></td>
+  <td class="commit-date">2005-03-15</td>
+  <td class="commit-message">dup the value received from @request, so we modify the c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f2f408ba1a7dd976a1ec5061d05ef0439e5f942"><span class="sha1">4f2f408</span></a></td>
+  <td class="commit-date">2005-03-10</td>
+  <td class="commit-message">allow 0, 1, &#39;0&#39; or &#39;1&#39; to be cast to the appropriate val...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4e8ca35defa317d22a0b7916f20a4725c235b90c"><span class="sha1">4e8ca35</span></a></td>
+  <td class="commit-date">2005-03-10</td>
+  <td class="commit-message">change type of faultCode in marshaled SOAP faults to a Q...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9eb04967a4b7b7382cf5c562d379fdd65ceaaf1b"><span class="sha1">9eb0496</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added web_service generator (run ./script/generate web_s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2581806abd9cefa0beba092f66bf5bb8cb950064"><span class="sha1">2581806</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added web_service generator (run ./script/generate web_s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d43392a50b4f7023b13747a67c4a6aa85e4036c4"><span class="sha1">d43392a</span></a></td>
+  <td class="commit-date">2005-03-04</td>
+  <td class="commit-message">add action_web_service/test_invoke, will be used by for ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e834be75bcbbece8970abad221f21411c5b93a96"><span class="sha1">e834be7</span></a></td>
+  <td class="commit-date">2005-03-03</td>
+  <td class="commit-message">allow the client to specify options to be passed through...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/631340d5d1b6c3bc610960116226789c4f51eecc"><span class="sha1">631340d</span></a></td>
+  <td class="commit-date">2005-03-02</td>
+  <td class="commit-message">make the marshaler use the same set of columns as the co...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7093c9aaab514398e757cb22a44d134cbab95068"><span class="sha1">7093c9a</span></a></td>
+  <td class="commit-date">2005-03-02</td>
+  <td class="commit-message">add missing entry for #allow_active_record_expects</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b93952ae6866a82adccc3a8c8d022f3ac674c59"><span class="sha1">6b93952</span></a></td>
+  <td class="commit-date">2005-02-28</td>
+  <td class="commit-message">add allow_active_record_expects option to ActionWebServi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cbe21fb498b7dc5345c859ad66c102682934de71"><span class="sha1">cbe21fb</span></a></td>
+  <td class="commit-date">2005-02-27</td>
+  <td class="commit-message">drop version back down to 0.5.0 so that we can use 0.6.0...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/100015cd806e31578a03ba23ffbc12c093118a26"><span class="sha1">100015c</span></a></td>
+  <td class="commit-date">2005-02-27</td>
+  <td class="commit-message">Make all custom types and method calls are declared in t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f5a7b200443baf209d2f33c428ed4a4059782f7"><span class="sha1">6f5a7b2</span></a></td>
+  <td class="commit-date">2005-02-25</td>
+  <td class="commit-message">merged the changes for the upcoming 0.6.0:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a5ff308eb5f45dcd8f7a25f6915e78f3b9528a0"><span class="sha1">7a5ff30</span></a></td>
+  <td class="commit-date">2005-02-25</td>
+  <td class="commit-message">handle elapsed times that are nil in #log_response (happ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/99fca6330d510ca83ca5abf6cd5812d518634129"><span class="sha1">99fca63</span></a></td>
+  <td class="commit-date">2005-02-24</td>
+  <td class="commit-message">Marked for release</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a7fc51c6675786f4791c45edc1fac42ea6e3df9"><span class="sha1">6a7fc51</span></a></td>
+  <td class="commit-date">2005-02-20</td>
+  <td class="commit-message">add code coverage testing scripts, remove dead code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f3f44e76fdf465910b7c6521568bb6a1e8bd641"><span class="sha1">5f3f44e</span></a></td>
+  <td class="commit-date">2005-02-19</td>
+  <td class="commit-message">ensure clients can handle APIs with named parameter sign...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/418d487020d24e69b528fdbedfecb20a87f99fcb"><span class="sha1">418d487</span></a></td>
+  <td class="commit-date">2005-02-19</td>
+  <td class="commit-message">refactoring:</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec03a601811587dd4265667aadd50c101c23b116"><span class="sha1">ec03a60</span></a></td>
+  <td class="commit-date">2005-02-18</td>
+  <td class="commit-message">rename entire package to Action Web Service</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fdecb6843ba8c5b0f718225f343017e11fa7f711"><span class="sha1">fdecb68</span></a></td>
+  <td class="commit-date">2005-02-18</td>
+  <td class="commit-message">rename service* to web_service*.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45acc8c760baf8a677cb947aa5814f4d30b13b41"><span class="sha1">45acc8c</span></a></td>
+  <td class="commit-date">2005-02-18</td>
+  <td class="commit-message">test commit</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

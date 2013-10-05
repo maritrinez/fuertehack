@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Shugo Maeda to Ruby on Rails" />
+    <meta name="keywords" content="Shugo Maeda,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #179 Shugo Maeda - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #179 <span class="fn">Shugo Maeda</span> - All time<br/>
+    <span class="listing-total">Showing 20 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ff2eb2d8085f138acc6815690b519c30e458513b"><span class="sha1">ff2eb2d</span></a></td>
+  <td class="commit-date">2009-09-11</td>
+  <td class="commit-message">Removed the copyright notice not to show it in the resul...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2cf33e903bdbeff6e7e696fd20b23b0e6f3a077"><span class="sha1">d2cf33e</span></a></td>
+  <td class="commit-date">2009-09-11</td>
+  <td class="commit-message">Removed the copyright notice not to show it in the resul...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b006317b442c3eac2c41e975372d460942c48ba2"><span class="sha1">b006317</span></a></td>
+  <td class="commit-date">2006-08-18</td>
+  <td class="commit-message">Greatly increased performance of String.to_json, which s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4699c336f7fda526373218235c5067583b89c1c6"><span class="sha1">4699c33</span></a></td>
+  <td class="commit-date">2006-08-05</td>
+  <td class="commit-message">Make test_tag_options pass (closes #5600) [shugo]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21cf3c6596de877dd12dcedb5637a1a8bf90b327"><span class="sha1">21cf3c6</span></a></td>
+  <td class="commit-date">2006-08-05</td>
+  <td class="commit-message">script/performance/profiler compatibility with the new r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12600d77dd1757365dc86e6aec5cafb48ec49886"><span class="sha1">12600d7</span></a></td>
+  <td class="commit-date">2006-07-05</td>
+  <td class="commit-message">HashWithIndifferentAccess shouldn&#39;t confuse false and ni...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28ef328baa7bdc134667b7da3d5e8b0777a35cc0"><span class="sha1">28ef328</span></a></td>
+  <td class="commit-date">2006-07-05</td>
+  <td class="commit-message">Fixed that the flash should be reset when reset_session ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/722e0b6a8bb62226437e466b5a98356d026b05f5"><span class="sha1">722e0b6</span></a></td>
+  <td class="commit-date">2006-06-20</td>
+  <td class="commit-message"> r4664@asus:  jeremy | 2006-06-19 18:55:36 -0700</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15aa6e05528019fbf62e1a5cbd2398a2205af8bb"><span class="sha1">15aa6e0</span></a></td>
+  <td class="commit-date">2006-06-19</td>
+  <td class="commit-message"> r4644@asus:  jeremy | 2006-06-16 14:57:03 -0700</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2bf3fa076e822da1e55064ca7e9409af3fe52841"><span class="sha1">2bf3fa0</span></a></td>
+  <td class="commit-date">2006-01-31</td>
+  <td class="commit-message">Support the :column option for remove_index with the Pos...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36619f2084eee985452b176af53d3e4b7480203b"><span class="sha1">36619f2</span></a></td>
+  <td class="commit-date">2005-12-09</td>
+  <td class="commit-message"> r3419@asus:  jeremy | 2005-12-09 15:36:50 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/142304b79d25e5702413a03fbe64540c4999f32e"><span class="sha1">142304b</span></a></td>
+  <td class="commit-date">2005-12-07</td>
+  <td class="commit-message"> r3363@asus:  jeremy | 2005-12-06 22:26:27 -0800</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8f664dde0364c84ff31537cc0b5b89683fbbca8"><span class="sha1">e8f664d</span></a></td>
+  <td class="commit-date">2005-11-22</td>
+  <td class="commit-message">MySQL, PostgreSQL: reconnect! also reconfigures the conn...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1a184fe880c4ff0db1b003f8f4562728809e1bd"><span class="sha1">f1a184f</span></a></td>
+  <td class="commit-date">2005-11-21</td>
+  <td class="commit-message">MySQL: introduce :encoding option to specify the charact...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fc5cf78be465dbfb23e44eac3e26a3f62a9c2d9"><span class="sha1">2fc5cf7</span></a></td>
+  <td class="commit-date">2005-09-11</td>
+  <td class="commit-message">Use send instead of module_eval #1873 [shugo]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa7f4a066466f8587ddd11b96dcbbe5008ab63a9"><span class="sha1">fa7f4a0</span></a></td>
+  <td class="commit-date">2005-06-13</td>
+  <td class="commit-message">Add workaround for SOAP4R changing find_mapped_soap_clas...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47a7084b94b8cd0dfc43e0b8f1775eef31c5170d"><span class="sha1">47a7084</span></a></td>
+  <td class="commit-date">2005-05-07</td>
+  <td class="commit-message">add base64 signature type (thanks, Shugo Maeda!)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ede45f60fd112c313840e707e1fdfebb5f6b97c"><span class="sha1">9ede45f</span></a></td>
+  <td class="commit-date">2005-04-30</td>
+  <td class="commit-message">Added encoding and min_messages options for PostgreSQL #...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8694a79bb2d543a46867454b743c38ce85380e4e"><span class="sha1">8694a79</span></a></td>
+  <td class="commit-date">2005-04-28</td>
+  <td class="commit-message">default to using UTF-8 as response encoding for SOAP if ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/896fea505b67f6dd842a58c72bcd919c593d925a"><span class="sha1">896fea5</span></a></td>
+  <td class="commit-date">2005-04-28</td>
+  <td class="commit-message">add charset=utf-8 to SOAP response content type, and mak...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

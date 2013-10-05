@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Erik St. Martin to Ruby on Rails" />
+    <meta name="keywords" content="Erik St. Martin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #117 Erik St. Martin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #117 <span class="fn">Erik St. Martin</span> - All time<br/>
+    <span class="listing-total">Showing 33 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1618b9ac397d1963e788f441fc4965cd3f9d4cf"><span class="sha1">e1618b9</span></a></td>
+  <td class="commit-date">2010-01-31</td>
+  <td class="commit-message">data-remote needs to be on the form and not the submit w...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/392817cf11e2e840eb564dd4f8713092cff167f8"><span class="sha1">392817c</span></a></td>
+  <td class="commit-date">2010-01-31</td>
+  <td class="commit-message">updating link_to and button_to to support :remote =&gt; tru...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f181e475080924164b3fa0071ee4898bd66cbb8"><span class="sha1">7f181e4</span></a></td>
+  <td class="commit-date">2010-01-29</td>
+  <td class="commit-message">fixed tests to also look for rails.js when using javascr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ec99192d59e3f901b301d5735cee9a0b9ee091a"><span class="sha1">2ec9919</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">renaming javascript drivers to *.rails.js for better nam...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eff999d67933a4e7e349875b51fa6a6469b61d93"><span class="sha1">eff999d</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">initial prototype of jQuery driver complete</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0232d864177d14476bff73ac274a3ed820153f3"><span class="sha1">a0232d8</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">jquery driver now supports :confirm</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4911343bf7719e76c8964445f9f146e7b8999b54"><span class="sha1">4911343</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">jquery driver now supports :popup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d13f25416055d56a7742d522dcf985354c518998"><span class="sha1">d13f254</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">initial prototype of prototype js driver</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c7d39d65f6ad55543cd2d12aec22dd8f927f1c6"><span class="sha1">3c7d39d</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">observe_form now supports :with option as it should</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0f63883ea24925d4e03c258b874e49cf507cc33"><span class="sha1">c0f6388</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">:href should be comming in through html_options and not ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f661a3bc599ac336aeaf643a8d1d388fe905a07d"><span class="sha1">f661a3b</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">removing container inline js function of observed elemen...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6cd35ba68c6d210f097a37ff737bbc1e5c61972"><span class="sha1">a6cd35b</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">moving html_safe call into helpers directly as they only...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/007db3fca8be4f22ede5d4d94e8dc7e3cb34d240"><span class="sha1">007db3f</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">start of prototype driver, missing observe_form, observe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0215466832faddd2fc5ebef9500f06fa1b95228e"><span class="sha1">0215466</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">periodically_call_remote does not need data-observe=true</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a8da2053eb1e833347e5ed5dc578fc47cdf9309"><span class="sha1">6a8da20</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">need to tell erb that our &lt;script&gt; tag is html_safe</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad26b3934ecb9f5034453b4cd7d924048798d429"><span class="sha1">ad26b39</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">test to go with last commit, explicit :href for link_to_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9fe845670daa15fac72df826138206471c8398a0"><span class="sha1">9fe8456</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">adding :href override to link_to_remote</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56ae6550b8a7e24bc731f25b66fc3a5d246e221c"><span class="sha1">56ae655</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">adding support for :disable_with to button_to_remote</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb2d32f30916c57f3011480e12772dd801f67070"><span class="sha1">eb2d32f</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">remote_form_for now supports :confirm</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44542bd7daf03057fe502f21f3eb2a5c09ffea57"><span class="sha1">44542bd</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">account for the fact a few options may be passed as symb...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06dd23d67133601f2639695a0fadab81213f6200"><span class="sha1">06dd23d</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">removing Prototype inline js for attributes for :with an...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e3e1b3f24e2ba47f675ecbfc44c269323637985"><span class="sha1">9e3e1b3</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">fixing last merge breakage</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/426a6b2e00665b04bab4fa5cee664fefd9957960"><span class="sha1">426a6b2</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">making non remote versions of link_to, button_to, submit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9821648644e904efcad55961cc7082f574c11414"><span class="sha1">9821648</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">link_to_remote and button_to_remote now support :confirm</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7698971713bf42efb12bac10fff0303d5a8ac4e"><span class="sha1">d769897</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">modified helper that adds attributes for :method to incl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbb56f7ee80078c6ec1ea3166b2e37d8feff496a"><span class="sha1">fbb56f7</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">refactoring AjaxHelper a bit so that it calls shared met...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/463fc7110755485ee2644690cb87023357f92f9a"><span class="sha1">463fc71</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">making non remote versions of link_to, button_to, submit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3baf8b767bdfb27b90b2120f9512d9697e5e932"><span class="sha1">c3baf8b</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">link_to_remote and button_to_remote now support :confirm</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f5cb3d3b48d0e7d702144d87208ac18778e3d38"><span class="sha1">9f5cb3d</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">moving include of ScriptaculousHelper into PrototypeHelp...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7bf5aef907a90a9896c05ae3c6ed371a70aa6b8f"><span class="sha1">7bf5aef</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">fixed current tests that were failing do to module locat...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/565a696e71606a6e4dfe5b1c7f9fadbce50e04b1"><span class="sha1">565a696</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">Removed all helpers from PrototypeHelper that are implem...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5462caf434d7313b0a5bff75fd2bca35bbaf42a6"><span class="sha1">5462caf</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">fixing failing tests from last commit, order of attribut...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1cd8b98d0193a298b6fb68443f3d24ccb4aa9447"><span class="sha1">1cd8b98</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">javascript_helper now correctly pulls in ajax_helper ins...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

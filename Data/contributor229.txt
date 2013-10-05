@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Chris Eppstein to Ruby on Rails" />
+    <meta name="keywords" content="Chris Eppstein,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 Chris Eppstein - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">Chris Eppstein</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/024bed387b067519de64af5b89ce2b534c99155f"><span class="sha1">024bed3</span></a></td>
+  <td class="commit-date">2011-06-27</td>
+  <td class="commit-message">Added a configuration setting:</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2cc1bc37732a5f89c8364e6724e8c39e14216a0a"><span class="sha1">2cc1bc3</span></a></td>
+  <td class="commit-date">2011-06-27</td>
+  <td class="commit-message">Move the config bootstrapping to initialization to minim...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c64e1e3a33c2e703a9939f075fb57167b75b36a"><span class="sha1">6c64e1e</span></a></td>
+  <td class="commit-date">2011-06-27</td>
+  <td class="commit-message">Stylesheet link tags should use the request protocol to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96137e8bd0a0094d26cc0cf6f86642487a60735f"><span class="sha1">96137e8</span></a></td>
+  <td class="commit-date">2011-06-27</td>
+  <td class="commit-message">Add asset_url helper and refactor the asset paths so tha...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/266b80c7b28c7587ab1c75aae6e3288e2f6c1aba"><span class="sha1">266b80c</span></a></td>
+  <td class="commit-date">2011-06-27</td>
+  <td class="commit-message">OrderedOptions must implement respond_to? if it implemen...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b8bd7a54f9c7e892443e06a843892d48e7f4393"><span class="sha1">4b8bd7a</span></a></td>
+  <td class="commit-date">2011-06-27</td>
+  <td class="commit-message">Merge remote-tracking branch &#39;rails/3-1-stable&#39; into ass...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e5891ad918ea975f8687d6d47aed5543afc7441"><span class="sha1">0e5891a</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Added a configuration setting:</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97208647ef4913d58b79aa141c1fae05b491f4bd"><span class="sha1">9720864</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Move the config bootstrapping to initialization to minim...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a2233638aa2aedaa70afd1a5164cbdbd5053a8c4"><span class="sha1">a223363</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Merge remote-tracking branch &#39;rails/3-1-stable&#39; into ass...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad161158de170cbfe535cd4f4e7e6b2658fe5c79"><span class="sha1">ad16115</span></a></td>
+  <td class="commit-date">2011-06-16</td>
+  <td class="commit-message">Stylesheet link tags should use the request protocol to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1380a6180ab9245788c5dddd321dfd63bcf4e4ea"><span class="sha1">1380a61</span></a></td>
+  <td class="commit-date">2011-06-14</td>
+  <td class="commit-message">Add asset_url helper and refactor the asset paths so tha...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/729d8688af2730e499b0781d6bfff156e111e8fd"><span class="sha1">729d868</span></a></td>
+  <td class="commit-date">2011-06-14</td>
+  <td class="commit-message">OrderedOptions must implement respond_to? if it implemen...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/654514a3067f1c6ae4a0317cfed882c43af3fb58"><span class="sha1">654514a</span></a></td>
+  <td class="commit-date">2011-06-07</td>
+  <td class="commit-message">Use the sass-rails release candidate until full release.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4b7fa5fb6b4aee8dee90b526c08c0dd2e5e97d3"><span class="sha1">d4b7fa5</span></a></td>
+  <td class="commit-date">2010-11-07</td>
+  <td class="commit-message">Correctly handle the case of an API response that return...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1667c7c2c1aba4a2adb5f36ad9499c01763655d"><span class="sha1">b1667c7</span></a></td>
+  <td class="commit-date">2010-11-05</td>
+  <td class="commit-message">Correctly handle the case of an API response that return...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

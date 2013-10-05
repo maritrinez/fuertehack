@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ankit Gupta to Ruby on Rails" />
+    <meta name="keywords" content="Ankit Gupta,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Ankit Gupta - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Ankit Gupta</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4509f9eaed755235a6cd886f81336c31cdad2425"><span class="sha1">4509f9e</span></a></td>
+  <td class="commit-date">2013-07-29</td>
+  <td class="commit-message">Fixing the broken URL [skip ci]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/408b798240cce71688896d9509f45221fc548696"><span class="sha1">408b798</span></a></td>
+  <td class="commit-date">2013-07-28</td>
+  <td class="commit-message">Cleanup of class_name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c213bf174fc658d00fe33056207780ba4b8e3f85"><span class="sha1">c213bf1</span></a></td>
+  <td class="commit-date">2013-07-25</td>
+  <td class="commit-message">Typo fix</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f85c41eec2ffcb2477bd4d66854d168634c5eaf"><span class="sha1">9f85c41</span></a></td>
+  <td class="commit-date">2013-07-12</td>
+  <td class="commit-message">Typo fix [skip ci]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53f12b073cc238757431708e6730e60b10b4d5fe"><span class="sha1">53f12b0</span></a></td>
+  <td class="commit-date">2013-07-07</td>
+  <td class="commit-message">Refactored strong paramters usage and updated Gemfile.lo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7ff577383dcf1b36d075b70713f614c598b2430"><span class="sha1">a7ff577</span></a></td>
+  <td class="commit-date">2013-07-06</td>
+  <td class="commit-message">Some performance benchmarking for take vs limit</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46a0eacef8b277826618dfe9f5d0923a660e528c"><span class="sha1">46a0eac</span></a></td>
+  <td class="commit-date">2013-07-04</td>
+  <td class="commit-message">SQL Keywords to be in UPPERCASE</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a71d09ad20bd0859c3229d0be21e40d21fc73ff"><span class="sha1">6a71d09</span></a></td>
+  <td class="commit-date">2013-07-04</td>
+  <td class="commit-message">Replaced older rocket sign to new :</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/962925bffd27e5fe9c458fc81e348b890fb5be95"><span class="sha1">962925b</span></a></td>
+  <td class="commit-date">2013-07-04</td>
+  <td class="commit-message">[ci skip] Separated full stop from the Optimistic_concur...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

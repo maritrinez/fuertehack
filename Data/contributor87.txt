@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Matt Jones to Ruby on Rails" />
+    <meta name="keywords" content="Matt Jones,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #87 Matt Jones - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #87 <span class="fn">Matt Jones</span> - All time<br/>
+    <span class="listing-total">Showing 44 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46873aeded378bc836fb23925e5ab4f252f57b5b"><span class="sha1">46873ae</span></a></td>
+  <td class="commit-date">2012-09-13</td>
+  <td class="commit-message">refactor store_accessor</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20f943ffd86ae3f74cc16c6f85fb7cc2a43da388"><span class="sha1">20f943f</span></a></td>
+  <td class="commit-date">2012-09-05</td>
+  <td class="commit-message">correctly flag changed attributes in AR::Store, combine ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/02859745cc0db02fcb1af27da345456a3b5e1eb2"><span class="sha1">0285974</span></a></td>
+  <td class="commit-date">2012-02-04</td>
+  <td class="commit-message">add handling for backwards-compatibility and update docu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7c307c2da3e0e01131a892b30c040832edbfacb5"><span class="sha1">7c307c2</span></a></td>
+  <td class="commit-date">2012-02-04</td>
+  <td class="commit-message">Merge remote-tracking branch &#39;odorcicd/fix_activeresourc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0915ac2f99e8e6db81dc4fb5cefe07d98f39fd0"><span class="sha1">d0915ac</span></a></td>
+  <td class="commit-date">2012-01-11</td>
+  <td class="commit-message">add documentation explaining reorder behavior</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23f8c635c0c8c9f6fbe810766104a4fa9f6794d4"><span class="sha1">23f8c63</span></a></td>
+  <td class="commit-date">2012-01-09</td>
+  <td class="commit-message">add documentation explaining reorder behavior</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/efbb85c84b3c6c21232d4cf899b2d6a5542681fb"><span class="sha1">efbb85c</span></a></td>
+  <td class="commit-date">2012-01-03</td>
+  <td class="commit-message">correctly handle order calls after a reorder</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18fb2d4c022c1d95dc9a40493adbc3880da70dcd"><span class="sha1">18fb2d4</span></a></td>
+  <td class="commit-date">2011-12-28</td>
+  <td class="commit-message">allow reorder to affect eager loading correctly</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d625312fe11bbf53e285a0efd570249f0bf91fd1"><span class="sha1">d625312</span></a></td>
+  <td class="commit-date">2009-11-10</td>
+  <td class="commit-message">delete correct records for a has_many with :primary_key ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c0028d5cca89b3f2da7382163e6bf149f33a1fd"><span class="sha1">6c0028d</span></a></td>
+  <td class="commit-date">2009-11-10</td>
+  <td class="commit-message">delete correct records for a has_many with :primary_key ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7e0cb05cc8adad430d0e97efef1608eef58db80"><span class="sha1">d7e0cb0</span></a></td>
+  <td class="commit-date">2009-06-09</td>
+  <td class="commit-message">Fix incorrect specification path in GemDependency#from_d...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f43404d42b28c9c4e126829de5f9d815618abe5b"><span class="sha1">f43404d</span></a></td>
+  <td class="commit-date">2009-06-09</td>
+  <td class="commit-message">Fix incorrect specification path in GemDependency#from_d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41a94048e55e082f373e19d9fcee311860aaba9e"><span class="sha1">41a9404</span></a></td>
+  <td class="commit-date">2009-06-09</td>
+  <td class="commit-message">Fix several issues with the 2.3.2 gem loader.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c3d2906b255b1cb3aeb5d3abb9fe2dcb2872c28"><span class="sha1">2c3d290</span></a></td>
+  <td class="commit-date">2009-06-09</td>
+  <td class="commit-message">Fix several issues with the 2.3.2 gem loader.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfc1609a501fc3ed442685819de5bcdb5fbada1c"><span class="sha1">bfc1609</span></a></td>
+  <td class="commit-date">2009-05-07</td>
+  <td class="commit-message">Remove stray call to gems:unpack in gems:build:force</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f7e2257fedb606a659bb639f26e9ef2baa85d14"><span class="sha1">4f7e225</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Fix several issues with code examples.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0da8e45baf592bf715023c0553b9aefd15b86579"><span class="sha1">0da8e45</span></a></td>
+  <td class="commit-date">2009-03-09</td>
+  <td class="commit-message">Correctly clean backtraces from vendor/gems and gems in ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f4bd0fbc91efbbe191d355544adc2aca9ba01c7b"><span class="sha1">f4bd0fb</span></a></td>
+  <td class="commit-date">2009-03-09</td>
+  <td class="commit-message">Correctly clean backtraces from vendor/gems and gems in ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87e8b162463f13bd50d27398f020769460a770e3"><span class="sha1">87e8b16</span></a></td>
+  <td class="commit-date">2009-03-07</td>
+  <td class="commit-message">fix HTML fallback for explicit templates [#2052 state:re...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3ac1e1621506a6519b265ef6ec6abc70f6c8a27"><span class="sha1">a3ac1e1</span></a></td>
+  <td class="commit-date">2009-03-01</td>
+  <td class="commit-message">Display gem dependencies correctly and unpack exactly on...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/69ad155c90d88c44d9b6e7ea47ff54abbde96d67"><span class="sha1">69ad155</span></a></td>
+  <td class="commit-date">2009-02-27</td>
+  <td class="commit-message">describe action of include_root_in_json in to_json docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b35562f432d0807517a614a540026c2fc557e2ac"><span class="sha1">b35562f</span></a></td>
+  <td class="commit-date">2009-02-24</td>
+  <td class="commit-message">correctly handle layouts for AJAX requests and regular j...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/01c818e99f04f70462df68e6a217dfd280c37581"><span class="sha1">01c818e</span></a></td>
+  <td class="commit-date">2009-02-20</td>
+  <td class="commit-message">break out of initializer early if gems aren&#39;t loaded [#1...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/250dfb18afb58dda3caf4b9f170ddb9c5cf85faf"><span class="sha1">250dfb1</span></a></td>
+  <td class="commit-date">2009-02-05</td>
+  <td class="commit-message">Fixed that ActionMailer should send correctly formatted ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a9422cc1db9501a80ecf2c25a5d3b0c4f4f32763"><span class="sha1">a9422cc</span></a></td>
+  <td class="commit-date">2008-12-18</td>
+  <td class="commit-message">Fix preloading of has_one :through associations on belon...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6f4072990353caf16b021a50b6fb21e3ca1d3e1"><span class="sha1">d6f4072</span></a></td>
+  <td class="commit-date">2008-12-01</td>
+  <td class="commit-message">handle missing dependecies in gem loading</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c07a8828ede3d41000513af29c293ae2e2a49d4"><span class="sha1">3c07a88</span></a></td>
+  <td class="commit-date">2008-12-01</td>
+  <td class="commit-message">handle missing dependecies in gem loading</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fb1eebac940d0648d1640d20a24f085d901d6f30"><span class="sha1">fb1eeba</span></a></td>
+  <td class="commit-date">2008-11-20</td>
+  <td class="commit-message">alternative resolution to vendor load problem</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45ba4ec626b79dda8534f13b3eb01524e0734781"><span class="sha1">45ba4ec</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">add vendor/ back to load paths; catch errors in constant...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/453931cac5415bba7934b1be566188f894872a88"><span class="sha1">453931c</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">add vendor/ back to load paths; catch errors in constant...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5609cd3cf3921cbd17b6314498318da7d522395"><span class="sha1">a5609cd</span></a></td>
+  <td class="commit-date">2008-11-15</td>
+  <td class="commit-message">fix assignment to has_one :through associations.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3fd9971093101712e4cc97ccc534631888b673d"><span class="sha1">d3fd997</span></a></td>
+  <td class="commit-date">2008-11-15</td>
+  <td class="commit-message">fix assignment to has_one :through associations.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/779df30087a9372e4a40a75d416e95585ea47c54"><span class="sha1">779df30</span></a></td>
+  <td class="commit-date">2008-11-14</td>
+  <td class="commit-message">Update info on routing parameter defaults, better exampl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/01433af6a5dd5bcd71a70574e7d0b356ba7b0246"><span class="sha1">01433af</span></a></td>
+  <td class="commit-date">2008-11-01</td>
+  <td class="commit-message">Make refresh_specs more resilient. Always add vendor/gem...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/326030a1e843245ae493fbdfb1b5eb72d1e59f26"><span class="sha1">326030a</span></a></td>
+  <td class="commit-date">2008-10-20</td>
+  <td class="commit-message">config.gem: Fix typo in unpack, skip dependencies on unl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b44bbff425711d62d81e6565eb3afc2ba77bc4b"><span class="sha1">1b44bbf</span></a></td>
+  <td class="commit-date">2008-10-13</td>
+  <td class="commit-message">Initialize silence_spec_warnings</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f15870946720ef9a0dbaa3ac336fff8bd149752"><span class="sha1">9f15870</span></a></td>
+  <td class="commit-date">2008-10-13</td>
+  <td class="commit-message">Make VendorGemSourceIndex handle broken/missing specs ge...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbb2fda11564b2d40c6c07c5a3c91cccb77fb653"><span class="sha1">bbb2fda</span></a></td>
+  <td class="commit-date">2008-10-09</td>
+  <td class="commit-message">Fix script/console --sandbox warning. [#1194 state:resol...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa4a7c35309ff95ef1165844d637f7e583ac20dd"><span class="sha1">aa4a7c3</span></a></td>
+  <td class="commit-date">2008-10-09</td>
+  <td class="commit-message">Fix script/console --sandbox warning. [#1194 state:resol...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dea211f44d85e9c28963784286838bfa6c343f9"><span class="sha1">0dea211</span></a></td>
+  <td class="commit-date">2008-10-08</td>
+  <td class="commit-message">Fix definition of find_name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d644fd13658fc4084f8df122bc6878c0d18df22"><span class="sha1">2d644fd</span></a></td>
+  <td class="commit-date">2008-10-08</td>
+  <td class="commit-message">Mark gem as not loaded when spec not found</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2bf58aa782d3b493f2d98f153324b93c5b058ba6"><span class="sha1">2bf58aa</span></a></td>
+  <td class="commit-date">2008-10-05</td>
+  <td class="commit-message">Fix a number of errors in the config.gem mechanism.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4ef5908edfd471dfd3635a7264b5f8aafe246b6"><span class="sha1">d4ef590</span></a></td>
+  <td class="commit-date">2008-09-07</td>
+  <td class="commit-message">Ensure routing optimizations are cleared when new routes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e6cda15f8dae517f9605f73aa1c966a29d4930a"><span class="sha1">7e6cda1</span></a></td>
+  <td class="commit-date">2008-09-07</td>
+  <td class="commit-message">Ensure routing optimizations are cleared when new routes...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Sam Stephenson to Ruby on Rails" />
+    <meta name="keywords" content="Sam Stephenson,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #39 Sam Stephenson - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #39 <span class="fn">Sam Stephenson</span> - All time<br/>
+    <span class="listing-total">Showing 142 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14b23ee5fbe184187b33909411f3f28b953207d1"><span class="sha1">14b23ee</span></a></td>
+  <td class="commit-date">2013-09-11</td>
+  <td class="commit-message">Reduce allocations when extracting AR models</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/975c9c9d4498a4b4a00de713e932abe3299a4007"><span class="sha1">975c9c9</span></a></td>
+  <td class="commit-date">2013-09-11</td>
+  <td class="commit-message">Perf: avoid dupes add fallback logic for coders</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba0568e46d890d57cfef2ea86745bdeb879fefa7"><span class="sha1">ba0568e</span></a></td>
+  <td class="commit-date">2013-08-29</td>
+  <td class="commit-message">Perf: micro optimised Result column hash_row creation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3ac3563d60e810f4ca49af84e1dceacbf91f1a4"><span class="sha1">e3ac356</span></a></td>
+  <td class="commit-date">2013-08-27</td>
+  <td class="commit-message">Perf: memoize serialized column list and time zone colum...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4ff87909a95354136c51f33b1402fca484da961b"><span class="sha1">4ff8790</span></a></td>
+  <td class="commit-date">2013-08-26</td>
+  <td class="commit-message">Perf: avoid array allocation where not needed</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32b233c95315f637a944a1a8f41cb188a452e859"><span class="sha1">32b233c</span></a></td>
+  <td class="commit-date">2013-08-26</td>
+  <td class="commit-message">Perf: fields in pg gem causes an allocation, cache it</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0a57f3460119e8fe77250835c0d0fab808ea2ca6"><span class="sha1">0a57f34</span></a></td>
+  <td class="commit-date">2013-04-03</td>
+  <td class="commit-message">Per #9999 revert the revert changing so columns are only...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bb3b9bcffae0675fcf3cd2d05870de03aa31397"><span class="sha1">8bb3b9b</span></a></td>
+  <td class="commit-date">2009-12-18</td>
+  <td class="commit-message">Models with no attributes should just have empty hash fi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44fb54fecdab684425bbc3bb15aac9d5c6e34fc8"><span class="sha1">44fb54f</span></a></td>
+  <td class="commit-date">2009-12-18</td>
+  <td class="commit-message">Models with no attributes should just have empty hash fi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab211bf592f52fbde7853961030046ea1d387851"><span class="sha1">ab211bf</span></a></td>
+  <td class="commit-date">2008-12-04</td>
+  <td class="commit-message">Fix rendering html partials from an rjs template</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8190bce8bc7249b7b9f3680195336eb3ca9508ee"><span class="sha1">8190bce</span></a></td>
+  <td class="commit-date">2008-06-17</td>
+  <td class="commit-message">Added block-call style to link_to [Sam Stephenson/DHH]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/083b0b7f3f430b9377c08f603eb9063d80c4595a"><span class="sha1">083b0b7</span></a></td>
+  <td class="commit-date">2008-01-07</td>
+  <td class="commit-message">Catchup Backport to 2.0 of the following Changesets:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/424c3306346320c09031cbe2e4672ec7ad862c48"><span class="sha1">424c330</span></a></td>
+  <td class="commit-date">2008-01-03</td>
+  <td class="commit-message">Added by parameter to increment, decrement, and their ba...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6d9c17af124ff64a9a189b49260c2928ac6ec7e"><span class="sha1">b6d9c17</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Update Prototype to 1.6.0.1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab73a988aca073e6ff16cd608df6e2e08808d31c"><span class="sha1">ab73a98</span></a></td>
+  <td class="commit-date">2007-11-29</td>
+  <td class="commit-message">Update to Prototype -r8232</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fdc767d4477ff94c6a8dea94905b100c8d8fcd12"><span class="sha1">fdc767d</span></a></td>
+  <td class="commit-date">2007-11-06</td>
+  <td class="commit-message">Update Prototype to 1.6.0 and script.aculo.us to 1.8.0.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45107ecaf85b8e7cc7ec60e95a3e646ae25618ae"><span class="sha1">45107ec</span></a></td>
+  <td class="commit-date">2007-10-16</td>
+  <td class="commit-message">Update Prototype to 1.6.0_rc1 and script.aculo.us to 1.8...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f52021ddd2f1a1f38ec9c6ee8d58ee92cbe7e5e8"><span class="sha1">f52021d</span></a></td>
+  <td class="commit-date">2007-05-19</td>
+  <td class="commit-message">Update to Prototype 1.5.1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3202fbabe6df3591d7e2c35727ea9c8b68df8828"><span class="sha1">3202fba</span></a></td>
+  <td class="commit-date">2007-03-18</td>
+  <td class="commit-message">Refactor ActiveSupport::JSON to be less obtuse.  Add sup...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ec808eadb8f754798c485add6f83a9739212195"><span class="sha1">3ec808e</span></a></td>
+  <td class="commit-date">2007-01-18</td>
+  <td class="commit-message">Update versions in preparation for Rails 1.2.1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/81b94c2f106f615eaca40b14e1c6ef150a56319c"><span class="sha1">81b94c2</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Apply [5970] to 1.2 branch</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ec31ba7411525bbc2ed9df3679420042d4ba08d"><span class="sha1">9ec31ba</span></a></td>
+  <td class="commit-date">2007-01-17</td>
+  <td class="commit-message">Update to Prototype 1.5.0</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/312e6edf914a8b561feacac2486d97e7904472e5"><span class="sha1">312e6ed</span></a></td>
+  <td class="commit-date">2007-01-15</td>
+  <td class="commit-message">Fix that Dates couldn&#39;t be subtracted from Dates after [...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbe05067be9d5a575b29d62a1a1bc490663c5e17"><span class="sha1">fbe0506</span></a></td>
+  <td class="commit-date">2007-01-05</td>
+  <td class="commit-message">Update to latest Prototype</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36b3cb2c36627391545c765b9bd1df3b888e9f3c"><span class="sha1">36b3cb2</span></a></td>
+  <td class="commit-date">2006-11-19</td>
+  <td class="commit-message">Merge 1-2-pre-release with [5581]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/69ada0e26eb5f0f73380293dbf488db31dc09f23"><span class="sha1">69ada0e</span></a></td>
+  <td class="commit-date">2006-11-12</td>
+  <td class="commit-message">Merge [5497] from trunk.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9eaad14e8ef35b5ea245596e3c479bbd6f9e35a5"><span class="sha1">9eaad14</span></a></td>
+  <td class="commit-date">2006-11-12</td>
+  <td class="commit-message">Merge [5487] from trunk.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f8c805f5d45b93269e13249472586dea4bf651b"><span class="sha1">9f8c805</span></a></td>
+  <td class="commit-date">2006-11-12</td>
+  <td class="commit-message">Merge [5486] from trunk.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c192bdfc74777f3a86f2f9b54459259330424cf5"><span class="sha1">c192bdf</span></a></td>
+  <td class="commit-date">2006-11-12</td>
+  <td class="commit-message">Update to Prototype 1.5.0_rc2</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4c7dcb5dbf2950c39e2caa99e33d4807a0a327aa"><span class="sha1">4c7dcb5</span></a></td>
+  <td class="commit-date">2006-11-11</td>
+  <td class="commit-message">Remove JavaScriptLiteral in favor of ActiveSupport::JSON...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2516063f61cedf4eee36036a0b4bc9fb8c443ba1"><span class="sha1">2516063</span></a></td>
+  <td class="commit-date">2006-11-11</td>
+  <td class="commit-message">Don&#39;t quote hash keys in Hash#to_json if they&#39;re valid J...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/351a224d90d5d485cb30743f1266ec2624ae7853"><span class="sha1">351a224</span></a></td>
+  <td class="commit-date">2006-10-19</td>
+  <td class="commit-message">Add support for converting blocks into function argument...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/236cf90bf16c93a112d1b6ca8ece47ba41802058"><span class="sha1">236cf90</span></a></td>
+  <td class="commit-date">2006-09-20</td>
+  <td class="commit-message">Update RJS render tests.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/899c1b0157a1c8cb01673caaccfb589d743519a6"><span class="sha1">899c1b0</span></a></td>
+  <td class="commit-date">2006-09-05</td>
+  <td class="commit-message">Update to Prototype 1.5.0_rc1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d19e46421cbead18ab1a9f79081b99bf3e97dde5"><span class="sha1">d19e464</span></a></td>
+  <td class="commit-date">2006-06-20</td>
+  <td class="commit-message">Added find_or_initialize_by_X which works like find_or_c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c377ce50ed871a90a7e4f0d4d69062d01934ce85"><span class="sha1">c377ce5</span></a></td>
+  <td class="commit-date">2006-06-02</td>
+  <td class="commit-message">Add OrderedHash#values</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7fe1c47baf89522617b67e96b701ee916adcb88"><span class="sha1">e7fe1c4</span></a></td>
+  <td class="commit-date">2006-05-31</td>
+  <td class="commit-message">Make &quot;script/plugin install&quot; work with svn+ssh URLs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9d8e34808f0d20d4bbc1cfb0cdf294b35d8bd224"><span class="sha1">9d8e348</span></a></td>
+  <td class="commit-date">2006-04-19</td>
+  <td class="commit-message">Change link_to_function and button_to_function to (optio...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c71607e29c4ab5cd7b4ac7d3ef902868ab1cebf7"><span class="sha1">c71607e</span></a></td>
+  <td class="commit-date">2006-04-13</td>
+  <td class="commit-message">Add Array#split for dividing arrays into one or more sub...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23585d721d5da714c94b82905d38c7b77a67402a"><span class="sha1">23585d7</span></a></td>
+  <td class="commit-date">2006-04-08</td>
+  <td class="commit-message">Added :add_headers option to verify which merges a hash ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26e381302c7eee09b8d03d32dc7a8233098a9abf"><span class="sha1">26e3813</span></a></td>
+  <td class="commit-date">2006-04-06</td>
+  <td class="commit-message">Update to Prototype 1.5.0_rc0</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb2276098a5a21c35e5ee72b3097bd9d7caa919f"><span class="sha1">bb22760</span></a></td>
+  <td class="commit-date">2006-04-01</td>
+  <td class="commit-message">Applied Prototype $() performance patches (#4465, #4477)...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8e23e37dd2342d156b36480662e6fe31b12d0ad"><span class="sha1">b8e23e3</span></a></td>
+  <td class="commit-date">2006-03-27</td>
+  <td class="commit-message">Update to Prototype 1.5.0_pre1</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3589871de82c12123f62c80b4924d2696412065c"><span class="sha1">3589871</span></a></td>
+  <td class="commit-date">2006-03-13</td>
+  <td class="commit-message">Added simple alert() notifications for RJS exceptions wh...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c5d5c4f708ab72b8ba9825017b854b02e0c8481c"><span class="sha1">c5d5c4f</span></a></td>
+  <td class="commit-date">2006-03-12</td>
+  <td class="commit-message">Use require_library_or_gem to load rake in commands/serv...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3ea34f7d30b9866da8f34be4108f8449218f9fd"><span class="sha1">e3ea34f</span></a></td>
+  <td class="commit-date">2006-03-12</td>
+  <td class="commit-message">Use the Rake API instead of shelling out to create the t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/382741f289beb0c4630fc2848a145f8049379bb4"><span class="sha1">382741f</span></a></td>
+  <td class="commit-date">2006-03-06</td>
+  <td class="commit-message">Update Prototype for beta gems</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/838ec413ebe08be71eea3dec0b061c6f609c839f"><span class="sha1">838ec41</span></a></td>
+  <td class="commit-date">2006-02-12</td>
+  <td class="commit-message">Add JavaScriptGenerator#replace_element for replacing an...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/803b9a41af46210da842afdba032c34109514942"><span class="sha1">803b9a4</span></a></td>
+  <td class="commit-date">2006-02-08</td>
+  <td class="commit-message">Add :html option for specifying form tag options in form...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49401f880c716aceb0f23051c10bcbd59ed89574"><span class="sha1">49401f8</span></a></td>
+  <td class="commit-date">2006-02-01</td>
+  <td class="commit-message">Subclasses of ActionController::Caching::Sweeper should ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c52a41241a632315edb77381240b66a7cc5aef4"><span class="sha1">9c52a41</span></a></td>
+  <td class="commit-date">2006-01-23</td>
+  <td class="commit-message">Add the ability to call JavaScriptGenerator methods from...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d0d0f0edd953b099351813882d20c27607a8906"><span class="sha1">7d0d0f0</span></a></td>
+  <td class="commit-date">2006-01-23</td>
+  <td class="commit-message">Add render(:update) to ActionView::Base</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d49f2ca091319b8bc7edcddcfdadffcd5fffca8"><span class="sha1">4d49f2c</span></a></td>
+  <td class="commit-date">2006-01-23</td>
+  <td class="commit-message">Fix render(:update) to not render layouts</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f44411d948f0cefb6a968a357d305c4c97c2174"><span class="sha1">5f44411</span></a></td>
+  <td class="commit-date">2006-01-23</td>
+  <td class="commit-message">Backing out of [3470] until visual_effect, et al can work</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84361478256f620cc3c4d31235eeec28bba058f0"><span class="sha1">8436147</span></a></td>
+  <td class="commit-date">2006-01-23</td>
+  <td class="commit-message">Add the ability to call JavaScriptGenerator methods from...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d921b799747aacb47dc8bbca9b2eefe25159e9d5"><span class="sha1">d921b79</span></a></td>
+  <td class="commit-date">2006-01-23</td>
+  <td class="commit-message">Add Object#instance_exec and Proc#bind</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/039a90f535f8d80d02cabe79a297275977939b10"><span class="sha1">039a90f</span></a></td>
+  <td class="commit-date">2006-01-21</td>
+  <td class="commit-message">Fix the requires in option_merger_test to unbreak AS tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a14b59b4b93dd2deeb39b717c75a6d06a1cc40be"><span class="sha1">a14b59b</span></a></td>
+  <td class="commit-date">2006-01-20</td>
+  <td class="commit-message">Extract Test::Unit::TestCase test process behavior into ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f9937dd04149e62fb834c815c60c5a96c025b240"><span class="sha1">f9937dd</span></a></td>
+  <td class="commit-date">2006-01-20</td>
+  <td class="commit-message">Pass along blocks from render_to_string to render</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06dd1f2ca3398b978bb286688aa68acacd7dd712"><span class="sha1">06dd1f2</span></a></td>
+  <td class="commit-date">2006-01-20</td>
+  <td class="commit-message">Add render :update for inline RJS</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f0650c51cc1f1b2725765715940d8d2eb5ca8492"><span class="sha1">f0650c5</span></a></td>
+  <td class="commit-date">2006-01-18</td>
+  <td class="commit-message">Get the version right: 1.5.0_pre0, not rc0</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75784f6bcc1acd3239f331f78b0fb6cbac3a9066"><span class="sha1">75784f6</span></a></td>
+  <td class="commit-date">2006-01-18</td>
+  <td class="commit-message">Update to Prototype 1.5.0_rc0</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6fbedf2e31dae954a07128d8133f8385cfb64301"><span class="sha1">6fbedf2</span></a></td>
+  <td class="commit-date">2006-01-13</td>
+  <td class="commit-message">Show a message on script/server exit before reaping FCGIs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7fbfc5ab61de3ac36d71a6501e9d2ca51e6b9d83"><span class="sha1">7fbfc5a</span></a></td>
+  <td class="commit-date">2006-01-12</td>
+  <td class="commit-message">Reap FCGI processes after lighttpd exits</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e567a5eb1afe1ac38f1da37f1c1e3922bbf79d2a"><span class="sha1">e567a5e</span></a></td>
+  <td class="commit-date">2005-12-27</td>
+  <td class="commit-message">Add ActiveSupport::JSON and Object#to_json for convertin...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c61d27d0c730992d3e69e18d3a8b4e7a4dfeb56b"><span class="sha1">c61d27d</span></a></td>
+  <td class="commit-date">2005-12-20</td>
+  <td class="commit-message">Add additional RJS functionality: alert, redirect_to, ca...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85fe1ecaefe415ac1de36883f5f6162f49bd5287"><span class="sha1">85fe1ec</span></a></td>
+  <td class="commit-date">2005-12-15</td>
+  <td class="commit-message">Add Object#with_options for DRYing up multiple calls to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5a54ae9e31e16b81d9ec4b8d20f3add73bb35c0"><span class="sha1">a5a54ae</span></a></td>
+  <td class="commit-date">2005-12-13</td>
+  <td class="commit-message">Update to Prototype 1.4.0 final</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cad37c3eafe0244d210809cf3285b0f5e09bdcb7"><span class="sha1">cad37c3</span></a></td>
+  <td class="commit-date">2005-12-13</td>
+  <td class="commit-message">Update to Prototype 1.4.0 final</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60936c5c84b974b7d0f7cbc51362b037064d2ab7"><span class="sha1">60936c5</span></a></td>
+  <td class="commit-date">2005-12-06</td>
+  <td class="commit-message">Add builtin/ to the gemspec. Closes #3047.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66cd1330a5d5845803699d65621abbb02ffee186"><span class="sha1">66cd133</span></a></td>
+  <td class="commit-date">2005-12-06</td>
+  <td class="commit-message">Add builtin/ to the gemspec. Closes #3047.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14c2334c848a01b558237b1c8422062f179591ca"><span class="sha1">14c2334</span></a></td>
+  <td class="commit-date">2005-11-30</td>
+  <td class="commit-message">Bring stable lighttpd server script in-line with trunk</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/833d9c89fcc6125545bf16339ebf038a7889e036"><span class="sha1">833d9c8</span></a></td>
+  <td class="commit-date">2005-11-30</td>
+  <td class="commit-message">Run initialize_logger in script/lighttpd to ensure the l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b3c9a0a56771d894d8d32500eb8f878728bd630"><span class="sha1">1b3c9a0</span></a></td>
+  <td class="commit-date">2005-11-22</td>
+  <td class="commit-message">Remove superfluous check for pluralize_table_names (use ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bea737eb5a5f51ee7fbc2e60d870cee5936bdfb0"><span class="sha1">bea737e</span></a></td>
+  <td class="commit-date">2005-11-22</td>
+  <td class="commit-message">Make ActionController&#39;s render honor the :locals option ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ede2a222ee9412f1f6e671470edc3c18449bbe45"><span class="sha1">ede2a22</span></a></td>
+  <td class="commit-date">2005-11-21</td>
+  <td class="commit-message">Strip out trailing &amp;_= for raw post bodies #2868</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/743fb60a8a9f7689dfc62d067bb3eb456a335cf4"><span class="sha1">743fb60</span></a></td>
+  <td class="commit-date">2005-11-21</td>
+  <td class="commit-message">Strip out trailing &amp;_= for raw post bodies #2868</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2b6e2bfed79e30d6d72fcac6a068e9fcbbf4f610"><span class="sha1">2b6e2bf</span></a></td>
+  <td class="commit-date">2005-11-21</td>
+  <td class="commit-message">Have the lighttpd server script report the actual ip to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f212c88315a15922df408395ba3d4b85187019f5"><span class="sha1">f212c88</span></a></td>
+  <td class="commit-date">2005-11-21</td>
+  <td class="commit-message">Pass multiple arguments to Element.show and Element.hide...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d785dbc1142aab3b6bb1bc1d0e4d611c7fe45c5"><span class="sha1">5d785db</span></a></td>
+  <td class="commit-date">2005-11-20</td>
+  <td class="commit-message">Add Array#to_strings which to_s&#39;s all elements in an array.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d777e506f27debdb5c66cc6653e2f3dc1b634d88"><span class="sha1">d777e50</span></a></td>
+  <td class="commit-date">2005-11-19</td>
+  <td class="commit-message">Update to Prototype 1.4.0_rc4. Closes #2943 (old Array.p...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4039f52462db2049607f0845cdd37e0176f984e"><span class="sha1">d4039f5</span></a></td>
+  <td class="commit-date">2005-11-19</td>
+  <td class="commit-message">Update to Prototype 1.4.0_rc4. Closes #2943 (old Array.p...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3c65bc8490b072a0d314aa3858c680fc6d67e35"><span class="sha1">b3c65bc</span></a></td>
+  <td class="commit-date">2005-11-18</td>
+  <td class="commit-message">Use Element.update(&#39;id&#39;, &#39;html&#39;) instead of uid=501(sam)...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/173544f56cb3cbdd5866a864ce3e287c8c86ce1e"><span class="sha1">173544f</span></a></td>
+  <td class="commit-date">2005-11-18</td>
+  <td class="commit-message">Update to Prototype 1.4.0_rc3. Closes #1893, #2505, #255...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcaa87169586bf7e7334dfdc4a30f0f2031ceea7"><span class="sha1">dcaa871</span></a></td>
+  <td class="commit-date">2005-11-18</td>
+  <td class="commit-message">Update to Prototype 1.4.0_rc3. Closes #1893, #2505, #255...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d99ed9bd6a90a01422bee43970930033efdab08d"><span class="sha1">d99ed9b</span></a></td>
+  <td class="commit-date">2005-11-14</td>
+  <td class="commit-message">Refactored JavaScriptHelper into PrototypeHelper and Scr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b661c9603a3d053f940e50fc1b63ff568f9b98f8"><span class="sha1">b661c96</span></a></td>
+  <td class="commit-date">2005-11-08</td>
+  <td class="commit-message">Added an omnipresent RailsInfoController with a properti...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aec5273f41af4f7c4cfa335b904b6fce6499bbda"><span class="sha1">aec5273</span></a></td>
+  <td class="commit-date">2005-11-07</td>
+  <td class="commit-message">Use require_library_or_gem &#39;fcgi&#39; in script/server</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c1eb899dea9aad18220b6403d3dd83863591f28"><span class="sha1">5c1eb89</span></a></td>
+  <td class="commit-date">2005-11-07</td>
+  <td class="commit-message">Make use of silence_stderr in script/lighttpd, script/pl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5feb3124d431b69e9c4921857289593a655f2e86"><span class="sha1">5feb312</span></a></td>
+  <td class="commit-date">2005-11-07</td>
+  <td class="commit-message">Define kernel.rb methods in &quot;class Object&quot; instead of &quot;m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/645de3391276a654ab4a653f5bbe47efc5759b77"><span class="sha1">645de33</span></a></td>
+  <td class="commit-date">2005-11-07</td>
+  <td class="commit-message">Added Kernel#silence_stderr to silence stderr for the du...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3275cadaa410fc00365db41d0155e4fa463e128"><span class="sha1">d3275ca</span></a></td>
+  <td class="commit-date">2005-11-06</td>
+  <td class="commit-message">Enable HTTP installation of plugins when svn isn&#39;t avaia...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55fab64391593641b7722d35fc8099da205ffc1a"><span class="sha1">55fab64</span></a></td>
+  <td class="commit-date">2005-11-05</td>
+  <td class="commit-message">Move info.rb to rails_info.rb and load Rails::Info after...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71b032a0a6a4f68354db7cb41e77443aa091580b"><span class="sha1">71b032a</span></a></td>
+  <td class="commit-date">2005-11-05</td>
+  <td class="commit-message">Added script/about to display formatted Rails::Info output</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f6b09f67c7d15e4db5960a09ad3b724a1e01d7f"><span class="sha1">1f6b09f</span></a></td>
+  <td class="commit-date">2005-11-05</td>
+  <td class="commit-message">Added Rails::Info to catalog assorted information about ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a8b472fc2d8a9995d90714564dab245ffcb7548"><span class="sha1">8a8b472</span></a></td>
+  <td class="commit-date">2005-11-05</td>
+  <td class="commit-message">Update changelog</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/313468a732cbea57daa4572114311296d124e44b"><span class="sha1">313468a</span></a></td>
+  <td class="commit-date">2005-11-05</td>
+  <td class="commit-message">Added action_pack.rb stub so that ActionPack::Version lo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f35792974a4148d95b117777290dd720595cb48e"><span class="sha1">f357929</span></a></td>
+  <td class="commit-date">2005-11-04</td>
+  <td class="commit-message">script/lighttpd: Detach and exit the forked process</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0c512ca990048d3ae22e9c19c728ade520e3acba"><span class="sha1">0c512ca</span></a></td>
+  <td class="commit-date">2005-11-04</td>
+  <td class="commit-message">script/lighttpd: tail the logfile when running in the fo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ba5eb82467bcf7d5e42f5ca681b358e322cfe70"><span class="sha1">5ba5eb8</span></a></td>
+  <td class="commit-date">2005-10-28</td>
+  <td class="commit-message">Trim down the default mimetypes in config/lighttpd.conf.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f15819e8f0cece48ccd5117a37cf6d37374d1bb1"><span class="sha1">f15819e</span></a></td>
+  <td class="commit-date">2005-10-26</td>
+  <td class="commit-message">Bump to Prototype 1.4.0_rc2</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d82c51bb16590090103f3d954e48fddd12c8ad45"><span class="sha1">d82c51b</span></a></td>
+  <td class="commit-date">2005-10-18</td>
+  <td class="commit-message">Upgrade to Prototype 1.4.0_rc1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0453525f8dc67b78a8805ed4b1583c47f723be86"><span class="sha1">0453525</span></a></td>
+  <td class="commit-date">2005-10-16</td>
+  <td class="commit-message">Merge remainder of util.js into effects.js</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/22b77daeee65aa80061f247a3b36404bacd7dff5"><span class="sha1">22b77da</span></a></td>
+  <td class="commit-date">2005-10-16</td>
+  <td class="commit-message">Upgrade to Prototype 1.4.0_rc0</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10714869dcf1b86eccfc230629a9842e36996996"><span class="sha1">1071486</span></a></td>
+  <td class="commit-date">2005-10-15</td>
+  <td class="commit-message">Change default logging colors to work on both white and ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b72a4b12fbb33d32ae3f9b9d004ca5888d42d58"><span class="sha1">4b72a4b</span></a></td>
+  <td class="commit-date">2005-10-13</td>
+  <td class="commit-message">Unset the X-Requested-With header when using the xhr wra...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/24c3599cc0f9987d48f2f1c4fe85fc84a6be3d31"><span class="sha1">24c3599</span></a></td>
+  <td class="commit-date">2005-10-13</td>
+  <td class="commit-message">Support using different database adapters for developmen...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f49dc37e7100d8358d864a6e008c17acd24765fc"><span class="sha1">f49dc37</span></a></td>
+  <td class="commit-date">2005-10-12</td>
+  <td class="commit-message">Wrap javascript_tag contents in a CDATA section and add ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0886bb391d97ec96d3028d5cac93ce2f7f8467e6"><span class="sha1">0886bb3</span></a></td>
+  <td class="commit-date">2005-10-10</td>
+  <td class="commit-message">Fixed that an instance variable with the same name as a ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3655ef733f7f69a4b1175cd6843f8bfe4c32f5d"><span class="sha1">e3655ef</span></a></td>
+  <td class="commit-date">2005-10-10</td>
+  <td class="commit-message">Fix Element.toggle logic</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72c3ffc7fb636859343b69fcf3c2bb418abe6883"><span class="sha1">72c3ffc</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">Make the migration generator only check files ending in ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3c02d8c66ae3df7a58ba7d76dfc464f26dcff67"><span class="sha1">e3c02d8</span></a></td>
+  <td class="commit-date">2005-09-09</td>
+  <td class="commit-message">Fixed that render :partial would fail when :object was a...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e758c2e9db63d8b0a01c659a74e8f1dec22a72d0"><span class="sha1">e758c2e</span></a></td>
+  <td class="commit-date">2005-09-01</td>
+  <td class="commit-message">Yield @content_for_ variables to templates #2058 [Sam St...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/01af965a3e68f719fe9cfdce36a82ad8901fe7a7"><span class="sha1">01af965</span></a></td>
+  <td class="commit-date">2005-09-01</td>
+  <td class="commit-message">Make rendering an empty partial collection behave like :...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea8f3f0a3765883c993cdd1c28ae958f097d2632"><span class="sha1">ea8f3f0</span></a></td>
+  <td class="commit-date">2005-07-22</td>
+  <td class="commit-message">Added migration support for SQLite (using temporary tabl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1911f8eee928915f1020753a4a3ba34c81131a66"><span class="sha1">1911f8e</span></a></td>
+  <td class="commit-date">2005-07-11</td>
+  <td class="commit-message">Update Railties to Prototype 1.3.1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/325c5efdb3f7492068e9c9deed31b0ebdc04945c"><span class="sha1">325c5ef</span></a></td>
+  <td class="commit-date">2005-07-11</td>
+  <td class="commit-message">Update to Prototype 1.3.1</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/383b6afd1c943096951ea845b3fc726f4d2193a6"><span class="sha1">383b6af</span></a></td>
+  <td class="commit-date">2005-07-10</td>
+  <td class="commit-message">Made JavaScriptHelper tests pass regardless of hash orde...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60499774c2a8ecd9d87b140ffbe24634559c3fcd"><span class="sha1">6049977</span></a></td>
+  <td class="commit-date">2005-07-10</td>
+  <td class="commit-message">Fixed that each request with the WEBrick adapter would o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/91afb9298b1716e8b44957eecf5477c8d4af99b4"><span class="sha1">91afb92</span></a></td>
+  <td class="commit-date">2005-07-05</td>
+  <td class="commit-message">Added create_db and destroy_db tasks in the Rakefile to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/555072e8e9c4df577fbd10e8a34fa4036e31649c"><span class="sha1">555072e</span></a></td>
+  <td class="commit-date">2005-07-04</td>
+  <td class="commit-message">Fix failure container logic in Ajax.Updater</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5bbc24a508c73f3be910c265f39f34efd444c9f0"><span class="sha1">5bbc24a</span></a></td>
+  <td class="commit-date">2005-07-04</td>
+  <td class="commit-message">Update Prototype; hopefully the last change before 0.13</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7f37d3ef99c512f02f0579836f573fa3beb7bb3"><span class="sha1">b7f37d3</span></a></td>
+  <td class="commit-date">2005-07-02</td>
+  <td class="commit-message">Fixed a bug with alternate layout #1468 [sam]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d8679993c3e7ec2920fd818dacc7cb2000b9f89"><span class="sha1">2d86799</span></a></td>
+  <td class="commit-date">2005-06-29</td>
+  <td class="commit-message">Fix JavaScriptHelper capitalization and make it compatib...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a551ba2c01f5fcc1c0eff13c8ef24082e55071b9"><span class="sha1">a551ba2</span></a></td>
+  <td class="commit-date">2005-06-29</td>
+  <td class="commit-message">Sync Prototype; closes #1539</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/05ef7898bd42970a45a6727b1cf44338982ab2c6"><span class="sha1">05ef789</span></a></td>
+  <td class="commit-date">2005-06-27</td>
+  <td class="commit-message">Make Object.prototype.extend work correctly</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9965993e8babc177d89a547bee92573bc0712dea"><span class="sha1">9965993</span></a></td>
+  <td class="commit-date">2005-06-27</td>
+  <td class="commit-message">Work around existing Element and Event objects in Prototype</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dd2981d2b966b97a5ab869f712d7fb7bc1c3598"><span class="sha1">0dd2981</span></a></td>
+  <td class="commit-date">2005-06-27</td>
+  <td class="commit-message">Fix a potential bug in Prototype&#39;s Ajax.Request involvin...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/264a7e7c46339e07be98a9f49db31d83c09e7733"><span class="sha1">264a7e7</span></a></td>
+  <td class="commit-date">2005-06-27</td>
+  <td class="commit-message">Update to Prototype 1.3.0; closes #1441, #1348</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77af61be40256d1e9e238d093bbd1ffb95263c67"><span class="sha1">77af61b</span></a></td>
+  <td class="commit-date">2005-04-19</td>
+  <td class="commit-message">Added xml_http_request/xhr method for simulating XMLHttp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71a616890bb3557764d6a6731fd3ec9e63220a5b"><span class="sha1">71a6168</span></a></td>
+  <td class="commit-date">2005-04-19</td>
+  <td class="commit-message">Update to Prototype 1.2.1</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d010055142c14aa5ee56ac5aae600dfdc03dcae"><span class="sha1">7d01005</span></a></td>
+  <td class="commit-date">2005-04-18</td>
+  <td class="commit-message">Fixed documentation and prepared for release of 0.12</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bceb88ef9c402a722caa7441a53f768aa14ab709"><span class="sha1">bceb88e</span></a></td>
+  <td class="commit-date">2005-04-18</td>
+  <td class="commit-message">Fixed that you can now pass an alternative :href option ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d547c3f5ecd0318d9d3ddb95778867d4c43273c2"><span class="sha1">d547c3f</span></a></td>
+  <td class="commit-date">2005-04-18</td>
+  <td class="commit-message">Update to Prototype 1.2.0</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/95e6c03de7cd52a426560a6c46bd08b1791d7022"><span class="sha1">95e6c03</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">Added Request#xml_http_request? (and an alias xhr?) to t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ff6d76c6a54650c0bfb1809cb3e870ebb4c2de6"><span class="sha1">8ff6d76</span></a></td>
+  <td class="commit-date">2005-03-26</td>
+  <td class="commit-message">Added :position option to link_to_remote/form_remote_tag...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d5f0bad6e934d9d4fad7d0fa4643d04c13709a9"><span class="sha1">5d5f0ba</span></a></td>
+  <td class="commit-date">2005-03-21</td>
+  <td class="commit-message">Added a JavascriptHelper and accompanying prototype.js l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d578196f9a5b583c167d60d0f10d7684f41aa318"><span class="sha1">d578196</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">Added pagination support through both a controller and h...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee8d110068e958b400987b5f224e14e292fd0558"><span class="sha1">ee8d110</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">Added adapter independent limit clause as a two-element ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce2386280086e8ebb978b16025a778980953c6ea"><span class="sha1">ce23862</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">Added alias_method :to_param, :id to Base, such that Act...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e745f3aa5de4e117758ee92e2ca92aa265c6deb"><span class="sha1">7e745f3</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">Added to_param call for parameters when composing an url...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a775cb190312edba8ef3feb6345ac446d7e8f113"><span class="sha1">a775cb1</span></a></td>
+  <td class="commit-date">2004-12-07</td>
+  <td class="commit-message">Added the option for sanitizing find_by_sql and the offs...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

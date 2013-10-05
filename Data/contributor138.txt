@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jonathan del Strother to Ruby on Rails" />
+    <meta name="keywords" content="Jonathan del Strother,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #136 Jonathan del Strother - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #136 <span class="fn">Jonathan del Strother</span> - All time<br/>
+    <span class="listing-total">Showing 27 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73e71c27f2af1af433db7c49f5d1aa9860546394"><span class="sha1">73e71c2</span></a></td>
+  <td class="commit-date">2012-01-25</td>
+  <td class="commit-message">Fix translate_error reference for Error#add documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee2ae378cb08c4a671c08093ceab77efbd3a001d"><span class="sha1">ee2ae37</span></a></td>
+  <td class="commit-date">2012-01-19</td>
+  <td class="commit-message">Don&#39;t instantiate two objects in collection proxy / find...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ce562c1f3a5812ab67faf0defedd46b580c47be"><span class="sha1">0ce562c</span></a></td>
+  <td class="commit-date">2011-12-01</td>
+  <td class="commit-message">Leave default_asset_host_protocol unset</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/88237daae48c9867fca3b0e14e779d4f4cdd88d0"><span class="sha1">88237da</span></a></td>
+  <td class="commit-date">2011-12-01</td>
+  <td class="commit-message">Leave default_asset_host_protocol unset</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e0714ee005a366aa92449fc4f92cf97aa8e2f349"><span class="sha1">e0714ee</span></a></td>
+  <td class="commit-date">2011-08-24</td>
+  <td class="commit-message">Fix autoload_once_paths when using Pathnames &amp; ruby 1.9</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab422b04a2fd8144a26d82f2ec1efeeb684b29db"><span class="sha1">ab422b0</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Replace unnecessary regexp in Dependencies#load_missing_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1403f930358dcd8c66d8bc276da11874546ed2f"><span class="sha1">f1403f9</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Constantize a regexp in Dependencies#load_missing_constant</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/626798af1a77ae92e55879267862cc6ce840bc40"><span class="sha1">626798a</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">Replace unnecessary regexp in Dependencies#load_missing_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43ef635b95089ec7a6afb74f154286080aef8d5b"><span class="sha1">43ef635</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">Replace unnecessary regexp in Dependencies#load_missing_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f17ea60f98f9049f2b0aaeeaf40ce9ad79ce824c"><span class="sha1">f17ea60</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">Constantize a regexp in Dependencies#load_missing_constant</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/923067810480c93817dbae3d8295a18aa2a2ec3a"><span class="sha1">9230678</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Use xmlschema when serializing TimeWithZones to xml [#22...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1530545d259c144770bd8fd7881cb16160c0afc"><span class="sha1">b153054</span></a></td>
+  <td class="commit-date">2009-01-09</td>
+  <td class="commit-message">Fix JSON decoder date-converter regexp [#1662 state:reso...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17da45b789e0a2581eae6e6b2b1ae8d2b98e0f5d"><span class="sha1">17da45b</span></a></td>
+  <td class="commit-date">2009-01-07</td>
+  <td class="commit-message">Fix JSON decoder date-converter regexp [#1662 state:reso...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6cfb70023a7b102debaa7f1505b173556a285ae7"><span class="sha1">6cfb700</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Don&#39;t set Content-Length on 304 responses</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3e07f320c10b53ec21b947d949d0063e724c5fd8"><span class="sha1">3e07f32</span></a></td>
+  <td class="commit-date">2008-06-11</td>
+  <td class="commit-message">Improve ActionCaching&#39;s format-handling</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2cdc613598ae0774767c60e3c562fb6ca35971e0"><span class="sha1">2cdc613</span></a></td>
+  <td class="commit-date">2008-04-07</td>
+  <td class="commit-message">script/performance/profiler compatibility with the ruby-...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5dee6ce9e0e31c86c4319c17a1ee551832ecb7a8"><span class="sha1">5dee6ce</span></a></td>
+  <td class="commit-date">2008-02-28</td>
+  <td class="commit-message">Fix that batched :include would pull in duplicate record...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/780151c01e7e2d953f2701c2b931a1b33e4b88ca"><span class="sha1">780151c</span></a></td>
+  <td class="commit-date">2008-02-03</td>
+  <td class="commit-message">Fix missing extension for caching. Closes #10733 [Catfis...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eff27ab11962aa90885653438d0d04d3136fd846"><span class="sha1">eff27ab</span></a></td>
+  <td class="commit-date">2008-01-12</td>
+  <td class="commit-message">Fix a few caching errors, expose a case thats still not ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/990a3f3a83ec6b33360373919009a7d8bd396534"><span class="sha1">990a3f3</span></a></td>
+  <td class="commit-date">2007-11-14</td>
+  <td class="commit-message">Use rexml for some tests rather than string include? che...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea256eaa7f189d069967f8efe3ca9177a5b57795"><span class="sha1">ea256ea</span></a></td>
+  <td class="commit-date">2007-11-14</td>
+  <td class="commit-message">Base#to_xml supports the nil=&quot;true&quot; attribute like Hash#...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b9e67c5b9d9f751d633c787d24a1491f3ef498e"><span class="sha1">4b9e67c</span></a></td>
+  <td class="commit-date">2007-05-24</td>
+  <td class="commit-message">catch possible WSOD when trying to render a missing part...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9679cb4d979240aacbc3bd8e22a17942627d3414"><span class="sha1">9679cb4</span></a></td>
+  <td class="commit-date">2007-02-27</td>
+  <td class="commit-message">Merge [6253] from trunk. References #6680.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df7ca38d7dc2419a564c223071b92c5570cf7a58"><span class="sha1">df7ca38</span></a></td>
+  <td class="commit-date">2007-02-27</td>
+  <td class="commit-message">session_enabled? works with session :off. Closes #6680.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dd1dc5e81973617d753c138179957353e8b19924"><span class="sha1">dd1dc5e</span></a></td>
+  <td class="commit-date">2006-11-14</td>
+  <td class="commit-message">Merge [5521] from trunk.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b97ffa2a4fcb59de757745a71a6522662039e634"><span class="sha1">b97ffa2</span></a></td>
+  <td class="commit-date">2006-11-14</td>
+  <td class="commit-message">Hash#to_xml handles keys with the same name as Kernel me...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f9650a23f060c0d8678b2bda45e502f0bca487cc"><span class="sha1">f9650a2</span></a></td>
+  <td class="commit-date">2006-10-09</td>
+  <td class="commit-message">Fixed that caches_action breaks with file extensions (cl...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

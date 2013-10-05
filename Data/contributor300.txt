@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ben Sandofsky to Ruby on Rails" />
+    <meta name="keywords" content="Ben Sandofsky,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Ben Sandofsky - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Ben Sandofsky</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b767000b77ea4eeab91c99fa2ae3d74bc9e5c75"><span class="sha1">3b76700</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Make requiring gems optional.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61842d97c5269af8a36a33115f50543a155f1608"><span class="sha1">61842d9</span></a></td>
+  <td class="commit-date">2008-08-04</td>
+  <td class="commit-message">Make requiring gems optional.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5cb6a9aabdd2d74b7c8b52828f6b4797714ce78b"><span class="sha1">5cb6a9a</span></a></td>
+  <td class="commit-date">2007-10-16</td>
+  <td class="commit-message">Improve the error message for assert_redirected_to. Clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/906c49d0f3fb183967e072abbf8007aa1acdab35"><span class="sha1">906c49d</span></a></td>
+  <td class="commit-date">2007-09-23</td>
+  <td class="commit-message">Added --skip-fixture option to script/generate model (cl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ab8d4d9edd9dd136b8ec0a77ce9512b4171fd52"><span class="sha1">9ab8d4d</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">Improve the error message for assert_redirected_to (clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/415649760226a7987ba1f8d234c1785d0fa333b0"><span class="sha1">4156497</span></a></td>
+  <td class="commit-date">2007-09-21</td>
+  <td class="commit-message">Fixed CaptureHelper#content_for to work with the optiona...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ba886478206dd5e55d910031a3f886e11e52943"><span class="sha1">2ba8864</span></a></td>
+  <td class="commit-date">2007-06-13</td>
+  <td class="commit-message">1-2-stable: changing the :default Date format doesn&#39;t br...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5950cdd57d1a5c81587b429d176d6436db6845c"><span class="sha1">d5950cd</span></a></td>
+  <td class="commit-date">2007-05-28</td>
+  <td class="commit-message">apply [6879] to stable. Closes #7293.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4472a30aadc35f8a9a67db8b0a2a7318c3a0dcfd"><span class="sha1">4472a30</span></a></td>
+  <td class="commit-date">2007-05-28</td>
+  <td class="commit-message">Allow nil serialized attributes with a set class constra...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5acea7fc9ca19848733c0a81e0c018bc7388af5e"><span class="sha1">5acea7f</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">update_all can take a Hash argument. sanitize_sql splits...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5bd679340819d22c27d6074d01d05ba824c174c"><span class="sha1">d5bd679</span></a></td>
+  <td class="commit-date">2007-01-24</td>
+  <td class="commit-message">Add missing tests ensuring callbacks work with class inh...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

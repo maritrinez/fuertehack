@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Szymon Nowak to Ruby on Rails" />
+    <meta name="keywords" content="Szymon Nowak,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Szymon Nowak - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Szymon Nowak</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fd99bb892652b1ffffdd7f9271184235d6040111"><span class="sha1">fd99bb8</span></a></td>
+  <td class="commit-date">2012-08-27</td>
+  <td class="commit-message">Make ActionDispatch::ParamsParser::ParseError#original_e...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6ba012032c0c53e4539228b06f3da6d6a5a69bc"><span class="sha1">b6ba012</span></a></td>
+  <td class="commit-date">2012-08-24</td>
+  <td class="commit-message">Fix ActionDispatch::ParamsParser::ParseError message for...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d14e2e5a217c5dfbc0de1796f2821ea1efd07fe4"><span class="sha1">d14e2e5</span></a></td>
+  <td class="commit-date">2012-08-24</td>
+  <td class="commit-message">Raise generic ParseError exception when ActionDispatch::...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85683f2a79dbf81130361cb6426786cf6b0d1925"><span class="sha1">85683f2</span></a></td>
+  <td class="commit-date">2010-12-23</td>
+  <td class="commit-message">Fix creation of has_many through records with custom pri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1556e0874dd5c7e160a9bc5091dd60eb4bd5ec97"><span class="sha1">1556e08</span></a></td>
+  <td class="commit-date">2010-10-11</td>
+  <td class="commit-message">Return a valid empty JSON on successful PUT and DELETE r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d3333257156544feba729ba28f6874d5a30d561"><span class="sha1">0d33332</span></a></td>
+  <td class="commit-date">2010-10-11</td>
+  <td class="commit-message">Return a valid empty JSON on successful PUT and DELETE r...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17bee0dd2fcce2d040bd6edda3e19cb11c5813d9"><span class="sha1">17bee0d</span></a></td>
+  <td class="commit-date">2010-02-02</td>
+  <td class="commit-message">Change Rails::Generators::Migration protected instance m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3ec7b2d03a52e43a4451d522eea7e6499289daa"><span class="sha1">b3ec7b2</span></a></td>
+  <td class="commit-date">2009-07-16</td>
+  <td class="commit-message">Add primary_key option to belongs_to association</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c11437a32a973fa9b521c32caa7256f9772acd7"><span class="sha1">1c11437</span></a></td>
+  <td class="commit-date">2009-07-16</td>
+  <td class="commit-message">Add primary_key option to belongs_to association</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

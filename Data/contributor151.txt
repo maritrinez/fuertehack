@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Gabe da Silveira to Ruby on Rails" />
+    <meta name="keywords" content="Gabe da Silveira,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #150 Gabe da Silveira - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #150 <span class="fn">Gabe da Silveira</span> - All time<br/>
+    <span class="listing-total">Showing 24 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43d2cb8e93e7ff3da4d5b4e3c25272b27812adfc"><span class="sha1">43d2cb8</span></a></td>
+  <td class="commit-date">2009-12-04</td>
+  <td class="commit-message">Replace reset_counter_cache with reset_counters that has...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32395899d7c97f69b508b7d7f9b7711f28586679"><span class="sha1">3239589</span></a></td>
+  <td class="commit-date">2009-12-04</td>
+  <td class="commit-message">Replace reset_counter_cache with reset_counters that has...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/785281ade8c2347614525e9aceb5e62c80eec6f8"><span class="sha1">785281a</span></a></td>
+  <td class="commit-date">2009-11-27</td>
+  <td class="commit-message">Make sure strip_tags removes tags which start with a non...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfe032858077bb2946abe25e95e485ba6da86bd5"><span class="sha1">bfe0328</span></a></td>
+  <td class="commit-date">2009-11-26</td>
+  <td class="commit-message">Make sure strip_tags removes tags which start with a non...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea290e77e6c50b13a0c9000eceaa5412de6918bc"><span class="sha1">ea290e7</span></a></td>
+  <td class="commit-date">2009-11-18</td>
+  <td class="commit-message">Insert generated association members in the same order t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df0720b8b74bd6d41d25390d332000b882b711d9"><span class="sha1">df0720b</span></a></td>
+  <td class="commit-date">2009-11-18</td>
+  <td class="commit-message">Insert generated association members in the same order t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9bc80f4dd149ee70aa05c352bdd3fec46d22871a"><span class="sha1">9bc80f4</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">Fix that counter_cache breaks with has_many :dependent =...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e3364ac4634f7017305c4bc725710ab0e7ba4c2"><span class="sha1">7e3364a</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">Fix that counter_cache breaks with has_many :dependent =...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b763858ed5faeda720035dd2178e7c44aa34240a"><span class="sha1">b763858</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Enable has_many :through for going through a has_one ass...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00d6c766608f90ce64f11feb98786cbc7f71b89d"><span class="sha1">00d6c76</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Enable has_many :through for going through a has_one ass...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1185500ff0465aff8686315f1b785884f133adcf"><span class="sha1">1185500</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Remove unused routeset method routes_for_controller_and_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/917428bcce7bb22241bfc07daa5d0ddf9d107775"><span class="sha1">917428b</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Make optimized named routes respect all reserved options...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/af57ccb468c661c17b16ac3021e6a589bdfb6548"><span class="sha1">af57ccb</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Make optimized named routes respect all reserved options...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97fa8547b2d3cf069a45fff76ecf5f0ce598fad1"><span class="sha1">97fa854</span></a></td>
+  <td class="commit-date">2008-07-15</td>
+  <td class="commit-message">Add assert_sql helper method to check for specific SQL o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd9b24286a90111a08002e0da753198c5fb2432a"><span class="sha1">cd9b242</span></a></td>
+  <td class="commit-date">2008-07-14</td>
+  <td class="commit-message">Add assert_sql helper method to check for specific SQL o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55e5219f9912860abdb28636749c0cb2d8b6a809"><span class="sha1">55e5219</span></a></td>
+  <td class="commit-date">2008-06-03</td>
+  <td class="commit-message">Fix assert_redirected_to for nested controllers and name...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/025515b234d8380f195e3de3818d076302605b12"><span class="sha1">025515b</span></a></td>
+  <td class="commit-date">2008-06-03</td>
+  <td class="commit-message">Fix assert_redirected_to for nested controllers and name...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4ca170fcea17ca0cd52677c39e865a0934ecd7d3"><span class="sha1">4ca170f</span></a></td>
+  <td class="commit-date">2008-03-03</td>
+  <td class="commit-message">Improve performance on :include/:conditions/:limit queri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a07886be330860ee4730ad1fb260458b807989d"><span class="sha1">2a07886</span></a></td>
+  <td class="commit-date">2008-02-04</td>
+  <td class="commit-message">Ensure that assert_redirected_to to top-level named rout...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8657089f289e2b3a9d5c383516e951012b2bec2"><span class="sha1">b865708</span></a></td>
+  <td class="commit-date">2007-09-15</td>
+  <td class="commit-message">Eager loading respects explicit :joins. Closes #9496.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32553a2d76f4520e1456d5463c691310c22ebd2b"><span class="sha1">32553a2</span></a></td>
+  <td class="commit-date">2007-09-08</td>
+  <td class="commit-message">Fix assert_select for XML documents. Closes #8173. [dasi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4d4a08f6b064e47145b1abaca803654957f7a03"><span class="sha1">d4d4a08</span></a></td>
+  <td class="commit-date">2007-07-11</td>
+  <td class="commit-message">Make sure missing template exceptions actually say which...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3fbfc13ee35e074b3efd69c8d6dfeafd461dd43c"><span class="sha1">3fbfc13</span></a></td>
+  <td class="commit-date">2007-07-07</td>
+  <td class="commit-message">Move from select * to select tablename.* to avoid clobbe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f517348db260fb0794a3644f761ac91fe540472"><span class="sha1">7f51734</span></a></td>
+  <td class="commit-date">2007-06-15</td>
+  <td class="commit-message">Make ActionView#view_paths an attr_accessor for real thi...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

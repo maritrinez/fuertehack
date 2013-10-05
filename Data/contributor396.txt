@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by David Calavera to Ruby on Rails" />
+    <meta name="keywords" content="David Calavera,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 David Calavera - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">David Calavera</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab2f2b22a6d0656f719c294d40e35d21c752ba8c"><span class="sha1">ab2f2b2</span></a></td>
+  <td class="commit-date">2010-10-10</td>
+  <td class="commit-message">prevent rake test to run the test suite three times when...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8330a22619f647f16a671c1ad58730d8896f806"><span class="sha1">b8330a2</span></a></td>
+  <td class="commit-date">2010-06-22</td>
+  <td class="commit-message">preventing memcached initialization errors with default ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/256a33d0fb78cb4fb337938c82a52d042dd4fa2a"><span class="sha1">256a33d</span></a></td>
+  <td class="commit-date">2010-06-22</td>
+  <td class="commit-message">defines ORIG_ARGV in Active Support&#39;s abstract_unit.rb (...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0fc5c59b37b4e2a809213c63bc9018bee7dc4aaf"><span class="sha1">0fc5c59</span></a></td>
+  <td class="commit-date">2009-08-30</td>
+  <td class="commit-message">Rails templates git command runs inside another director...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/882dd4e6054470ee56c46ab1432861952c81b633"><span class="sha1">882dd4e</span></a></td>
+  <td class="commit-date">2009-07-01</td>
+  <td class="commit-message">ensure Inflector.camelize works with symbols [#2856 stat...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4196616778846f5ccbd8da504a2306846fd3f432"><span class="sha1">4196616</span></a></td>
+  <td class="commit-date">2009-05-27</td>
+  <td class="commit-message">ensure initialize_database_middleware doesn&#39;t use Action...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d9e904da35b41c8796b026d63675d4733505c91"><span class="sha1">0d9e904</span></a></td>
+  <td class="commit-date">2009-05-27</td>
+  <td class="commit-message">ensure initialize_database_middleware doesn&#39;t use Action...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e1c04d86691075d172bccb8bc1c7df2e71383c3"><span class="sha1">7e1c04d</span></a></td>
+  <td class="commit-date">2008-01-13</td>
+  <td class="commit-message">Allow users to declare other namespaces when using the a...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

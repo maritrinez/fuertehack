@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jarkko Laine to Ruby on Rails" />
+    <meta name="keywords" content="Jarkko Laine,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #242 Jarkko Laine - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #242 <span class="fn">Jarkko Laine</span> - All time<br/>
+    <span class="listing-total">Showing 14 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03becb13099c439f6aea5058546bc8b0b19b8db8"><span class="sha1">03becb1</span></a></td>
+  <td class="commit-date">2012-03-24</td>
+  <td class="commit-message">[#5559] Do not black out the system timezone DST jump ho...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a55caf666cf4c00bdc5d73ac21ef92d6456cdf62"><span class="sha1">a55caf6</span></a></td>
+  <td class="commit-date">2007-10-27</td>
+  <td class="commit-message">Tested FormHelper#label. Closes #9850 [jarkko]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5757fb61d88908eb420b9a0d15197caee5cf00a2"><span class="sha1">5757fb6</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">self.fixture_class_names is defined twice in fixtures.rb...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fc4be68a6b65074726bee493920040da0e6e04d"><span class="sha1">2fc4be6</span></a></td>
+  <td class="commit-date">2007-09-02</td>
+  <td class="commit-message">Remove duplication in test_help.rb Closes #3328 [jarkko]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bed591c36cdea33cca7b86a5c1b5f42e51ff53a9"><span class="sha1">bed591c</span></a></td>
+  <td class="commit-date">2007-05-19</td>
+  <td class="commit-message">Merge [6787] to stable from trunk: document caches_actio...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab3d187943d5fbef26d7c25781b6abf7734d6f46"><span class="sha1">ab3d187</span></a></td>
+  <td class="commit-date">2007-05-19</td>
+  <td class="commit-message">Document caches_action. Closes #5419.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dad60e78010384b93712327ccf0eac45d077b815"><span class="sha1">dad60e7</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">mail_to :encode =&gt; &#39;hex&#39; also encodes the mailto: part o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/553c23df82aef0b105944e7be9ef22be02a66a33"><span class="sha1">553c23d</span></a></td>
+  <td class="commit-date">2007-01-24</td>
+  <td class="commit-message">Merge [5704], [6005], [6034] from trunk. References #726...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef1d0c1259337638983804ea0f97f25f2b3f02e4"><span class="sha1">ef1d0c1</span></a></td>
+  <td class="commit-date">2007-01-24</td>
+  <td class="commit-message">Autolinking recognizes trailing and embedded . , : ;  Cl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a7ce06e90b83d10fb57f30086a9ebec726febfd"><span class="sha1">1a7ce06</span></a></td>
+  <td class="commit-date">2007-01-12</td>
+  <td class="commit-message">Merge [5895], [5896] from trunk. References #6891.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa619b051b5e12c6b1e8b91a32d6738edafcc3af"><span class="sha1">fa619b0</span></a></td>
+  <td class="commit-date">2007-01-12</td>
+  <td class="commit-message">link_to_unless_current works with full URLs as well as p...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eede40bcf00d1b6f1bee7f105d18ba3bc17ff306"><span class="sha1">eede40b</span></a></td>
+  <td class="commit-date">2006-07-08</td>
+  <td class="commit-message">Reset @html_document between requests so assert_tag work...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eefe4d0ddd077f5e27caf8bfb5d306ed6cc86ed8"><span class="sha1">eefe4d0</span></a></td>
+  <td class="commit-date">2005-04-30</td>
+  <td class="commit-message">Fixed extraneous comma in count() function that made it ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98306bed054c320833d9d48229c68da10a38f3d0"><span class="sha1">98306be</span></a></td>
+  <td class="commit-date">2005-04-30</td>
+  <td class="commit-message">Fixed missing id uniqueness in FormTag#radio_button #120...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

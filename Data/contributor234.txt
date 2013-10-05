@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Gabriel Horner to Ruby on Rails" />
+    <meta name="keywords" content="Gabriel Horner,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 Gabriel Horner - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">Gabriel Horner</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f5e4d13270dbce2bb880ef6529da68aaee017910"><span class="sha1">f5e4d13</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">use existing model for testing Base.create with #after_i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e3c0a5d9a22a4a08628b3f72a6b4072e0a23405"><span class="sha1">6e3c0a5</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">simplify and be more explicit about create and after_ini...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06c6252b10be3d5b9cfae5e9c26e53f53d218dd3"><span class="sha1">06c6252</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">simplify and be more explicit about create and after_ini...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc446d6c9f10a6258da958ecc8948ef478d9407c"><span class="sha1">cc446d6</span></a></td>
+  <td class="commit-date">2011-03-29</td>
+  <td class="commit-message">Add docs for ActionController::Metal class methods</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c309f04c9e2538cc61d6a1c753da3c6cc91b51f"><span class="sha1">6c309f0</span></a></td>
+  <td class="commit-date">2011-03-19</td>
+  <td class="commit-message">Beef up Rails::Railtie::Configuration docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61781d84c11c8b5e37ad7cca5c40864759150a33"><span class="sha1">61781d8</span></a></td>
+  <td class="commit-date">2011-03-15</td>
+  <td class="commit-message">doc :anchor option for #match in routes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3dad5deb9c4961031a91398bff3e6dcdf8682c9"><span class="sha1">b3dad5d</span></a></td>
+  <td class="commit-date">2011-02-10</td>
+  <td class="commit-message">add some docs for ActionController::Renderers</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/277327bb7f389a140eb4ae7722d64d6cf45e06cf"><span class="sha1">277327b</span></a></td>
+  <td class="commit-date">2011-02-05</td>
+  <td class="commit-message">improve routing docs, mostly for #match</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac15647bf0e6ed85714dee4e2b14b2e7e6f29320"><span class="sha1">ac15647</span></a></td>
+  <td class="commit-date">2011-02-04</td>
+  <td class="commit-message">keep options titles consistent to &quot;Options&quot;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0b4db0c28465866b656c894c16ce35f4d313a12"><span class="sha1">c0b4db0</span></a></td>
+  <td class="commit-date">2011-02-03</td>
+  <td class="commit-message">fix OrderedHash#each* methods to return Enumerators when...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a0f43d3c1dd35fde074af6cc2825ae1872aabef"><span class="sha1">9a0f43d</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">OrderedHash#each* methods return self like Hash does [#6...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d1ef543794efdcc1d225055f88cbc88b20e84921"><span class="sha1">d1ef543</span></a></td>
+  <td class="commit-date">2011-01-29</td>
+  <td class="commit-message">explain different ways to use match()</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fab16fded9a68cd327b6cfc5439ff10eed6df40b"><span class="sha1">fab16fd</span></a></td>
+  <td class="commit-date">2011-01-29</td>
+  <td class="commit-message">organize and expand on options for routing methods</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/38d728fb944b08b7faabf19c8ba5ef2e69e29c16"><span class="sha1">38d728f</span></a></td>
+  <td class="commit-date">2011-01-29</td>
+  <td class="commit-message">add cross-references and documentation for scope</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49744bdaee899d64f8c70f65b2c1d63ace41cafa"><span class="sha1">49744bd</span></a></td>
+  <td class="commit-date">2011-01-29</td>
+  <td class="commit-message">fix cross-references in HttpHelper methods</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

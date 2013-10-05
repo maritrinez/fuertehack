@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ray Baxter to Ruby on Rails" />
+    <meta name="keywords" content="Ray Baxter,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #86 Ray Baxter - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #86 <span class="fn">Ray Baxter</span> - All time<br/>
+    <span class="listing-total">Showing 47 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41d179b7d67f01234b28fd6e4f6dc9cf8ef2c8db"><span class="sha1">41d179b</span></a></td>
+  <td class="commit-date">2011-09-10</td>
+  <td class="commit-message">Revert &quot;Fixed syntax error in &quot;block setting of attribut...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa0ebf4c98da483beb86da4e11f2a73729e3983a"><span class="sha1">fa0ebf4</span></a></td>
+  <td class="commit-date">2011-09-05</td>
+  <td class="commit-message">Tests shouldn&#39;t produce warnings</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14157b779b9f65bb9d39cb38b100776f2fe1f194"><span class="sha1">14157b7</span></a></td>
+  <td class="commit-date">2011-09-04</td>
+  <td class="commit-message">clarify where the branch name will exist</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2422fbf6287f7d97859bc50ec1417b95b0b703d5"><span class="sha1">2422fbf</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">make code example agree with text just above</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57dd60fde897b1198d2d38330be02fb638bfe8e0"><span class="sha1">57dd60f</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">don&#39;t need edgeapi now that we are on 3.1</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/331dad14bc0623a8b1f24be88f2933c20c346c74"><span class="sha1">331dad1</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">don&#39;t need edgeapi now that we are on 3.1</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94a8e35e4c3751d8b58f0f8c710dad7dd7c98ee9"><span class="sha1">94a8e35</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">use the doc conventions for arguments in all cases</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f888b0299f40b457501162a6bfa471d70b1cb3a"><span class="sha1">9f888b0</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Add seach, tel, url and email inputs as &#39;Other Helpers o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9ac90d9fa2c173c02287d48ea129b08b45c4198"><span class="sha1">b9ac90d</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">examples for telephone_field, url_field and email_field</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7be43a54e36ad32eddd7836cc351ce0eb418094"><span class="sha1">c7be43a</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">document options to search_field</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/38efb9532b7cfb92971680c7d093149682b44452"><span class="sha1">38efb95</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">use correct in description</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a957300ef13f7ab8590e06adfcc3be618e6f147f"><span class="sha1">a957300</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">we&#39;re talking about days here, not hours</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb62ea94797a2587c0a81598dd333cb839b8aaf7"><span class="sha1">cb62ea9</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">wording between select_second, select_minute and</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4ab021b915fef20316cab0461077482280492cd"><span class="sha1">e4ab021</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">fix typo</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7d4008674db47a576182a67c372b699f4bf4853"><span class="sha1">a7d4008</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">make documentation agree with test expectations and</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e6caf3c61a56ccf21f34d7396ca4e97c1994e863"><span class="sha1">e6caf3c</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">document that second tags are also returned by default</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28237d625c9300e11b9144f8a117b887a03efa60"><span class="sha1">28237d6</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">there is no Time.today method, use Time.now</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ff3ebf275117c1381523c5dc0691793fc97991b"><span class="sha1">8ff3ebf</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">remove stray character</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36f0386e822d6f8e056ba6b5d8f4d2d6a96a818c"><span class="sha1">36f0386</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">disambiguate uses of post/POST by using &quot;article&quot;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3e54929b83e83980ab2581cc06598c26d77c10a"><span class="sha1">a3e5492</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">clarify that classes that include DateHelper can</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9831d7bab1e3f532e35d63e5d7eacaebc6975124"><span class="sha1">9831d7b</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">clarify that DateTime objects are allowed arguments</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c7cb8a9870c673d09c9b3cd89081436f14feb9a"><span class="sha1">5c7cb8a</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">use minute instead of second in description of select_mi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f5a15e3e897a5cb924549338f25b67e20b907c0"><span class="sha1">2f5a15e</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">show correct helper in description</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/044aa0abea012a0c36f1d004ca3e0309854af2ea"><span class="sha1">044aa0a</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">use &#39;hour&#39; instead of &#39;minutes&#39; and &#39;second&#39; for select_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18792069ab7beec08abaa34eb8c80fad8836b25f"><span class="sha1">1879206</span></a></td>
+  <td class="commit-date">2011-07-21</td>
+  <td class="commit-message">use the doc conventions for arguments in all cases</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98df4983b3ed332a6164f14d2ffc273adf7ca5a8"><span class="sha1">98df498</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">Add seach, tel, url and email inputs as &#39;Other Helpers o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/82569b38279f46885cc96c08ed1a047877fcbe8d"><span class="sha1">82569b3</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">examples for telephone_field, url_field and email_field</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65b19c36333cd7220402a1cdcae0c82e462e913e"><span class="sha1">65b19c3</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">document options to search_field</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a4a309f2bc131d7782b3ddf9964c245398951f94"><span class="sha1">a4a309f</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a92780e72a45bbafc9e24c429d83bfc13c7afaaf"><span class="sha1">a92780e</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">use correct in description</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10c2132cbd17eab8126d736958fecf8668ca3e95"><span class="sha1">10c2132</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">we&#39;re talking about days here, not hours</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c71a4e76897844ab6aeabb581549d981d9768c9"><span class="sha1">5c71a4e</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">wording between select_second, select_minute and</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f0a58dbd9baa1e9eb539d8ea99ddc1dca5e4f9fa"><span class="sha1">f0a58db</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">fix typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2e6475ec06485f4f7e330638dfc86cff4dfe2b31"><span class="sha1">2e6475e</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">make documentation agree with test expectations and</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4341a5abaa1d143a9daa13986eabaf210143da4e"><span class="sha1">4341a5a</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">document that second tags are also returned by default</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6970c000e84334f043077efbfe750694aaf1669c"><span class="sha1">6970c00</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">there is no Time.today method, use Time.now</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/343a05a64f96195185563abbbc885471b8c42db7"><span class="sha1">343a05a</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">remove stray character</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a2b18cfd34dedcd73d3f03e681272366708740b"><span class="sha1">9a2b18c</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">disambiguate uses of post/POST by using &quot;article&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/762a2f4653a5f7408f4cb6056cd974edd12d8b61"><span class="sha1">762a2f4</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">clarify that classes that include DateHelper can</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/589ff9680958faec98ec3d0ff710c6f635d6b5c1"><span class="sha1">589ff96</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">clarify that DateTime objects are allowed arguments </td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4ada0a58ae324c029132c7280eec1dd996a79882"><span class="sha1">4ada0a5</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">use minute instead of second in description of select_mi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/851275e706977ddbfa05a9f23c60861904443f18"><span class="sha1">851275e</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">show correct helper in description</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5dd8277f5b7ab800609a8a3241ba398ac4efc370"><span class="sha1">5dd8277</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">use &#39;hour&#39; instead of &#39;minutes&#39; and &#39;second&#39; for select_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b8cdc16e0b7c3404a0e3470b580235023c53542"><span class="sha1">0b8cdc1</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">fix a typo</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8c110387f442aeaf19357f44fb20c2464a4f2754"><span class="sha1">8c11038</span></a></td>
+  <td class="commit-date">2011-06-26</td>
+  <td class="commit-message">correct error message for failed creation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9332d2ee218a881e2c801c0857f6a0c4e0a28641"><span class="sha1">9332d2e</span></a></td>
+  <td class="commit-date">2010-11-23</td>
+  <td class="commit-message">fix typo</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de829f871becc87424d75a5050883a02435c01e4"><span class="sha1">de829f8</span></a></td>
+  <td class="commit-date">2010-11-23</td>
+  <td class="commit-message">fix typo</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

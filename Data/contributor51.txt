@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Thomas Fuchs to Ruby on Rails" />
+    <meta name="keywords" content="Thomas Fuchs,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #51 Thomas Fuchs - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #51 <span class="fn">Thomas Fuchs</span> - All time<br/>
+    <span class="listing-total">Showing 103 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9fb3c8412e9535354aea574cbfce03adf0fec78f"><span class="sha1">9fb3c84</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Update Prototype to 1.6.0.3 and update script.aculo.us t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/252ca3e3e7e609a179f7559624811550bde05749"><span class="sha1">252ca3e</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Update Prototype to 1.6.0.3 and update script.aculo.us t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfa31c30b84d9ecd6423ab7341df6eb646bcc508"><span class="sha1">cfa31c3</span></a></td>
+  <td class="commit-date">2007-12-04</td>
+  <td class="commit-message">Update trunk to script.aculo.us 1.8.0.1, fixes a regress...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fdc767d4477ff94c6a8dea94905b100c8d8fcd12"><span class="sha1">fdc767d</span></a></td>
+  <td class="commit-date">2007-11-06</td>
+  <td class="commit-message">Update Prototype to 1.6.0 and script.aculo.us to 1.8.0.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45107ecaf85b8e7cc7ec60e95a3e646ae25618ae"><span class="sha1">45107ec</span></a></td>
+  <td class="commit-date">2007-10-16</td>
+  <td class="commit-message">Update Prototype to 1.6.0_rc1 and script.aculo.us to 1.8...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3cfb894bac2f25f2160189e4909ae7756927d8ad"><span class="sha1">3cfb894</span></a></td>
+  <td class="commit-date">2007-06-03</td>
+  <td class="commit-message">Allow JSON-style values for the :with option of observe_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/81ee044fdaf7b0ea15b4c646fa46947f71da00fe"><span class="sha1">81ee044</span></a></td>
+  <td class="commit-date">2007-05-19</td>
+  <td class="commit-message">Update edge to script.aculo.us to 1.7.1_beta3</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe218684d50400d9e6564d3247d48b4e07f1024a"><span class="sha1">fe21868</span></a></td>
+  <td class="commit-date">2007-04-24</td>
+  <td class="commit-message">Include Active Resource in rails:freeze:edge rake task</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9108f3e399ad2b81d7001489a4036d69333add5"><span class="sha1">c9108f3</span></a></td>
+  <td class="commit-date">2007-02-09</td>
+  <td class="commit-message">Add a :url_based_filename =&gt; true option to ActionContro...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e82e2901004c3604da74d23220e7fc241aba739"><span class="sha1">8e82e29</span></a></td>
+  <td class="commit-date">2007-01-21</td>
+  <td class="commit-message">Make TextHelper::auto_link recognize URLs with colons in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f8ed48bf5c8882f413e914fc64ce0d1c60cbbcb"><span class="sha1">0f8ed48</span></a></td>
+  <td class="commit-date">2007-01-19</td>
+  <td class="commit-message">Update trunk to script.aculo.us 1.7.0</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94e36ef363eab3a1c6dcbf6d847ab26c9259d9e5"><span class="sha1">94e36ef</span></a></td>
+  <td class="commit-date">2007-01-18</td>
+  <td class="commit-message">Update prototype.js to [5985], fixes content-type issue ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03e763ffc823531ea5a5a3be7134318f85370139"><span class="sha1">03e763f</span></a></td>
+  <td class="commit-date">2007-01-18</td>
+  <td class="commit-message">Update prototype.js to [5985], fixes content-type issue ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87ecb782e6613f93790cd258eff65425128f2bad"><span class="sha1">87ecb78</span></a></td>
+  <td class="commit-date">2006-11-20</td>
+  <td class="commit-message">Merge [5602] from trunk</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f5f3cdb1b6254366db66ba04a7b3232707229694"><span class="sha1">f5f3cdb</span></a></td>
+  <td class="commit-date">2006-11-20</td>
+  <td class="commit-message">Make sure .morph makes it in</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36b3cb2c36627391545c765b9bd1df3b888e9f3c"><span class="sha1">36b3cb2</span></a></td>
+  <td class="commit-date">2006-11-19</td>
+  <td class="commit-message">Merge 1-2-pre-release with [5581]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de6ffba80673543d39ec7ef851fe9d1f7ab3a148"><span class="sha1">de6ffba</span></a></td>
+  <td class="commit-date">2006-11-19</td>
+  <td class="commit-message">Update trunk w/ latest Prototype and script.aculo.us</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23569d83b27e0a9f7d829daaa31f3bd017bcce85"><span class="sha1">23569d8</span></a></td>
+  <td class="commit-date">2006-11-17</td>
+  <td class="commit-message">Update Prototype in RC to [5550]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc76044fde8701d19ab85d244789a69ba5ed9bbd"><span class="sha1">bc76044</span></a></td>
+  <td class="commit-date">2006-11-17</td>
+  <td class="commit-message">Update Prototype in trunk to [5550]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5887b183ceb3003e2cbf5929869d24d5caa67f68"><span class="sha1">5887b18</span></a></td>
+  <td class="commit-date">2006-11-06</td>
+  <td class="commit-message">Merge [5438] from trunk</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e52e803a5577489022a752827f37dd2ab56a2ac9"><span class="sha1">e52e803</span></a></td>
+  <td class="commit-date">2006-11-06</td>
+  <td class="commit-message">Deprecate JavaScriptHelper#update_element_function, whic...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/159411f58036866cfbc5409b4cd82eb43c60f308"><span class="sha1">159411f</span></a></td>
+  <td class="commit-date">2006-10-28</td>
+  <td class="commit-message">Update to latest Prototype, which doesnt serialize disab...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe39ac7e56c5efaa3995353cdabb432a23229633"><span class="sha1">fe39ac7</span></a></td>
+  <td class="commit-date">2006-10-28</td>
+  <td class="commit-message">Update to latest Prototype, which doesnt serialize disab...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0e78c62783b27a98a324557bf9f3f6385bce315"><span class="sha1">b0e78c6</span></a></td>
+  <td class="commit-date">2006-10-09</td>
+  <td class="commit-message">Update to latest Prototype and script.aculo.us trunk ver...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5df861852db69c8449b1d9a9a15a56a7b09abcb"><span class="sha1">a5df861</span></a></td>
+  <td class="commit-date">2006-09-07</td>
+  <td class="commit-message">Fix loop_on_multiple_args to work, again (not my day), f...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb6309bcc97cc28479b7a0de17766ca5cc654c13"><span class="sha1">cb6309b</span></a></td>
+  <td class="commit-date">2006-09-07</td>
+  <td class="commit-message">Ahem, now for real</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/984312cf85d40b9fae9e88dfc80ae61f085b36d1"><span class="sha1">984312c</span></a></td>
+  <td class="commit-date">2006-09-07</td>
+  <td class="commit-message">Fix a warning in prototype_helper_test, fixes #6077</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8734da9bca3db5934f0d072feeca0b1724d082a7"><span class="sha1">8734da9</span></a></td>
+  <td class="commit-date">2006-09-07</td>
+  <td class="commit-message">Update JavaScriptGenerator#show/hide/toggle/remove to ne...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f68dcb035ef477ba10fc2719d0b6e612649deb0"><span class="sha1">4f68dcb</span></a></td>
+  <td class="commit-date">2006-09-05</td>
+  <td class="commit-message">Update to script.aculo.us 1.6.3 [Thomas Fuchs]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb531a946d016ab0f41d91a4858a62156e65333e"><span class="sha1">bb531a9</span></a></td>
+  <td class="commit-date">2006-08-20</td>
+  <td class="commit-message">Fix unit tests for JSON emitters</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b006317b442c3eac2c41e975372d460942c48ba2"><span class="sha1">b006317</span></a></td>
+  <td class="commit-date">2006-08-18</td>
+  <td class="commit-message">Greatly increased performance of String.to_json, which s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6457b365a1a63018665dfbb4cb365d85be9dd771"><span class="sha1">6457b36</span></a></td>
+  <td class="commit-date">2006-08-15</td>
+  <td class="commit-message">Updated trunk to script.aculo.us 1.6.2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3b045a73e729e44719713084462825ef98f8bc0"><span class="sha1">a3b045a</span></a></td>
+  <td class="commit-date">2006-08-07</td>
+  <td class="commit-message">Add support for the param_name parameter to the auto_com...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1fcc60895b9fa9d969649dca46b861fa38263b90"><span class="sha1">1fcc608</span></a></td>
+  <td class="commit-date">2006-04-02</td>
+  <td class="commit-message">Add additional autocompleter options [aballai, Thomas Fu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb2276098a5a21c35e5ee72b3097bd9d7caa919f"><span class="sha1">bb22760</span></a></td>
+  <td class="commit-date">2006-04-01</td>
+  <td class="commit-message">Applied Prototype $() performance patches (#4465, #4477)...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1cc2f5ce9f2e343532cfe2b9554f62d363f37afb"><span class="sha1">1cc2f5c</span></a></td>
+  <td class="commit-date">2006-03-27</td>
+  <td class="commit-message">Speedup for sortable with handles initialization in rail...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77c8e3a0fd32e736575edce503b2e9f891193f9e"><span class="sha1">77c8e3a</span></a></td>
+  <td class="commit-date">2006-03-26</td>
+  <td class="commit-message">effects.js and controls.js fixes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3bcb0b80b14d54144844ffaa97674e7ca820dd8f"><span class="sha1">3bcb0b8</span></a></td>
+  <td class="commit-date">2006-03-26</td>
+  <td class="commit-message">one too many</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34db8e8939510fcdc5ad14f482b1dc9561e3326c"><span class="sha1">34db8e8</span></a></td>
+  <td class="commit-date">2006-03-26</td>
+  <td class="commit-message">Update to script.aculo.us 1.6</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/130001c377e7abf17ea2f4f856cab30882a60f92"><span class="sha1">130001c</span></a></td>
+  <td class="commit-date">2006-03-09</td>
+  <td class="commit-message">Update to latest script.aculo.us trunk, fixes possible i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3bfd08cbcbffddf53de4f0f6030a794402cf532"><span class="sha1">e3bfd08</span></a></td>
+  <td class="commit-date">2006-03-04</td>
+  <td class="commit-message">Fixed Effect.Appear in effects.js to work with floats in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0bd952aff3f42ed95eed701916bbdf9e6f01cca"><span class="sha1">d0bd952</span></a></td>
+  <td class="commit-date">2006-02-27</td>
+  <td class="commit-message">Added support for visual effects scoped queues to the vi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d11f8d551640c94e22c221c3bee39ab572b1dc72"><span class="sha1">d11f8d5</span></a></td>
+  <td class="commit-date">2006-02-26</td>
+  <td class="commit-message">Added script.aculo.us drag and drop helpers to RJS [Thom...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb7408fd4ca0cfe41b4145fec088b36c185c969e"><span class="sha1">bb7408f</span></a></td>
+  <td class="commit-date">2006-02-22</td>
+  <td class="commit-message">Update script.aculo.us to V1.5.3 [Thomas Fuchs]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/523d54b56d612a791f16468ae3776ac12fd71bb7"><span class="sha1">523d54b</span></a></td>
+  <td class="commit-date">2006-02-21</td>
+  <td class="commit-message">Added various InPlaceEditor options, #3746, #3891, #3896...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8c4cc95030155168bee38567b6f8497a669e99e"><span class="sha1">e8c4cc9</span></a></td>
+  <td class="commit-date">2006-02-14</td>
+  <td class="commit-message">Update script.aculo.us in Rails trunk to V1.5.2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb53467bdf7397503e7f709ae65a320b698e367b"><span class="sha1">eb53467</span></a></td>
+  <td class="commit-date">2005-12-25</td>
+  <td class="commit-message">Added support for toggling visual effects to Scriptaculo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1455697ee85b3ad151213e48838e916c3cf96b0c"><span class="sha1">1455697</span></a></td>
+  <td class="commit-date">2005-12-25</td>
+  <td class="commit-message">Update to script.aculo.us to 1.5.0 rev. 3343</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfb0babec348a5543ae4c4a8c2c5e4438644429e"><span class="sha1">cfb0bab</span></a></td>
+  <td class="commit-date">2005-12-24</td>
+  <td class="commit-message">Added :select option for JavaScriptMacroHelper#auto_comp...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac963f06233d24f26570901a60edabed4792688d"><span class="sha1">ac963f0</span></a></td>
+  <td class="commit-date">2005-12-24</td>
+  <td class="commit-message">Added :select option for JavaScriptMacroHelper#auto_comp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96536bebaefccabcbfb5ce9e689dd40c4fb4e294"><span class="sha1">96536be</span></a></td>
+  <td class="commit-date">2005-12-24</td>
+  <td class="commit-message">Added :select option for JavaScriptMacroHelper#auto_comp...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc4ffbdc69988b60bd17ffab5d8d81ec67a11180"><span class="sha1">fc4ffbd</span></a></td>
+  <td class="commit-date">2005-12-13</td>
+  <td class="commit-message">Update trunk to scriptaculous 1.5 final</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37e0d5de899cfbb3703067daefe2546215aaa4cc"><span class="sha1">37e0d5d</span></a></td>
+  <td class="commit-date">2005-12-13</td>
+  <td class="commit-message">Update stable to scriptaculous 1.5 final</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f7e39c4ec78e81c4336a1ef470f3ff0a2430fc7a"><span class="sha1">f7e39c4</span></a></td>
+  <td class="commit-date">2005-12-12</td>
+  <td class="commit-message">Update to script.aculo.us 1.5.0_rc6</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d958f22ecc47f34aced7f5619be483d9686a26f0"><span class="sha1">d958f22</span></a></td>
+  <td class="commit-date">2005-11-22</td>
+  <td class="commit-message">Make javascript_include_tag :default behave correctly wi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d6e3d08571a114fd416f8387cd195a075ef231f"><span class="sha1">7d6e3d0</span></a></td>
+  <td class="commit-date">2005-11-22</td>
+  <td class="commit-message">Make javascript_include_tag :default behave correctly wi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49de64e0a4eb96103137e8b81dabae97e5db38db"><span class="sha1">49de64e</span></a></td>
+  <td class="commit-date">2005-11-14</td>
+  <td class="commit-message">Update stable to latest script.aculo.us</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/415d27490f14f7ba360a0edd3d9e1211f7482c89"><span class="sha1">415d274</span></a></td>
+  <td class="commit-date">2005-11-14</td>
+  <td class="commit-message">Update trunk to latests script.aculo.us</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d47f3bcbade7ea9e9b66fa88d0060236d142675d"><span class="sha1">d47f3bc</span></a></td>
+  <td class="commit-date">2005-11-01</td>
+  <td class="commit-message">Change javascript_include_tag :defaults to not use scrip...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56ae4ab54783dd337bd909866b1461b306ceb175"><span class="sha1">56ae4ab</span></a></td>
+  <td class="commit-date">2005-10-29</td>
+  <td class="commit-message">Added support for the queue option on visual_effect</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8f0a3f93ca80fa64435dde8100d0eae6110207c"><span class="sha1">d8f0a3f</span></a></td>
+  <td class="commit-date">2005-10-29</td>
+  <td class="commit-message">Update script.aculo.us to V1.5_rc4</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/09aae0a275b46b653e2386e35658d0455fd5763a"><span class="sha1">09aae0a</span></a></td>
+  <td class="commit-date">2005-10-15</td>
+  <td class="commit-message">Updated and clarified documentation for JavaScriptHelper...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ed689745c14f7f02e5e4a970240e206dcee1b33"><span class="sha1">2ed6897</span></a></td>
+  <td class="commit-date">2005-10-09</td>
+  <td class="commit-message">Make it clear that we are at script.aculo.us V1.5_rc3 now</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d101d58400acaff232091485c8e140f0a37cbaf"><span class="sha1">7d101d5</span></a></td>
+  <td class="commit-date">2005-10-09</td>
+  <td class="commit-message">Update Prototype to V1.4.0_pre11, script.aculo.us to [25...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7afaf62bd9f6d3e7e7bf8b37d54d157ac6a3d6d"><span class="sha1">e7afaf6</span></a></td>
+  <td class="commit-date">2005-10-01</td>
+  <td class="commit-message">Added new scriptaculous options for auto_complete_field ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d6ad9c48b7086bdd71f8da534d4e85ca77230be"><span class="sha1">4d6ad9c</span></a></td>
+  <td class="commit-date">2005-09-28</td>
+  <td class="commit-message">Updated rdoc for javascript_include_tag</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9084f5b6e877f336f98895cf967b25df5847e96c"><span class="sha1">9084f5b</span></a></td>
+  <td class="commit-date">2005-09-28</td>
+  <td class="commit-message">Forgot about CHANGELOGs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/516dc2c0f16cf187f981b5e8648a7f7f1b31d190"><span class="sha1">516dc2c</span></a></td>
+  <td class="commit-date">2005-09-28</td>
+  <td class="commit-message">Update script.aculo.us to 1.5_rc2, and Prototype to 1.4....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5217b90909ef2d48bb708161a7b2f34826e62cd4"><span class="sha1">5217b90</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">Ticket 2261 - Include lib/tasks/*.rake in rake stats</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2346f5716f7b08168b74b29e0279d51c51557b08"><span class="sha1">2346f57</span></a></td>
+  <td class="commit-date">2005-09-25</td>
+  <td class="commit-message">Fix open/save dialog in IE not opening files send with s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9acb1f95c9853dba704be7c690c4c0746ca8e8d6"><span class="sha1">9acb1f9</span></a></td>
+  <td class="commit-date">2005-09-16</td>
+  <td class="commit-message">Make upload progress not throw JavaScript errors when th...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46110aa689412816d077b1f248a6cdb4d9552eda"><span class="sha1">46110aa</span></a></td>
+  <td class="commit-date">2005-09-09</td>
+  <td class="commit-message">Fixed JavascriptHelper#auto_complete_for to only include...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b80f0e2ff3a51e6166e4e29b87a7380f42529e7a"><span class="sha1">b80f0e2</span></a></td>
+  <td class="commit-date">2005-08-27</td>
+  <td class="commit-message">Made Upload Progress work with Prototype 1.4.0 and add s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2d38f67004c529eda0009f8abc0d2a573dd3196"><span class="sha1">d2d38f6</span></a></td>
+  <td class="commit-date">2005-07-17</td>
+  <td class="commit-message">Added Base#expires_in(seconds)/Base#expires_now to contr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4dc2dc1402a41cd2c2210f5fb4418e905d42d75b"><span class="sha1">4dc2dc1</span></a></td>
+  <td class="commit-date">2005-07-17</td>
+  <td class="commit-message">Cleaning up of javascript_helper array options, add :onl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7073abe15906d5b4bbd7cd455136fbd2c52a8a49"><span class="sha1">7073abe</span></a></td>
+  <td class="commit-date">2005-07-14</td>
+  <td class="commit-message">Fixed bug with :success/:failure callbacks for the JavaS...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/216b0e0fbab310d374d2a43fe774839ac8ce6cdb"><span class="sha1">216b0e0</span></a></td>
+  <td class="commit-date">2005-07-11</td>
+  <td class="commit-message">Improved documentation for :success/:failure callbacks #...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16669774903dd7bfaaf1bf8f0c72e49ebaeffeeb"><span class="sha1">1666977</span></a></td>
+  <td class="commit-date">2005-07-11</td>
+  <td class="commit-message">Script.aculo.us: latest rev, new autocompleter features,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c5d1ededb3ccaed4810b45b672f0a9e3ca52884"><span class="sha1">1c5d1ed</span></a></td>
+  <td class="commit-date">2005-07-10</td>
+  <td class="commit-message">Fixed that Action View should always use the included Bu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/165f82d18026dbbcf94695128d32fadef916af5a"><span class="sha1">165f82d</span></a></td>
+  <td class="commit-date">2005-07-09</td>
+  <td class="commit-message">Added even more goodies to script.aculo.us #1677 [Thomas...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94209e2fb7f244be5da2f208c2e5dacd2fede47e"><span class="sha1">94209e2</span></a></td>
+  <td class="commit-date">2005-07-07</td>
+  <td class="commit-message">Added a bunch of script.aculo.us features: Effect.Scroll...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2186ed83dd693ce3c70381f017bfd9ef0b47d1b7"><span class="sha1">2186ed8</span></a></td>
+  <td class="commit-date">2005-07-06</td>
+  <td class="commit-message">Make new AJAX helpers aware of more of their options #16...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf3a0c539174e7a1f419e2b8a424afab762cd816"><span class="sha1">bf3a0c5</span></a></td>
+  <td class="commit-date">2005-07-04</td>
+  <td class="commit-message">Improved update_element_function #1597 [Thomas Fuchs]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/481cac9658848a32838a5a3899610f52844ba2f0"><span class="sha1">481cac9</span></a></td>
+  <td class="commit-date">2005-07-03</td>
+  <td class="commit-message">AJAX error handling fix, Prototype event handling #1589 ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b94e8af9a4596723b654129b650da490783f209a"><span class="sha1">b94e8af</span></a></td>
+  <td class="commit-date">2005-07-02</td>
+  <td class="commit-message">Update for JavaScript helper tests #1584 [Thomas Fuchs]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/668a0817f71fb586798243f300a75f3f6ac0aeb3"><span class="sha1">668a081</span></a></td>
+  <td class="commit-date">2005-07-02</td>
+  <td class="commit-message">Auto completer should hide update element by when initia...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/50f0a736242e65408c06b62b0fbd68e2ea349c23"><span class="sha1">50f0a73</span></a></td>
+  <td class="commit-date">2005-07-02</td>
+  <td class="commit-message">Added JavascriptHelper#draggable_element and JavascriptH...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f61c431fa3beecb532c0c58c83e47f9759e64a5"><span class="sha1">2f61c43</span></a></td>
+  <td class="commit-date">2005-07-02</td>
+  <td class="commit-message">Added evaluation of &lt;SCRIPT&gt; blocks in content returned ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cadcd9e7144394ecc9df01961191d20e5e219a37"><span class="sha1">cadcd9e</span></a></td>
+  <td class="commit-date">2005-07-01</td>
+  <td class="commit-message">Fix IE 30-sec timeout bug, make auto_complete_for even m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ffcceffac52cc4ed373eb9db27d6c776b5d96b7"><span class="sha1">0ffccef</span></a></td>
+  <td class="commit-date">2005-06-29</td>
+  <td class="commit-message">Script.aculo.us: autocompletion focus fix, setContentZoo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d763f08ba81f0e3e4aac9c09f0342a2a53254211"><span class="sha1">d763f08</span></a></td>
+  <td class="commit-date">2005-06-28</td>
+  <td class="commit-message">Fix the Event.findElement prototype function. Needed to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/938a8fea27a5271403edc6a3e6ab76dda15d9a5b"><span class="sha1">938a8fe</span></a></td>
+  <td class="commit-date">2005-06-27</td>
+  <td class="commit-message">Added support for graceful error handling of Ajax calls ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9b0bb24fe01c83086724c89d0b884a74f4f5088d"><span class="sha1">9b0bb24</span></a></td>
+  <td class="commit-date">2005-06-27</td>
+  <td class="commit-message">Update script.aculo.us scripts for Prototype 1.3.0 #1522...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7da736f929e88f4730f160d28afc90667c26b966"><span class="sha1">7da736f</span></a></td>
+  <td class="commit-date">2005-06-26</td>
+  <td class="commit-message">Added script.aculo.us Javascripts (controls.js, dragdrop...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e0d9a642ffe5db23086301d3eeed63f4b7bca68"><span class="sha1">1e0d9a6</span></a></td>
+  <td class="commit-date">2005-06-21</td>
+  <td class="commit-message">Added :xhr =&gt; true/false option to verify so you can ens...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c8d354b8d9ca2fa62d0e062fa6346673dd15dbf"><span class="sha1">6c8d354</span></a></td>
+  <td class="commit-date">2005-06-21</td>
+  <td class="commit-message">Added Fix/Bignum#multiple_of? which returns true on 14.m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d010055142c14aa5ee56ac5aae600dfdc03dcae"><span class="sha1">7d01005</span></a></td>
+  <td class="commit-date">2005-04-18</td>
+  <td class="commit-message">Fixed documentation and prepared for release of 0.12</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2119e0699a182575349b1c3a311b182e171e097c"><span class="sha1">2119e06</span></a></td>
+  <td class="commit-date">2005-04-10</td>
+  <td class="commit-message">Fixed that the content-type for some browsers could incl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8499c24770982b533cc11f3e12171f5151f11e37"><span class="sha1">8499c24</span></a></td>
+  <td class="commit-date">2005-03-31</td>
+  <td class="commit-message">Added Effect.Puff and Effect.Appear #990, #996</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce2fe88d533e43f25779a2284c74cebf8a472ec4"><span class="sha1">ce2fe88</span></a></td>
+  <td class="commit-date">2005-03-28</td>
+  <td class="commit-message">Added Effect.Scale for smoothly scaling images or text u...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0c0c9c2ef908606c03e03c7db422fde703eaa99"><span class="sha1">b0c0c9c</span></a></td>
+  <td class="commit-date">2005-03-28</td>
+  <td class="commit-message">Added Effect.Fade which smoothly turns opacity from 100 ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/520dae295bbd2e406739048b5d43e5e4cd1342d5"><span class="sha1">520dae2</span></a></td>
+  <td class="commit-date">2005-03-26</td>
+  <td class="commit-message">Added include_seconds option as the third parameter to d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0d69b170f8bb7428846c46cf26bd0104d807100"><span class="sha1">b0d69b1</span></a></td>
+  <td class="commit-date">2005-03-26</td>
+  <td class="commit-message">Added TextHelper#human_size for formatting file sizes, l...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

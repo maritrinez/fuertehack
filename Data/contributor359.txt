@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Dieter Komendera to Ruby on Rails" />
+    <meta name="keywords" content="Dieter Komendera,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Dieter Komendera - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Dieter Komendera</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/22ed92dbae24481b951ef5f4926c85af8f101b6b"><span class="sha1">22ed92d</span></a></td>
+  <td class="commit-date">2012-11-18</td>
+  <td class="commit-message">Add test to ensure preloading works as expected with &quot;se...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a2249eee760a84385dd5af8d9ee084123bc173e3"><span class="sha1">a2249ee</span></a></td>
+  <td class="commit-date">2011-12-18</td>
+  <td class="commit-message">Rename STRUCTURE to DB_STRUCTURE, update dump task descr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa92d3732cdc75c4b5788233cb86148c04871d0d"><span class="sha1">aa92d37</span></a></td>
+  <td class="commit-date">2011-12-16</td>
+  <td class="commit-message">Make structure file configureable in db:structure:dump a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6cbe2709d60d10b6e4f7fd7fa22517d68cc47c9f"><span class="sha1">6cbe270</span></a></td>
+  <td class="commit-date">2011-12-14</td>
+  <td class="commit-message">dbconsole: Use the app&#39;s database_configuration instead ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ae7008ac3d77cca42350007e99efe672e7b8e40"><span class="sha1">8ae7008</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Fix fragment cache helper regression on cache miss intro...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15c8bf10128c1a5cbe553d76fa585a9161a0ff86"><span class="sha1">15c8bf1</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">Fix fragment cache helper regression on cache miss intro...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a7c8e27eb64ce5500b034fd9dfbf7fb6d359bd8"><span class="sha1">5a7c8e2</span></a></td>
+  <td class="commit-date">2011-07-04</td>
+  <td class="commit-message">Only call set_owner_attributes for has_one association i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d3aa2462ce83abe5824c4abc1c326f0c52c1f03"><span class="sha1">7d3aa24</span></a></td>
+  <td class="commit-date">2011-07-04</td>
+  <td class="commit-message">Only call set_owner_attributes for has_one association i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3cfb894bac2f25f2160189e4909ae7756927d8ad"><span class="sha1">3cfb894</span></a></td>
+  <td class="commit-date">2007-06-03</td>
+  <td class="commit-message">Allow JSON-style values for the :with option of observe_...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Rich Collins to Ruby on Rails" />
+    <meta name="keywords" content="Rich Collins,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 Rich Collins - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">Rich Collins</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f559f871e9278aea65471f1ce31fab15536f56a"><span class="sha1">6f559f8</span></a></td>
+  <td class="commit-date">2007-10-23</td>
+  <td class="commit-message">Added tests for options to ActiveRecordHelper#form. Clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b2e059f0a7bcd27ea96e92ad19a35f36344ed6b"><span class="sha1">0b2e059</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">Removed unnecessary or statement (closes #7158) [richcol...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17927cbddcd4da278c93ec68815eec5d74650e61"><span class="sha1">17927cb</span></a></td>
+  <td class="commit-date">2007-06-13</td>
+  <td class="commit-message">Improve UrlRewriter tests. Improve helper test coverage....</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71b77a3d6aa527b3486f89556ca3752e06985146"><span class="sha1">71b77a3</span></a></td>
+  <td class="commit-date">2007-06-13</td>
+  <td class="commit-message">Improve helper test coverage. Closes #7215, #7233, #7234...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34b94de8b87d7c32a1fdba72eb1f02296f31cffe"><span class="sha1">34b94de</span></a></td>
+  <td class="commit-date">2007-06-08</td>
+  <td class="commit-message">Improve Action View test coverage. Closes #7241, #7243, ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bab8966064902264768016b54e8e2a8bed3b68ba"><span class="sha1">bab8966</span></a></td>
+  <td class="commit-date">2007-06-08</td>
+  <td class="commit-message">Test periodically_call_remote with frequency. Closes #72...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7709df5f17cc6ef33059aa3b4c9249c10d7d124c"><span class="sha1">7709df5</span></a></td>
+  <td class="commit-date">2007-06-05</td>
+  <td class="commit-message">Don&#39;t double-escape url_for in views. Closes #8144.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1e1088ab951fe7b0ae890a919686d88d7a6290e"><span class="sha1">b1e1088</span></a></td>
+  <td class="commit-date">2007-03-05</td>
+  <td class="commit-message">Merge [6336] from trunk. References #6466, #7153.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e8c3b8dd974a19855f41cb319579567449461ed"><span class="sha1">0e8c3b8</span></a></td>
+  <td class="commit-date">2007-03-05</td>
+  <td class="commit-message">Fix has_many :through &lt;&lt; with custom foreign keys. Close...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be7f86e37ac21585ad2621e2e0938c68a7a71360"><span class="sha1">be7f86e</span></a></td>
+  <td class="commit-date">2007-01-23</td>
+  <td class="commit-message">Added test coverage for Inflector.inflections.clear.  Cl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a44cee2549e04e6e586f0f9432d98bb2dd4e3625"><span class="sha1">a44cee2</span></a></td>
+  <td class="commit-date">2007-01-23</td>
+  <td class="commit-message">ActiveSupport::Multibyte::Handlers::UTF8Handler should r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1bdb14bdd3cad4ae8850040d6d82c3c3c624f224"><span class="sha1">1bdb14b</span></a></td>
+  <td class="commit-date">2007-01-23</td>
+  <td class="commit-message">Increase ActiveResource::Base test coverage.  Closes #71...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/59418618b9926ae0efebde29eb8765c4895635b9"><span class="sha1">5941861</span></a></td>
+  <td class="commit-date">2007-01-21</td>
+  <td class="commit-message">Improve test coverage of Duration.  Closes #7182 [richco...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d4d037b0d74fbc3c1cad1c192a6ea7278aff081"><span class="sha1">1d4d037</span></a></td>
+  <td class="commit-date">2006-09-04</td>
+  <td class="commit-message">Added access to nested attributes in RJS (closes #4548) ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7f780e0664ebb939ce76d987cd30c6eec496dc7"><span class="sha1">d7f780e</span></a></td>
+  <td class="commit-date">2006-08-14</td>
+  <td class="commit-message">Fix for deep includes on the same association.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Henrik Hodne to Ruby on Rails" />
+    <meta name="keywords" content="Henrik Hodne,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Henrik Hodne - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Henrik Hodne</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7c4811fb3436bf6005a6af96b0e1a80f19d5c5f9"><span class="sha1">7c4811f</span></a></td>
+  <td class="commit-date">2013-07-30</td>
+  <td class="commit-message">Add retry to `gem install bundler` for Travis</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef350c9f2e35fc7e16c74158686c9ad2805cb465"><span class="sha1">ef350c9</span></a></td>
+  <td class="commit-date">2013-07-17</td>
+  <td class="commit-message">Improve ActiveRecord::QueryMethods#includes docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa6d921e11363e9b8c4bc10f7aed0b9faffdc33a"><span class="sha1">fa6d921</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">Remove blank trailing comments</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7eb09aed874dbb5f50a9ac0d0dec22e42f6161be"><span class="sha1">7eb09ae</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">Update documentation for AbstractController::Base</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a7d916ceb6ca20547f62d2a809feae4f44e402b"><span class="sha1">9a7d916</span></a></td>
+  <td class="commit-date">2011-11-06</td>
+  <td class="commit-message">Removed argument throwing warnings when running tests.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52fa34faee76ca54b1b394ea3a25dfee42491c22"><span class="sha1">52fa34f</span></a></td>
+  <td class="commit-date">2011-11-06</td>
+  <td class="commit-message">Refactored pluralize and singularize into a common method.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d753596df915bb201d7ad19062ab3b090d2fae7d"><span class="sha1">d753596</span></a></td>
+  <td class="commit-date">2011-11-05</td>
+  <td class="commit-message">Added bundle exec to rake test.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8611f14cafea0e2fcfddd9d22cca442c31664940"><span class="sha1">8611f14</span></a></td>
+  <td class="commit-date">2011-11-03</td>
+  <td class="commit-message">Added bundle exec to rake test.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

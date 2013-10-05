@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Murray Steele to Ruby on Rails" />
+    <meta name="keywords" content="Murray Steele,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #174 Murray Steele - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #174 <span class="fn">Murray Steele</span> - All time<br/>
+    <span class="listing-total">Showing 21 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/accd4926cc072217bc98b82368d20fb8f79a8bca"><span class="sha1">accd492</span></a></td>
+  <td class="commit-date">2013-09-11</td>
+  <td class="commit-message">Fix FileStore#cleanup to no longer rely on missing each_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/54c963c89b81cfc4fd7dcad6779e41c85d1180ce"><span class="sha1">54c963c</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Make clearing of HABTM join table contents happen in an ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ee81d21fb103be31adb8e0dcde8ed8f5e90a798"><span class="sha1">8ee81d2</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Failing test case to show that habtm join table contents...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d43977c7c76a76adfffdafa3de2e739216dab81"><span class="sha1">5d43977</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Make clearing of HABTM join table contents happen in an ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f30cdc6ee29168f36c24ec16485b55d6be4855c"><span class="sha1">2f30cdc</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Failing test case to show that habtm join table contents...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ff508640e28914da2b546f6a8c9f215bab201b61"><span class="sha1">ff50864</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Make polymorphic_inverse_of in Reflection throw an Inver...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a74ee7f4deea4a44520d3fcc9120e0bb848823f"><span class="sha1">6a74ee7</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Provide a slightly more robust we_can_set_the_inverse_on...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c8c85bc1eaf1639ea0df5f356e7105c74d128b2"><span class="sha1">6c8c85b</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Add more tests for the various ways we can assign object...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3470b306bb22df0394025f4dcf3915eb1166ac23"><span class="sha1">3470b30</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Make polymorphic_inverse_of in Reflection throw an Inver...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/603b28c84c1ba1d013247fee450d82f015aaefb3"><span class="sha1">603b28c</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Provide a slightly more robust we_can_set_the_inverse_on...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/592085be83ed1b8ff0065a92490e54fcb1a8bc87"><span class="sha1">592085b</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Add more tests for the various ways we can assign object...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5374fb3cad2970c95aa9d294d006b5804b760754"><span class="sha1">5374fb3</span></a></td>
+  <td class="commit-date">2009-12-21</td>
+  <td class="commit-message">Providing support for :inverse_of as an option to associ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6584bba749fe5ba3dc26117a09fc9db81a3f268"><span class="sha1">a6584bb</span></a></td>
+  <td class="commit-date">2009-05-31</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b418f8c6a217a9041b1c2cfc034a6aebbf633682"><span class="sha1">b418f8c</span></a></td>
+  <td class="commit-date">2009-05-31</td>
+  <td class="commit-message">Documenting :inverse_of options for associations.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ccea98389abbf150b886c9f964b1def47f00f237"><span class="sha1">ccea983</span></a></td>
+  <td class="commit-date">2009-05-04</td>
+  <td class="commit-message">Providing support for :inverse_of as an option to associ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db26ace030f6704da6fc80bcc6cd00a2aee664ce"><span class="sha1">db26ace</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Ensure NoMethodError isn&#39;t raised when some of the neste...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a92cdc8638d1f91aaa55fc47743a6210ad2181b"><span class="sha1">8a92cdc</span></a></td>
+  <td class="commit-date">2008-12-19</td>
+  <td class="commit-message">Add a repair_helper to repair changes to the validations...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/295587f0ab3cdaa1875827a3c2e6a6686eac6ab2"><span class="sha1">295587f</span></a></td>
+  <td class="commit-date">2008-04-04</td>
+  <td class="commit-message">Tiny change to allow AR based creation of TIME columns i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/533da24bbce5c6eeb23ff372fa0b65911fc138d0"><span class="sha1">533da24</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">Make sure ActiveRecord tests can run individually. Close...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4673c47d7beae5bb5a79841d517b5c5d9b22579a"><span class="sha1">4673c47</span></a></td>
+  <td class="commit-date">2008-03-02</td>
+  <td class="commit-message">Allow html_options to be passed to all the date helpers....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f0b0125d0f9044074fcb6f9b1528937a2bb4d2e"><span class="sha1">6f0b012</span></a></td>
+  <td class="commit-date">2008-02-15</td>
+  <td class="commit-message">Fix typo in migration test. Closes #11105 [h-lame]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

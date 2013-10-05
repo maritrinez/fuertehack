@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Kamal Fariz Mahyuddin to Ruby on Rails" />
+    <meta name="keywords" content="Kamal Fariz Mahyuddin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #242 Kamal Fariz Mahyuddin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #242 <span class="fn">Kamal Fariz Mahyuddin</span> - All time<br/>
+    <span class="listing-total">Showing 14 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee491b064bff126a67600d694511986b8636d47b"><span class="sha1">ee491b0</span></a></td>
+  <td class="commit-date">2011-02-23</td>
+  <td class="commit-message">Fix observer callbacks firing multiple times on descenda...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ba8caf3ee239fd7010b18ff251cb5c2d52b48c4"><span class="sha1">6ba8caf</span></a></td>
+  <td class="commit-date">2011-02-23</td>
+  <td class="commit-message">Fix observer callbacks firing multiple times on descenda...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9284bcc35a6431a6044da2b608998b83e4fb1f9b"><span class="sha1">9284bcc</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">find_cmd should return the full path of the db command</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/600a89f2082beadf4af9fe140a1a2ae56386cd49"><span class="sha1">600a89f</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">find_cmd should return the full path of the db command</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78c2d9fc223e7a9945aee65c838f7ce78e9ddb3e"><span class="sha1">78c2d9f</span></a></td>
+  <td class="commit-date">2008-04-08</td>
+  <td class="commit-message">ActiveRecord::Base#sum defaults to 0 if no rows are retu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5bbc461fcbe18b0ab69c459a94cf0b58f5a4e6b9"><span class="sha1">5bbc461</span></a></td>
+  <td class="commit-date">2008-02-02</td>
+  <td class="commit-message">Fix calculations on associations with custom :foreign_ke...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/67442cb40d0850f42ff66a66e2c2b3f5cf5feb07"><span class="sha1">67442cb</span></a></td>
+  <td class="commit-date">2007-12-02</td>
+  <td class="commit-message">Fix potential extra space in Array#to_sentence. Closes #...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/27941f649ffdae507e099720dbb972cfb07b16b8"><span class="sha1">27941f6</span></a></td>
+  <td class="commit-date">2007-10-26</td>
+  <td class="commit-message">Update add_index documentation to use new options api. C...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/02311a5db1800a4654f80ec71e8b7d32b444ff27"><span class="sha1">02311a5</span></a></td>
+  <td class="commit-date">2007-06-27</td>
+  <td class="commit-message">Array attribute conditions work with proxied association...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3aadfcef88e57b3f0a0bde9a2bc05d372e2fd93b"><span class="sha1">3aadfce</span></a></td>
+  <td class="commit-date">2007-06-25</td>
+  <td class="commit-message">Improve various test coverage. Closes #8676 [kamal]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dae61089982d079d4ea57ad83340bf5cbdd83d3a"><span class="sha1">dae6108</span></a></td>
+  <td class="commit-date">2007-06-22</td>
+  <td class="commit-message">Update tests&#39; use of fixtures for the new collections ap...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e963354124d27bdae0420ae0614335d251be8d51"><span class="sha1">e963354</span></a></td>
+  <td class="commit-date">2007-06-20</td>
+  <td class="commit-message">Increase mail delivery test coverage. Closes #8692.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6a1dc967cb65ac3f842d15f89eef7e32f7547cf"><span class="sha1">a6a1dc9</span></a></td>
+  <td class="commit-date">2007-06-01</td>
+  <td class="commit-message">render :partial recognizes Active Record associations as...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b05fc40b5d096695dad5b3282664512d7509a529"><span class="sha1">b05fc40</span></a></td>
+  <td class="commit-date">2007-06-01</td>
+  <td class="commit-message">Calculations support non-numeric foreign keys. Closes #8...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

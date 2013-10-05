@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Gaurish Sharma to Ruby on Rails" />
+    <meta name="keywords" content="Gaurish Sharma,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #117 Gaurish Sharma - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #117 <span class="fn">Gaurish Sharma</span> - All time<br/>
+    <span class="listing-total">Showing 33 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65f1766a0865fd24aee3254535eb8577b5aed84e"><span class="sha1">65f1766</span></a></td>
+  <td class="commit-date">2013-08-28</td>
+  <td class="commit-message">Add :nodoc: to ActiveModel::SecurePassword.min_cost</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e998edd2c02667af53dd55cff1b37a6d4661c181"><span class="sha1">e998edd</span></a></td>
+  <td class="commit-date">2013-08-21</td>
+  <td class="commit-message">Define jruby_skip to skip test on JRuby</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a67b956d28f8c5dddcab65414d2469a2a89c3287"><span class="sha1">a67b956</span></a></td>
+  <td class="commit-date">2013-08-21</td>
+  <td class="commit-message">Skip few of the ActiveSupport&#39;sinflector test on JRuby</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53d682b1320828d9a0ec31431d1ab54cae03753c"><span class="sha1">53d682b</span></a></td>
+  <td class="commit-date">2013-08-12</td>
+  <td class="commit-message">Upgrade ActiveRecord-JDBC-Adapter to master branch</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/90c450f6cd792187eeb1e039e0ff3722beb8b5c1"><span class="sha1">90c450f</span></a></td>
+  <td class="commit-date">2013-08-09</td>
+  <td class="commit-message">Avoid Skip in test, have a unified test for order</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f8116fb778ab4b90592d0a9ab88316132f00a78"><span class="sha1">9f8116f</span></a></td>
+  <td class="commit-date">2013-08-08</td>
+  <td class="commit-message">Add tests for ActiveModel::Serializers::JSON#as_json ord...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7191a5d8307e8d5ccbf683656b5b4e9957ab34fa"><span class="sha1">7191a5d</span></a></td>
+  <td class="commit-date">2013-08-07</td>
+  <td class="commit-message">Avoid defining multibyte method names in JSON decoding t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4254a6e677f700f6a0531a4dec82c22a7b590783"><span class="sha1">4254a6e</span></a></td>
+  <td class="commit-date">2013-08-04</td>
+  <td class="commit-message">Add tmp dir in actionview/test/</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e54c225b16abaee9c59c187955dd574b8b541c58"><span class="sha1">e54c225</span></a></td>
+  <td class="commit-date">2013-08-03</td>
+  <td class="commit-message">[Fixes #11734]Correct Association Basics Guide on has_an...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab5e99ed63e7b2cec5a4e8b36c349b02f414025b"><span class="sha1">ab5e99e</span></a></td>
+  <td class="commit-date">2013-08-03</td>
+  <td class="commit-message">Avoid calling define_method with non-english chars in In...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28348e068151cd144da28a87d63853a328e393e7"><span class="sha1">28348e0</span></a></td>
+  <td class="commit-date">2013-08-02</td>
+  <td class="commit-message">Add timeout to test_async_stream</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b48bb74ef8a8bc9539d5b9c7d5fe202f37e2e99c"><span class="sha1">b48bb74</span></a></td>
+  <td class="commit-date">2013-07-21</td>
+  <td class="commit-message">Add logging performance [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/91a38b07dcdc86232cb3d324626e485278780a1d"><span class="sha1">91a38b0</span></a></td>
+  <td class="commit-date">2013-04-30</td>
+  <td class="commit-message">Rack::Mount was replaced by Journey, Fixed comment</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6d2a77ea0d3a5db1cc1195df7429d0043c775896"><span class="sha1">6d2a77e</span></a></td>
+  <td class="commit-date">2013-04-30</td>
+  <td class="commit-message">Rack::Mount was replaced by Journey, Fixed comment</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb74b3952e703ef599ebf0cbc1d57eeabc2f8f9a"><span class="sha1">bb74b39</span></a></td>
+  <td class="commit-date">2013-04-16</td>
+  <td class="commit-message">replace match with get verb in ActionController::Metal</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcdc0d8335f0a5ad01231110677cb0bd9410b678"><span class="sha1">fcdc0d8</span></a></td>
+  <td class="commit-date">2012-12-14</td>
+  <td class="commit-message">Change method is default since rails 3.1 [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d1e70cb7b410f5151b08af9b38b2d6d80c1c61c2"><span class="sha1">d1e70cb</span></a></td>
+  <td class="commit-date">2012-12-09</td>
+  <td class="commit-message">Add quotes to Numeric Passwords to force string(sqlserver)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f0311d79af01dc59ab3bd95cd6a56511258f917"><span class="sha1">2f0311d</span></a></td>
+  <td class="commit-date">2012-12-09</td>
+  <td class="commit-message">Add quotes to Numeric Passwords to force string(jdbcmysql)</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db9b619f2851d7aeef9b239f6c19d0076faf5909"><span class="sha1">db9b619</span></a></td>
+  <td class="commit-date">2012-12-09</td>
+  <td class="commit-message">Add quotes to Numeric Passwords to force string(jdbcpost...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e5f8b2be64a74ce05e7c8b873d3e795e7bc68df5"><span class="sha1">e5f8b2b</span></a></td>
+  <td class="commit-date">2012-12-09</td>
+  <td class="commit-message">Add quotes to Numeric Passwords to force string(MySql)</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e72099a382c9731c7b40aa1b10237318e31ac92"><span class="sha1">6e72099</span></a></td>
+  <td class="commit-date">2012-12-09</td>
+  <td class="commit-message">Add quotes to Numeric Passwords to force string(Postgres)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61425f2c6d14fe7151b09ffe5a5353924582e5b0"><span class="sha1">61425f2</span></a></td>
+  <td class="commit-date">2012-11-20</td>
+  <td class="commit-message">Better Error handling when parsing database.yaml</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3e4fa1f6504ba27200c25558462dd2ba6c1fcd3"><span class="sha1">e3e4fa1</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">make syntax of select.map(&amp;:field) same as pluck</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd59277110b3a4db81691111c6aa4734f9cad998"><span class="sha1">cd59277</span></a></td>
+  <td class="commit-date">2012-09-03</td>
+  <td class="commit-message">Add section about tagged logging</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b5cc89ae017c540e1921a14b560f845ff31b3a8f"><span class="sha1">b5cc89a</span></a></td>
+  <td class="commit-date">2012-06-15</td>
+  <td class="commit-message">Add rdoc to phone_field</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43fa48e5aa981bf86635fa31ace9eede24e93826"><span class="sha1">43fa48e</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">Move root method at TOP of routes file</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/feaa7b35a0214240eb34780ab51b843571e74904"><span class="sha1">feaa7b3</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">Remove Obsolute root specifiying short syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4220290d09e682d8454048312b89efaf84f028be"><span class="sha1">4220290</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">Fix broken link</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3954baee92446219606621c1b185360553a6d5d"><span class="sha1">c3954ba</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Added Short 1 line note about connection pools. </td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/189a1728b561c19404f814979fd73adc5bea554d"><span class="sha1">189a172</span></a></td>
+  <td class="commit-date">2012-04-24</td>
+  <td class="commit-message">Added notice on how to enable gzip compression.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ccd0b511c933d3e2c7f3e345622ad2cc17728de5"><span class="sha1">ccd0b51</span></a></td>
+  <td class="commit-date">2012-04-24</td>
+  <td class="commit-message">Added notice on how to enable gzip compression in rails ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9dbd511172170f60b96012b7b87044638c3962b8"><span class="sha1">9dbd511</span></a></td>
+  <td class="commit-date">2012-04-24</td>
+  <td class="commit-message">Added warning that require_tree includes files in unspec...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f25db9067b57b84b7c8654af966f97294abb655"><span class="sha1">8f25db9</span></a></td>
+  <td class="commit-date">2012-04-08</td>
+  <td class="commit-message">Added instructions on port number</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

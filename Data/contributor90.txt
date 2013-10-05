@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Karel Minařík to Ruby on Rails" />
+    <meta name="keywords" content="Karel Minařík,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #88 Karel Minařík - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #88 <span class="fn">Karel Minařík</span> - All time<br/>
+    <span class="listing-total">Showing 43 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47003f8cdf7afbfa1d78939f17d8b49c9c4348f7"><span class="sha1">47003f8</span></a></td>
+  <td class="commit-date">2011-05-14</td>
+  <td class="commit-message">[GUIDES] Changed the `LANGUAGE` variable to `GUIDES_LANG...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1877faa7ac2053628b63a665ab822e18f2939a83"><span class="sha1">1877faa</span></a></td>
+  <td class="commit-date">2011-01-02</td>
+  <td class="commit-message">[FIX] Renamed ENV[&#39;LANG&#39;] for generating translated guid...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56221faecdb47163cb463531506821aa6ba50370"><span class="sha1">56221fa</span></a></td>
+  <td class="commit-date">2011-01-01</td>
+  <td class="commit-message">Added support for generating translated guides (stored i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f75545e5d0aded71f973edd0e5ff4daf3e7c580"><span class="sha1">9f75545</span></a></td>
+  <td class="commit-date">2010-12-28</td>
+  <td class="commit-message">Added information about invoking migrations in non-defau...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb4b5c8ad39e9e7a44ec13ded88083fe76cf8405"><span class="sha1">cb4b5c8</span></a></td>
+  <td class="commit-date">2010-12-28</td>
+  <td class="commit-message">Adding information and link to guide on customizing gene...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8031b7e42ba1b4d3e671e6ed52ffca890da160b0"><span class="sha1">8031b7e</span></a></td>
+  <td class="commit-date">2010-12-28</td>
+  <td class="commit-message">Fixed incorrect instructions for calling the `rails` com...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2c2c2983a83ed53e2287a936a0ab59080be16f6"><span class="sha1">e2c2c29</span></a></td>
+  <td class="commit-date">2010-12-28</td>
+  <td class="commit-message">Added TIP box with information about the `--database` sw...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e8c13ab1ed1140f708c8af74f386a3f6dec6e0a"><span class="sha1">8e8c13a</span></a></td>
+  <td class="commit-date">2010-12-28</td>
+  <td class="commit-message">Fixed incorrect command for displaying options for new a...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee7487e46abbdf195f398922d5b05dc1f5b5d08f"><span class="sha1">ee7487e</span></a></td>
+  <td class="commit-date">2009-07-11</td>
+  <td class="commit-message">Fix typo in I18n guide. Closes ticket #83 reported by noocx</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f623f5f89b5d2e3299f16314880e3c75d6b2c6a"><span class="sha1">4f623f5</span></a></td>
+  <td class="commit-date">2009-04-25</td>
+  <td class="commit-message">Better wording of environment.rb example code, thanks Pa...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7163b64d32fa57ce9bd78710aea2fe0d2283522f"><span class="sha1">7163b64</span></a></td>
+  <td class="commit-date">2009-04-25</td>
+  <td class="commit-message">Consolidate `config/locale` vs `config/locales` issue. [...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b69f027ec1e48ae88ab7af6c8624b133e81e3554"><span class="sha1">b69f027</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Fixed invalid HTML in Credits</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4185fb1e58d8142162c3a39f9302559688dd431b"><span class="sha1">4185fb1</span></a></td>
+  <td class="commit-date">2009-03-07</td>
+  <td class="commit-message">Raise LoadError instead of a runtime exception [#1498 st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6f1e42c096a626b8a071094545d35f90d19ab55"><span class="sha1">a6f1e42</span></a></td>
+  <td class="commit-date">2009-03-01</td>
+  <td class="commit-message">Added information about &quot;lazy lookup&quot; inside views (`t &#39;...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92dd9b3e9f7bffe16ec53aeefd048d7da4eb1543"><span class="sha1">92dd9b3</span></a></td>
+  <td class="commit-date">2009-03-01</td>
+  <td class="commit-message">Added information about &quot;Localized views&quot; into I18N guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48d4c0f0116117e45fd268f9fa8ae502d7f15cc7"><span class="sha1">48d4c0f</span></a></td>
+  <td class="commit-date">2009-03-01</td>
+  <td class="commit-message">Added note how to configure Rails loading mechanism to l...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1c0763e47f76b916324c5a062b50ede41a51e3c"><span class="sha1">e1c0763</span></a></td>
+  <td class="commit-date">2009-03-01</td>
+  <td class="commit-message">Get rid of drop shadows in screenshots for the I18N guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e0d79fbf041033b5dc97aaf2df8a84fefdb91470"><span class="sha1">e0d79fb</span></a></td>
+  <td class="commit-date">2009-02-04</td>
+  <td class="commit-message">Fixed the wrong currency symbol in the i18n guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/074b50107359def427823bc8051f77e59a1da212"><span class="sha1">074b501</span></a></td>
+  <td class="commit-date">2009-02-02</td>
+  <td class="commit-message">I18n guide: Correction -- Invalid .rb dictionaries will ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8cdfca1b5dc54fbdafd2ad5a3e9e83b6083d8b36"><span class="sha1">8cdfca1</span></a></td>
+  <td class="commit-date">2009-02-02</td>
+  <td class="commit-message">I18n guide: Add warning about YAML sensitivity when stor...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d96483dedff67c817de97c32cc9290a6b581a6e4"><span class="sha1">d96483d</span></a></td>
+  <td class="commit-date">2009-02-02</td>
+  <td class="commit-message">Add link to Ryan Tomayko&#39;s &quot;locale&quot; Rack middleware to i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41fbf746c2feb4ddde64bd465207c9d8dfda6ec9"><span class="sha1">41fbf74</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Fixing stylistic issues in i18n guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/095c89baebb5b72dc126c45669512d74eec80541"><span class="sha1">095c89b</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Finished the tutorial part of i18n guide (organization o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b24f136fd418815aec88afff2a9459b91fde6dab"><span class="sha1">b24f136</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Fixed grammar and formatting issues in i18n guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b8131bb94c16e8b7945e5819949fe2ecffb2082"><span class="sha1">1b8131b</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Finished section about &quot;Setting the locale from the clie...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e32e369a9484ce57a46e3e5b780d5a6effd33a3"><span class="sha1">6e32e36</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">First part of &quot;Setting locale from the client supplied i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c73f17f379e0e53b7845c4c4a1a5dd4b5ea62dc3"><span class="sha1">c73f17f</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Added note about Rails&#39; i18n pragmatic to locale keys an...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b02e443a130db0f4f6bc4c0839bf4dad76cd7d5"><span class="sha1">0b02e44</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Clarifying the need and context of patching i18n in Rail...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aae0bec4f6db00435e833f76b244757caa9626b8"><span class="sha1">aae0bec</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Clarifications for the i18n guide: descriptions of worki...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de7100dcb6a155f3eb22b859adefbd0672d6d94c"><span class="sha1">de7100d</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">Re-wrote intro section w/r/t to i18n/L18n difference, mo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5b1fe6cdf99822c783fd1b28108d639ece79300c"><span class="sha1">5b1fe6c</span></a></td>
+  <td class="commit-date">2009-01-23</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c20e291b955f81ea21ea9eb72930790efc3f94bf"><span class="sha1">c20e291</span></a></td>
+  <td class="commit-date">2009-01-23</td>
+  <td class="commit-message">Clarified the difference between `:foreign_key` and `:as...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca250bdce1a36e9842aff37ee6daa7eae2c26a77"><span class="sha1">ca250bd</span></a></td>
+  <td class="commit-date">2009-01-22</td>
+  <td class="commit-message">Basic formatting fixes for the rest of the i18n guide (+...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6cd4fed61303426dbaf8cfa20c9c7738ea5e7305"><span class="sha1">6cd4fed</span></a></td>
+  <td class="commit-date">2009-01-22</td>
+  <td class="commit-message">Finished section &quot;Setting locale from the URL params&quot; in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97d9585efa5c2ddff688fca22ef0db1fcfbe9fe9"><span class="sha1">97d9585</span></a></td>
+  <td class="commit-date">2009-01-22</td>
+  <td class="commit-message">Complete &quot;Setting locale from the domain name&quot; in i18n g...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0eccdd9fb6a0e4df2904b28906fd5e7598266aa9"><span class="sha1">0eccdd9</span></a></td>
+  <td class="commit-date">2009-01-22</td>
+  <td class="commit-message">Extended and clarified intro section of i18n guide.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc2243dee5cf0757410ad42ba0bf2f6b9a07f68b"><span class="sha1">cc2243d</span></a></td>
+  <td class="commit-date">2009-01-21</td>
+  <td class="commit-message">Fixed bad path to image (demo_translated_en.png)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47b122468f45e51fff46560ccd66c878576265f6"><span class="sha1">47b1224</span></a></td>
+  <td class="commit-date">2009-01-21</td>
+  <td class="commit-message">Added section about Setting locale from URL to i18n guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9a0c028209086a53022942c2a454d657edbf688"><span class="sha1">b9a0c02</span></a></td>
+  <td class="commit-date">2009-01-21</td>
+  <td class="commit-message">Basic draft of section &quot;Setting and passing the locale&quot; ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4059f0477dc0504eed4c989560e92f60e9e7d764"><span class="sha1">4059f04</span></a></td>
+  <td class="commit-date">2009-01-18</td>
+  <td class="commit-message">Add rake task for generating a subset of guides</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4dd764207cce57ae4f592b383620b2f49fe2c727"><span class="sha1">4dd7642</span></a></td>
+  <td class="commit-date">2009-01-17</td>
+  <td class="commit-message">Clarifications and additions to the introduction part of...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/99918a4c68cc54d898861f1cf3dcce343a90b4f2"><span class="sha1">99918a4</span></a></td>
+  <td class="commit-date">2008-10-14</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b38a80323f9cef4415c110b0b05016f98613e870"><span class="sha1">b38a803</span></a></td>
+  <td class="commit-date">2008-10-10</td>
+  <td class="commit-message">Stated the need to specify &quot;config.gem&quot; +:lib+ option fo...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

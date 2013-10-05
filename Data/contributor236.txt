@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by James Mead to Ruby on Rails" />
+    <meta name="keywords" content="James Mead,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 James Mead - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">James Mead</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf915459675867cdadecfac4f18a186ec538dce6"><span class="sha1">bf91545</span></a></td>
+  <td class="commit-date">2013-01-16</td>
+  <td class="commit-message">Fix 3-0-stable to work with Mocha &gt;= v0.13.0</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0591f6d1e0b4768877559f85394947f94565fabf"><span class="sha1">0591f6d</span></a></td>
+  <td class="commit-date">2013-01-16</td>
+  <td class="commit-message">Fix 3-1-stable to work with Mocha &gt;= v0.13.0</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48f9999fc3377f5e97513319313a70cf953fd617"><span class="sha1">48f9999</span></a></td>
+  <td class="commit-date">2013-01-14</td>
+  <td class="commit-message">Make tests for the presence of MiniTest consistent.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3791cac8747b5e36fe9619301a55d69f8feff982"><span class="sha1">3791cac</span></a></td>
+  <td class="commit-date">2012-11-13</td>
+  <td class="commit-message">Avoid a Mocha deprecation warning.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5573c1d29565f17aca48b6a320a676bf9f962f20"><span class="sha1">5573c1d</span></a></td>
+  <td class="commit-date">2012-11-13</td>
+  <td class="commit-message">Fix for Test::Unit Mocha compatibility.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3e186ec8dcb2ec26d5d56f3e89123b1350c4a6f"><span class="sha1">c3e186e</span></a></td>
+  <td class="commit-date">2012-11-13</td>
+  <td class="commit-message">Use MiniTest in Ruby 1.8 if it is available.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/716bdfc01d45a61d211dbd766f494cb984fc9f9c"><span class="sha1">716bdfc</span></a></td>
+  <td class="commit-date">2012-11-13</td>
+  <td class="commit-message">Copy Mocha bug fix.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57b333e25dc797f6023fb84adcf365bd3ca60509"><span class="sha1">57b333e</span></a></td>
+  <td class="commit-date">2012-11-12</td>
+  <td class="commit-message">Simplify code by taking advantage of latest mocha (v0.13...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4cd32854f6c5575a927e269c065b68efe0ea5234"><span class="sha1">4cd3285</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">Exceptions like Interrupt should not be rescued in tests.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0813b45127c2dfc958482bba8fe1e3281866188d"><span class="sha1">0813b45</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">Exceptions like Interrupt should not be rescued in tests.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d8e5fac758bebc7199b514b08d4755a6f897435"><span class="sha1">7d8e5fa</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">Avoid dependency on MiniTest::Unit::TestCase::PASSTHROUG...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b057fab6383e5dd9f376036ce10fa908c0e185cb"><span class="sha1">b057fab</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Exceptions like Interrupt should not be rescued.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f415b3e6d18f0e018e08f2af8e19e40ac93a8524"><span class="sha1">f415b3e</span></a></td>
+  <td class="commit-date">2010-10-08</td>
+  <td class="commit-message">Remove old workaround for mocha bug. [#3886 state:commit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3cf773b187e803e16b8237e5923fa4c1139cde8a"><span class="sha1">3cf773b</span></a></td>
+  <td class="commit-date">2008-08-29</td>
+  <td class="commit-message">ActionMailer should respond_to? to methods handled by me...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f39382a2fad5e299fce73ae0ba60f28dfddb21a"><span class="sha1">4f39382</span></a></td>
+  <td class="commit-date">2008-04-06</td>
+  <td class="commit-message">Ensure that respond_to? considers dynamic finder methods...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

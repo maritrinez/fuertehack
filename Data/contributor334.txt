@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jakob Skjerning to Ruby on Rails" />
+    <meta name="keywords" content="Jakob Skjerning,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Jakob Skjerning - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Jakob Skjerning</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4673c47d7beae5bb5a79841d517b5c5d9b22579a"><span class="sha1">4673c47</span></a></td>
+  <td class="commit-date">2008-03-02</td>
+  <td class="commit-message">Allow html_options to be passed to all the date helpers....</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/59c36fd4567cea821953c8b3ec73264d50e0a4ad"><span class="sha1">59c36fd</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">Added TEMPLATE option to rake doc:app to set a custom ou...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2c0359b3e63f472a1ff8bf02061c97dafb98a34"><span class="sha1">b2c0359</span></a></td>
+  <td class="commit-date">2007-03-03</td>
+  <td class="commit-message">SQLServer: recognize real column type as Ruby float, cor...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57098ad859dc7b7b23323063d5698f73d81f70f9"><span class="sha1">57098ad</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">Merge [6084] from trunk. References #7083.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16f6bd4070d57fc1eacb1a531385af205233a573"><span class="sha1">16f6bd4</span></a></td>
+  <td class="commit-date">2007-01-28</td>
+  <td class="commit-message">SQLServer: don&#39;t choke on strings containing &#39;null&#39;. Clo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7aa9eed88fdfb1a8010c4ca7468e9ebd527494f1"><span class="sha1">7aa9eed</span></a></td>
+  <td class="commit-date">2006-09-01</td>
+  <td class="commit-message">Deprecation: update docs. Closes #5998.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/67a978be5d6857785c08b464b0ef4555298da14b"><span class="sha1">67a978b</span></a></td>
+  <td class="commit-date">2006-02-25</td>
+  <td class="commit-message">rake appdoc fails with unrecognized option (closes #3757...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/917189b076682063f389d7a1c767d4719d435f54"><span class="sha1">917189b</span></a></td>
+  <td class="commit-date">2005-11-08</td>
+  <td class="commit-message">Correct versioning in :freeze_gems Rake task.  Closes #2...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1465f9cee27a55b5c13bad35bac74be119097f17"><span class="sha1">1465f9c</span></a></td>
+  <td class="commit-date">2005-09-26</td>
+  <td class="commit-message">Make migrations honor table name prefixes and suffixes.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3d34286e338bdd6c7681e08a0d79a955dc24ca1"><span class="sha1">e3d3428</span></a></td>
+  <td class="commit-date">2005-09-02</td>
+  <td class="commit-message">Fixtures ignore table name prefix and suffix #1987 [Jako...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

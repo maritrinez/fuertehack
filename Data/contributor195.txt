@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Egor Homakov to Ruby on Rails" />
+    <meta name="keywords" content="Egor Homakov,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #193 Egor Homakov - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #193 <span class="fn">Egor Homakov</span> - All time<br/>
+    <span class="listing-total">Showing 18 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/baa240d09c09b74e9bc69c91e4b5c9fb5bca2005"><span class="sha1">baa240d</span></a></td>
+  <td class="commit-date">2013-01-31</td>
+  <td class="commit-message">Use \A in Regexps</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0685984c6b1934dea41c04b531777ec92f22c638"><span class="sha1">0685984</span></a></td>
+  <td class="commit-date">2012-08-27</td>
+  <td class="commit-message">Merge pull request #108 from homakov/master</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dad633c0f1888ce527a43d8bc782cfc9af440afa"><span class="sha1">dad633c</span></a></td>
+  <td class="commit-date">2012-08-27</td>
+  <td class="commit-message">default headers init</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98c18d0058a01e47f3acb10b3a105d79bd1597bf"><span class="sha1">98c18d0</span></a></td>
+  <td class="commit-date">2012-08-09</td>
+  <td class="commit-message">some tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a290f7f7cdf775491eda05b3690be6d96cd9bf6"><span class="sha1">2a290f7</span></a></td>
+  <td class="commit-date">2012-08-09</td>
+  <td class="commit-message">introduce default_headers config</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e995734e7fcf84f6eade61d180275a9d929cc0a7"><span class="sha1">e995734</span></a></td>
+  <td class="commit-date">2012-06-13</td>
+  <td class="commit-message">These lines don&#39;t help to mitigate CVE. They only turn [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f35c93f4b18493488657f6c206e32423df7a8640"><span class="sha1">f35c93f</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">do not force sanitize and whitelist protocols for auto_link</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3af33856d7d7a4eb718329e5aab16f1d17db8c88"><span class="sha1">3af3385</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">auto_link final sanitize</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45886843891c6eeba92f8d79ef8ec34738507309"><span class="sha1">4588684</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">Update railties/lib/rails/generators/rails/app/templates...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d1939056a81dd809b623a17d9930cf0bd1ca8ca"><span class="sha1">1d19390</span></a></td>
+  <td class="commit-date">2012-05-12</td>
+  <td class="commit-message">Update railties/lib/rails/generators/rails/app/templates...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5613fb0b8751440f162ffc59869848ecb41acaf2"><span class="sha1">5613fb0</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">Update railties/lib/rails/application/bootstrap.rb</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4f4b858d3c493ea74a1e4ed8ed6566bfa4c7e27"><span class="sha1">d4f4b85</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">Update guides/source/configuring.textile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9a4e65217cc0711f264410484d23fb8b519b660"><span class="sha1">c9a4e65</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">Update guides/source/configuring.textile</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f70d95ebd5b1389f1a308ae1e5b02179f87cd599"><span class="sha1">f70d95e</span></a></td>
+  <td class="commit-date">2012-04-24</td>
+  <td class="commit-message">Deleting insecure and &quot;bad practice&quot; code. related: http...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf94f1cab77fc4eb7fc806fd43120f9f23b451ad"><span class="sha1">bf94f1c</span></a></td>
+  <td class="commit-date">2012-03-17</td>
+  <td class="commit-message">using pluck</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/829e3797002c960fdd4fb0f94455dcd728a3d606"><span class="sha1">829e379</span></a></td>
+  <td class="commit-date">2012-03-13</td>
+  <td class="commit-message">&#39;module&#39; is reserved word. Sample of code with error - n...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57"><span class="sha1">b839657</span></a></td>
+  <td class="commit-date">2012-03-04</td>
+  <td class="commit-message">wow how come I commit in master? O_o</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef79b8400f064361b2dbe1ee89f42d2adc103a3c"><span class="sha1">ef79b84</span></a></td>
+  <td class="commit-date">2012-02-28</td>
+  <td class="commit-message">Inflector/constantize - inject method lets us to avoid u...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

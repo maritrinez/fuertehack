@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Alexey Gaziev to Ruby on Rails" />
+    <meta name="keywords" content="Alexey Gaziev,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #179 Alexey Gaziev - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #179 <span class="fn">Alexey Gaziev</span> - All time<br/>
+    <span class="listing-total">Showing 20 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b955939d55b71905fa3e5036149ee4c84943c599"><span class="sha1">b955939</span></a></td>
+  <td class="commit-date">2012-10-30</td>
+  <td class="commit-message">Make caller attribute in deprecation methods optional</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d785b292a8c921989f606696dff3765836d1fb44"><span class="sha1">d785b29</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">Changes for numeric api for Time because Time.current wo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8b67a022ec8754e5dab8df2a8bbec37df61a5fc2"><span class="sha1">8b67a02</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">Added tests for comparsion operator for Range</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66e0e4216c55c29557a2789a96c3847a901ccb30"><span class="sha1">66e0e42</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">Fix some guides for AS core_ext</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa5dd1439b49ae0e4a0574238ade338f9d05080b"><span class="sha1">aa5dd14</span></a></td>
+  <td class="commit-date">2012-05-06</td>
+  <td class="commit-message">Guides for deep_dup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/657b4ff04ad43bf26ded31ebfc003075f46dad53"><span class="sha1">657b4ff</span></a></td>
+  <td class="commit-date">2012-05-06</td>
+  <td class="commit-message">Nice logic for deep_dup in rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/076536433f0eb3e684c8e7a571223c274c179b5e"><span class="sha1">0765364</span></a></td>
+  <td class="commit-date">2012-04-29</td>
+  <td class="commit-message">Tests for regexp separator in String#truncate</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/432a65fab2a6c7eb6ff77062e73f7627470f7da7"><span class="sha1">432a65f</span></a></td>
+  <td class="commit-date">2012-04-28</td>
+  <td class="commit-message">String quotes and trailing spaces</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1220516fba3add0f3b491a440fd6525fdb61587"><span class="sha1">f122051</span></a></td>
+  <td class="commit-date">2012-04-28</td>
+  <td class="commit-message">Indentation for private methods</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92572241e2966529360106aec086373d56904dbc"><span class="sha1">9257224</span></a></td>
+  <td class="commit-date">2012-04-28</td>
+  <td class="commit-message">AS core_ext refactoring pt.2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1946d7b9229fabb52226f9ff82de72872c748d90"><span class="sha1">1946d7b</span></a></td>
+  <td class="commit-date">2012-04-28</td>
+  <td class="commit-message">AS core_ext refactoring</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6da2bc5fcc9aa35707250c8b348a045685ef62c7"><span class="sha1">6da2bc5</span></a></td>
+  <td class="commit-date">2012-04-25</td>
+  <td class="commit-message">Valid ips v4 and v6. Right logic for working with X-FORW...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b815676ea9c6a1700839b2eb218654d30ae30b52"><span class="sha1">b815676</span></a></td>
+  <td class="commit-date">2011-12-29</td>
+  <td class="commit-message">Backward compatibility with 3.1 cache storing</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f7b1906ed784940bda6f0c5173036de276867c1c"><span class="sha1">f7b1906</span></a></td>
+  <td class="commit-date">2011-12-27</td>
+  <td class="commit-message">Safe getting value from cache entry</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/91bbb8e9567a4c15a5812f32d603827045277e93"><span class="sha1">91bbb8e</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Removed tests for rescue branch for Rails 2.x compatibility</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78cd3f9ec262a6da8283a6ec95751a0bcd776051"><span class="sha1">78cd3f9</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Removed rescue branch for Rails 2.x compatibility</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca044113f38ed900fe30790c87a87089e4e9bcee"><span class="sha1">ca04411</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Fix regexp in generators for right catching error message</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93f488e7fa81f6cc18e6b158073979c0fd0c3c3d"><span class="sha1">93f488e</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Removed shadowing variable warning in activerecord railties</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87329ef67f9502aca5a9331610dc97b795cfda94"><span class="sha1">87329ef</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Removed warnings about shadowing variables</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/171491b1ebe44e06926938bb40108315ae7847be"><span class="sha1">171491b</span></a></td>
+  <td class="commit-date">2011-06-16</td>
+  <td class="commit-message">Change version of nokogiri gem</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

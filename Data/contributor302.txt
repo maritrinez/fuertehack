@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Dan Peterson to Ruby on Rails" />
+    <meta name="keywords" content="Dan Peterson,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Dan Peterson - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Dan Peterson</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0c3c131f3b9a82d3e2f36b2930c3437c9f821b6d"><span class="sha1">0c3c131</span></a></td>
+  <td class="commit-date">2006-10-08</td>
+  <td class="commit-message">The has_many create method works with polymorphic associ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ab1cb6a6a1ea0bde8ef35d02370248396753c7a"><span class="sha1">3ab1cb6</span></a></td>
+  <td class="commit-date">2006-09-14</td>
+  <td class="commit-message">Mock Time.now for more accurate Touch mixin tests. Close...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab0277f22005b9690393318ef9adf94d815c1611"><span class="sha1">ab0277f</span></a></td>
+  <td class="commit-date">2006-07-31</td>
+  <td class="commit-message">Calculate sum with SQL, not Enumerable on HasManyThrough...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/971e03f24e1121a2fe03beab23b0370a64fcfc37"><span class="sha1">971e03f</span></a></td>
+  <td class="commit-date">2006-07-24</td>
+  <td class="commit-message">Allow #count through a has_many association to accept :i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c21fdf31a52cbe507ff675815c29e5eef39e0bbb"><span class="sha1">c21fdf3</span></a></td>
+  <td class="commit-date">2005-10-30</td>
+  <td class="commit-message">Changed :dbfile to :database for SQLite adapter for cons...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e5b3d08a0a10169cc7d482d13d5b5429162206c4"><span class="sha1">e5b3d08</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">Added that render_partial called from a controller will ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/057cf4918bbc3573321f610a12c29676373b8f0c"><span class="sha1">057cf49</span></a></td>
+  <td class="commit-date">2005-04-10</td>
+  <td class="commit-message">Added support for has_and_belongs_to_many associations i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ba3903db6e8a0e0ddc737562742c7213c32a9d7"><span class="sha1">7ba3903</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Fixed that scaffold generator new template should use lo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/612bb73fece343bfda765dda91eabb1d2a6b310c"><span class="sha1">612bb73</span></a></td>
+  <td class="commit-date">2005-01-02</td>
+  <td class="commit-message">Fixed a YAML fixture on time coming out as an integer #4...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9c0a37f37402fa128302b7c048201d2180a029e"><span class="sha1">d9c0a37</span></a></td>
+  <td class="commit-date">2004-12-22</td>
+  <td class="commit-message">Releasing Rails 0.9.2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58f2bd0cfc1713ee3ed519d6b75bbfa386c131c3"><span class="sha1">58f2bd0</span></a></td>
+  <td class="commit-date">2004-12-21</td>
+  <td class="commit-message">Fixed validates_{confirmation,acceptance}_of to only hap...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

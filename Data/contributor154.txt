@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Tom Stuart to Ruby on Rails" />
+    <meta name="keywords" content="Tom Stuart,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #150 Tom Stuart - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #150 <span class="fn">Tom Stuart</span> - All time<br/>
+    <span class="listing-total">Showing 24 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f8f05f6275bae436fa801d2988498940ad641a7"><span class="sha1">7f8f05f</span></a></td>
+  <td class="commit-date">2012-02-05</td>
+  <td class="commit-message">Stop referring to Atom as &quot;ATOM&quot;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71abd4fbdd98127dc2b4ca7c9508d38cc4caf888"><span class="sha1">71abd4f</span></a></td>
+  <td class="commit-date">2012-02-05</td>
+  <td class="commit-message">Remove assert_select_feed from assert_select_encoded doc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f707cda53c58e42e1a93bfe533ca3d460d5ff9c9"><span class="sha1">f707cda</span></a></td>
+  <td class="commit-date">2012-01-12</td>
+  <td class="commit-message">Revert &quot;Base#[] and Base#[]= are aliases so implement th...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cda5094abd605d8612b4b031cf870a2004938125"><span class="sha1">cda5094</span></a></td>
+  <td class="commit-date">2012-01-12</td>
+  <td class="commit-message">Test that #[] and #[]= keep working when #read_attribute...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f22c36bc826827f937dc0b964a085f763f4f4d9e"><span class="sha1">f22c36b</span></a></td>
+  <td class="commit-date">2012-01-12</td>
+  <td class="commit-message">Test ActiveRecord::Base#[]= as well as #write_attribute</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcebe7fc9c309b29a46e0920b8faf8da9e911cc8"><span class="sha1">dcebe7f</span></a></td>
+  <td class="commit-date">2012-01-11</td>
+  <td class="commit-message">Revert &quot;Base#[] and Base#[]= are aliases so implement th...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/701afabd3d025ecca987c94b7b94dc93ef80ccfc"><span class="sha1">701afab</span></a></td>
+  <td class="commit-date">2012-01-11</td>
+  <td class="commit-message">Test that #[] and #[]= keep working when #read_attribute...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0acd025ec47488d3b6d1f3f8c731ad9036d359e"><span class="sha1">d0acd02</span></a></td>
+  <td class="commit-date">2012-01-11</td>
+  <td class="commit-message">Test ActiveRecord::Base#[]= as well as #write_attribute</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f49faeb705f269a2ea0d07078e94bffe7e5d4f1a"><span class="sha1">f49faeb</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">Never return stored content from content_for when a bloc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b14902150bca306e337914e0171c2140f257e8c2"><span class="sha1">b149021</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">Improve content_for test coverage</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/829de9d98e59f9b083ed96a9031cd9841c83ae47"><span class="sha1">829de9d</span></a></td>
+  <td class="commit-date">2011-02-12</td>
+  <td class="commit-message">Add block support to button_tag helper</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03749d6c88ae8312dc959b7683851dbf8c969326"><span class="sha1">03749d6</span></a></td>
+  <td class="commit-date">2011-02-12</td>
+  <td class="commit-message">Make type=&quot;submit&quot; the default for button_tag helper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44db47c63e669bdad74e4ac92a79fde13f6b839d"><span class="sha1">44db47c</span></a></td>
+  <td class="commit-date">2010-11-03</td>
+  <td class="commit-message">Backport BlankSlate removal from ActiveSupport::BasicObj...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2005f8234a8001585b484e43727f20317ca958c6"><span class="sha1">2005f82</span></a></td>
+  <td class="commit-date">2010-08-05</td>
+  <td class="commit-message">Fix ActiveSupport::Callbacks&#39; define_callbacks and Activ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f544c0a32dd86d4fe2c11e9111d3403fbbab2776"><span class="sha1">f544c0a</span></a></td>
+  <td class="commit-date">2010-08-05</td>
+  <td class="commit-message">Fix ActiveSupport::Callbacks&#39; define_callbacks and Activ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c87e9adddc22703a3dbbb785e32fafe0e91ce78"><span class="sha1">5c87e9a</span></a></td>
+  <td class="commit-date">2009-03-07</td>
+  <td class="commit-message">Ensure shallow routes respects namespace [#1356 state:re...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32cb2345a54b9ab38461b2d4bb0dbd1706f2800e"><span class="sha1">32cb234</span></a></td>
+  <td class="commit-date">2008-11-17</td>
+  <td class="commit-message">Fix default_scope to work in combination with named scopes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3e026a73d230954051a4976a600f0d6b6bad040d"><span class="sha1">3e026a7</span></a></td>
+  <td class="commit-date">2008-11-16</td>
+  <td class="commit-message">Fix typo in routing guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ecec6052f7f290252a9fd9cc27ec804c7aad36c"><span class="sha1">2ecec60</span></a></td>
+  <td class="commit-date">2008-11-14</td>
+  <td class="commit-message">Make inheritance of map.resources :only/:except options ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4c0921024471c0463d67f8b8fb6a115a94d343aa"><span class="sha1">4c09210</span></a></td>
+  <td class="commit-date">2008-11-13</td>
+  <td class="commit-message">Fix map.resources to always generate named routes if the...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44a3009ff068bf080de6764a8c884fbf0ceb920e"><span class="sha1">44a3009</span></a></td>
+  <td class="commit-date">2008-11-12</td>
+  <td class="commit-message">Add :only/:except options to map.resources</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08d81fdc5c59ee2aedb372faa00a9cb067621d4b"><span class="sha1">08d81fd</span></a></td>
+  <td class="commit-date">2008-10-30</td>
+  <td class="commit-message">Update auto_link documentation to use new API (overlooke...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e28ad77bba0574241e6eb64dfd0c1291b221effe"><span class="sha1">e28ad77</span></a></td>
+  <td class="commit-date">2008-10-08</td>
+  <td class="commit-message">Allow use of :path_prefix and :name_prefix outside of na...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f179f8540ab92dbd9d3e650b465de5b694d93d4"><span class="sha1">7f179f8</span></a></td>
+  <td class="commit-date">2008-08-29</td>
+  <td class="commit-message">Make NamedScope#size behave identically to AssociationCo...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

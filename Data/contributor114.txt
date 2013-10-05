@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Bob Silva to Ruby on Rails" />
+    <meta name="keywords" content="Bob Silva,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #112 Bob Silva - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #112 <span class="fn">Bob Silva</span> - All time<br/>
+    <span class="listing-total">Showing 34 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7143d80147ea26c66dfa1dd4bb82f066d72f6570"><span class="sha1">7143d80</span></a></td>
+  <td class="commit-date">2007-11-08</td>
+  <td class="commit-message">Smattering of grammatical fixes to documentation. Closes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b0931e15066a04bb5aea8dac910497ddb5f9b33"><span class="sha1">0b0931e</span></a></td>
+  <td class="commit-date">2007-09-15</td>
+  <td class="commit-message">Added block-acceptance to JavaScriptHelper#javascript_ta...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62a9203a5ed43fb3aea742b887a3bc874352950a"><span class="sha1">62a9203</span></a></td>
+  <td class="commit-date">2007-06-23</td>
+  <td class="commit-message">Fixed that radio_button_tag should generate unique ids (...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64d655628c5b61cf21fc165d6c669325c3b5b6f4"><span class="sha1">64d6556</span></a></td>
+  <td class="commit-date">2007-05-26</td>
+  <td class="commit-message">validates_numericality_of takes :greater_than, :greater_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1696c1f68de6b9139d46368a3c30e1325782f9d4"><span class="sha1">1696c1f</span></a></td>
+  <td class="commit-date">2007-01-05</td>
+  <td class="commit-message">Add more extensive documentation to the AssetTagHelper. ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c914d983e6bae7044bed1116d425fd28dbb3ed3"><span class="sha1">6c914d9</span></a></td>
+  <td class="commit-date">2007-01-05</td>
+  <td class="commit-message">Add more extensive documentation to the AssetTagHelper. ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c1d0e2979fe6f118d8275e88fa061317a477181"><span class="sha1">2c1d0e2</span></a></td>
+  <td class="commit-date">2007-01-05</td>
+  <td class="commit-message">Clean up multiple calls to #stringify_keys in TagHelper,...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/730c8e8391310330a175454cc73066979ee8b04c"><span class="sha1">730c8e8</span></a></td>
+  <td class="commit-date">2007-01-05</td>
+  <td class="commit-message">Clean up multiple calls to #stringify_keys in TagHelper,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2876efb7845632a1ccf76b9180e52988d5c574cd"><span class="sha1">2876efb</span></a></td>
+  <td class="commit-date">2006-12-06</td>
+  <td class="commit-message">Merge [5685] from trunk. Closes #3811.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07423bed4bf00626fcd9328557fa509fa86f6680"><span class="sha1">07423be</span></a></td>
+  <td class="commit-date">2006-12-06</td>
+  <td class="commit-message">Bob&#39;s raining patches: fixes date_helper bugs and usabil...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4aa358dd86f83b6e6b7e0228e67166f49147c8d4"><span class="sha1">4aa358d</span></a></td>
+  <td class="commit-date">2006-11-05</td>
+  <td class="commit-message">Merge [5429] from trunk.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/080ec9803e340e36d2635a272ee4cf9a243945fe"><span class="sha1">080ec98</span></a></td>
+  <td class="commit-date">2006-11-05</td>
+  <td class="commit-message">Fix invalid test fixture exposed by stricter Ruby 1.8.5 ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6171e71050dda9e3b4ebfccd440a180283667ce"><span class="sha1">b6171e7</span></a></td>
+  <td class="commit-date">2006-11-05</td>
+  <td class="commit-message">SQLite: count(distinct) queries supported in &gt;= 3.2.6, f...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53c49036ea1a4a2dba3c755d165f29b05a4ed572"><span class="sha1">53c4903</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">Merge [5412] from trunk.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a8bb66ace849ecd2516a4ff3488eb339093b8774"><span class="sha1">a8bb66a</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">Deprecate expire_matched_fragments. Use expire_fragment ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0c94868f67404a7989d4743910be1752dd67c58d"><span class="sha1">0c94868</span></a></td>
+  <td class="commit-date">2006-10-24</td>
+  <td class="commit-message">Update scaffold to use new form_tag block functionality....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/986c1a6240b412b89b8210a87fa64fb6981696a4"><span class="sha1">986c1a6</span></a></td>
+  <td class="commit-date">2006-10-22</td>
+  <td class="commit-message">Deprecated UrlHelper#link_to_image and UrlHelper#link_to...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c71a5d25fff323eef25ca3f744151e59c1ee86b"><span class="sha1">1c71a5d</span></a></td>
+  <td class="commit-date">2006-10-22</td>
+  <td class="commit-message">Upgraded NumberHelper with number_to_phone support inter...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/afd288cf8141eca321061cb00879f52108d68013"><span class="sha1">afd288c</span></a></td>
+  <td class="commit-date">2006-10-22</td>
+  <td class="commit-message">Fixed that setting RAILS_ASSET_ID to &quot;&quot; should not add a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a21e86f023812f7dafa6e97d44e281b66e2ac01f"><span class="sha1">a21e86f</span></a></td>
+  <td class="commit-date">2006-10-09</td>
+  <td class="commit-message">Fixed migration creation to work with namespaced models,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9fd88d793998ea3a15a916ce7175f1bb2cd264fe"><span class="sha1">9fd88d7</span></a></td>
+  <td class="commit-date">2006-10-09</td>
+  <td class="commit-message">Deprecated add_on_boundary_breaking (use validates_lengt...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef4fb3dee2e897b245ee6f545232378db3de7b38"><span class="sha1">ef4fb3d</span></a></td>
+  <td class="commit-date">2006-10-02</td>
+  <td class="commit-message">save! shouldn&#39;t validate twice. Closes #6324.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0bf0195a5c27c8c8493b1a44987154a9dc0d526"><span class="sha1">a0bf019</span></a></td>
+  <td class="commit-date">2006-09-26</td>
+  <td class="commit-message">Deprecation: count class method should be called with an...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c554a9cabaa3c8bbed5a0dccb381fdc6d516972d"><span class="sha1">c554a9c</span></a></td>
+  <td class="commit-date">2006-09-26</td>
+  <td class="commit-message">strip_links is case-insensitive. Closes #6285.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1b639cffb0aa1d88a5cf60ab2158bfc7a7f5904"><span class="sha1">f1b639c</span></a></td>
+  <td class="commit-date">2006-09-08</td>
+  <td class="commit-message">Update descriptive messages for exceptions thrown by cgi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17f7eaa141f0136a5982bc97f78caec76f7d1872"><span class="sha1">17f7eaa</span></a></td>
+  <td class="commit-date">2006-09-04</td>
+  <td class="commit-message">Improved resolution of DateHelper#distance_of_time_in_wo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f3d6726dfa3efdb895a85f5e2f72e7b430b788e9"><span class="sha1">f3d6726</span></a></td>
+  <td class="commit-date">2006-09-04</td>
+  <td class="commit-message">Document validates_presences_of behavior with booleans: ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4fc6c872ef1f6ae10eec7c24cbc60697336ca707"><span class="sha1">4fc6c87</span></a></td>
+  <td class="commit-date">2006-09-03</td>
+  <td class="commit-message">radio_button_tag generates unique id attributes. Closes ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/129a159d1247b2bc9cc791a81ef3485e5b061648"><span class="sha1">129a159</span></a></td>
+  <td class="commit-date">2006-03-18</td>
+  <td class="commit-message">Fixed link_to &quot;somewhere&quot;, :post =&gt; true to produce vali...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fed41fbe8b79725904437230ac9e7abfb53df651"><span class="sha1">fed41fb</span></a></td>
+  <td class="commit-date">2006-02-28</td>
+  <td class="commit-message">Added support to AssetTagHelper#javascript_include_tag f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b56cac56dd0e8c38a5725490a86f05cb77aee6ca"><span class="sha1">b56cac5</span></a></td>
+  <td class="commit-date">2006-02-28</td>
+  <td class="commit-message">Added new column to all db definitions. Where, oh where,...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/231a464d4e1795283410fb98b7740bed2b2e76a1"><span class="sha1">231a464</span></a></td>
+  <td class="commit-date">2006-02-26</td>
+  <td class="commit-message">Fixed that form elements would strip the trailing [] fro...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e99422d61cd690f24b10f540dafe218092283a3"><span class="sha1">5e99422</span></a></td>
+  <td class="commit-date">2006-02-25</td>
+  <td class="commit-message">Updated docs (closes #3799) [ruby@bobsilva.com]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9a9893d2b9bfec83ef2e18cc3103d267369a86a"><span class="sha1">b9a9893</span></a></td>
+  <td class="commit-date">2006-02-10</td>
+  <td class="commit-message">Fix Syntax error in mysql.sql, Drop table readers and ru...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

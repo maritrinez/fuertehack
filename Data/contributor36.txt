@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Geoff Buesing to Ruby on Rails" />
+    <meta name="keywords" content="Geoff Buesing,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #36 Geoff Buesing - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #36 <span class="fn">Geoff Buesing</span> - All time<br/>
+    <span class="listing-total">Showing 179 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8bf1f22ded16e37b3f18b942c8ae49ea79e3d79"><span class="sha1">d8bf1f2</span></a></td>
+  <td class="commit-date">2013-06-24</td>
+  <td class="commit-message">ActionDispatch:SSL: don&#39;t include STS header in non-http...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2e32e4fd7332d61324daaf33e99fd7f2e8e4c2a"><span class="sha1">f2e32e4</span></a></td>
+  <td class="commit-date">2010-10-11</td>
+  <td class="commit-message">require &#39;uri&#39; in action_controller/url_rewriter [#5555 s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/227e1caea51279fe4687f17e5704d637a21ea15f"><span class="sha1">227e1ca</span></a></td>
+  <td class="commit-date">2010-07-02</td>
+  <td class="commit-message">Time#as_json: use Time#formatted_offset instead of strft...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4146a443b6ffc3d250a280a3b5218c0e5d1a54dd"><span class="sha1">4146a44</span></a></td>
+  <td class="commit-date">2010-06-11</td>
+  <td class="commit-message">Date#since, #ago, #beginning_of_day, #end_of_day, #xmlsc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f7729a66eeb362d6d4f7b0add6ca40151794b74"><span class="sha1">3f7729a</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">Time#- with a DateTime argument behaves the same as with...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e98f9579c472e75f5a8c0678f2fc54b2d681e3ec"><span class="sha1">e98f957</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">Time#- with a DateTime argument behaves the same as with...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f3caa63bcbbfff093efcdfa3547fb2eb96479f0a"><span class="sha1">f3caa63</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">Update bundled TZInfo to v0.3.16</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1cda85d08a68888744bd230bccd75bf268587028"><span class="sha1">1cda85d</span></a></td>
+  <td class="commit-date">2010-01-27</td>
+  <td class="commit-message">Georgetown TimeZone is now mapped to &quot;America/Guyana&quot; in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4ebaab1cb3b7deaf6eb7816785300f0c4018210"><span class="sha1">e4ebaab</span></a></td>
+  <td class="commit-date">2009-12-15</td>
+  <td class="commit-message">Add test for TimeWithZone#to_i with wrapped DateTime</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a4b19277b2a4085da3bb0f1e05584496103eeb2a"><span class="sha1">a4b1927</span></a></td>
+  <td class="commit-date">2009-12-15</td>
+  <td class="commit-message">Add test for TimeWithZone#to_i with wrapped DateTime</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/057f0d3c16d533aea1a98ea3d7f4c2a09274e5c4"><span class="sha1">057f0d3</span></a></td>
+  <td class="commit-date">2009-10-28</td>
+  <td class="commit-message">Bundle Tzinfo 0.3.15</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37c9ec3add88a85bd7b6fc43ebc3aa5ecd221fef"><span class="sha1">37c9ec3</span></a></td>
+  <td class="commit-date">2009-10-28</td>
+  <td class="commit-message">Tzinfo bundling task: unpack tzinfo with lib directory p...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6bf17770af2a563b037b961a8dbe84f63f9c929c"><span class="sha1">6bf1777</span></a></td>
+  <td class="commit-date">2009-09-01</td>
+  <td class="commit-message">Rails::Info doesn&#39;t require version for unwanted frameworks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc1efe7e5af32789a9ed0f80528e629861dbe6a7"><span class="sha1">cc1efe7</span></a></td>
+  <td class="commit-date">2009-09-01</td>
+  <td class="commit-message">Rails::Info doesn&#39;t require version for unwanted frameworks</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfafe8c4055bcb8dcf7440015d95a32c9773f40b"><span class="sha1">bfafe8c</span></a></td>
+  <td class="commit-date">2009-08-05</td>
+  <td class="commit-message">Revert &quot;fallback_string_to_date sets Date._parse comp ar...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f97ad07ded847f29159baf71050c63f04282170"><span class="sha1">6f97ad0</span></a></td>
+  <td class="commit-date">2009-08-04</td>
+  <td class="commit-message">quoted_date converts time-like objects to ActiveRecord::...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7fe8b630ce47f62409aabb609e81ff676df56bd3"><span class="sha1">7fe8b63</span></a></td>
+  <td class="commit-date">2009-06-08</td>
+  <td class="commit-message">Add notes to TZInfo bundling task</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71b1a4b39d08e401cf8a73d1a551c532da509fa7"><span class="sha1">71b1a4b</span></a></td>
+  <td class="commit-date">2009-06-08</td>
+  <td class="commit-message">Kathmandu TimeZone: reference Asia/Kathmandu zone direct...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/184986067a3294cb178a9dd8955b934ff3feb9a0"><span class="sha1">1849860</span></a></td>
+  <td class="commit-date">2009-06-08</td>
+  <td class="commit-message">Load correct version of TZInfo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/04eb2b72b400384fe49e31b95c11c68cab2aca8e"><span class="sha1">04eb2b7</span></a></td>
+  <td class="commit-date">2009-06-08</td>
+  <td class="commit-message">Update bundled TZInfo to v0.3.13</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/660fc93942697b74a8093d4d5338d1ced25cbe7f"><span class="sha1">660fc93</span></a></td>
+  <td class="commit-date">2009-04-05</td>
+  <td class="commit-message">Test cleanup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7685ea20b4915f907082a22028260d04024a200b"><span class="sha1">7685ea2</span></a></td>
+  <td class="commit-date">2009-04-05</td>
+  <td class="commit-message">Hash::XML_TYPE_NAMES: no longer a need for a TimeWithZon...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c00f2d25de640b8de1c8583474085f3836ee1768"><span class="sha1">c00f2d2</span></a></td>
+  <td class="commit-date">2009-04-05</td>
+  <td class="commit-message">TimeWithZone.name returns &#39;Time&#39;, to further thwart type...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea8077c6427d208188f9cd11f88ebdc8f60dec28"><span class="sha1">ea8077c</span></a></td>
+  <td class="commit-date">2009-03-29</td>
+  <td class="commit-message">Enhance Time #since and #ago DST tests.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c6bf82115e184f9c819e5797d3822b6b9daeb14"><span class="sha1">3c6bf82</span></a></td>
+  <td class="commit-date">2009-02-10</td>
+  <td class="commit-message">TimeWithZone#advance: leverage Hash#values_at and non-bl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16cc69af6f29a1562db3cf9e37ae7f3751956f4a"><span class="sha1">16cc69a</span></a></td>
+  <td class="commit-date">2009-02-10</td>
+  <td class="commit-message">Changelog update for previous commit</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5120429c3138d46490a1c4a611ebd93410f4f885"><span class="sha1">5120429</span></a></td>
+  <td class="commit-date">2009-02-09</td>
+  <td class="commit-message">TimeWithZone#advance: use #any? instead of #detect</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/887434f75fc0a207ac7184debcd3074802758952"><span class="sha1">887434f</span></a></td>
+  <td class="commit-date">2009-02-09</td>
+  <td class="commit-message">TimeWithZone: eliminate unnecessary flatten</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5394fcb19a0ee5ecb2f34543027260fc4eb931da"><span class="sha1">5394fcb</span></a></td>
+  <td class="commit-date">2009-02-09</td>
+  <td class="commit-message">TimeWithZone: use Array#any? instead of detect, since we...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4805887ce19024466a561dfbb7221eea6e81f5ed"><span class="sha1">4805887</span></a></td>
+  <td class="commit-date">2009-01-04</td>
+  <td class="commit-message">TimeWithZone#- gives correct result with wrapped DateTim...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3d87f0fb4e3f406d57005e1f7e68a05a3bf82a13"><span class="sha1">3d87f0f</span></a></td>
+  <td class="commit-date">2009-01-04</td>
+  <td class="commit-message">TimeWithZone#- gives correct result with wrapped DateTim...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2a1c2778e76ba30431121d0a9062272e0c90405"><span class="sha1">d2a1c27</span></a></td>
+  <td class="commit-date">2009-01-04</td>
+  <td class="commit-message">TimeWithZone#- gives correct result with wrapped DateTim...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1955c164b37342de68306b5d2582d9d2c1776149"><span class="sha1">1955c16</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">TimeZone offset tests: use current_period, to ensure Tim...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ce3a597249d99b1b3247d5f0ea5490416bd8f38"><span class="sha1">7ce3a59</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Merge branch &#39;2-1-stable&#39; of git@github.com:rails/rails ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b88d394ce707f790a29b15fcf184bc6a30293bb4"><span class="sha1">b88d394</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">TimeZone offset tests: use current_period, to ensure Tim...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dac9180f8727d73dae816769de1d590e11bc0a75"><span class="sha1">dac9180</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">TimeZone offset tests: use current_period, to ensure Tim...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d1c459bfb9ed8e33b80b547efc92accb12f8794"><span class="sha1">0d1c459</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Update bundled TZInfo to 0.3.12</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98199eb3bc12bf6eb967d964ee050fc5f13dea26"><span class="sha1">98199eb</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Update bundled TZInfo to 0.3.12</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ad165cb9d4ca5df9b5ba6f01752727427fed949"><span class="sha1">9ad165c</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">Update bundled TZInfo to 0.3.12</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f857da4faf4765ad1579818d2de55f0fabb1b527"><span class="sha1">f857da4</span></a></td>
+  <td class="commit-date">2008-11-13</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:rails/rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/020a4113048be7166346cba6c59bbbca819de911"><span class="sha1">020a411</span></a></td>
+  <td class="commit-date">2008-11-13</td>
+  <td class="commit-message">TimeZone: fix base offset for Sri Jayawardenepura. Ancho...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f3e3eba892486597ded527f8773cc36bea5c1d8"><span class="sha1">3f3e3eb</span></a></td>
+  <td class="commit-date">2008-10-20</td>
+  <td class="commit-message">TimeWithZone#freeze: preload instance variables so that ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c79f1d281f1932d4203c7b5b5c793e370ed63838"><span class="sha1">c79f1d2</span></a></td>
+  <td class="commit-date">2008-10-20</td>
+  <td class="commit-message">TimeWithZone#freeze: preload instance variables so that ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75b017caadf063a31f2f8d712a665e9f71ea19fc"><span class="sha1">75b017c</span></a></td>
+  <td class="commit-date">2008-10-20</td>
+  <td class="commit-message">Bundle TzInfo version 0.3.11</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93e1bff82a531c957bad91ea67e01b4793ccc51f"><span class="sha1">93e1bff</span></a></td>
+  <td class="commit-date">2008-10-20</td>
+  <td class="commit-message">Bundle TzInfo version 0.3.11</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c51db4d7ababd6f1c341d2808a298865ee449313"><span class="sha1">c51db4d</span></a></td>
+  <td class="commit-date">2008-10-14</td>
+  <td class="commit-message">Enhance testing for fractional days and weeks. Update ch...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/157141b2949b845e372ee703bfd6fba3ffb00415"><span class="sha1">157141b</span></a></td>
+  <td class="commit-date">2008-09-15</td>
+  <td class="commit-message">TimeWithZone #wday, #yday and #to_date avoid trip throug...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cce7ae54663243a224e9871f1aac2388842b0c3a"><span class="sha1">cce7ae5</span></a></td>
+  <td class="commit-date">2008-09-15</td>
+  <td class="commit-message">Add thorough tests for Time-object #past?, #future? and ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bd62e31682b6fa3deb499c6a5338906fc559188"><span class="sha1">8bd62e3</span></a></td>
+  <td class="commit-date">2008-09-14</td>
+  <td class="commit-message">Multiparameter attributes skip time zone conversion for ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d95943b276d52c5bc4f033e532376667badbad9f"><span class="sha1">d95943b</span></a></td>
+  <td class="commit-date">2008-09-14</td>
+  <td class="commit-message">Multiparameter attributes skip time zone conversion for ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b44be6a34106ea81ac62c984f73a627f5090d979"><span class="sha1">b44be6a</span></a></td>
+  <td class="commit-date">2008-07-15</td>
+  <td class="commit-message">TimeWithZone: when crossing DST boundary, treat Duration...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e6ad7ff466f045b30c7b07e8ee5f3865c9604687"><span class="sha1">e6ad7ff</span></a></td>
+  <td class="commit-date">2008-07-15</td>
+  <td class="commit-message">Fix TimeWithZone unmarshaling: coerce unmarshaled Time i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34510456585216004e483b79beeea3ddc3eb4de6"><span class="sha1">3451045</span></a></td>
+  <td class="commit-date">2008-07-15</td>
+  <td class="commit-message">Fix TimeWithZone unmarshaling: coerce unmarshaled Time i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f1d827096ad9f1044a6da7141e7ae720a64ec6b"><span class="sha1">6f1d827</span></a></td>
+  <td class="commit-date">2008-06-29</td>
+  <td class="commit-message">TimeWithZone#advance: treat :weeks option as variable-le...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/676d6a651497b56f31e00db4e7795669de0da672"><span class="sha1">676d6a6</span></a></td>
+  <td class="commit-date">2008-06-29</td>
+  <td class="commit-message">TimeWithZone: when crossing DST boundary, treat Duration...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4cf93935b2478201863c01569e894c9dcf7e9074"><span class="sha1">4cf9393</span></a></td>
+  <td class="commit-date">2008-06-29</td>
+  <td class="commit-message">Fix indentation and update changelogs for previous commit</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f88267d532ecbfebb66b95863a4875b65507ddf3"><span class="sha1">f88267d</span></a></td>
+  <td class="commit-date">2008-05-25</td>
+  <td class="commit-message">TimeZone#to_s shows offset as GMT instead of UTC, becaus...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c1c1d6c2ea72424dfae0b5ee1991d904dcf0f252"><span class="sha1">c1c1d6c</span></a></td>
+  <td class="commit-date">2008-05-18</td>
+  <td class="commit-message">Adding documentation for time zone features</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cee9297c9bd43ca8975dc7ca9b707a6aa94c275d"><span class="sha1">cee9297</span></a></td>
+  <td class="commit-date">2008-05-18</td>
+  <td class="commit-message">Hash.from_xml: datetime xml types overflow to Ruby DateT...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cde9c09a524a21214ea9cd0f9ee4489e4d185af2"><span class="sha1">cde9c09</span></a></td>
+  <td class="commit-date">2008-05-18</td>
+  <td class="commit-message">TimeWithZone #+ and #- : ensure overflow to DateTime wit...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e30a263bf1744d0b55d073c7d1087d0d64181d2c"><span class="sha1">e30a263</span></a></td>
+  <td class="commit-date">2008-05-18</td>
+  <td class="commit-message">InstanceTag#default_time_from_options overflows to DateTime</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be85868987675a158fd4111393b9161296431728"><span class="sha1">be85868</span></a></td>
+  <td class="commit-date">2008-05-18</td>
+  <td class="commit-message">Time#to_json: don&#39;t convert to utc before encoding. Refe...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f333449bd47737a7260d7b9770a2bc50a373abb"><span class="sha1">0f33344</span></a></td>
+  <td class="commit-date">2008-05-18</td>
+  <td class="commit-message">time_zone_select docs: explain priority zones option. Ad...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfbf03ecee063adc9999c0dec50f8177594fb28f"><span class="sha1">bfbf03e</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">ActionView::InstanceTag#default_time_from_options with h...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66728087d0eb99a524498e8f24725dae6073edd6"><span class="sha1">6672808</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">Adding Date.current, which returns Time.zone.today if co...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79e44a5ee484f977c2cad8a4cffe882b816340a1"><span class="sha1">79e44a5</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">Base#instantiate_time_object: eliminate check for Time.z...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f03190f262c07c1f389957ff7ae76901495d824"><span class="sha1">4f03190</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">TimeWithZone: date part getter methods (#year #mon #day ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/618d695f1115c00ce058950af199d5d4dc06385a"><span class="sha1">618d695</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">Updating changelogs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06a7c2948a8dbf31357b552d468fcf42002736e7"><span class="sha1">06a7c29</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">Time.zone.parse: return nil for strings with no date inf...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fb9bf16e96e2c24d4996327500d8109b5d535e2c"><span class="sha1">fb9bf16</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">Time.zone.parse: compatibility with far future date with...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/328fada610aa9128386bc4b372d3e0b68aede945"><span class="sha1">328fada</span></a></td>
+  <td class="commit-date">2008-05-09</td>
+  <td class="commit-message">ActiveRecord time zone aware attributes: blank string is...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f757f5838818ce35f7927a10a8cda6f9583869c5"><span class="sha1">f757f58</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">select_datetime and select_time default to Time.zone.now...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c2c779044ffb1c435f4722f62fcbd400883f3225"><span class="sha1">c2c7790</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">datetime_select defaults to Time.zone.now when config.ti...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ef4239f8bd4d4ea7a5bc7f2cdaf14f87e6eb9a1"><span class="sha1">6ef4239</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:rails/rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32b82e4c6f5523cdf5ee78c3022c50b46e018351"><span class="sha1">32b82e4</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">Duration #since and #ago with no argument (e.g., 5.days....</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f285b6119b9ca7f598e31c0c8518dce3e1b13386"><span class="sha1">f285b61</span></a></td>
+  <td class="commit-date">2008-04-12</td>
+  <td class="commit-message">Add #getutc alias for DateTime#utc</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0289b0e7dff1c114a090f905406cc212d9e3570e"><span class="sha1">0289b0e</span></a></td>
+  <td class="commit-date">2008-04-12</td>
+  <td class="commit-message">Refactor TimeWithZone: don&#39;t send #since, #ago, #+, #-, ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e5aa6569bc041238aafa5a400758c0a7536da93"><span class="sha1">7e5aa65</span></a></td>
+  <td class="commit-date">2008-04-12</td>
+  <td class="commit-message">TimeWithZone respects config.active_support.use_standard...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfd56882af597724e427b17cdf295ffdd241dc26"><span class="sha1">cfd5688</span></a></td>
+  <td class="commit-date">2008-04-12</td>
+  <td class="commit-message">rake time:zones:local finds correct base utc offset for ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49f2e6f8d4002185b53f7108463a50b55e4aa86e"><span class="sha1">49f2e6f</span></a></td>
+  <td class="commit-date">2008-04-04</td>
+  <td class="commit-message">Time #yesterday and #tomorrow behave correctly crossing ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c6f1d43962796558301528e2c9ff40e53f01409"><span class="sha1">2c6f1d4</span></a></td>
+  <td class="commit-date">2008-04-02</td>
+  <td class="commit-message">TimeWithZone: Adding tests for dst and leap day edge cas...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f4dc83497612bbd458213fccd161e1a38939ad5f"><span class="sha1">f4dc834</span></a></td>
+  <td class="commit-date">2008-04-02</td>
+  <td class="commit-message">TimeWithZone#method_missing: send to utc to advance with...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ccfcc42b0f8a6906213ee6b61c7c53466c0b41d"><span class="sha1">2ccfcc4</span></a></td>
+  <td class="commit-date">2008-03-30</td>
+  <td class="commit-message">TZInfo: Removing unneeded TimezoneProxy class</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c124a98b37f9ae121dd39e90ad5775460c64f73"><span class="sha1">9c124a9</span></a></td>
+  <td class="commit-date">2008-03-30</td>
+  <td class="commit-message">TZInfo: Removing unneeded TimezoneIndexDefinition, since...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/458fd104838c14be4511c86c5739f8368725ecbd"><span class="sha1">458fd10</span></a></td>
+  <td class="commit-date">2008-03-30</td>
+  <td class="commit-message">Removing unnecessary uses_tzinfo helper from tests, give...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4493bc562f4f774bfad075e2ba57be3434046c3"><span class="sha1">d4493bc</span></a></td>
+  <td class="commit-date">2008-03-30</td>
+  <td class="commit-message">Bundling abbreviated version of TZInfo gem 0.3.8: only t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c62db052a0c188c405ad97abec9dd2cec2b9b1d8"><span class="sha1">c62db05</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">config.time_zone and TimeWithZone#marshal_load accept tz...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/59183eec6f8d3e5d1ac5046dbd4f5cefc7041256"><span class="sha1">59183ee</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">Time.zone= accepts TZInfo::Timezone instances and Olson ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/129d94477b1bb4478d1d8ceaed2a0f9a615e2d23"><span class="sha1">129d944</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">TimeWithZone time conversions don&#39;t need to be wrapped i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4645e00b7a427f32e470b4ad3fe494b698f725d"><span class="sha1">e4645e0</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">TimeWithZone#usec returns 0 instead of error when DateTi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/480a7581d4ec87eb745b004d6e4daae98b52cfa5"><span class="sha1">480a758</span></a></td>
+  <td class="commit-date">2008-03-28</td>
+  <td class="commit-message">Rails::Initializer#initialize_time_zone raises an error ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/35d3ede97447d70aae8db716cd2448f116014d68"><span class="sha1">35d3ede</span></a></td>
+  <td class="commit-date">2008-03-26</td>
+  <td class="commit-message">New applications should use UTC as the default time zone</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29e33161784dae84b1e92f9acf9db7d0f1d0da64"><span class="sha1">29e3316</span></a></td>
+  <td class="commit-date">2008-03-22</td>
+  <td class="commit-message">Ensure correct TimeWithZone#to_date</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea285c2f783f4f06918b9c5f5956cf4d5c5e5e25"><span class="sha1">ea285c2</span></a></td>
+  <td class="commit-date">2008-03-22</td>
+  <td class="commit-message">Correct grammar in config.time_zone description in envir...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ec8a7f4e0acd45d960512d2736d90473714ad48"><span class="sha1">1ec8a7f</span></a></td>
+  <td class="commit-date">2008-03-22</td>
+  <td class="commit-message">Added config.time_zone = &#39;UTC&#39; as a commented-out option...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f921a96e8506ca5d376a83f06b45ffd8df737fa7"><span class="sha1">f921a96</span></a></td>
+  <td class="commit-date">2008-03-22</td>
+  <td class="commit-message">Adding rake tasks time:zones:all, time:zones:us and time...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f371f292650480dd38d6ad23b5646fba53e472b1"><span class="sha1">f371f29</span></a></td>
+  <td class="commit-date">2008-03-21</td>
+  <td class="commit-message">Make TimeWithZone work with tzinfo 0.2.x: use TZInfo::Ti...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/54ccdd334385fea706eb8d5b3ed95d7102a9d0d4"><span class="sha1">54ccdd3</span></a></td>
+  <td class="commit-date">2008-03-17</td>
+  <td class="commit-message">Time, DateTime and TimeWithZone #in_time_zone defaults t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe7c68ee5d4d78b705bc91c0652b05202b3eb30e"><span class="sha1">fe7c68e</span></a></td>
+  <td class="commit-date">2008-03-17</td>
+  <td class="commit-message">TZInfo caches Timezone instances in its own internal has...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2366fdbdb1e8a5ba4ee07d94e79c2011f5821820"><span class="sha1">2366fdb</span></a></td>
+  <td class="commit-date">2008-03-17</td>
+  <td class="commit-message">Adding TimeZone#parse</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b132413885cff785851980dc1740a003109214b7"><span class="sha1">b132413</span></a></td>
+  <td class="commit-date">2008-03-17</td>
+  <td class="commit-message">Adding TimeZone#at and DateTime#to_f</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/895487c1224bf85047f317e7bddf4f2abdea0822"><span class="sha1">895487c</span></a></td>
+  <td class="commit-date">2008-03-17</td>
+  <td class="commit-message">TimeWithZone responds to Ruby 1.9 weekday-named query me...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77ee522bf6c97352485fad3b72866f7ab424ecaf"><span class="sha1">77ee522</span></a></td>
+  <td class="commit-date">2008-03-17</td>
+  <td class="commit-message">TimeWithZone caches TZInfo::TimezonePeriod used for time...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5483de0cc345772eb22a461c4509a0bd072863a9"><span class="sha1">5483de0</span></a></td>
+  <td class="commit-date">2008-03-11</td>
+  <td class="commit-message">Fix Numeric time tests broken by DST change by anchoring...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3af5b278397c8162b2ac29bd8eeac1239e4fea15"><span class="sha1">3af5b27</span></a></td>
+  <td class="commit-date">2008-03-11</td>
+  <td class="commit-message">Removing unneeded #change_time_zone method from Time, Da...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba91fddc442ecfbeffb3c7b05fa5851fabc32059"><span class="sha1">ba91fdd</span></a></td>
+  <td class="commit-date">2008-03-11</td>
+  <td class="commit-message">TimeZone #local and #now correctly enforce DST rules</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52b57c662c129d72d44fa1ab9920a752c1973482"><span class="sha1">52b57c6</span></a></td>
+  <td class="commit-date">2008-03-11</td>
+  <td class="commit-message">TimeWithZone instances correctly enforce DST rules. Addi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e21ec36cf110793d56fe281995939efd3533e34"><span class="sha1">8e21ec3</span></a></td>
+  <td class="commit-date">2008-03-10</td>
+  <td class="commit-message">test_native_types expects DateTime.local_offset instead ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f56c25d7b44d4ac4936a39bbcad53614daea162a"><span class="sha1">f56c25d</span></a></td>
+  <td class="commit-date">2008-03-10</td>
+  <td class="commit-message">test_time_with_datetime_fallback expects DateTime.local_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10d9d0b6fe023df1be0d87ca95bb739bb7eb30ba"><span class="sha1">10d9d0b</span></a></td>
+  <td class="commit-date">2008-03-03</td>
+  <td class="commit-message">Adding TimeWithZone #marshal_dump and #marshal_load</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a643f686afc3c8d0d3d9773e418cf9aed670107"><span class="sha1">4a643f6</span></a></td>
+  <td class="commit-date">2008-02-17</td>
+  <td class="commit-message">Adding TimeWithZone#between?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25e139e545f11c7764abe250f8f33d58874516d7"><span class="sha1">25e139e</span></a></td>
+  <td class="commit-date">2008-02-16</td>
+  <td class="commit-message">Time.=== returns true for TimeWithZone instances</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7ebd656b31244c3da5abf45e100c8e976c79d50"><span class="sha1">e7ebd65</span></a></td>
+  <td class="commit-date">2008-02-16</td>
+  <td class="commit-message">TimeWithZone #+ and #- behave consistently with numeric ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3025ff28cc5aad02a71bebe1d155aa86e887d781"><span class="sha1">3025ff2</span></a></td>
+  <td class="commit-date">2008-02-16</td>
+  <td class="commit-message">Tests for distance_of_time_in_words with TimeWithZone in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2920bd22df21e9920b749ce3901522d494d551b7"><span class="sha1">2920bd2</span></a></td>
+  <td class="commit-date">2008-02-16</td>
+  <td class="commit-message">ActiveRecord::Base#instantiate_time_object only uses Tim...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4e3ecec9c76c612facd995031fb1c2a499d5d4c4"><span class="sha1">4e3ecec</span></a></td>
+  <td class="commit-date">2008-02-16</td>
+  <td class="commit-message">Refactor ActiveRecord::ConnectionAdapters::Column.new_ti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9402b2277b18e65064720cc9ebf272a321de1ff"><span class="sha1">c9402b2</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Multiparameter attributes for time columns fail over to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6608a3ef37a8f998958b867a1be186d33edbc151"><span class="sha1">6608a3e</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Adding TimeWithZone #to_yaml, #to_datetime, #eql? and me...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ad5a29cef38cd95aac6553357fc32a6e9e7b411"><span class="sha1">8ad5a29</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">TimeWithZone #in_time_zone returns +self+ if zone argume...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8831180b152007c52abb2a03bb351ebc7079c4c4"><span class="sha1">8831180</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Adding TimeWithZone #to_a, #to_f, #to_i, #httpdate, #rfc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/163a4c6f4545c040c7ea25c298865a401b1b24f2"><span class="sha1">163a4c6</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Pruning unneeded TimeWithZone#change_time_zone_to_current</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9be374ddd2142ca53da3c235e35ccbb70c66842"><span class="sha1">b9be374</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Time#zone=, #in_time_zone and #change_time_zone accept a...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db4fc6f206f83d8981e006c80f08bfd4bff02e87"><span class="sha1">db4fc6f</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Time#in_time_zone handles Time.local instances correctly</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/521714a39d2f74f6a7e617db68f8fafc93a425a0"><span class="sha1">521714a</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">Pruning unneeded Time#change_time_zone_to_current. Enhan...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94fa9fb74541b60ed04f2694558a6a98a9ce1cab"><span class="sha1">94fa9fb</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">TimeZone#new renamed #local, so that new TimeWithZone in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41adf8710e695f01a8100a87c496231d29e57cf2"><span class="sha1">41adf87</span></a></td>
+  <td class="commit-date">2008-02-10</td>
+  <td class="commit-message">2-0-stable: Add documentation for polymorphic URL helper...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72385a7be65bb27b07cd2ee3bc9fe221d8e04f90"><span class="sha1">72385a7</span></a></td>
+  <td class="commit-date">2008-02-06</td>
+  <td class="commit-message">Add Time Zone support to ActiveRecord, and config.time_z...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f11904ad6d0d9981dfb54b8fe07bfa908607db35"><span class="sha1">f11904a</span></a></td>
+  <td class="commit-date">2008-01-27</td>
+  <td class="commit-message">Add documentation for polymorphic URL helpers,  make API...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ef3dfff7a48bd0609ba4067c54910880fc6ef88"><span class="sha1">8ef3dff</span></a></td>
+  <td class="commit-date">2008-01-26</td>
+  <td class="commit-message"> TimeWithZone#- added, so that #- can handle a Time or T...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c95365a00eb086f61cb5e73e9e6d5dae54325b60"><span class="sha1">c95365a</span></a></td>
+  <td class="commit-date">2008-01-26</td>
+  <td class="commit-message">with_timezone test helper renamed with_env_tz, to distin...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dad3e835f77d402aad3b0802ee14bf7a20fd9365"><span class="sha1">dad3e83</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">Time#- coerces TimeWithZone argument to a Time instance ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b2ac708b7666510d522fc706936d3c2ea5cbb80"><span class="sha1">4b2ac70</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">Adding UTC zone to TimeZone; TimeWithZone no longer has ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7adca3d3b53df69cf45756f0459e501ee44d469"><span class="sha1">a7adca3</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">Time.get_zone refactored to private method, given that t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c911e1ac08d119e94fcec6973a012f4cd198ecee"><span class="sha1">c911e1a</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">Time.zone uses thread-local variable for thread safety. ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2168178bdbb14f1b8a97f22a3eb78dd533c9cb34"><span class="sha1">2168178</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">TimeZone#to_s uses UTC rather than GMT; reapplying chang...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f7232bc76cba944ecb7769bb3dab633ed15c3a6"><span class="sha1">8f7232b</span></a></td>
+  <td class="commit-date">2008-01-25</td>
+  <td class="commit-message">Time.days_in_month defaults to current year if no year i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac03ad1f78d88f40924225089a4b4bfebc8c74d8"><span class="sha1">ac03ad1</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Adding Time and DateTime #compare_with_coercion, which l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/213fac6f49532e7ee08348542e80465088b9bf5d"><span class="sha1">213fac6</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">TimeZone#now returns an ActiveSupport::TimeWithZone</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb8de22dfb7a6dd5cb5bdca0d38ae797925e89d7"><span class="sha1">cb8de22</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Time #in_current_time_zone and #change_time_zone_to_curr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d0d348fb2d24fbf56fb901951ecda494c2cc6c4"><span class="sha1">2d0d348</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Remove unneeded #to_datetime_default_s alias for DateTim...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc71a07edb214a7f8c08ef69b6e6f4284761de5d"><span class="sha1">fc71a07</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Refactor Time and DateTime #to_formatted_s: use ternary ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abb24b484fcb306be17dd06a8a2d12ca5a035aeb"><span class="sha1">abb24b4</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Adding Time and DateTime #formatted_offset, for outputti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2e7b2f03448e5759113ce0c182ed99897342c7a9"><span class="sha1">2e7b2f0</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Adding alternate_utc_string option to TimeZone#formatted...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/022d9f7ce6d1237c4103a2aed561220e1c0f4dcc"><span class="sha1">022d9f7</span></a></td>
+  <td class="commit-date">2008-01-23</td>
+  <td class="commit-message">Introduce ActiveSupport::TimeWithZone, for wrapping Time...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d4f4cdfe22cbe4962ae8953c96bc5c70d8d4e6a"><span class="sha1">1d4f4cd</span></a></td>
+  <td class="commit-date">2008-01-21</td>
+  <td class="commit-message">Replace non-dst-aware TimeZone class with dst-aware clas...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47ff3aa91ff23ae8676717519fe0aecd1f6a7d82"><span class="sha1">47ff3aa</span></a></td>
+  <td class="commit-date">2008-01-16</td>
+  <td class="commit-message">Introducing DateTime #utc, #utc? and #utc_offset, for du...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/772ad9520158fb35fd5d5a9357ceca51b297bd67"><span class="sha1">772ad95</span></a></td>
+  <td class="commit-date">2008-01-12</td>
+  <td class="commit-message">Time#to_json uses Numeric#to_utc_offset_s to output cros...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e9dad7496d8249a1487a471978d316a4360627d1"><span class="sha1">e9dad74</span></a></td>
+  <td class="commit-date">2008-01-12</td>
+  <td class="commit-message">Refactor number-to-HH:MM-string conversion logic from Ti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2766f7629f318f0f7dadf2286113504113fef562"><span class="sha1">2766f76</span></a></td>
+  <td class="commit-date">2007-12-07</td>
+  <td class="commit-message">Anchor DateTimeTest to fixed DateTime instead of a varia...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/becdb49186c575bf96a82a949ac04b6078680d52"><span class="sha1">becdb49</span></a></td>
+  <td class="commit-date">2007-11-24</td>
+  <td class="commit-message">Honor Ruby&#39;s default calendar reform setting when creati...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d84846a636fbc180b3d6fcf52aa8559e1b7bb960"><span class="sha1">d84846a</span></a></td>
+  <td class="commit-date">2007-11-24</td>
+  <td class="commit-message"> Change Time and DateTime #end_of_month to return last s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e6bb82f44782deeedc81886b6f2abd7f69a982c"><span class="sha1">7e6bb82</span></a></td>
+  <td class="commit-date">2007-11-05</td>
+  <td class="commit-message">Use the safe conversion code introduced in earlier commi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47576a646bd99d431f4217b20b7625bdd3444171"><span class="sha1">47576a6</span></a></td>
+  <td class="commit-date">2007-11-05</td>
+  <td class="commit-message">Cater for DST changes when converting Times to DateTimes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62fd6532e54734be5f537e247ef92b15157a83c8"><span class="sha1">62fd653</span></a></td>
+  <td class="commit-date">2007-10-19</td>
+  <td class="commit-message">Remove more potential clashes with asset methods and res...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1c3fc22c9496d29685b37f0fb2c2df10bdd927a"><span class="sha1">b1c3fc2</span></a></td>
+  <td class="commit-date">2007-10-19</td>
+  <td class="commit-message">Rename image_path path_to_image to avoid conflicting wit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16796dc35f08ce567a0c4102b126527996c3b784"><span class="sha1">16796dc</span></a></td>
+  <td class="commit-date">2007-10-13</td>
+  <td class="commit-message">Time, Date and DateTime #advance accept :weeks option. C...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/389616e68d2b4f1f48014cf9d6d45754936c7bed"><span class="sha1">389616e</span></a></td>
+  <td class="commit-date">2007-10-13</td>
+  <td class="commit-message">Fix Time#years_ago and #years_since from leap days. Clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7dd2a1c11c4cf66eac1b6c00ded956b1c3d55f6"><span class="sha1">c7dd2a1</span></a></td>
+  <td class="commit-date">2007-10-13</td>
+  <td class="commit-message">Time and DateTime#advance accept :hours, :minutes, and :...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a8077355edef04d2e1844529d6d146bbe41dfa3a"><span class="sha1">a807735</span></a></td>
+  <td class="commit-date">2007-10-13</td>
+  <td class="commit-message">Fix Date#years_ago and #years_since from leap days. Clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e96286e7aa6d0656d1c8481635dc7e2dca6e067"><span class="sha1">9e96286</span></a></td>
+  <td class="commit-date">2007-10-13</td>
+  <td class="commit-message">Refactor Time and Date#months_since and #months_ago to u...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58a5eef53eee7768d68cc034a1563914d21a68cb"><span class="sha1">58a5eef</span></a></td>
+  <td class="commit-date">2007-10-05</td>
+  <td class="commit-message">Disambiguate Time, Date, and DateTime#to_json formatting...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1968708e12972515fdc8eefdcaff95edbebc76b"><span class="sha1">b196870</span></a></td>
+  <td class="commit-date">2007-10-04</td>
+  <td class="commit-message">Hash#to_json takes :only or :except options to specific ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/22dc11c6b17c22247b4e3d1b2b0329d9ca638da6"><span class="sha1">22dc11c</span></a></td>
+  <td class="commit-date">2007-10-01</td>
+  <td class="commit-message">Fixed Date#xmlschema for dates outside the range of what...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b6411008675dbbfb7da4dfb6ef73c5528c196d1"><span class="sha1">4b64110</span></a></td>
+  <td class="commit-date">2007-08-03</td>
+  <td class="commit-message">Fix Time#advance bug when trying to advance a year from ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b32a305df40829c650a5254441eaec491e9f086"><span class="sha1">1b32a30</span></a></td>
+  <td class="commit-date">2007-06-04</td>
+  <td class="commit-message">Add Date#since, ago, beginning_of_day, and end_of_day. D...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4685fa0c20fbf3e78eaad94756e0f4a644447a10"><span class="sha1">4685fa0</span></a></td>
+  <td class="commit-date">2007-06-04</td>
+  <td class="commit-message">String#to_time overflows to DateTime. Add String#to_date...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/601778e38af53c66d604fe31a3b84ba84d973511"><span class="sha1">601778e</span></a></td>
+  <td class="commit-date">2007-06-04</td>
+  <td class="commit-message">Date.yesterday and .tomorrow. Closes #8571.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1312259294e859646d5c1a4d3000f2cd160fae94"><span class="sha1">1312259</span></a></td>
+  <td class="commit-date">2007-06-04</td>
+  <td class="commit-message">Readable Date and DateTime#inspect. Closes #8570.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/507da04a149b44e20c5a0ba72a218fe1762b6baf"><span class="sha1">507da04</span></a></td>
+  <td class="commit-date">2007-06-01</td>
+  <td class="commit-message">Move common DateTime calculations to Date. Closes #8536.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/962b12fb9f067dac6a5b0d440237628d0e1f2141"><span class="sha1">962b12f</span></a></td>
+  <td class="commit-date">2007-05-30</td>
+  <td class="commit-message">Fix imprecise duration addition test. Closes #8516 [Geof...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7d2dae6dcf00b38a1dba8687d6b70d863da915e"><span class="sha1">b7d2dae</span></a></td>
+  <td class="commit-date">2007-05-30</td>
+  <td class="commit-message">DateTime#to_time converts to Time unless out of range. D...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6503da69910beb382b18127c51cd318631245607"><span class="sha1">6503da6</span></a></td>
+  <td class="commit-date">2007-05-30</td>
+  <td class="commit-message">Time durations use since instead of + for accuracy. Clos...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77eb0a8493453773a4fda11320d889fae937ce89"><span class="sha1">77eb0a8</span></a></td>
+  <td class="commit-date">2007-05-27</td>
+  <td class="commit-message">Fix chained duration operation tests. Closes #8489 [Geof...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/866cba7bb73dcd9d9ae60e8163655295d825dc58"><span class="sha1">866cba7</span></a></td>
+  <td class="commit-date">2007-03-09</td>
+  <td class="commit-message">DateTimes assume the default timezone. Closes #7764.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df57f53d09575f8bc6542f87a3384240b66f9b4b"><span class="sha1">df57f53</span></a></td>
+  <td class="commit-date">2007-03-05</td>
+  <td class="commit-message">Time#since overflows to DateTime. Introduce Time#to_date...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8437baa44b9e14f5593c3e9123e93d51dff50145"><span class="sha1">8437baa</span></a></td>
+  <td class="commit-date">2007-03-04</td>
+  <td class="commit-message">Out-of-range Time calculations transparently overflow to...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/70d7b3752f8cc8fe821a1a3873573b6d313ea129"><span class="sha1">70d7b37</span></a></td>
+  <td class="commit-date">2007-03-04</td>
+  <td class="commit-message">Test DateTime native type in migrations. References #7649.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/543622959a85ae464dfce4e0658e96a2e7dd3dbb"><span class="sha1">5436229</span></a></td>
+  <td class="commit-date">2007-03-04</td>
+  <td class="commit-message">DateTime calculations analogous to the Date and Time ext...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1902ef6caa68329aad0cf6ebfebdaa9ce2ea8427"><span class="sha1">1902ef6</span></a></td>
+  <td class="commit-date">2007-02-27</td>
+  <td class="commit-message">Give DateTime correct .to_s implementations, lets it pla...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

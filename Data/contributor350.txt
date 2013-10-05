@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Tim Connor to Ruby on Rails" />
+    <meta name="keywords" content="Tim Connor,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Tim Connor - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Tim Connor</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3ffea25b2b762ff7af5172e7d501684a8b1ef96"><span class="sha1">d3ffea2</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">Fix issue with remove_index and add unit test [#5645 sta...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f618bf7dada80dc57f5b263e7216d65230116a1"><span class="sha1">2f618bf</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">Raise errors when index creation fails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15fd9a21dc2c172b4a7759fa2b5dac529333ca7e"><span class="sha1">15fd9a2</span></a></td>
+  <td class="commit-date">2010-09-26</td>
+  <td class="commit-message">Fix remove_index issue when provided :name is a symbol</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6f7b7d35337b87cc1c419e47fae52bbfc3f371e"><span class="sha1">d6f7b7d</span></a></td>
+  <td class="commit-date">2010-09-26</td>
+  <td class="commit-message">Fix remove_index issue when provided :name is a symbol</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37de59eacf8f6478e866309615af7381d41a5a14"><span class="sha1">37de59e</span></a></td>
+  <td class="commit-date">2010-09-18</td>
+  <td class="commit-message">Fix issue with remove_index and add unit test [#5645 sta...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55d0d57bfc72c0bdbc81ae5d95c99729f16899af"><span class="sha1">55d0d57</span></a></td>
+  <td class="commit-date">2010-09-18</td>
+  <td class="commit-message">Raise errors when index creation fails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84a755b27e615da4a51b6e4c042491b6d807bcf8"><span class="sha1">84a755b</span></a></td>
+  <td class="commit-date">2009-06-06</td>
+  <td class="commit-message">Work around a gem dependency edge case that prevents Rai...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a3f8ae4075042f122d493208f18ecfb797b38ae"><span class="sha1">6a3f8ae</span></a></td>
+  <td class="commit-date">2009-06-06</td>
+  <td class="commit-message">Work around a gem dependency edge case that prevents Rai...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49169f7a6ab2699c500032e6e14570512c674274"><span class="sha1">49169f7</span></a></td>
+  <td class="commit-date">2009-05-05</td>
+  <td class="commit-message">fix problems with requires in metal choking under develo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3891601d137a400722cfd0f941b9195b0a8217b"><span class="sha1">e389160</span></a></td>
+  <td class="commit-date">2009-05-05</td>
+  <td class="commit-message">fix problems with requires in metal choking under develo...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

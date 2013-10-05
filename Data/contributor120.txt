@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Matt Jankowski to Ruby on Rails" />
+    <meta name="keywords" content="Matt Jankowski,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #119 Matt Jankowski - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #119 <span class="fn">Matt Jankowski</span> - All time<br/>
+    <span class="listing-total">Showing 32 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/170bc98d57445984032d0dc5c7b86837ab729dad"><span class="sha1">170bc98</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">grammar correction for rails/paths #add method arguments</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79df11b4a09b23a66c01934c1533e4bb98611328"><span class="sha1">79df11b</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">misc grammar and clarity changes for rails/engine docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b5679fb2a1fa861a0958c301f87ba5c7a542384"><span class="sha1">3b5679f</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">grammar/tense correction to rails application doc</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85dd1dd663a8efac97e4d6a5dc33b23f1a75dc52"><span class="sha1">85dd1dd</span></a></td>
+  <td class="commit-date">2011-07-12</td>
+  <td class="commit-message">grammar correction for rails/paths #add method arguments</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f30fb03bb90a624fa36e9142e76c15788dd5048"><span class="sha1">2f30fb0</span></a></td>
+  <td class="commit-date">2011-07-12</td>
+  <td class="commit-message">misc grammar and clarity changes for rails/engine docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb716f630771cd4ffde8aa9bff79301822cb4b2b"><span class="sha1">eb716f6</span></a></td>
+  <td class="commit-date">2011-07-12</td>
+  <td class="commit-message">grammar/tense correction to rails application doc</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7896ac35c06be7ccc3372ec0db638b54c963f842"><span class="sha1">7896ac3</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">general grammar cleanup of cache docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/894cca5cc5dc3ad8a8285f7a3b8e16e70484d9cd"><span class="sha1">894cca5</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">general formatting cleanup, and clarify that passing tru...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fd1f2e84319c0796ba6887435e6cf172f715da7"><span class="sha1">2fd1f2e</span></a></td>
+  <td class="commit-date">2011-06-26</td>
+  <td class="commit-message">clarify which url would be used to cache a page when opt...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eccd5cb6108a7bbddffd8d97be46d4ee06cac150"><span class="sha1">eccd5cb</span></a></td>
+  <td class="commit-date">2011-06-26</td>
+  <td class="commit-message">elaborate on how web server configuration to check for s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bad16df756c2b6fb3515239bd93017f2ff6a25a4"><span class="sha1">bad16df</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">grammar changes in named routes description and clarity ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3cebef78c22a3e667df8f73532abb4cfb61c76c3"><span class="sha1">3cebef7</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">grammar changes to log subscriber docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eaee931f5d8db83eb4b994299c323547bfb5a195"><span class="sha1">eaee931</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">move example code to be above reconfiguring discussion; ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/877153843af84f0b841e8293e598ef90eccd3cbc"><span class="sha1">8771538</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">use present tense on examples</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56cf974dbc42782bf74298fbbdf6832f0102e9ae"><span class="sha1">56cf974</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">more detail on how the flow between redirect and show wo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26284ad475fe95b6b1f17c84f3902ad64fafd304"><span class="sha1">26284ad</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">remove extra space and clarify how an exception is made ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cf1341f38661a0056684480f6aef2905b01cc597"><span class="sha1">cf1341f</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">reorder layout selection examples to occur in the order ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3d8e50d4c1fef6846a63bfdffb7e3b2a30596cc"><span class="sha1">b3d8e50</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">singularize module and be explicit about what is delivered</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30ac5fffec4087d2f0e125708baee36830068c94"><span class="sha1">30ac5ff</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">grammar (missing &quot;a&quot;) and formatting</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb679d2caef3de4f02acde0a99fe67e43f298a4e"><span class="sha1">bb679d2</span></a></td>
+  <td class="commit-date">2011-06-23</td>
+  <td class="commit-message">elaborate details on why to use _url instead of _path in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3eaed28c5f30e1f6fc553a8dde6870409dd2ea6a"><span class="sha1">3eaed28</span></a></td>
+  <td class="commit-date">2011-06-22</td>
+  <td class="commit-message">grammar changes in named routes description and clarity ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3cfbf544eacaecea9b23a7fd02b071dd39b5ddf7"><span class="sha1">3cfbf54</span></a></td>
+  <td class="commit-date">2011-06-22</td>
+  <td class="commit-message">grammar changes to log subscriber docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32de3b8119fcf82f7f89a78d64db93751c06b0a8"><span class="sha1">32de3b8</span></a></td>
+  <td class="commit-date">2011-06-22</td>
+  <td class="commit-message">move example code to be above reconfiguring discussion; ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db4f0ac025a53017b35337f81e1096a58fdce1fb"><span class="sha1">db4f0ac</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">use present tense on examples</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/620bee45febffb49a379a81784a2b6ea4d08e923"><span class="sha1">620bee4</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">more detail on how the flow between redirect and show wo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/538d2a52ce5025861f554c8e5ef850d0098a914d"><span class="sha1">538d2a5</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">remove extra space and clarify how an exception is made ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20a9bddfada88a8a46effc2e9c93190c58ba9318"><span class="sha1">20a9bdd</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">reorder layout selection examples to occur in the order ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/100b675cba2a634884e07ed31d8c59245f48a864"><span class="sha1">100b675</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">singularize module and be explicit about what is delivered</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f3db04f69bc01192e338188811d2c9bf1eb96d66"><span class="sha1">f3db04f</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">grammar (missing &quot;a&quot;) and formatting</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f433bcd8d8e24665d8979bbc93ef3b132afd548"><span class="sha1">4f433bc</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">clarify why the only_path =&gt; false option is needed when...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f4fb6f6355bdf8f16f52c8803d8d26ddb1a81ef"><span class="sha1">1f4fb6f</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">elaborate details on why to use _url instead of _path in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc9301f459739e3eb3674b1b2e15057e35d25630"><span class="sha1">cc9301f</span></a></td>
+  <td class="commit-date">2011-01-27</td>
+  <td class="commit-message">clarify what the &quot;they&quot; that are is and what the &quot;are&quot; i...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

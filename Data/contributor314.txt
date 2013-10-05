@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Mike Moore to Ruby on Rails" />
+    <meta name="keywords" content="Mike Moore,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Mike Moore - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Mike Moore</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a68f68aead9fd65ecac8062ca8efc15f5bab418"><span class="sha1">2a68f68</span></a></td>
+  <td class="commit-date">2012-10-09</td>
+  <td class="commit-message">Update test locations</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b13400086c2d39a5bbc5e8a6ea26434e842fbb10"><span class="sha1">b134000</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">Add missing inflector dependency</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64f254ccf74242453421d0c495388293dbc06c71"><span class="sha1">64f254c</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Register AD::IntegrationTest for minitest&#39;s spec DSL</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0a24555f9e2749fb94efe1967cb9943db0b6a7e"><span class="sha1">c0a2455</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Support helper tests using spec DSL</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1949d1f6b29bd374e7e1cb015ec85ee78e52361a"><span class="sha1">1949d1f</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Register helper and view tests for minitest&#39;s spec DSL</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58434e05fe828a89ac11dd4aa051bd1d5d1cfb09"><span class="sha1">58434e0</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Support mailer tests using spec DSL</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ce383db58b4718147433ca0e06d7e88efd6c184"><span class="sha1">0ce383d</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Register mailer tests for minitest&#39;s spec DSL</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52db1f914843049dc4c49730c7030b94e8f1d881"><span class="sha1">52db1f9</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Add register_spec_type test coverage</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2e5db9c719bcbddc4777c31df6220e8d0a8c307"><span class="sha1">b2e5db9</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Allow strings in the controller test describe blocks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fdc11fd01a4cc4f5580bf9e5a782f2a97c8442f7"><span class="sha1">fdc11fd</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Support controller tests using spec DSL - fixes #7743</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4894eef448b19b326946096d0ec08700f67cd649"><span class="sha1">4894eef</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">Create ActiveSupport::Testing::ConstantLookup</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

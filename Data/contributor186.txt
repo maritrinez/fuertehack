@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Thiago Pradi to Ruby on Rails" />
+    <meta name="keywords" content="Thiago Pradi,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #179 Thiago Pradi - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #179 <span class="fn">Thiago Pradi</span> - All time<br/>
+    <span class="listing-total">Showing 20 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4b3fdb00314857ee0b402d880d3b0d1c18e5989"><span class="sha1">d4b3fdb</span></a></td>
+  <td class="commit-date">2012-09-13</td>
+  <td class="commit-message">update ConnectionAdaptar::Column#type_cast_code to be co...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/652107e2e137cf18cf517d96ee9063660e86d686"><span class="sha1">652107e</span></a></td>
+  <td class="commit-date">2012-09-09</td>
+  <td class="commit-message">ConnectionAdapters::Column.type_cast_code should always ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c6e6598d96fff11e21756198b9ee609a52b6e383"><span class="sha1">c6e6598</span></a></td>
+  <td class="commit-date">2012-02-12</td>
+  <td class="commit-message">Removing old Controller test</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0a1a86693db474fa65ddba0fa34558f2ce5ab90"><span class="sha1">c0a1a86</span></a></td>
+  <td class="commit-date">2012-02-12</td>
+  <td class="commit-message">Cleaning Route generation tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9d36e2ad2c7d170155649f12c2805e8cba99803f"><span class="sha1">9d36e2a</span></a></td>
+  <td class="commit-date">2010-09-20</td>
+  <td class="commit-message">Updating error message on ruby_version_check.rb</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/800bab79b38949d454e0ef9b33f7cc1be912e0fa"><span class="sha1">800bab7</span></a></td>
+  <td class="commit-date">2010-09-20</td>
+  <td class="commit-message">Updating error message on ruby_version_check.rb</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab59522ea1ded4dcf8fd6c6f94bbc7385e50c298"><span class="sha1">ab59522</span></a></td>
+  <td class="commit-date">2010-09-19</td>
+  <td class="commit-message">Exception handling more readable</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c9bf6e1dc3066e32651c955c6e237488115354d"><span class="sha1">3c9bf6e</span></a></td>
+  <td class="commit-date">2010-09-19</td>
+  <td class="commit-message">Exception handling more readable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df7f441c6e885afb6fecebe17387defe05220fa1"><span class="sha1">df7f441</span></a></td>
+  <td class="commit-date">2010-09-02</td>
+  <td class="commit-message">Removing RJS hack</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7698596adb0f94a052055e4fb931dffe3fb5361d"><span class="sha1">7698596</span></a></td>
+  <td class="commit-date">2010-09-02</td>
+  <td class="commit-message">Removing unnecessary code from render_test</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08187efa5ba062f0c1ba66b62ae42399fb8defaf"><span class="sha1">08187ef</span></a></td>
+  <td class="commit-date">2010-09-02</td>
+  <td class="commit-message">Removing unnecessary code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fed73ffecf7b877856e077dbfed2f0f7a95e2934"><span class="sha1">fed73ff</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">Use join instead of looping and calling to_s [#5492 stat...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46c14a6b03fb9e8d1e1ed2fec2c248ea5ba24b7c"><span class="sha1">46c14a6</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">Use join instead of looping and calling to_s [#5492 stat...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc5a9c642b46e9a07a9b5801c632f6355366dd76"><span class="sha1">cc5a9c6</span></a></td>
+  <td class="commit-date">2010-08-28</td>
+  <td class="commit-message">Fixing typo [#5485 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ececa75c66e837e62d34b1aa4e82edf579325b9b"><span class="sha1">ececa75</span></a></td>
+  <td class="commit-date">2010-08-28</td>
+  <td class="commit-message">Fixing typo [#5485 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f70c0b348d2f703d763a8136df7837567f7cb691"><span class="sha1">f70c0b3</span></a></td>
+  <td class="commit-date">2010-07-26</td>
+  <td class="commit-message">Removing unnecessary code [#5192 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c96a50539121c4a722f354220c7f0e314b24804d"><span class="sha1">c96a505</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">rake db:seed should check if the database have pending m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8b2330ebc3dd2f65a605260366d2445ee7a3009b"><span class="sha1">8b2330e</span></a></td>
+  <td class="commit-date">2010-07-08</td>
+  <td class="commit-message">Tests to specify the behaviour of ActiveRecord::Migrator...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0175c470c01c22db2f54c3912958bdb6c573d6cb"><span class="sha1">0175c47</span></a></td>
+  <td class="commit-date">2010-06-28</td>
+  <td class="commit-message">Documentation for Array#sample</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d82bef58a002b4441d86d0b08e7a5fd493c7e39"><span class="sha1">8d82bef</span></a></td>
+  <td class="commit-date">2010-06-14</td>
+  <td class="commit-message">Documentation for #quoted_table_name method</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

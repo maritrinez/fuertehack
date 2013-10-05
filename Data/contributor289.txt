@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Lucas Carlson to Ruby on Rails" />
+    <meta name="keywords" content="Lucas Carlson,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Lucas Carlson - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Lucas Carlson</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d20e8dd2207a848e2712c19ad38d6abb6f98ca07"><span class="sha1">d20e8dd</span></a></td>
+  <td class="commit-date">2008-07-03</td>
+  <td class="commit-message">Changing order of equality because comparing certain obj...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3ca5ab7a80702b63dc77748043f8a72ff1529a5"><span class="sha1">c3ca5ab</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">Added Element.toggle, Element.show, and Element.hide to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ecf82d127bb814ff4b9b35fbf177839932d7df65"><span class="sha1">ecf82d1</span></a></td>
+  <td class="commit-date">2005-04-13</td>
+  <td class="commit-message">Added Rake target clear_logs that&#39;ll truncate all the *....</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c788bcb416f4487f99a9e5dacf9a48623412b034"><span class="sha1">c788bcb</span></a></td>
+  <td class="commit-date">2005-04-02</td>
+  <td class="commit-message">Automatically extend the class which gets a module inclu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/546f30fc10d517856616720d240fed03d79ebaa5"><span class="sha1">546f30f</span></a></td>
+  <td class="commit-date">2005-03-23</td>
+  <td class="commit-message">Fixed Toggle.display in prototype.js #902 [Lucas Carlson]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1019bf15a31b39f0fb193d90d6a54f6bd41a2c96"><span class="sha1">1019bf1</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added shortcut :id assignment to render_component and fr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45db66de56d4f5c4cd83aba782015d5ce752f3a2"><span class="sha1">45db66d</span></a></td>
+  <td class="commit-date">2005-01-24</td>
+  <td class="commit-message">Added :encode option to mail_to that&#39;ll allow you to mas...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62f0512e54d594c4bb6fcb8d16101fdeb87b89e8"><span class="sha1">62f0512</span></a></td>
+  <td class="commit-date">2005-01-15</td>
+  <td class="commit-message">Fixed log file permissions to be 666 instead of 777 (so ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18e945d8872517654e087e646890bf2f8f31bc03"><span class="sha1">18e945d</span></a></td>
+  <td class="commit-date">2005-01-11</td>
+  <td class="commit-message">Added MemCacheStore to fragment caching #449 [Lucas Carl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d1e3846d6831adfc4d47f117bc0bca1259d9db4"><span class="sha1">0d1e384</span></a></td>
+  <td class="commit-date">2005-01-11</td>
+  <td class="commit-message">Fixed that MemCacheStore wasn&#39;t included by default and ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2e6945b25d92d5a4a00e5678d8515ae35cd24bb"><span class="sha1">f2e6945</span></a></td>
+  <td class="commit-date">2005-01-04</td>
+  <td class="commit-message">Prepared for release of 0.9.3</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43f5ab93e016ced1592046229b82c28b2dae4556"><span class="sha1">43f5ab9</span></a></td>
+  <td class="commit-date">2004-12-31</td>
+  <td class="commit-message">Fixed that generated action_mailers doesnt need to requi...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

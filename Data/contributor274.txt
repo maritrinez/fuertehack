@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Tieg Zaharia to Ruby on Rails" />
+    <meta name="keywords" content="Tieg Zaharia,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #257 Tieg Zaharia - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #257 <span class="fn">Tieg Zaharia</span> - All time<br/>
+    <span class="listing-total">Showing 13 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e4a064256331f21b3b3107e2349f7e7adc6d8e6"><span class="sha1">6e4a064</span></a></td>
+  <td class="commit-date">2012-06-09</td>
+  <td class="commit-message">ActiveRecord#attributes optimization: minimize objects c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b8dd70083d747535cc35dce176e5afb6ad98177"><span class="sha1">6b8dd70</span></a></td>
+  <td class="commit-date">2012-04-16</td>
+  <td class="commit-message">converting some tests to assert_raises, and DRY&#39;ing retr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d8d639f0086aff5cb63587b629968f8439d65d7"><span class="sha1">5d8d639</span></a></td>
+  <td class="commit-date">2012-04-16</td>
+  <td class="commit-message">converting some tests to assert_raises, and DRY&#39;ing retr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dfab28b2ca28b477f83befbba639adb6d15c8ce0"><span class="sha1">dfab28b</span></a></td>
+  <td class="commit-date">2012-04-16</td>
+  <td class="commit-message">catch nil.to_sym errors in partial_renderer, and raise A...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcc11b22828ac2a52f136d00a732a38bd9371a16"><span class="sha1">dcc11b2</span></a></td>
+  <td class="commit-date">2012-04-16</td>
+  <td class="commit-message">catch nil.to_sym errors in partial_renderer, and raise A...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f181d7e3ef7bd2e951b748dbbd607d05e36b6f85"><span class="sha1">f181d7e</span></a></td>
+  <td class="commit-date">2012-04-03</td>
+  <td class="commit-message">minor elsif/else typo fix</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/51d7b3070c68492f5376c19d24d8e5a2d746d7ea"><span class="sha1">51d7b30</span></a></td>
+  <td class="commit-date">2009-07-02</td>
+  <td class="commit-message">Adds a video_tag helper for the HTML5 video tag (similar...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcdf8e2988cdc16b4a8b3ecdd15e401c819c846e"><span class="sha1">fcdf8e2</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">Fixes file_field_tag docs by taking out deprecated end_f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c924279403ff5bdb591405109ccc4590373d3057"><span class="sha1">c924279</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Fix incorrect superclass in documentation for alias_attr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/712b71371dcd6bbec6d44ca7f87f6ff31c9e11dd"><span class="sha1">712b713</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">Doc fix (closes #9123) [tzaharia]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a6e7b6bedb54fa60c65b5e2ddf4f04002231415"><span class="sha1">8a6e7b6</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">Changelog fix (closes #9610) [tzaharia]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca3e89d4de727ca43b9c6cd7049364c35649aabd"><span class="sha1">ca3e89d</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Document :allow_nil option for validates_acceptance_of s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ff92e243568a6ae72e88f48a7ae15dffaf81e57"><span class="sha1">8ff92e2</span></a></td>
+  <td class="commit-date">2006-10-09</td>
+  <td class="commit-message">Added an html_options hash parameter to javascript_tag()...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

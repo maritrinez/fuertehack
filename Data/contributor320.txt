@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Aditya to Ruby on Rails" />
+    <meta name="keywords" content="Aditya,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Aditya - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Aditya</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d67adf1e33b5ef93c7d414f87bdd68787297dd2f"><span class="sha1">d67adf1</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Update with globally keyed fragments</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f3ac3fafbc6146337592c2dd4a37e5eb06912757"><span class="sha1">f3ac3fa</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Updated with Conditional GET section lifted from Ryan&#39;s ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/54f4be83035bba1e2f1ec44334efff7d7a6cb4fe"><span class="sha1">54f4be8</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Add config.cache_store blurb and note about Rails using ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e6c0f37ff25d0f7037f23ae7bd25d47c5bf6448"><span class="sha1">6e6c0f3</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5df4a6779715859b3a0626b52ddb2e0874f78547"><span class="sha1">5df4a67</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Fixed width font changes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41f4a258572ac7420e346c116e56b3423f993476"><span class="sha1">41f4a25</span></a></td>
+  <td class="commit-date">2008-11-10</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb444e61ee065ee849e0198459308bd9e7d040f7"><span class="sha1">bb444e6</span></a></td>
+  <td class="commit-date">2008-11-10</td>
+  <td class="commit-message">Updated as per Xavier&#39;s notes, still to do: Etags and gl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6377dbf7d8182ab5773641cf114b4771ad4c9d71"><span class="sha1">6377dbf</span></a></td>
+  <td class="commit-date">2008-09-26</td>
+  <td class="commit-message">Add info about caching an action with or without the layout</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f294ced2c0b5544131395d929128bae5719395f"><span class="sha1">4f294ce</span></a></td>
+  <td class="commit-date">2008-09-23</td>
+  <td class="commit-message">Updated with cleanups; new sections still to come</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4edf14cd0a01b84dea6aac7e7ab8d943e8c4171f"><span class="sha1">4edf14c</span></a></td>
+  <td class="commit-date">2008-09-15</td>
+  <td class="commit-message">Added first draft of caching guide; advanced caching is ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

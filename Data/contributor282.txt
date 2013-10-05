@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by David Dollar to Ruby on Rails" />
+    <meta name="keywords" content="David Dollar,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 David Dollar - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">David Dollar</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00eee49e1e5d1ce394c639fc5542f993bae49ed7"><span class="sha1">00eee49</span></a></td>
+  <td class="commit-date">2009-04-29</td>
+  <td class="commit-message">Additional tests for the gem subsystem</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7149ddd2a109345f8c48c787b5541b9b31a8a6fa"><span class="sha1">7149ddd</span></a></td>
+  <td class="commit-date">2009-04-29</td>
+  <td class="commit-message">Additional tests for the gem subsystem</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e3bede928d95cbf5fe70ab2283adce28da3401d"><span class="sha1">6e3bede</span></a></td>
+  <td class="commit-date">2009-04-29</td>
+  <td class="commit-message">Attempt to deal with more cases of gems with native comp...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/599f2cfb4a0e0ec4135265bf5c56b83f1450beea"><span class="sha1">599f2cf</span></a></td>
+  <td class="commit-date">2009-04-29</td>
+  <td class="commit-message">Attempt to deal with more cases of gems with native comp...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4c2f09f23a05823b076cdfb8ac39934e0678798a"><span class="sha1">4c2f09f</span></a></td>
+  <td class="commit-date">2009-03-24</td>
+  <td class="commit-message">Updates tests to cause the tests for the Request class n...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dace54b2e9bcdb49ffa43b204c3a8959c55f1276"><span class="sha1">dace54b</span></a></td>
+  <td class="commit-date">2009-03-24</td>
+  <td class="commit-message">Updates tests to cause the tests for the Request class n...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/99d75a7b02bf430a124b9c3e2515850959d78acf"><span class="sha1">99d75a7</span></a></td>
+  <td class="commit-date">2009-03-13</td>
+  <td class="commit-message">Makes the gem system understand development vs. runtime ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e0750d6a5c7f621e4ca12205137c0b135cab444a"><span class="sha1">e0750d6</span></a></td>
+  <td class="commit-date">2008-07-14</td>
+  <td class="commit-message">Add :accessible option to Associations for allowing mass...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c1c16bfd9eb865dffa68c12c7df66d5a59a8714"><span class="sha1">6c1c16b</span></a></td>
+  <td class="commit-date">2008-04-23</td>
+  <td class="commit-message">Fixes a subtle bug when using symbols for key definition...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4364c361b599f99bc2345ce4eb2d145b07ed8a0f"><span class="sha1">4364c36</span></a></td>
+  <td class="commit-date">2008-04-11</td>
+  <td class="commit-message">Now that we have gems:unpack and gems:build allowing for...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ff9e9365da7ed6dbc2bf9862a9b314e7c819514"><span class="sha1">8ff9e93</span></a></td>
+  <td class="commit-date">2008-04-02</td>
+  <td class="commit-message">missed an added file</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d2316604a0bb04fe8c800e12876c58bdac651b4"><span class="sha1">7d23166</span></a></td>
+  <td class="commit-date">2008-04-02</td>
+  <td class="commit-message">Flesh out rake gems:unpack to unpack all gems, and add r...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

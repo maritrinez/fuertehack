@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Franck Verrot to Ruby on Rails" />
+    <meta name="keywords" content="Franck Verrot,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #93 Franck Verrot - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #93 <span class="fn">Franck Verrot</span> - All time<br/>
+    <span class="listing-total">Showing 41 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ea480b516872eac1ceb07d89bab5caa89b8134d"><span class="sha1">8ea480b</span></a></td>
+  <td class="commit-date">2013-01-04</td>
+  <td class="commit-message">Remove the fallback onto `ActiveXObject(&quot;Microsoft.XMLHT...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25c12de4ff06b2c9dcbfab6a710d66712dd17c72"><span class="sha1">25c12de</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">Link to the right fork of country_select.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4882271f6bae7bc8d91caf36cc8f16c7e6969b7b"><span class="sha1">4882271</span></a></td>
+  <td class="commit-date">2012-03-27</td>
+  <td class="commit-message">Rails.initialized? can be called at any time without rai...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbc2fdee22f38629557aa8ae3ad176d2add2bbb5"><span class="sha1">fbc2fde</span></a></td>
+  <td class="commit-date">2011-11-04</td>
+  <td class="commit-message">Synchronize the gemspecs since CHANGELOG has been rename...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/09811a08ff9e232589ba13aa65d5a199668e2ebc"><span class="sha1">09811a0</span></a></td>
+  <td class="commit-date">2011-11-04</td>
+  <td class="commit-message">Add the MIT-LICENSE to the Active Support gemspec</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/04c15b7f79bb991366de2738f5327745dac7af78"><span class="sha1">04c15b7</span></a></td>
+  <td class="commit-date">2011-11-04</td>
+  <td class="commit-message">Add the MIT-LICENSE to the Active Resource gemspec</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3609d6edd53c010daaf24a23bbb4057346c8e68"><span class="sha1">e3609d6</span></a></td>
+  <td class="commit-date">2011-11-04</td>
+  <td class="commit-message">Add the MIT-LICENSE to the Active Record gemspec</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1679aa56f3f93ab976a8124bd071c0f4be69c46a"><span class="sha1">1679aa5</span></a></td>
+  <td class="commit-date">2011-11-04</td>
+  <td class="commit-message">Synchronize the gemspecs since CHANGELOG has been rename...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2173e04ec64015a6959a1e1130c6f67f6e5e682e"><span class="sha1">2173e04</span></a></td>
+  <td class="commit-date">2011-08-21</td>
+  <td class="commit-message">Add a trailing space to the comment_if method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f63a1341a724b43aa78afdb34b6ab5565fbbef47"><span class="sha1">f63a134</span></a></td>
+  <td class="commit-date">2011-08-21</td>
+  <td class="commit-message">This is a test on --skip-sprockets, not --skip-active-re...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75dd33a0aed96d9f03b79c82f7e5bc5ccf462e8e"><span class="sha1">75dd33a</span></a></td>
+  <td class="commit-date">2011-08-14</td>
+  <td class="commit-message">Methods like status and location are interfering with re...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/018b1315b561d9c2e6c95151f8145f21cac6eb91"><span class="sha1">018b131</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">We don&#39;t need to require erb here.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5004aaffc1c2bf81dfd23178b8ad691f0cecef26"><span class="sha1">5004aaf</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Simplify the test by using id and name. `id` will be the...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/325fdfc92833cd2a0ccc97f4e168f11a406edc76"><span class="sha1">325fdfc</span></a></td>
+  <td class="commit-date">2011-07-31</td>
+  <td class="commit-message">Remove warnings by calling remove_method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad0772f2683792a656d084ce676775f272158801"><span class="sha1">ad0772f</span></a></td>
+  <td class="commit-date">2011-07-28</td>
+  <td class="commit-message">We don&#39;t need to require erb here.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41902e6932d46e3142185ee8d75dd861d0424d4e"><span class="sha1">41902e6</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">Simplify the test by using id and name. `id` will be the...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77bb0b79f2ed54501046d0e983ef6b10e4bb7b9b"><span class="sha1">77bb0b7</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Ordering with extra spaces was raising a SQL exception</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d674d51b95f80c537cc45a79e253ef840084607"><span class="sha1">1d674d5</span></a></td>
+  <td class="commit-date">2011-07-20</td>
+  <td class="commit-message">assign_nested_attributes_for_collection_association shou...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bc314b3b7dca6d3c796760ace1bb9c1d4cadf53"><span class="sha1">8bc314b</span></a></td>
+  <td class="commit-date">2011-07-20</td>
+  <td class="commit-message">assign_nested_attributes_for_collection_association shou...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea649de669e14a57963113d13508152da2b6aafa"><span class="sha1">ea649de</span></a></td>
+  <td class="commit-date">2011-07-11</td>
+  <td class="commit-message">Rails.application#env_config is now public API. [Closes ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4633772a12121e0f1ab16abdc8ecfd049c9f79f7"><span class="sha1">4633772</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Add the MIT-LICENSE to the Active Support gemspec</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85283f05924e2850e0929bc1d8821b7f3d226dc9"><span class="sha1">85283f0</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Add the MIT-LICENSE to the Active Resource gemspec</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64d977359d425ef8df2dc69ae0b1be81ecdb66c2"><span class="sha1">64d9773</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Add the MIT-LICENSE to the Active Record gemspec</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2db8740eabbb9b9c6afb237530d33ef7fc807e9"><span class="sha1">b2db874</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Fix the AR::Base#inspect method [closes #1294]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf159aa5fc9ed4d68c4975dab37dfaf58d29a08c"><span class="sha1">bf159aa</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Test AR::Base#inspect on an allocated object not yet ini...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bc464c8090f2929917ecd2d9476c914aa6da787"><span class="sha1">8bc464c</span></a></td>
+  <td class="commit-date">2011-02-09</td>
+  <td class="commit-message">The optimistic lock column should be increased when call...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8dcacd0cc7fe634ed0bedbc21dfbb0da46298686"><span class="sha1">8dcacd0</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Refactor clear_timestamp_attributes to use the newly cre...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5b03e9c7af8f539764a66f9bd51b7ebbcb9f57d"><span class="sha1">a5b03e9</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Implement and test private method all_timestamp_attribut...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47315760bc893a48738e6592a0cbb3fef506bcd7"><span class="sha1">4731576</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Test timestamp_attributes_for_update_in_model that was a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5178e641750d4e3f8419c8e6cf3ab7e7cb48a880"><span class="sha1">5178e64</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Added timestamp_attributes_for_create_in_model</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/598b32c5812e428f639c9a80b352aec54f059a36"><span class="sha1">598b32c</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Test private method all_timestamp_attributes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/253f5a15f42720ddc2cf6cd7e982fe3e0dc65f52"><span class="sha1">253f5a1</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Test private method timestamp_attributes_for_update</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6d40d527e896038767272eca3a6357e6998b985e"><span class="sha1">6d40d52</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Test private method timestamp_attributes_for_create</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa40543022303d8a1b695e73ed71406c0da15bde"><span class="sha1">aa40543</span></a></td>
+  <td class="commit-date">2010-12-15</td>
+  <td class="commit-message">Provide test for #4840: to_xml doesn&#39;t work in such case...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f8ce38b0d294b5c5d38116f8de63f175f446bd4"><span class="sha1">7f8ce38</span></a></td>
+  <td class="commit-date">2010-11-24</td>
+  <td class="commit-message">Document the behavior of the dup method: does not preser...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7b77a1fc71e54f6e42e97b426380303d696051c0"><span class="sha1">7b77a1f</span></a></td>
+  <td class="commit-date">2010-11-24</td>
+  <td class="commit-message">Typo in the comments of the clear_timestamp_attributes m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c17cb7326d6af7c4226e955abd3f89db95fabb33"><span class="sha1">c17cb73</span></a></td>
+  <td class="commit-date">2010-11-24</td>
+  <td class="commit-message">Dup should reset the timestamps as it is considered a ne...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47f39d26a76430ad50dae79f212d118849b2af40"><span class="sha1">47f39d2</span></a></td>
+  <td class="commit-date">2010-11-24</td>
+  <td class="commit-message">Testing that dup is resetting the timestamps</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/983976ec5484b92d1b46305a2e3bd59bf98a3853"><span class="sha1">983976e</span></a></td>
+  <td class="commit-date">2010-11-12</td>
+  <td class="commit-message">Finder gives a little bit more info on the lookup column...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de2933e1a062f0752512eb0ec60f7217f4890f8c"><span class="sha1">de2933e</span></a></td>
+  <td class="commit-date">2010-11-11</td>
+  <td class="commit-message">STI type is now updated when calling AR::Base.becomes on...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/621ee373cbd7f88b0c28d45259b9dc9c43d04e44"><span class="sha1">621ee37</span></a></td>
+  <td class="commit-date">2010-05-16</td>
+  <td class="commit-message">I have updated the documentation according to ticket #42...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

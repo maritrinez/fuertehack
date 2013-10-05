@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Gonçalo Silva to Ruby on Rails" />
+    <meta name="keywords" content="Gonçalo Silva,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #58 Gonçalo Silva - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #58 <span class="fn">Gonçalo Silva</span> - All time<br/>
+    <span class="listing-total">Showing 78 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d337ef080aec2c2e21ede3451f652ab5eaadca1"><span class="sha1">2d337ef</span></a></td>
+  <td class="commit-date">2011-10-30</td>
+  <td class="commit-message">Fix typo on the performance test guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7fcf0ca69e18841be9fb0dcce2721f4ed2c8eca9"><span class="sha1">7fcf0ca</span></a></td>
+  <td class="commit-date">2011-05-10</td>
+  <td class="commit-message">removed redundant metric support check (and print when i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aaa85cde6068f4db6fabe7bfef664f73bbc6938f"><span class="sha1">aaa85cd</span></a></td>
+  <td class="commit-date">2011-05-10</td>
+  <td class="commit-message">remove forgotten puts</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0304d8076adefe63b07bbc7e9f464f99ac24ca59"><span class="sha1">0304d80</span></a></td>
+  <td class="commit-date">2011-05-10</td>
+  <td class="commit-message">ruby-prof&#39;s awesome call stack printer is now used by de...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83b66f5af4190043610dd7ab0e095b2093798813"><span class="sha1">83b66f5</span></a></td>
+  <td class="commit-date">2011-05-10</td>
+  <td class="commit-message">Merge branch &#39;performance_test&#39; of github.com:goncalossi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcc99e23cddab727fec2f7026bc30be18b07cee0"><span class="sha1">dcc99e2</span></a></td>
+  <td class="commit-date">2011-05-10</td>
+  <td class="commit-message">benchmarker and profiler now use the new performance tes...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/810fb2b5273591ff396ae9bcc1cf78b5d575c33d"><span class="sha1">810fb2b</span></a></td>
+  <td class="commit-date">2011-05-10</td>
+  <td class="commit-message">benchmarker and profiler now use the new performance tes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ca97a6baf1e75c3ef4b69a993e6713b88c09e61"><span class="sha1">9ca97a6</span></a></td>
+  <td class="commit-date">2011-05-09</td>
+  <td class="commit-message">fixed a typo in the guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d1f7584ba25e7289871b5503f010874bc2aef49"><span class="sha1">0d1f758</span></a></td>
+  <td class="commit-date">2011-05-09</td>
+  <td class="commit-message">contemplate unsupported metrics</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a43f95d235190139159dab3cf4863252b0e9bf0e"><span class="sha1">a43f95d</span></a></td>
+  <td class="commit-date">2011-05-09</td>
+  <td class="commit-message">added a note about profiling options to the generators</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/181c8422d776bb85cb18a7023d3524307a31417c"><span class="sha1">181c842</span></a></td>
+  <td class="commit-date">2011-05-08</td>
+  <td class="commit-message">explicitly return from run() under minitest (metrics wer...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aec7456f81985b88d6d604679d754636183b5b3a"><span class="sha1">aec7456</span></a></td>
+  <td class="commit-date">2011-05-08</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c2b2233c3a7ec76c0a0eddf5b8be45c489be133"><span class="sha1">1c2b223</span></a></td>
+  <td class="commit-date">2011-04-17</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d558cb1b069410c8f693295c9c4e2ffc9661e06"><span class="sha1">8d558cb</span></a></td>
+  <td class="commit-date">2011-04-03</td>
+  <td class="commit-message">don&#39;t use internal profiler methods on Rubinius and JRub...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65022acda0d407b28249988ab2c715d2a8256702"><span class="sha1">65022ac</span></a></td>
+  <td class="commit-date">2011-04-03</td>
+  <td class="commit-message">removed unused class declaration</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5b2b513742ad909ede8956d6021c0bc521c08ddf"><span class="sha1">5b2b513</span></a></td>
+  <td class="commit-date">2011-04-03</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/677ce63d92b7725b0a11facddc1ba95f50f865df"><span class="sha1">677ce63</span></a></td>
+  <td class="commit-date">2011-04-03</td>
+  <td class="commit-message">profiling enabled under JRuby. Added documentation for w...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8f9a4515682f2722dc6e8ff9c106f5f774e703b"><span class="sha1">b8f9a45</span></a></td>
+  <td class="commit-date">2011-03-30</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6212749bd48d84e79b728b128bc8a0eabb572106"><span class="sha1">6212749</span></a></td>
+  <td class="commit-date">2011-03-30</td>
+  <td class="commit-message">updated documentation because of the benchmark/profile i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/09cdd1cac149cf8e18f16e39937d659146e61f70"><span class="sha1">09cdd1c</span></a></td>
+  <td class="commit-date">2011-03-30</td>
+  <td class="commit-message">check if there is support for the specified metric when ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/391ccdaf35f41e38905a940a72e30b484cb0baf9"><span class="sha1">391ccda</span></a></td>
+  <td class="commit-date">2011-03-29</td>
+  <td class="commit-message">fixed a bug where rubinius was creating the profiling fi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a35ba6cf5a91b0cde0a22007f8532313754d0cac"><span class="sha1">a35ba6c</span></a></td>
+  <td class="commit-date">2011-03-29</td>
+  <td class="commit-message">don&#39;t allow decimal places on the amount of objects and ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be0a2b8f01732bacaa652eff6f286112ace2adca"><span class="sha1">be0a2b8</span></a></td>
+  <td class="commit-date">2011-03-29</td>
+  <td class="commit-message">performance tests inherit from AD::PT and not AC::PT, fi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f0caa1a534a065753d51430b649114bc8bf54ac"><span class="sha1">6f0caa1</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/726b7ede54031eecfcee34eec80040553e9ad19f"><span class="sha1">726b7ed</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">improved detection and feedback of supported/unsupported...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/09bd0eeefc5cb3c2cb26e17b486dd0965afbf4d5"><span class="sha1">09bd0ee</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">fixed a couple of hidden bugs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c401ad98536b8038bf20f000b41e3f185de0ab7c"><span class="sha1">c401ad9</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">improved options handling in performance tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/983bd01f42a9a3f106c27b37b1074c648263e861"><span class="sha1">983bd01</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">we need test-unit on mri 1.9</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6d059f2807f3cf3d29652b02d5940abd4561bee"><span class="sha1">d6d059f</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">added profiling and benchmarking capabilities to jruby (...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e6cb3962bb51aa1f91487117b99e660cc2c43e37"><span class="sha1">e6cb396</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">benchmarking metrics are also implementation-specific</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e17f60879782b3b0d8a4bc2444e1d024c65ec59e"><span class="sha1">e17f608</span></a></td>
+  <td class="commit-date">2011-03-28</td>
+  <td class="commit-message">warn the user about unsupported benchmarking metrics he ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef988e12d8dc4fb82f46f953cac8ad64bbc08c8a"><span class="sha1">ef988e1</span></a></td>
+  <td class="commit-date">2011-03-27</td>
+  <td class="commit-message">removed duplication in rubinius&#39; benchmark code</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15bff5a86e916ee250f800b7c67d79fed9d5757b"><span class="sha1">15bff5a</span></a></td>
+  <td class="commit-date">2011-03-27</td>
+  <td class="commit-message">fix a bug where the GC wasn&#39;t being triggered at the sta...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93a583eb184f0e3ba21adeab789c7d441ab98a65"><span class="sha1">93a583e</span></a></td>
+  <td class="commit-date">2011-03-27</td>
+  <td class="commit-message">:min_percent only makes sense in a RubyProf context</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a9b1edb49437076b0b9033876a7b7f57d38f4b9"><span class="sha1">1a9b1ed</span></a></td>
+  <td class="commit-date">2011-03-27</td>
+  <td class="commit-message">remove deprecated documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84fe2b8b4266f5ef4e3e5f2880a18b8e44a070f0"><span class="sha1">84fe2b8</span></a></td>
+  <td class="commit-date">2011-03-26</td>
+  <td class="commit-message">added basic structure for jruby</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3872cc4a739db7e0fb5b4a910be371c048667ca7"><span class="sha1">3872cc4</span></a></td>
+  <td class="commit-date">2011-03-26</td>
+  <td class="commit-message">added support for profiling under rubinius</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/278344b3fab67fcc471f475992a86c3748a83e23"><span class="sha1">278344b</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">fixed time and size units (should be seconds / bytes), f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/417b2baf0fafc48dbfdab8a81b15836599a0613e"><span class="sha1">417b2ba</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">added gc info (runs, time) to rubinius&#39; benchmarks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c58e063da0358bc30b3d2fb90c4f08fcd32831fa"><span class="sha1">c58e063</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">added memory size and allocations to rubinius&#39; benchmarks </td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cf29d90ef1894d8a3dc7291fd1a2068c5f04f738"><span class="sha1">cf29d90</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">added time (wall, process, cpu) to rubinius&#39; benchmarks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e9090f887b61f4dca1cf6ea74cb64e649e95719"><span class="sha1">9e9090f</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">added missing require</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4fe86a3ea243a16e69bcb406e733fe500fe5ede8"><span class="sha1">4fe86a3</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">removed leftovers from the copy-paste from mri</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0beba2621a98af3bc00a8f932c330b82b676af2"><span class="sha1">b0beba2</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">rubinius returns &quot;rbx&quot; for RUBY_ENGINE, not &quot;rubinius&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/995d543b6458f84b05bd75464c7c270f1dfb14d2"><span class="sha1">995d543</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">added basic structure for Rubinius</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fa426c9444dc6dd1b701592cf4d636739556b9e"><span class="sha1">2fa426c</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">divide the ruby interpreter into mri and yarv for improv...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ec79e4288df602301e26ae7b2f2b651ff745862"><span class="sha1">3ec79e4</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">renamed &quot;mri&quot; to &quot;ruby&quot;, for consistency with RUBY_ENGINE</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18a81db6fca2994d2c3872b0cb6bfa78bb94b383"><span class="sha1">18a81db</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">check whether the user is using a supported ruby interpr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/11516089212a67e154ec426787feb6f24ed7e129"><span class="sha1">1151608</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">using number_helper to pretty print some results </td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e57d264f3795537cc3a5be61d766f956f882a5bd"><span class="sha1">e57d264</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">extracted more generic methods, added a note for methods...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c50df6351cf0d8ff50e62995b1124fd8183eafc3"><span class="sha1">c50df63</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">initial separation of RubyProf-specific code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e99bb6acaf30f2b8cfacb82143dc1d1c761d47f"><span class="sha1">6e99bb6</span></a></td>
+  <td class="commit-date">2011-03-25</td>
+  <td class="commit-message">ruby-prof only makes sense in an MRI context</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6e22229b9501f846185306c49009404b4f8466e"><span class="sha1">a6e2222</span></a></td>
+  <td class="commit-date">2011-03-24</td>
+  <td class="commit-message">move &quot;check for ruby-prof&quot; from AD/testing/performance_t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23be2c613490a06170ae50a72889957b006d36a7"><span class="sha1">23be2c6</span></a></td>
+  <td class="commit-date">2011-03-24</td>
+  <td class="commit-message">check if RubyProf&#39;s WALL_TIME and PROCESS_TIME are avail...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9887f238871bb2dd73de6ce8855615bcc5d8d079"><span class="sha1">9887f23</span></a></td>
+  <td class="commit-date">2011-03-24</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of https://github.com/rails/rails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9b77ddecde431d3190c7e08d73e26055a667597"><span class="sha1">d9b77dd</span></a></td>
+  <td class="commit-date">2010-08-10</td>
+  <td class="commit-message">added support for more printers</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58add1b63cd2b5685d5ac22615070cd29123d3cd"><span class="sha1">58add1b</span></a></td>
+  <td class="commit-date">2010-08-10</td>
+  <td class="commit-message">added support for more printers</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aff821508a16245ebc03510ba29c70379718dfb7"><span class="sha1">aff8215</span></a></td>
+  <td class="commit-date">2010-08-10</td>
+  <td class="commit-message">added support for more printers</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62658500049fbb7a5e7d75537dd6f6a374204207"><span class="sha1">6265850</span></a></td>
+  <td class="commit-date">2010-08-10</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of http://github.com/rails/rails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd2bbed9846d84a1230a1b9e52843eedca17b28d"><span class="sha1">cd2bbed</span></a></td>
+  <td class="commit-date">2010-07-10</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of http://github.com/rails/rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2c633ba0bfb7baacdee89a46d7d036d24c68817"><span class="sha1">d2c633b</span></a></td>
+  <td class="commit-date">2010-06-30</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of http://github.com/rails/rails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/68bd46ffb99282ecb589c9ed2cd0c74d0da3396e"><span class="sha1">68bd46f</span></a></td>
+  <td class="commit-date">2010-06-30</td>
+  <td class="commit-message">performance tests now working accurately on 1.9, using R...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92c0f17d6d2a958d3a6285b0e5408e9e0e7122e1"><span class="sha1">92c0f17</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">performance tests now working accurately on 1.9, using R...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/113b0ec03cd57b2d4fec6527c4aae30326527ae9"><span class="sha1">113b0ec</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">enable_stats added back in since Benchmarker doesn&#39;t sta...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0cef199c8efcba64b7e7acac036f32adfe293970"><span class="sha1">0cef199</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">check if the profiler patch is applied, otherwise GC::Pr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8019cd04a180c663dc15e2686a62bba545f8cd9"><span class="sha1">c8019cd</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">added information about what is being used</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b169d8378725fc96eb904e5711e68307b0841e12"><span class="sha1">b169d83</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">heap_live_objects+heap_free_objects is broken, use heap_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e5d1babb0ab381ad471228904262312aa1fc297"><span class="sha1">5e5d1ba</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">also use GC profiler extended patch to retrieve GC time ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f02d3f9eeeacf49973d6826a345749075af96a69"><span class="sha1">f02d3f9</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">ruby&#39;s GC doesn&#39;t support the time method, removed suppo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/175164397bfa9c5ac1c96e4c4efd4bed8d5e9bcd"><span class="sha1">1751643</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">use GC profiler extended patch to retrieve GC runs on 1.9</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/555c3b5abe9f8246ea0d5319f5b44db73324fabf"><span class="sha1">555c3b5</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">ruby&#39;s GC doesn&#39;t support collections and heap_info, Rub...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4813462eeaf172b6155cb61757da2b073e2ebb74"><span class="sha1">4813462</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">GC at 1.9.X doesn&#39;t have malloc_allocated_size, remove s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36f5d09692bbc7adeef8944530fbf03c8cbe93ea"><span class="sha1">36f5d09</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">removed support for 1.8&#39;s GC alternative hacks (railsben...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb74cfc9c1c95805fac4f0ff6b9f1465a8bf9d64"><span class="sha1">cb74cfc</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">check if the data method is defined (meaning it&#39;s correc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/901452d06ac39f9870bba27a8bc4c6e4f100f90f"><span class="sha1">901452d</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">the official profiler (present in 1.9) should have the h...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/381a30fbba6ccca0bf2e7e2bc007ea5e6848af62"><span class="sha1">381a30f</span></a></td>
+  <td class="commit-date">2010-06-18</td>
+  <td class="commit-message">don&#39;t set cpu_frequency if RubyProf resolved it</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/884716564c3f84f285b58ccc786684782cee8c5a"><span class="sha1">8847165</span></a></td>
+  <td class="commit-date">2010-06-03</td>
+  <td class="commit-message">performance and integration tests inherit from AD, not AC</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d21aa6de4f6d5a6a7249a43b7ba803ee45e42584"><span class="sha1">d21aa6d</span></a></td>
+  <td class="commit-date">2010-05-28</td>
+  <td class="commit-message">performance and integration tests inherit from AD, not AC</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

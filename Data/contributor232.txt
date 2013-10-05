@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Dan Gebhardt to Ruby on Rails" />
+    <meta name="keywords" content="Dan Gebhardt,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #226 Dan Gebhardt - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #226 <span class="fn">Dan Gebhardt</span> - All time<br/>
+    <span class="listing-total">Showing 15 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfde0636dd1b1252436ea3c42ddae2eecd2e554b"><span class="sha1">bfde063</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Include empty app/mailers directory in mountable and ful...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47cc214600b9f099140a1df34bc68432ad1d2b23"><span class="sha1">47cc214</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Moved dependencies from Gemfile to gemspec to eliminate ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f9eadb8b432f220865c5205a81e6dd5af90f35b5"><span class="sha1">f9eadb8</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Extracted version from gemspec and placed it in its own ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b82e226b7fb2e4dd443a4016f586ce06516d3d85"><span class="sha1">b82e226</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Expanded meta-data in gemspec to include author, email, ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28daa8bd4bff2c361c3eb35df5c36a532c6ee259"><span class="sha1">28daa8b</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">added test case for fix to issue #2094</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f87b33daaf0f0a93825a3f022d52fcb5aa4c8320"><span class="sha1">f87b33d</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">fixed problem in which options[:html][:remote] would be ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8e62a93e388c674aa95b32b8688ba6e8366a643"><span class="sha1">d8e62a9</span></a></td>
+  <td class="commit-date">2011-07-29</td>
+  <td class="commit-message">Include empty app/mailers directory in mountable and ful...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a74e4736f95befa7a22c208019bf11a155ff7543"><span class="sha1">a74e473</span></a></td>
+  <td class="commit-date">2011-07-28</td>
+  <td class="commit-message">Moved dependencies from Gemfile to gemspec to eliminate ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9b59c341c5cc5848a42e936588a67130bf7ff4a"><span class="sha1">d9b59c3</span></a></td>
+  <td class="commit-date">2011-07-28</td>
+  <td class="commit-message">Extracted version from gemspec and placed it in its own ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5515a18aa52df3f71ed4d29fbcc0dc2819e39d5e"><span class="sha1">5515a18</span></a></td>
+  <td class="commit-date">2011-07-28</td>
+  <td class="commit-message">Expanded meta-data in gemspec to include author, email, ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b589f0c375165db0629be0477a6f84822a7e1389"><span class="sha1">b589f0c</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">added test case for fix to issue #2094</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75366cb82dc6fa4b3dada2a450dda18496f3eddd"><span class="sha1">75366cb</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">fixed problem in which options[:html][:remote] would be ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9d93a443c87ea2ab6ad47251d7b527ecd0aa9a24"><span class="sha1">9d93a44</span></a></td>
+  <td class="commit-date">2011-07-26</td>
+  <td class="commit-message">Include empty app/mailers directory in mountable and ful...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/455e3212846586eb07cedae2946887583f874204"><span class="sha1">455e321</span></a></td>
+  <td class="commit-date">2011-07-16</td>
+  <td class="commit-message">added test case for fix to issue #2094</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c6d83ab741456303784305b0a457512e4682f97f"><span class="sha1">c6d83ab</span></a></td>
+  <td class="commit-date">2011-07-15</td>
+  <td class="commit-message">fixed problem in which options[:html][:remote] would be ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

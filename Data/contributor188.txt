@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Anil Wadghule to Ruby on Rails" />
+    <meta name="keywords" content="Anil Wadghule,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #187 Anil Wadghule - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #187 <span class="fn">Anil Wadghule</span> - All time<br/>
+    <span class="listing-total">Showing 19 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/05d4ccffceb1089be67d35b0f6c2383a7d1378df"><span class="sha1">05d4ccf</span></a></td>
+  <td class="commit-date">2012-04-07</td>
+  <td class="commit-message">Fix &#39;Everyday Git&#39; link</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1cd939a3234455df6d90b76564020428ac4b38d6"><span class="sha1">1cd939a</span></a></td>
+  <td class="commit-date">2012-04-06</td>
+  <td class="commit-message">Fix Rails version in getting started guide.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/871cc8c429fb1ae88d8a3e8f75d52367f0a8c50a"><span class="sha1">871cc8c</span></a></td>
+  <td class="commit-date">2012-04-06</td>
+  <td class="commit-message">Fix &#39;Everyday Git&#39; link</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3fc53e5ea1074091b4242521d26c5aec1439f98d"><span class="sha1">3fc53e5</span></a></td>
+  <td class="commit-date">2011-06-05</td>
+  <td class="commit-message">Fix failing test because of Timezone difference.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7799fadf93647b7c2ae745881882efbc849982b"><span class="sha1">d7799fa</span></a></td>
+  <td class="commit-date">2010-10-19</td>
+  <td class="commit-message">Fix SQLite adapter name [#5842 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9fd742bb670e77ebe88f7cd81306d8081342f7f"><span class="sha1">b9fd742</span></a></td>
+  <td class="commit-date">2010-10-07</td>
+  <td class="commit-message">Add jruby-openssl gem in Gemfile necessary for JRuby</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea30da30699f588bee4dc4713859fe035d6243db"><span class="sha1">ea30da3</span></a></td>
+  <td class="commit-date">2010-10-07</td>
+  <td class="commit-message">Add jruby-openssl gem in Gemfile necessary for JRuby</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bdb2871df7fb0a1eeceadb31aaba4d160df508aa"><span class="sha1">bdb2871</span></a></td>
+  <td class="commit-date">2010-05-19</td>
+  <td class="commit-message">Fix xml serialization test [#4650 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d84f24af5cb0854a316929fa0d0720773be2162"><span class="sha1">2d84f24</span></a></td>
+  <td class="commit-date">2010-05-15</td>
+  <td class="commit-message">Add tests for convenience methods #notice and #alert to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e4e95b7f9c163213dd4b5d92b2f4f3b17a3d1f3"><span class="sha1">6e4e95b</span></a></td>
+  <td class="commit-date">2010-05-13</td>
+  <td class="commit-message">Updated 3.0 release notes guide to inform issues with un...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6071b4720ce2a8ae0193da44536ab1b9f1b76eb0"><span class="sha1">6071b47</span></a></td>
+  <td class="commit-date">2010-05-05</td>
+  <td class="commit-message">Updated guide to inform issues with unsupported Ruby ver...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53c13f1acaa2eb05e7f418b53f6156a4f5a773e0"><span class="sha1">53c13f1</span></a></td>
+  <td class="commit-date">2010-04-26</td>
+  <td class="commit-message">Use Config::CONFIG[&#39;host_os&#39;] instead of RUBY_PLATFORM [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/518891f4907c9967cad22552eac110e81a0d44c0"><span class="sha1">518891f</span></a></td>
+  <td class="commit-date">2010-04-13</td>
+  <td class="commit-message">Use correct RUBY_PLATFORM regex for Windows env [#4385 s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe0b52befb99e247c5cb98aceaa660dce34cfc47"><span class="sha1">fe0b52b</span></a></td>
+  <td class="commit-date">2010-04-13</td>
+  <td class="commit-message">Changes in guide as per Rails 3 features</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/219c81b9e1cdd81a3a8c4cda5718f17454e1a5ba"><span class="sha1">219c81b</span></a></td>
+  <td class="commit-date">2010-04-13</td>
+  <td class="commit-message">Replace deprecated RAILS_ROOT to Rails.env [#4373 state:...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f0097c7157e4a328f87cdf80ab6330c39b6d90f"><span class="sha1">3f0097c</span></a></td>
+  <td class="commit-date">2010-04-12</td>
+  <td class="commit-message">Updated guide to use &#39;Rails.root.join&#39; to construct path</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84e46437fa50782dd38b96b8df00ca8b017c892e"><span class="sha1">84e4643</span></a></td>
+  <td class="commit-date">2010-04-12</td>
+  <td class="commit-message">Replace &#39;RAILS_ROOT&#39; to &#39;Rails.root&#39; and &#39;RAILS_ENV&#39; to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c69dc1afaa06c956624e20528adb2540fda0eb18"><span class="sha1">c69dc1a</span></a></td>
+  <td class="commit-date">2010-04-12</td>
+  <td class="commit-message">Fix for plugin not getting installed on Windows environm...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9b9f9ee15e2282e9c765d86cb8b6120e2bdb1b9"><span class="sha1">b9b9f9e</span></a></td>
+  <td class="commit-date">2010-04-12</td>
+  <td class="commit-message">Make RUBY_PLATFORM windows regex consistent [#4345 state...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

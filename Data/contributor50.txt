@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Sven Fuchs to Ruby on Rails" />
+    <meta name="keywords" content="Sven Fuchs,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #49 Sven Fuchs - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #49 <span class="fn">Sven Fuchs</span> - All time<br/>
+    <span class="listing-total">Showing 107 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5b0f7064c0b74f4e007d8536afb8976d10fd49d"><span class="sha1">a5b0f70</span></a></td>
+  <td class="commit-date">2011-04-26</td>
+  <td class="commit-message">bump the i18n gem to 0.6.0beta1 and update docs for the ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1452571dee049ff4fa9e8813484e6d73cc2c9ffe"><span class="sha1">1452571</span></a></td>
+  <td class="commit-date">2011-02-28</td>
+  <td class="commit-message">Make TranslationHelper#translate use the :rescue_format ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/896e25e994e272a1cb485d9a850501b488992cb2"><span class="sha1">896e25e</span></a></td>
+  <td class="commit-date">2010-12-04</td>
+  <td class="commit-message">Make TranslationHelper#translate use the :rescue_format ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ffd5daa7fe1fd805fd071d40dfad1773299c7d1"><span class="sha1">7ffd5da</span></a></td>
+  <td class="commit-date">2010-12-04</td>
+  <td class="commit-message">bump i18n gem</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55b13c532f8c1dbbe34695f356c62fe395274d59"><span class="sha1">55b13c5</span></a></td>
+  <td class="commit-date">2010-11-23</td>
+  <td class="commit-message">Allow registering javascript/stylesheet_expansions to ex...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c86286dd6f8b58241492004e1fd872e217aca08"><span class="sha1">5c86286</span></a></td>
+  <td class="commit-date">2010-11-22</td>
+  <td class="commit-message">add respond_to? to ActionDispatch::Integration::Runner</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a3a4d6aefa7e2ca94340754eb5541bea1783de0"><span class="sha1">9a3a4d6</span></a></td>
+  <td class="commit-date">2010-04-17</td>
+  <td class="commit-message">Make i18n fallbacks configurable and fallback to the def...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/13fb26b714dec0874303f51cc125ff62f65a2729"><span class="sha1">13fb26b</span></a></td>
+  <td class="commit-date">2009-08-29</td>
+  <td class="commit-message">Fix ActiveRecord Error message I18n:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d672a14ee766e86c606db566dd073a3d2332cc60"><span class="sha1">d672a14</span></a></td>
+  <td class="commit-date">2009-08-26</td>
+  <td class="commit-message">allow ActiveRecord#RecordInvalid exception message to be...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a4838ee466b18ef04d0a244bec292c1d45c4bc0f"><span class="sha1">a4838ee</span></a></td>
+  <td class="commit-date">2009-08-26</td>
+  <td class="commit-message">allow ActiveRecord#RecordInvalid exception message to be...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a0e2959117e29e6836b9f611d6ba1d3260702b7"><span class="sha1">5a0e295</span></a></td>
+  <td class="commit-date">2009-08-05</td>
+  <td class="commit-message">Make app template git adapter sync back output immediate...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf00de03dee5fba0b53f0fc1bb19464422550aa9"><span class="sha1">bf00de0</span></a></td>
+  <td class="commit-date">2009-08-02</td>
+  <td class="commit-message">Stop messing with supposedly-deprecated interpolation pl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17d5cc12b9f8d0d78a081d231e7e0c5ec9df1104"><span class="sha1">17d5cc1</span></a></td>
+  <td class="commit-date">2009-07-18</td>
+  <td class="commit-message">* don&#39;t include String#% for Ruby 1.9</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/943d64b1c857944666bff2572857abe866615274"><span class="sha1">943d64b</span></a></td>
+  <td class="commit-date">2009-02-27</td>
+  <td class="commit-message">Vendorize i18n 0.1.3 gem (fixes issues with incompatible...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/441e4e22352c8805a882f6a661ab3982dd7eda12"><span class="sha1">441e4e2</span></a></td>
+  <td class="commit-date">2009-02-22</td>
+  <td class="commit-message">load plugin view_paths to action_mailer view_paths and m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8c5cc66a831aadb159f3daaffa4208064c30af0e"><span class="sha1">8c5cc66</span></a></td>
+  <td class="commit-date">2009-02-20</td>
+  <td class="commit-message">make action_controller/layouts pick templates from the c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53fe301a42f9d18b4a8a475e9babf64c621369ae"><span class="sha1">53fe301</span></a></td>
+  <td class="commit-date">2009-02-20</td>
+  <td class="commit-message">Lazy evaluate middleware arguments [#2028 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0cb020b4d6d838025859bd60fb8151c8e21b8e84"><span class="sha1">0cb020b</span></a></td>
+  <td class="commit-date">2009-02-15</td>
+  <td class="commit-message">workaround for picking layouts based on wrong view_paths...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c062bf1000886d26b3a4c3b08dfb6618a4adcdf"><span class="sha1">5c062bf</span></a></td>
+  <td class="commit-date">2009-01-26</td>
+  <td class="commit-message">add #available_locales to I18n and I18n::SimpleBackend, ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16909d3514454b14c0ab86347c57388ba2836f0d"><span class="sha1">16909d3</span></a></td>
+  <td class="commit-date">2009-01-21</td>
+  <td class="commit-message">i18n guide: refer to section &#39;Error messages scopes&#39;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65ae0cc6229a4e0b977711d948cd10a7dcb342a3"><span class="sha1">65ae0cc</span></a></td>
+  <td class="commit-date">2009-01-21</td>
+  <td class="commit-message">i18n guide: add section: overview of other built-in methods</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9fd4c478cd526f5729ac9578bfc6e1dd4b9ae6e"><span class="sha1">d9fd4c4</span></a></td>
+  <td class="commit-date">2009-01-21</td>
+  <td class="commit-message">i18n guide: added sections: conclusion, contributing to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/76f87802a2047754db47fa699fda966dbb6763ba"><span class="sha1">76f8780</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">i18n guide: add note about #t and #l aliases</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6e6754ebe2a061d37b28262dcb0d784d913eaf8"><span class="sha1">d6e6754</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">i18n guide: add screenshots and explain localize method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d736327e7d6e910f4c96580ccfcde482925c917f"><span class="sha1">d736327</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">i18n guide: renumber footnotes (do i really need to do t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b71c09f008b143d2ea60463014c66d3b694f540c"><span class="sha1">b71c09f</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">i18n guide: add link to rails-i18n wiki about &quot;How to en...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/837e8da8152e63a713d82f1e399e643676f0e830"><span class="sha1">837e8da</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">i18n guide: actually use footnotes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/99d16fa40e308e91cc647d516c27917ade660ffc"><span class="sha1">99d16fa</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">add quote from wikipedia about I18n and L10n</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44a831940dfab557a525b6a5b132238b53ce9a38"><span class="sha1">44a8319</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">explain exceptions, exception_handler and :raise option</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f333661ec28211b11fad0665b99aad6b0fd23260"><span class="sha1">f333661</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">explain changes of pluralization feature</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f388babc729174c305902be38cee01011eb0aa18"><span class="sha1">f388bab</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">explain purpose of interpolation feature</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26b7bd941de901cb103007ebed24506bffbf6580"><span class="sha1">26b7bd9</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">use new asciidoc table syntax</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf0ffc5486709017536f90a7af2626fa45801939"><span class="sha1">bf0ffc5</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">note about #t helper vs I18n.t</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab757d8d75b9c47fc20373757ffa0168a87a83d0"><span class="sha1">ab757d8</span></a></td>
+  <td class="commit-date">2008-12-16</td>
+  <td class="commit-message">i18n guide: remove remaining references to en-US, use Sy...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1182658e767d2db4a46faed35f0b1075c5dd9a88"><span class="sha1">1182658</span></a></td>
+  <td class="commit-date">2008-11-29</td>
+  <td class="commit-message">Make sure #compute_public_path caching allows to return ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d3a14a936c9c3f304769d366c531464e5babf49"><span class="sha1">5d3a14a</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">use :en as a default locale (in favor of :en-US)</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12118963acacc9c869bdd41ef8480a1a4e06d358"><span class="sha1">1211896</span></a></td>
+  <td class="commit-date">2008-11-18</td>
+  <td class="commit-message">use :en as a default locale (in favor of :en-US)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/047657cdfb7ad63ede151d84fbb922d63f641437"><span class="sha1">047657c</span></a></td>
+  <td class="commit-date">2008-11-17</td>
+  <td class="commit-message">initial draft for i18n guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3b7fa78bfdc33e45e39c095b67e02d50a2c7bea"><span class="sha1">a3b7fa7</span></a></td>
+  <td class="commit-date">2008-09-20</td>
+  <td class="commit-message">I18n: Introduce I18n.load_path in favor of I18n.load_tra...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8cb7d460439a9b20a80a77b6370c1107233d1cbd"><span class="sha1">8cb7d46</span></a></td>
+  <td class="commit-date">2008-09-20</td>
+  <td class="commit-message">I18n: move old-style interpolation syntax deprecation to...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e826c992014b24475203bf1a88b3f7a2356f7ff5"><span class="sha1">e826c99</span></a></td>
+  <td class="commit-date">2008-09-11</td>
+  <td class="commit-message">add activerecord tests to make sure the deprecated %s an...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/31dcd7811185134f16a52744ad50f87d197ca438"><span class="sha1">31dcd78</span></a></td>
+  <td class="commit-date">2008-09-11</td>
+  <td class="commit-message">add activerecord tests for deprecation of %s and %d in e...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79c8b104d676ce40268caaa530b7e4dcc0a8ff20"><span class="sha1">79c8b10</span></a></td>
+  <td class="commit-date">2008-09-11</td>
+  <td class="commit-message">change activerecord validation tests to not use the depr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a18ed6d5635f2d2a5d60e073757839895b1ade70"><span class="sha1">a18ed6d</span></a></td>
+  <td class="commit-date">2008-09-10</td>
+  <td class="commit-message">Added ActionController::Translation module delegating to...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be4ae1f5264d6593e9dec479af4503c4bde2877e"><span class="sha1">be4ae1f</span></a></td>
+  <td class="commit-date">2008-08-30</td>
+  <td class="commit-message">I18n: applied Luca Guidi&#39;s patch for better #interpolate...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49859b0bb1dc41dca33331f198eaf2ccf034a6b4"><span class="sha1">49859b0</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">I18n: fix activerecord i18n test for classy backend</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43a0012e507cf16486bee4b302858ccd186a0c2e"><span class="sha1">43a0012</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">Merge branch &#39;i18n&#39; of git@github.com:svenfuchs/rails in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0a4d9b73a27f882e3ff04ec2509e1f0e809b281"><span class="sha1">d0a4d9b</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">Update translations for pluralization key change from &#39;m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84d8957e04c4b5a1f53e8bf29dd0151296aebd28"><span class="sha1">84d8957</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">Update translations for pluralization key change from &#39;m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a61e87aeb920e64ebfc79cfcbcee2508c900b4e2"><span class="sha1">a61e87a</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">update i18n gem</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e464f9b6b93daa847a7d6fa1c3af63c8cef3f3e2"><span class="sha1">e464f9b</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">Merge commit &#39;rails/master&#39; into i18n</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/90a9637d41016c0d230ba36657e83a4f8d54cc46"><span class="sha1">90a9637</span></a></td>
+  <td class="commit-date">2008-08-25</td>
+  <td class="commit-message">I18n: add aliases #t and #l to TranslationHelper#transla...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d6989aa0e1fe5e49fe1fccc3702aa7ff62a63faf"><span class="sha1">d6989aa</span></a></td>
+  <td class="commit-date">2008-08-23</td>
+  <td class="commit-message">I18n: use :other instead of :many as default key for plu...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23fb26a0dcbd46d36bdbc2caa267aa3192f77a24"><span class="sha1">23fb26a</span></a></td>
+  <td class="commit-date">2008-08-23</td>
+  <td class="commit-message">I18n: use :other instead of :many as default key for plu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aad429a46e3017fa7ca73f58428693e821be42b6"><span class="sha1">aad429a</span></a></td>
+  <td class="commit-date">2008-08-21</td>
+  <td class="commit-message">Merge branch &#39;master&#39; into i18n</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c324ef2785f82f03bb0e703da27ba2b8d97a2da1"><span class="sha1">c324ef2</span></a></td>
+  <td class="commit-date">2008-08-20</td>
+  <td class="commit-message">Merge branch &#39;iain&#39; into i18n</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/950b9792baae14e42b894f113ae8dfc95df34da9"><span class="sha1">950b979</span></a></td>
+  <td class="commit-date">2008-08-20</td>
+  <td class="commit-message">fixing actionpack yml translations</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e43cdb93f08544304c10198211d17868f0881030"><span class="sha1">e43cdb9</span></a></td>
+  <td class="commit-date">2008-08-20</td>
+  <td class="commit-message">fix activerecord i18n_test to work with backend classes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a2d67403ac84fe6fef659ac3b17d430f141cda41"><span class="sha1">a2d6740</span></a></td>
+  <td class="commit-date">2008-08-20</td>
+  <td class="commit-message">remove warning in i18n gem</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6a62004c93d792c230d80f8a65da0bb45cb369f"><span class="sha1">a6a6200</span></a></td>
+  <td class="commit-date">2008-08-20</td>
+  <td class="commit-message">add human_name and value to ar validation #generate_message</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c379582064b4f345ecb6bab999e2f1c5685313a8"><span class="sha1">c379582</span></a></td>
+  <td class="commit-date">2008-08-19</td>
+  <td class="commit-message">switch to class and instance instead of a module for the...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0ee883e7c01dabf039525b80b7f43673e987265"><span class="sha1">d0ee883</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">fixing unit tests for active_record validations_i18n</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3ecc3375fef4faa807638ff9e9cf309094272bd"><span class="sha1">e3ecc33</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">provide more useful feedback on missing translations for...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/906e79396badfe9fb6b7f0457e835e5f1a9b09b2"><span class="sha1">906e793</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">fix bug in I18n::Backend::Simple (A default array of non...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78677cf6af339a6e23a93a45c905d6d1545ccc33"><span class="sha1">78677cf</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">update activesupport/vendor i18n gem</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aae9f916590b8ce2c84a9e404584de95b1705766"><span class="sha1">aae9f91</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">fix validations_i18n tests for changed locale file format</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f26380b7757666fa793c150538e8444a640d29aa"><span class="sha1">f26380b</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">switch to using I18n.load_translations instead of requir...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfa143fd4d15544e788d25ec163f9cc57a1e2a03"><span class="sha1">bfa143f</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">fix require path in vendor.rb for fixed vendor/gem dir s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/572f73fae62972cc5aebba24bed45a127f2a4cac"><span class="sha1">572f73f</span></a></td>
+  <td class="commit-date">2008-08-10</td>
+  <td class="commit-message">update i18n gem and clean up dir structure within i18n-0...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bdf783b5a8b83b1d565027130de4743fda336523"><span class="sha1">bdf783b</span></a></td>
+  <td class="commit-date">2008-08-10</td>
+  <td class="commit-message">update i18n usage for pluralization hashes (api change)</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/842917dea0cfdf70f158a312cc1f77f769791d8c"><span class="sha1">842917d</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">moving country helpers from form_options_helper to form_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/428b77debdab27c0bd73ec87bda8914d6acdfd3e"><span class="sha1">428b77d</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">fixing another timezone dependent test</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ac342fbe5727c22dbce58e375e9b42dd2a92ef5"><span class="sha1">0ac342f</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">make i18n date/time tests timezone independent</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2e74ddbd73cb4212afbad3907f0130c6ec38572f"><span class="sha1">2e74ddb</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">missed to remove a call to to_s while resolving conflict...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbe1823117c6170e26b328ce192a2fc0945af533"><span class="sha1">fbe1823</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">add i18n lib files</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/731fca8cf68ddb6d6b9670538a4686ada6b14b26"><span class="sha1">731fca8</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">remove i18n lib subproject</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/931f366ffcacc0444fcca2fb2e2b44644db9642f"><span class="sha1">931f366</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">merge forward to current rails/master</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8691e255402b27eae594530001227fc05416a00c"><span class="sha1">8691e25</span></a></td>
+  <td class="commit-date">2008-07-16</td>
+  <td class="commit-message">reverting changes to form_options_helper for merge</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84816ae981a8598e5e401eb1b9b805de840fefc9"><span class="sha1">84816ae</span></a></td>
+  <td class="commit-date">2008-07-06</td>
+  <td class="commit-message">align with changes in i18n</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9ed2c9bd24b9f4cdfcb692151f87ba900469e71"><span class="sha1">c9ed2c9</span></a></td>
+  <td class="commit-date">2008-07-06</td>
+  <td class="commit-message">add a translation helper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a865d19516a716762b46ca29212bac668dd7c4a0"><span class="sha1">a865d19</span></a></td>
+  <td class="commit-date">2008-07-04</td>
+  <td class="commit-message">reverting changes to ActionMailer</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34bd1e95c7a08c9266fc99281417dad4a19cdf73"><span class="sha1">34bd1e9</span></a></td>
+  <td class="commit-date">2008-07-04</td>
+  <td class="commit-message">Reverting changes to ActionMailer</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8305d6759abe2b8511ccee35fd0998e6fb0dffd0"><span class="sha1">8305d67</span></a></td>
+  <td class="commit-date">2008-07-04</td>
+  <td class="commit-message">Reverting changes to ActionMailer</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/35bad508162d4bdbc0c24e11db89cfe16159183e"><span class="sha1">35bad50</span></a></td>
+  <td class="commit-date">2008-07-04</td>
+  <td class="commit-message">Merge branch &#39;i18n&#39; of git@github.com:svenfuchs/rails in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1a7f83fca862fd7472ef6b80f8b6a8d33849a8e"><span class="sha1">e1a7f83</span></a></td>
+  <td class="commit-date">2008-07-04</td>
+  <td class="commit-message">use :default for human_attribute_name</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f74ba96c47e77e18ce363c8e7cd2fc9196faf7a"><span class="sha1">8f74ba9</span></a></td>
+  <td class="commit-date">2008-07-02</td>
+  <td class="commit-message">remove core extensions in favor of I18n#translate and I1...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8461526f346b8d8387ba3b74221fbeefef3aefeb"><span class="sha1">8461526</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">silence deprecation warning during validations test</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/77177441d1bd8f62c5b6a990ddee155061df661c"><span class="sha1">7717744</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">including rcov shell scripts for reference</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac66865ea3d0eb0de8e19fef49293feb9e61281b"><span class="sha1">ac66865</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">update tests according to removal of self.locale from he...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c178a87b4326edd491922136c0a55bf4b889473d"><span class="sha1">c178a87</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">remove call to self.locale from helpers</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ee9f2a0303cba95b2d8073fc7e22ec75229a8ee"><span class="sha1">2ee9f2a</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">remove generic translate helpers</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dddba41fcfcd28de2ce1a88a23514fbde53afcf"><span class="sha1">0dddba4</span></a></td>
+  <td class="commit-date">2008-06-23</td>
+  <td class="commit-message">rather cosmetic improvements of test coverage</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3533dc68120ed40a4ec44ed9900c9035108cfcf1"><span class="sha1">3533dc6</span></a></td>
+  <td class="commit-date">2008-06-22</td>
+  <td class="commit-message">check self.locale instead of request.locale in helpers</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/67fce4671e8bcfe2aa670a89195b20837546183a"><span class="sha1">67fce46</span></a></td>
+  <td class="commit-date">2008-06-22</td>
+  <td class="commit-message">crap, an array never has a request, stupid.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20d6630c1bb70f09e1f6a135bd3f9d690ad28250"><span class="sha1">20d6630</span></a></td>
+  <td class="commit-date">2008-06-22</td>
+  <td class="commit-message">Replaced country_options_for_select with old,</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d897acfbb11aaa2d7f3138e1f9772546ecb6f981"><span class="sha1">d897acf</span></a></td>
+  <td class="commit-date">2008-06-22</td>
+  <td class="commit-message">remove DeprecatedConstantToMethodProxy again</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55e2e2e8b4efbe6fdb0a921c19cd8be5650eab0a"><span class="sha1">55e2e2e</span></a></td>
+  <td class="commit-date">2008-06-21</td>
+  <td class="commit-message">experimental DeprecatedConstantToMethodProxy</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bfdabbd8b5137f91d8bcddc8c3d18961c8e316b"><span class="sha1">8bfdabb</span></a></td>
+  <td class="commit-date">2008-06-21</td>
+  <td class="commit-message">incorporate #translate usage with several default keys</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/428aa24d24032d382dc3d9ccf131e0c874043dbd"><span class="sha1">428aa24</span></a></td>
+  <td class="commit-date">2008-06-21</td>
+  <td class="commit-message">Renamed lang/ to locale/ because that&#39;s what we seem to</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c1e2506494107892a0962b8491cd234f77949c08"><span class="sha1">c1e2506</span></a></td>
+  <td class="commit-date">2008-06-21</td>
+  <td class="commit-message">Changed process of storing translations from the</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/585c8c17c303fc46fcf014a644a541eae6cb5ffd"><span class="sha1">585c8c1</span></a></td>
+  <td class="commit-date">2008-06-20</td>
+  <td class="commit-message">rename Backend::Simple#add_translations to set_translations</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b09c6e7444cf05f986e601bcc22cf17ede7b63bd"><span class="sha1">b09c6e7</span></a></td>
+  <td class="commit-date">2008-06-19</td>
+  <td class="commit-message">add a generic tranlate view helper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fe4d350e98d7f825cf3d1f9233075a5a79e32a1"><span class="sha1">2fe4d35</span></a></td>
+  <td class="commit-date">2008-06-19</td>
+  <td class="commit-message">make ActiveRecord::Errors.default_error_messages look up...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fdb5f810dc41f54f8cdb9c51154ff8987362c13a"><span class="sha1">fdb5f81</span></a></td>
+  <td class="commit-date">2008-06-19</td>
+  <td class="commit-message">I18n has not been released as a gem, yet</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a8486a1b1aa28d4cab5571b55301917221870e9"><span class="sha1">4a8486a</span></a></td>
+  <td class="commit-date">2008-06-19</td>
+  <td class="commit-message">add lang file for active_support</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45d41f0dadd9fa171f306ff356770c4492726f30"><span class="sha1">45d41f0</span></a></td>
+  <td class="commit-date">2008-06-19</td>
+  <td class="commit-message">integrating I18n into Rails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/345f030c5b6c0a28ddde56c80a1112b00d345c79"><span class="sha1">345f030</span></a></td>
+  <td class="commit-date">2008-05-16</td>
+  <td class="commit-message">Ensure routing generator works with non-string keys. [#1...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

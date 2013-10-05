@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Brad Ediger to Ruby on Rails" />
+    <meta name="keywords" content="Brad Ediger,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Brad Ediger - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Brad Ediger</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1b546464ecf20466fb38a93eea9769945774eee"><span class="sha1">e1b5464</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">remove_possible_method: test if method exists</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2657b0a8b1eb55fe9be8e35379a93982b03947c"><span class="sha1">f2657b0</span></a></td>
+  <td class="commit-date">2011-07-31</td>
+  <td class="commit-message">remove_possible_method: test if method exists</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f885390876a3acdfa962e42b2bf2c73241e8702"><span class="sha1">7f88539</span></a></td>
+  <td class="commit-date">2011-07-31</td>
+  <td class="commit-message">remove_possible_method: test if method exists</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f29ae1253538b1182c2cabfcfbcc8f8b70bab575"><span class="sha1">f29ae12</span></a></td>
+  <td class="commit-date">2007-10-07</td>
+  <td class="commit-message">Add Base#to_param to Active Resource that quacks like Ac...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb5033ad6b4a12a32e1493fb5b9aeee9eb75f10e"><span class="sha1">eb5033a</span></a></td>
+  <td class="commit-date">2007-10-02</td>
+  <td class="commit-message">Merge session fixation fixes from stable</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c773706b44c4fe584e4e1ff563e789231df76c4"><span class="sha1">6c77370</span></a></td>
+  <td class="commit-date">2007-10-02</td>
+  <td class="commit-message">Disable non-cookie sessions to prevent Session Fixation ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b4450bb8043eca6ca0d423263e598c70c50f440"><span class="sha1">3b4450b</span></a></td>
+  <td class="commit-date">2006-12-27</td>
+  <td class="commit-message">Docs fix for columns_hash [bradediger]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/155dcff431e65c6369353b30878208b631578764"><span class="sha1">155dcff</span></a></td>
+  <td class="commit-date">2006-12-27</td>
+  <td class="commit-message">Ensure dynamic finders are anchored to the beginning of ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/785e1fa599050513f8d0b235338c771f04dcf422"><span class="sha1">785e1fa</span></a></td>
+  <td class="commit-date">2006-08-31</td>
+  <td class="commit-message">Fix send_data documentation typo. Closes #5982.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e5dd2e1245b55a8630ddd70a729f5a7b89d18e0"><span class="sha1">7e5dd2e</span></a></td>
+  <td class="commit-date">2006-07-05</td>
+  <td class="commit-message">Fixed migration generation for class names like ACLContr...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b533431ce5ec76ac531a4b303aea3afd35a4dde9"><span class="sha1">b533431</span></a></td>
+  <td class="commit-date">2006-06-22</td>
+  <td class="commit-message">Correct and clarify Array#to_sentence docs. Closes #5458.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

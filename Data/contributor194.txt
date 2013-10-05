@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Alvaro Pereyra to Ruby on Rails" />
+    <meta name="keywords" content="Alvaro Pereyra,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #193 Alvaro Pereyra - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #193 <span class="fn">Alvaro Pereyra</span> - All time<br/>
+    <span class="listing-total">Showing 18 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1e2d7b96842f5b8b2a8fe911a6d31626c01effc"><span class="sha1">b1e2d7b</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Cleans and removes &#39;Examples&#39; tag [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4940d6d096a581d46addecd9b41bbd62af3e1888"><span class="sha1">4940d6d</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Cleans and removes useless &#39;Examples&#39; tag [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20e61a6d2b8fe64421af1c1294e440a0933a0193"><span class="sha1">20e61a6</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Fixes wrong typo on FormHelper [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ab0c5dc22682647090aa4b84739910e079913d8"><span class="sha1">5ab0c5d</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Cleans documentation from Helpers [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd026d7e8e6be66e0b73f4544d699294b81e08c6"><span class="sha1">cd026d7</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Improves documentation of Capture helper [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20b40c86ec12b046f86e0c16213c07cb3f83102c"><span class="sha1">20b40c8</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Removes :nodoc: tag on AtomFeedHelper [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/33f62092393ef3ba15dd7206c4c37cfd7598af9e"><span class="sha1">33f6209</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Removes unneeded &#39;Example&#39; tags and whitespaces [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e166f02b177569f9750310b3b132edbf2ab6a841"><span class="sha1">e166f02</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Removes :nodoc: label [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1c0aa4d4ca29ca72d61e7d3f5e11af7c8250c03"><span class="sha1">e1c0aa4</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">Improves documentation on favicon_link_tag</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/95fde2c09b1261de84828d19cf9d895120c5b543"><span class="sha1">95fde2c</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Updates Array conversions method documentations and clea...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2bef137d99a473e5f6a423bc796bc76b63c9bcf0"><span class="sha1">2bef137</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Adds to Batch processing documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/39e872b42bf58828e0757c247ace0c6048491614"><span class="sha1">39e872b</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of github.com:lifo/docrails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/19de3d8d7fe623b8c9d67676f8113296ebdbb640"><span class="sha1">19de3d8</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Updates examples for FinderMethods [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72973a30704894c808836d80a001208c1af39e7c"><span class="sha1">72973a3</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of github.com:lifo/docrails</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/011863673a353c334ddb2c93227dceadc5d7c3b6"><span class="sha1">0118636</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Adds examples to FinderMethods#first [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/422d3a4f042df8ea4bd42b0dca38a295a218c376"><span class="sha1">422d3a4</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Updates documentation with cleaner examples and texts [c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/da4252f4a16bd3166866201a852f938263a3225c"><span class="sha1">da4252f</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Updates validations examples to be more attuned on the n...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fabd2ce24f033e5a20ca447064e4f9af0a2177e6"><span class="sha1">fabd2ce</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Merge pull request #102 from xenda/master</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

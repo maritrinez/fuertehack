@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Michael Klishin to Ruby on Rails" />
+    <meta name="keywords" content="Michael Klishin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Michael Klishin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Michael Klishin</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/31fb733bae7bd07f3f45067671315e74dd83af22"><span class="sha1">31fb733</span></a></td>
+  <td class="commit-date">2008-12-29</td>
+  <td class="commit-message">It was decided that Multibyte does not belong to as/mini.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/069534af4f0440215af1f12f7f6f1c9e14a2e8bd"><span class="sha1">069534a</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Sync with rails/rails/master</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/19208e7422e191098bdbe3d12b75296777e2c75d"><span class="sha1">19208e7</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Pull up some other changes from rails/rails/master</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bdba0b9a7a2e3a593e44a64b38c31fa05ac0260c"><span class="sha1">bdba0b9</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Sync i18n update from rails/rails/master</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2b8750eba439c4b829b2e8172a1edc0dfa9c532b"><span class="sha1">2b8750e</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Sync with rails/rails/master, merge two metaprogramming ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e523b43e202d343912f67b8c8737d9e2e956b31f"><span class="sha1">e523b43</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Use active_support/mini instead of active_support/minima...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12bff2af4081c25682d0466b1d7380b702c27417"><span class="sha1">12bff2a</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Sync with wycats/rails/master</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89e98955c79b39ec408efb39cde07d6f14997183"><span class="sha1">89e9895</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">active_support/minimalistic.rb =&gt; active_support/mini.rb</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d77deb89d54b18c662ae3de103802e4d7a9d7d08"><span class="sha1">d77deb8</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Annotated metaprogramming code across ActiveSupport</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/133925804f24d716a3836698dbe5a7d8b30de0b5"><span class="sha1">1339258</span></a></td>
+  <td class="commit-date">2008-12-28</td>
+  <td class="commit-message">Introduce minimalistic package for ActiveSupport.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4314d4362d288ff72cec5a5a9644a3a3cbf23af"><span class="sha1">e4314d4</span></a></td>
+  <td class="commit-date">2008-12-26</td>
+  <td class="commit-message">Inline the only call site of Mime::Type#browser_generated?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e21ed3e45429cf4a7ee4f5b6b550f457f0c4c313"><span class="sha1">e21ed3e</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Request#remote_ip handles the uncommon case that REMOTE_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e42a235dd18a39ccc83382365088de96f24fa236"><span class="sha1">e42a235</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Request#remote_ip handles the uncommon case that REMOTE_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f67add4283069653f5707bd45cff214913dfc579"><span class="sha1">f67add4</span></a></td>
+  <td class="commit-date">2007-12-11</td>
+  <td class="commit-message">Base.exists? doesn&#39;t rescue exceptions to avoid hiding S...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b055a4a6a32fa14b2e05718279ce5c8a1ed895b"><span class="sha1">4b055a4</span></a></td>
+  <td class="commit-date">2007-12-10</td>
+  <td class="commit-message">Update destroy_all and delete_all documentation to bette...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73673256ac4d49bc011c082ce77c31a041222478"><span class="sha1">7367325</span></a></td>
+  <td class="commit-date">2007-12-10</td>
+  <td class="commit-message">Document Active Record exceptions. Closes #10444.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

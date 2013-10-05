@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Richard Schneeman to Ruby on Rails" />
+    <meta name="keywords" content="Richard Schneeman,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #75 Richard Schneeman - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #75 <span class="fn">Richard Schneeman</span> - All time<br/>
+    <span class="listing-total">Showing 56 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f036239447c79843983ee1c0d3dfe68484d63203"><span class="sha1">f036239</span></a></td>
+  <td class="commit-date">2013-08-05</td>
+  <td class="commit-message">Create sqlite3 directory if not present</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0caea29c2da9f4c8bb958019813482da297067d"><span class="sha1">b0caea2</span></a></td>
+  <td class="commit-date">2013-07-20</td>
+  <td class="commit-message">Match Dev/Prod parity for Index Page</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec8d8652f36bc4bf2ea19b8f7dd264187efc99ae"><span class="sha1">ec8d865</span></a></td>
+  <td class="commit-date">2013-07-01</td>
+  <td class="commit-message">s/plugin_new/plugin</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ce18ba7dcce09401a3b80542a3f12b89e40ac98"><span class="sha1">6ce18ba</span></a></td>
+  <td class="commit-date">2013-06-29</td>
+  <td class="commit-message">Fix `rails plugin --help`</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6167d76d9a9f990cfd03b85a87e3a7439281f7c2"><span class="sha1">6167d76</span></a></td>
+  <td class="commit-date">2013-05-16</td>
+  <td class="commit-message">Fix named routing regression from 3.2.13</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba0695f48a28d34a9ee4d8da7ec61e15ce90a910"><span class="sha1">ba0695f</span></a></td>
+  <td class="commit-date">2013-05-16</td>
+  <td class="commit-message">Fix named routing regression from 3.2.13</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ee9a98f1f2f8be98e8e8d1fc340021502e780eb"><span class="sha1">2ee9a98</span></a></td>
+  <td class="commit-date">2013-05-16</td>
+  <td class="commit-message">Fix named routing regression from 3.2.13</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/334549b4a56ae753b564b6beeded88322306c7cb"><span class="sha1">334549b</span></a></td>
+  <td class="commit-date">2013-03-19</td>
+  <td class="commit-message">Fix improperly configured host in generated urls</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8b72d689e3df55c5e6995a637436486f0837dc8e"><span class="sha1">8b72d68</span></a></td>
+  <td class="commit-date">2013-01-21</td>
+  <td class="commit-message">In Browser Path Matching with Javascript</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f654c3cfc00271c3b410bc0fe9c80a5593709c02"><span class="sha1">f654c3c</span></a></td>
+  <td class="commit-date">2013-01-18</td>
+  <td class="commit-message">Remove &quot;Application&quot; section title from routes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5277b8c4e4f8fdbb922b46ae4462f087be63e85"><span class="sha1">d5277b8</span></a></td>
+  <td class="commit-date">2012-12-27</td>
+  <td class="commit-message">Ruby 1.9 style hash in Route Inspector</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37d9c44b6d15cc0b02f327fe51687db7d0443bb8"><span class="sha1">37d9c44</span></a></td>
+  <td class="commit-date">2012-12-17</td>
+  <td class="commit-message">Format routes as html on debug page</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a59b873749a88b0f4ed9b80bc3237c88313302c"><span class="sha1">8a59b87</span></a></td>
+  <td class="commit-date">2012-12-17</td>
+  <td class="commit-message">HTML formatting to Rails::InfoController#routes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/170a93d25c24c7a46b98e6539d8be4f4d4fc9a32"><span class="sha1">170a93d</span></a></td>
+  <td class="commit-date">2012-12-16</td>
+  <td class="commit-message">DebugExceptions `File.join` =&gt; `File.expand_path`</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08d7b186fde6ec1e7779349a6ff00e34b30f294d"><span class="sha1">08d7b18</span></a></td>
+  <td class="commit-date">2012-12-12</td>
+  <td class="commit-message">Output routes in :html format</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0807f6e86155c7027e11e2ca2d40217ec035c3ed"><span class="sha1">0807f6e</span></a></td>
+  <td class="commit-date">2012-12-11</td>
+  <td class="commit-message">Update railties/lib/rails/info_controller.rb</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/baea5d69be52def2a81c31cd119f8dfcd2aa087b"><span class="sha1">baea5d6</span></a></td>
+  <td class="commit-date">2012-12-11</td>
+  <td class="commit-message">Use Rails to Render Default Index Page</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e073b038b7eb27f3dd18aa1edbd5a0b7e76b6476"><span class="sha1">e073b03</span></a></td>
+  <td class="commit-date">2012-12-10</td>
+  <td class="commit-message">Use `File.expand_path` instead of `File.join`</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25648ce35b9d8df9fac81c1d53c45aaeef08fde9"><span class="sha1">25648ce</span></a></td>
+  <td class="commit-date">2012-11-14</td>
+  <td class="commit-message">add AR deep dive video links to guides</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0fbdddd7158bd951d2672fc8ebc614c42906815f"><span class="sha1">0fbdddd</span></a></td>
+  <td class="commit-date">2012-10-28</td>
+  <td class="commit-message">Don&#39;t log on pending migration check </td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20385ec6b16f1bb8158a3d087d1298a8f23a19e4"><span class="sha1">20385ec</span></a></td>
+  <td class="commit-date">2012-10-12</td>
+  <td class="commit-message">Prompt to run rake when accidentally typed rails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8f50ef02bcf5dc8b9d42e174581cae27a160821"><span class="sha1">c8f50ef</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">Add command before bash output </td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8bdbef00a26fd469c255cd5cfb4b3c71278beb4"><span class="sha1">e8bdbef</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">add command line $ tip for new programmers</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae4448253d5b710bd754d7a6dc1dbd7391c832be"><span class="sha1">ae44482</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">improve wording over `change` method docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb853940d1aa5c92359b8d9fbc79142a03e9d238"><span class="sha1">eb85394</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">instructions for running migrations in another ENV</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ddcda853c1aef19884a4e2153691389211aca3b2"><span class="sha1">ddcda85</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">Add /rails/info/routes method to getting_started</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e427c3becf850126b58d7f38691bcc239ba63948"><span class="sha1">e427c3b</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">explain how to check if the server has returned on *nix ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8a54e16a99cc8a4af35f5b5f96b2fb3ba6bed1b"><span class="sha1">f8a54e1</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">Explain that command line commands have $</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b1467b848f25bda808a63d304ae8ea5940cbe0d"><span class="sha1">6b1467b</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">change `#` to `$` in bash section</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a07de6019ab87ee2f011bf4babf43b41c8b31f0"><span class="sha1">5a07de6</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">Space between &quot;every&quot; and &quot;time&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfafa999ddaa203224ac0222203517a0d2a3f6bf"><span class="sha1">bfafa99</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">add documentation to generated routes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/150561779d3231c21add60936e14d7177997da13"><span class="sha1">1505617</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">remove misleading comment in Rakefile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e69476a5b6490c129f2800c01f8da328b2f1a8de"><span class="sha1">e69476a</span></a></td>
+  <td class="commit-date">2012-09-18</td>
+  <td class="commit-message">Stronger wording in Contributing file</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9d1ba41fd1195d4aaece2a4fc5c83273bd835bd"><span class="sha1">c9d1ba4</span></a></td>
+  <td class="commit-date">2012-09-05</td>
+  <td class="commit-message">Doc: sweepers only work on Active Record Models</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc57b2a422a18f22f8ecf6912ebfab0da0ac3c8a"><span class="sha1">cc57b2a</span></a></td>
+  <td class="commit-date">2012-08-28</td>
+  <td class="commit-message">refactor route_set `generate_extras` functionality</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b6175ac2df96ebfca1baac89c20deaa13e61142"><span class="sha1">0b6175a</span></a></td>
+  <td class="commit-date">2012-08-28</td>
+  <td class="commit-message">Add Missing Keys from Journey on failed URL format</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60b650b18c82a050ab81f924e23f7d308ffd8972"><span class="sha1">60b650b</span></a></td>
+  <td class="commit-date">2012-08-11</td>
+  <td class="commit-message">check for nil or empty record in form_for</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4633519696f539bffacf6985caa3969ad717c85"><span class="sha1">e463351</span></a></td>
+  <td class="commit-date">2012-08-09</td>
+  <td class="commit-message">Document the namespacing of controller actions per this ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbfd29a65572d03d4faae791a56453edaedadb3d"><span class="sha1">bbfd29a</span></a></td>
+  <td class="commit-date">2012-07-07</td>
+  <td class="commit-message">show routes while debugging added to changelog</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef91cddb48d1fa8d1a34e8e5ac68fe9eb56c160f"><span class="sha1">ef91cdd</span></a></td>
+  <td class="commit-date">2012-07-07</td>
+  <td class="commit-message">move route_inspector to actionpack</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa714ec7dffd12b8508c756e6526eff5ae8e4202"><span class="sha1">fa714ec</span></a></td>
+  <td class="commit-date">2012-07-07</td>
+  <td class="commit-message">show routes while debugging RoutingError</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4c82d3f0a46f18bd6b02f264f6c81bec85d416ed"><span class="sha1">4c82d3f</span></a></td>
+  <td class="commit-date">2012-06-09</td>
+  <td class="commit-message">add prompt to 404 &amp; 500 pages to check logs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d741a4c6f863778c5ebf04b21f6c3292091c13a7"><span class="sha1">d741a4c</span></a></td>
+  <td class="commit-date">2012-06-09</td>
+  <td class="commit-message">test errors for pending migrations</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96f19f6cf62fb4705a75cf4a81e4e2f145a4cee2"><span class="sha1">96f19f6</span></a></td>
+  <td class="commit-date">2012-06-09</td>
+  <td class="commit-message">raise error for pending migration </td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e5b39862cb4f8f3097cc8ab2dc606ddb1bd1febb"><span class="sha1">e5b3986</span></a></td>
+  <td class="commit-date">2012-06-03</td>
+  <td class="commit-message">add convenience methods for checking migrations</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e63666398d77fcca46308eff63dce144dd199479"><span class="sha1">e636663</span></a></td>
+  <td class="commit-date">2012-06-01</td>
+  <td class="commit-message">routes are viewable in browser (update guides)</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0460949070d4105810d2c39e6e85fcf93034a861"><span class="sha1">0460949</span></a></td>
+  <td class="commit-date">2012-05-30</td>
+  <td class="commit-message">remove unused route reloading code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44591250189fd2dadc8303d094b72552d7d06543"><span class="sha1">4459125</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">remove unnecessary test from route_inspect_test</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3e3102904c98a6e05bee33616288323278692b8"><span class="sha1">c3e3102</span></a></td>
+  <td class="commit-date">2012-05-24</td>
+  <td class="commit-message">Rails::InfoController tests passing</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb44e0fed97d7cef024e9dd9cc113a75cc7d6f20"><span class="sha1">cb44e0f</span></a></td>
+  <td class="commit-date">2012-05-24</td>
+  <td class="commit-message">/rails/info/routes path shows routing information</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e737f142bd102b4c464481ab685cad2a00ee022e"><span class="sha1">e737f14</span></a></td>
+  <td class="commit-date">2012-05-02</td>
+  <td class="commit-message">Add backtrace to development routing error page</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2314490547e7b864a387d4a71586373036beb35f"><span class="sha1">2314490</span></a></td>
+  <td class="commit-date">2012-03-24</td>
+  <td class="commit-message">document `-e` argument for rails console</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7529283732bb56ba1b0125aabab774d01b4057c7"><span class="sha1">7529283</span></a></td>
+  <td class="commit-date">2012-03-22</td>
+  <td class="commit-message">match rails console environment support, to server</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0a555dd421f3b7966df1a1f70ae462a143734d21"><span class="sha1">0a555dd</span></a></td>
+  <td class="commit-date">2012-03-21</td>
+  <td class="commit-message">fix rails server support of RAILS_ENV variable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/921dcc2570b34e48a5f3eef9e0ef3044488f81d3"><span class="sha1">921dcc2</span></a></td>
+  <td class="commit-date">2011-12-17</td>
+  <td class="commit-message">add help text to routing error</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a8870d140ececc6327533d08b112cece03c41499"><span class="sha1">a8870d1</span></a></td>
+  <td class="commit-date">2011-04-22</td>
+  <td class="commit-message">show http method in routing error message</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Sam Pohlenz to Ruby on Rails" />
+    <meta name="keywords" content="Sam Pohlenz,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #119 Sam Pohlenz - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #119 <span class="fn">Sam Pohlenz</span> - All time<br/>
+    <span class="listing-total">Showing 32 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4bb26dd7b298b08f53c7e157ddc19dc7febcf37e"><span class="sha1">4bb26dd</span></a></td>
+  <td class="commit-date">2013-04-03</td>
+  <td class="commit-message">Add block support for the  helper</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a79f8bd25230bda16e3c97d168efa38373ec8749"><span class="sha1">a79f8bd</span></a></td>
+  <td class="commit-date">2012-09-09</td>
+  <td class="commit-message">Use internal instance variable naming scheme for mounted...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3141da0e3eb4198ae8bcf7fccf403583bd695bf1"><span class="sha1">3141da0</span></a></td>
+  <td class="commit-date">2012-01-14</td>
+  <td class="commit-message">Stub ip method of alternative request class</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f429f375e43529f2dd1a2f37cbaabeef40c6ea9"><span class="sha1">6f429f3</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">Ensure that enhancements to assets:precompile task are o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e1f7e0058bc06d9a9356f5b2a1e06447c024f46"><span class="sha1">0e1f7e0</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">Replace calls to capture(:stdout) with quietly in assets...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6614c5de6d7c542e6072571d6cc43735bee1e2f"><span class="sha1">a6614c5</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">Ensure that enhancements to assets:precompile task are o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29c2fc3643b7576ed6ac18e8b0ea15dc5adee52c"><span class="sha1">29c2fc3</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">Replace calls to capture(:stdout) with quietly in assets...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58b0c9734777a4610e812a48ee64881b4f88b107"><span class="sha1">58b0c97</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">assets:precompile should not append asset digests when c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5165e5ab0829bd4cb0345f24ab619109cd1fbe2"><span class="sha1">d5165e5</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">Move references to Rails.application.config out of Sproc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a5619c0a8dc155d6b9ad2b563bd9093f239fafa5"><span class="sha1">a5619c0</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">assets:precompile should not append asset digests when c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6bc6978e2ad90e6546f18452a8423116c4935a88"><span class="sha1">6bc6978</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">Move references to Rails.application.config out of Sproc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e249dd9b3ed56568d4c7f2a592340631b67bed41"><span class="sha1">e249dd9</span></a></td>
+  <td class="commit-date">2011-07-10</td>
+  <td class="commit-message">Include TagHelper within AssetTagHelper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ac79d03430fe867f7614b4afe4bac06c3d77f8f"><span class="sha1">0ac79d0</span></a></td>
+  <td class="commit-date">2011-07-10</td>
+  <td class="commit-message">Include TagHelper within AssetTagHelper</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f3e45c2ecc81686d7d299aa460f636d191a1d8b"><span class="sha1">7f3e45c</span></a></td>
+  <td class="commit-date">2011-07-06</td>
+  <td class="commit-message">Test for extractable_options? within nested fields_for.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b494b5cf9db8090fe3e1041c6e0a83024b2f2da8"><span class="sha1">b494b5c</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Add documentation for asset_prefix and asset_environment</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/add63ee220f0721a0be24a9a45ef9482f3991640"><span class="sha1">add63ee</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Add tests for alternate asset prefix/environment</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8fa5f65a6e53f49c64df5102f336af7b13b25dc"><span class="sha1">b8fa5f6</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Refactor sprockets asset paths to allow for alternate as...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55d93f32218fc3e26c5b835260de3e6d9432d85e"><span class="sha1">55d93f3</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Fix has_migrations? check in Rails::Engine</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7a58af244412f507048d3e2118eeca4992b705e"><span class="sha1">a7a58af</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Fix has_migrations? check in Rails::Engine</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21344bc33bb732c9c938881ec13bd7fd44d7e9d8"><span class="sha1">21344bc</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Add documentation for asset_prefix and asset_environment</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0613f3bcdbd077c3d961f274c390f39f1cd19a31"><span class="sha1">0613f3b</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">Add tests for alternate asset prefix/environment</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5f7253206122296a050d8fe2376990710859947"><span class="sha1">d5f7253</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">Refactor sprockets asset paths to allow for alternate as...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/237f87089cbb01da50408cc07dffc89a7ebf6854"><span class="sha1">237f870</span></a></td>
+  <td class="commit-date">2011-06-22</td>
+  <td class="commit-message">Use real hash model in nested fields_for with hash model...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e69eed0e10c0670869aea396cb79002da4f4580a"><span class="sha1">e69eed0</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Test for extractable_options? within nested fields_for.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3adaef8ae73a3061a9fe4c5e0256d80bc09b1cf4"><span class="sha1">3adaef8</span></a></td>
+  <td class="commit-date">2010-04-02</td>
+  <td class="commit-message">Restore changed_attributes method in ActiveModel::Dirty ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/468bdb3ed8ee20fe4215e62f0f27513c70e2398c"><span class="sha1">468bdb3</span></a></td>
+  <td class="commit-date">2009-12-29</td>
+  <td class="commit-message">Make plugins responsible for loading their own rake tasks</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cbce027669ded4e951af3124cae23d6707357aea"><span class="sha1">cbce027</span></a></td>
+  <td class="commit-date">2009-12-29</td>
+  <td class="commit-message">Application object should instantiate non-vendored plugins</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4df96338ede62da8ae8c188de5454b4b6b186ff8"><span class="sha1">4df9633</span></a></td>
+  <td class="commit-date">2009-10-07</td>
+  <td class="commit-message">Fixed behavior of attribute_methods_generated? [#3220 st...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8e91bda9c171dd0c31dbea95ba4e9ced4ee2547"><span class="sha1">f8e91bd</span></a></td>
+  <td class="commit-date">2009-10-07</td>
+  <td class="commit-message">Don&#39;t share attribute matchers between classes [#3216 st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b6321efa9be103ca1e00c13dd9d955b076dd31e"><span class="sha1">4b6321e</span></a></td>
+  <td class="commit-date">2009-09-03</td>
+  <td class="commit-message">Don&#39;t raise exceptions for missing javascript_include_ta...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ea9f2cac6e136e27d7fef2662412dda25391860"><span class="sha1">5ea9f2c</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Allow helpers directory to be overridden via ActionContr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bdf995bc5da016e99d1636e62b39c92384263a9c"><span class="sha1">bdf995b</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Allow helpers directory to be overridden via ActionContr...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

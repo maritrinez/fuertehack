@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Brian Lopez to Ruby on Rails" />
+    <meta name="keywords" content="Brian Lopez,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #100 Brian Lopez - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #100 <span class="fn">Brian Lopez</span> - All time<br/>
+    <span class="listing-total">Showing 37 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ce21af8aa97951b0a760f553421ba95caf3fdbb"><span class="sha1">6ce21af</span></a></td>
+  <td class="commit-date">2012-03-15</td>
+  <td class="commit-message">fix typo in redirect test</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfcdd334de1085ee376abc45afe4583a38ff5eed"><span class="sha1">cfcdd33</span></a></td>
+  <td class="commit-date">2012-03-15</td>
+  <td class="commit-message">strip null bytes from Location header as well</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89adadd39a388c500d7ec3f53721fd2a4cc5b19b"><span class="sha1">89adadd</span></a></td>
+  <td class="commit-date">2011-06-17</td>
+  <td class="commit-message">bump mysql2 to 0.3.6</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2b13403ffa6f9c87e0eeb8b70ae27cc7b609e90"><span class="sha1">d2b1340</span></a></td>
+  <td class="commit-date">2011-06-16</td>
+  <td class="commit-message">bump mysql2 version</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7b04e5051ea0967eb7b571aef112c1190e0c93f7"><span class="sha1">7b04e50</span></a></td>
+  <td class="commit-date">2011-06-16</td>
+  <td class="commit-message">on second thought, lets keep casting on by default. it c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aeb7beb3c67ebfd0f8575525277bcf8ee154f76a"><span class="sha1">aeb7beb</span></a></td>
+  <td class="commit-date">2011-06-14</td>
+  <td class="commit-message">mysql2 casting changes require mysql2 &gt;= 0.3.3</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e56567c0b22f9455098e4dd444f44480ae16e329"><span class="sha1">e56567c</span></a></td>
+  <td class="commit-date">2011-06-14</td>
+  <td class="commit-message">Turn off eager casting for mysql2, so ActiveRecord can l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7eb554bdb13d3469712b847add2ab0054f0698c7"><span class="sha1">7eb554b</span></a></td>
+  <td class="commit-date">2011-02-13</td>
+  <td class="commit-message">switch over to Mysql2::Client#ping for the mysql2 connec...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce04ea973ce2c4c81d54c29a7e7667014122c54a"><span class="sha1">ce04ea9</span></a></td>
+  <td class="commit-date">2010-08-23</td>
+  <td class="commit-message">mysql2 adapter is being maintained in the mysql2 gem itself</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6d796a71d2e4ad0baec12b89da0b4b3470eebab1"><span class="sha1">6d796a7</span></a></td>
+  <td class="commit-date">2010-08-23</td>
+  <td class="commit-message">mysql2 adapter is being maintained in the mysql2 gem itself</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab64dc9c2009728ac3cb523cd32e7642dfd48a90"><span class="sha1">ab64dc9</span></a></td>
+  <td class="commit-date">2010-08-23</td>
+  <td class="commit-message">no need to depend on mysql2 master anymore</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bde3d7fbaf2d84b0021717077aac25eb90a6eecb"><span class="sha1">bde3d7f</span></a></td>
+  <td class="commit-date">2010-08-23</td>
+  <td class="commit-message">no need to depend on mysql2 master anymore</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7dbc99ef0df31ed00734597665c6e4deb73e67e6"><span class="sha1">7dbc99e</span></a></td>
+  <td class="commit-date">2010-08-21</td>
+  <td class="commit-message">reload bob after his journy to a new timezone</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/82e389ed30fd979d4a627b1edbda52c6dde34ae6"><span class="sha1">82e389e</span></a></td>
+  <td class="commit-date">2010-08-21</td>
+  <td class="commit-message">reload bob after his journy to a new timezone</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d681838c022b700decffd136c7e8092d6351645"><span class="sha1">2d68183</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">move mysql2 adapter into core</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b02751c961d76b74f19a00929d162b8e15b43063"><span class="sha1">b02751c</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">ignore this test for mysql2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ccf3504d28d5c937051578c41eee29ed18b4d02"><span class="sha1">3ccf350</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">skip the before_type_cast_on_datetime test entirely for ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98384b1ce8c55331916e90961b276666f6960d06"><span class="sha1">98384b1</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">typo</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a263a8ffd562b1c59b93ac80fc624afeaf415964"><span class="sha1">a263a8f</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">update tests for mysql2 support</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/188855501b454d6732fb1fd1d76cc26d6119f2eb"><span class="sha1">1888555</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">move mysql2 adapter into core</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94cff67bd1125fb98abe8b642ce2dc0ea26bb6dd"><span class="sha1">94cff67</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">ignore this test for mysql2</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee9c950f2fe0c7953f0a9ad6a53439da7a4e89bc"><span class="sha1">ee9c950</span></a></td>
+  <td class="commit-date">2010-08-09</td>
+  <td class="commit-message">bringing over latest from master</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8b90114ddd2a432280d114b9fe4ef1fdb38d132"><span class="sha1">d8b9011</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">skip the before_type_cast_on_datetime test entirely for ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42035fd112fb8034a706d033bfc63ee2a2797a96"><span class="sha1">42035fd</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">move reload after touch</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab64499911184faee11147bc1c88dd2616e848ab"><span class="sha1">ab64499</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">reload the owner model after update</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/954de9940b8f212cafdb9f5e97abc83d27b3e4ff"><span class="sha1">954de99</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">Merge branch &#39;master&#39; into mysql2</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2353e826b0446917eb655b60c47533f5a9c2a07f"><span class="sha1">2353e82</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21e81da33570ba9453831cfc59c4f42ff9cdc1b2"><span class="sha1">21e81da</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">update tests for mysql2 support</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6d1344de5e6bcbd8de6ccd8cf2793fabe069102a"><span class="sha1">6d1344d</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">add support for mysql2 adapter to dbconsole</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf2ee896594f389b378fb1f1351f6f315b1a4498"><span class="sha1">bf2ee89</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">add support for mysql2 adapter to dbconsole</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6dbc75fd7625c0248d269cc3127910cb4c888ed9"><span class="sha1">6dbc75f</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">Allow pre-casted values (other than nil) to pass through...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7aad851c2e0d4579aa33a54a069a767b53cca406"><span class="sha1">7aad851</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">Allow pre-casted values (other than nil) to pass through...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83b4c161fc1a7405c0abeeebda37b9cbfe899a7b"><span class="sha1">83b4c16</span></a></td>
+  <td class="commit-date">2010-02-05</td>
+  <td class="commit-message">Add yajl-ruby as a JSON parsing backend</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a96bf4ab5e73fccdafb78b99e8a122cc2172b505"><span class="sha1">a96bf4a</span></a></td>
+  <td class="commit-date">2010-02-05</td>
+  <td class="commit-message">Add yajl-ruby as a JSON parsing backend</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/69bc2043f93890048e415dd7c5f1feba5a20d145"><span class="sha1">69bc204</span></a></td>
+  <td class="commit-date">2009-06-09</td>
+  <td class="commit-message">enable *real* IO parsing for the libxml, nokogiri and re...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0de061e7b8d3c291a328f6b0b9bfc5f48b2f907"><span class="sha1">b0de061</span></a></td>
+  <td class="commit-date">2009-05-17</td>
+  <td class="commit-message">Allow ParamsParser to parse YAML from the request body I...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53dda29f8b34073a4b135ee224c1d09c1f10de02"><span class="sha1">53dda29</span></a></td>
+  <td class="commit-date">2009-05-17</td>
+  <td class="commit-message">Add support for parsing XML and JSON from an IO as well ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

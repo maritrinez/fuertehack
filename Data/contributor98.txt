@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ralph Shnelvar to Ruby on Rails" />
+    <meta name="keywords" content="Ralph Shnelvar,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #97 Ralph Shnelvar - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #97 <span class="fn">Ralph Shnelvar</span> - All time<br/>
+    <span class="listing-total">Showing 39 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e053b415e7874b56c5ac788644c68e264a1cef33"><span class="sha1">e053b41</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Add ability to specify custom annotation directories</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b5472cf7f22cb6d06bfdb329b13b919998e4ad7b"><span class="sha1">b5472cf</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">Add test coverage for rake notes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06dc8ed28900246436003bf32dc2579af12f4846"><span class="sha1">06dc8ed</span></a></td>
+  <td class="commit-date">2012-02-25</td>
+  <td class="commit-message">Fixing Windows asset tag helper test failure</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4e8479ccc4c86f580fdd82c5de2943a163d4502"><span class="sha1">d4e8479</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Add in a tip about opening two command prompt windows</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4eb030eb3928b5c47a5d63ac2129c2d3a1d205c7"><span class="sha1">4eb030e</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Fix two spaces after end of sentence.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0405394da2140211bbd89327aa7d962699619949"><span class="sha1">0405394</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Extend description of rails generate scaffold and what i...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e34a4136b07f0d87cf3bf334daddd943b8010a8"><span class="sha1">9e34a41</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Make the rails not found tip more explanatory.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e737b768eb949d4941ce5082d248e19b6fa95d3c"><span class="sha1">e737b76</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Updated rails_welcome.png to latest Rails welcome page.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2fc1e818f9051ad277b810bf554b741ed7288f7"><span class="sha1">b2fc1e8</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Update wording of TIP about --database option for rails new</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41c024d9d4fb82d735e4b4fa0957c8f59083ff55"><span class="sha1">41c024d</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Remove &quot;bundle install&quot; section, as rails new ______ run...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/290849c3e93ff7ee8c287f5aa39efe12fd68c977"><span class="sha1">290849c</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Fix TIP formatting issue</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d80ac950320bca52727917ab692f921954c17daa"><span class="sha1">d80ac95</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Add a note about the fact that the Windows prompt will l...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be584c4bbd3201b1a754c56b4706ba641d20f17e"><span class="sha1">be584c4</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Reformatted to 80 chars.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d7343f86ce95fabf80b93fe6a11c27bfbc01470"><span class="sha1">5d7343f</span></a></td>
+  <td class="commit-date">2011-07-25</td>
+  <td class="commit-message">Wrapped text content to 120 chars</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e5fa59d132562399536a3ca06295b60558bc258"><span class="sha1">1e5fa59</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Add in a tip about opening two command prompt windows</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0076a6fce2b037d6be0c0e8c26b769e66f7dbfee"><span class="sha1">0076a6f</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Fix two spaces after end of sentence.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ca4990a1028c1c3531819fa50b7f3c07eb32aca"><span class="sha1">1ca4990</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Extend description of rails generate scaffold and what i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f7ea1907dbaae737a227977b9b645e4ae22c8a0"><span class="sha1">2f7ea19</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Make the rails not found tip more explanatory.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ee349c7116e4ba1f76681660b71467998c90ed0"><span class="sha1">5ee349c</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Updated rails_welcome.png to latest Rails welcome page.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe5cb7c521d9cc452454fea4146af173cfe82c94"><span class="sha1">fe5cb7c</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Update wording of TIP about --database option for rails new</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/715c128e6a454addbb95df17dbc14cb3780bcea6"><span class="sha1">715c128</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Remove &quot;bundle install&quot; section, as rails new ______ run...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72e06dc7a01a999e786106ae410583642ff81e6d"><span class="sha1">72e06dc</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Fix TIP formatting issue</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e99a0b62ec128272350060554a0f41673fcdb78d"><span class="sha1">e99a0b6</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Add a note about the fact that the Windows prompt will l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b08483633993d90d77f776b8fccb4e8ce4678505"><span class="sha1">b084836</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Reformatted to 80 chars.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ba30e66503cd078c58501c7d35eb9a9b54c03da"><span class="sha1">3ba30e6</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Wrapped text content to 120 chars</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/69505612d465802e555bd620100e3f6e7ef4451a"><span class="sha1">6950561</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Moved ActionController, ActionView and ActionDispatch se...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/24cbee0c5d5ec43167799a8cb3718fa16411c4e2"><span class="sha1">24cbee0</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Add link to the Layouts and Rendering guide to explain m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/27f4d73e4df0bb54662fc3f299a2ae11bb940a4d"><span class="sha1">27f4d73</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Modified the content based on vijaydev&#39;s comment</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75f0298f9d672fdca9d8db30bd5eed284f09ae27"><span class="sha1">75f0298</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Update guide to be based on Rails 3.1.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d689d5e777982768a4ed936ab3d97b7a51b3bf7"><span class="sha1">2d689d5</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Added link to the RubyGems User&#39;s Guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d62e8467692710ce8db9066cd0947a36f175629e"><span class="sha1">d62e846</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Added explanation to Components of Rails to help users n...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa0751add925659e91c15e52d51e84629e493e2f"><span class="sha1">fa0751a</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Added some context for rack apps, linked to the Rails on...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48e85d8b8c6f9d23009e2795b347ce18ad6bff90"><span class="sha1">48e85d8</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Moved ActionController, ActionView and ActionDispatch se...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e8263b687d9b97b326eb2b265dc0474fee969a9"><span class="sha1">5e8263b</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Add link to the Layouts and Rendering guide to explain m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f04725f3ba39c9d9ecdf75cfc398705f1e22f824"><span class="sha1">f04725f</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Modified the content based on vijaydev&#39;s comment</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e44ff63b228509921b346c3ebe138b993e8bf67"><span class="sha1">8e44ff6</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Update guide to be based on Rails 3.1.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25bcca139f163a024bbbb86ac3ca785c18c1d6e1"><span class="sha1">25bcca1</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Added link to the RubyGems User&#39;s Guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb746e3362844c82e0c984d2002cd6393dd40950"><span class="sha1">bb746e3</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Added explanation to Components of Rails to help users n...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3eb99aab77c04dbd95dfc9f73e03a667f114914f"><span class="sha1">3eb99aa</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">Added some context for rack apps, linked to the Rails on...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

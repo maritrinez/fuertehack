@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Josef Šimánek to Ruby on Rails" />
+    <meta name="keywords" content="Josef Šimánek,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Josef Šimánek - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Josef Šimánek</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d97269dac70155be19b0a1ee4e1d988988aaebdb"><span class="sha1">d97269d</span></a></td>
+  <td class="commit-date">2013-07-17</td>
+  <td class="commit-message">Use latest mysql2.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ecd125a62da693320da8ea7bbccd60b71f67e63"><span class="sha1">5ecd125</span></a></td>
+  <td class="commit-date">2013-07-16</td>
+  <td class="commit-message">Added generated unit test for generator generator and ne...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e1656e76f048893c552358fe02153b758c854e2"><span class="sha1">8e1656e</span></a></td>
+  <td class="commit-date">2013-07-13</td>
+  <td class="commit-message">Remove update:application_controller rake task.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b4b2f5d8e4e578920d4e9028cf870dd7b6312ca9"><span class="sha1">b4b2f5d</span></a></td>
+  <td class="commit-date">2012-02-18</td>
+  <td class="commit-message">Update activerecord/CHANGELOG.md</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3e7e0513b695f438583dc85037f4c7798add869"><span class="sha1">e3e7e05</span></a></td>
+  <td class="commit-date">2012-02-07</td>
+  <td class="commit-message">Merge pull request #82 from simi/encode_with</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89f2c94c22421cffb887f70a01362dcd747ae49a"><span class="sha1">89f2c94</span></a></td>
+  <td class="commit-date">2012-02-07</td>
+  <td class="commit-message">Correcting ActiveRecord::Core#encode_with docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae60475a41cb0f5b3f7e071b75a0b5c5214c9f85"><span class="sha1">ae60475</span></a></td>
+  <td class="commit-date">2011-12-24</td>
+  <td class="commit-message">Changelog release dates fixed according to rubygems.org</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f44e27fc57a0f4109eb3ea9b450a2435a1d771f"><span class="sha1">9f44e27</span></a></td>
+  <td class="commit-date">2011-12-21</td>
+  <td class="commit-message">rails version order fixed and formatted in railties chan...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ceb65a639c940613449bc9f137a56a1c3f6a83e3"><span class="sha1">ceb65a6</span></a></td>
+  <td class="commit-date">2011-10-10</td>
+  <td class="commit-message">Active Record changelog mistakes</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

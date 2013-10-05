@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jamie van Dyke to Ruby on Rails" />
+    <meta name="keywords" content="Jamie van Dyke,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #193 Jamie van Dyke - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #193 <span class="fn">Jamie van Dyke</span> - All time<br/>
+    <span class="listing-total">Showing 18 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/edf32cea3f7cfb1e485c1862e3db9d216484e23b"><span class="sha1">edf32ce</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">More complete documentation for find_by_sql. Closes #791...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/971ed153608c571c32416cad0afa9126d122602f"><span class="sha1">971ed15</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document API for exists?&#39;s parameter and provide example...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a23bea7c0d16d159b38650770baafd0c09d2ca78"><span class="sha1">a23bea7</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document API for create&#39;s attributes parameter and provi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b7a18dec8ed78ea989270fc3140260fc87c310e"><span class="sha1">1b7a18d</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document options and add examples for update. Closes #79...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a45e01b3262a5d6b07535c872fdc74d3abad8c0"><span class="sha1">6a45e01</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document options and add examples for delete. Closes #79...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ed69b38afaa5a4703864dc007399ab05613bb5d2"><span class="sha1">ed69b38</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document options and add examples for destroy. Closes #7...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f1d353b186ef01526a7b2a4117e869906571568"><span class="sha1">4f1d353</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document options and add examples for update_all. Closes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6bd7d30e75ee28ac0038bde4ffff8c37533ecf0a"><span class="sha1">6bd7d30</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document options for update_counters. Closes #8091 [fear...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f770b829f4b363888b1af4bc7059bc45637a7ba2"><span class="sha1">f770b82</span></a></td>
+  <td class="commit-date">2007-11-06</td>
+  <td class="commit-message">Enhance explanation with more examples for attr_accessib...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee614d6319d3704a2f92e262a0270812761a8e4e"><span class="sha1">ee614d6</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Add documentation caveat about when to use count_by_sql....</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15dc567e0fffb2b71d41185364ff5ffb505ec61f"><span class="sha1">15dc567</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Also add documentation enhancements for increment_counte...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5bd35705cae2e465b2fe2b2038bb409b63b78438"><span class="sha1">5bd3570</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Enhance documentation for decrement_counter. Closes #809...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/194b4aa4f3feafc1e59b33eb8dc70f793c5921b5"><span class="sha1">194b4aa</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Provide brief introduction to what optimistic locking is...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06cd7b0906c0b6c7c7e60ee329439ae694744134"><span class="sha1">06cd7b0</span></a></td>
+  <td class="commit-date">2007-05-06</td>
+  <td class="commit-message">Add brief introduction to REST to the resources document...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df27fb873c2b13bbe37cd07aa0818f2cf01a05c6"><span class="sha1">df27fb8</span></a></td>
+  <td class="commit-date">2006-12-26</td>
+  <td class="commit-message">apply [5790] to 1.2 stable branch</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29ec023adde3bf174f4f256d1ca34b68c7a1502a"><span class="sha1">29ec023</span></a></td>
+  <td class="commit-date">2006-12-26</td>
+  <td class="commit-message">Fix scaffold_resource generator so it respects the --pre...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85c45051bef4f7dac6812aef83f74aca0f0fe65b"><span class="sha1">85c4505</span></a></td>
+  <td class="commit-date">2006-11-13</td>
+  <td class="commit-message">Merge [5506] from trunk. Set Rails::VERSION::STRING to 1...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/277c1a803ec0882c920e12ffac62bfd2eb7fd6fb"><span class="sha1">277c1a8</span></a></td>
+  <td class="commit-date">2006-11-13</td>
+  <td class="commit-message">Rails::VERSION::STRING should always be available. Close...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

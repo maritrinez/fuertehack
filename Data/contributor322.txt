@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Alex Tambellini to Ruby on Rails" />
+    <meta name="keywords" content="Alex Tambellini,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Alex Tambellini - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Alex Tambellini</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1d9179087a6206e4a896f3a866d69e82604bf6d"><span class="sha1">f1d9179</span></a></td>
+  <td class="commit-date">2013-08-06</td>
+  <td class="commit-message">Remove privatizing of Fixnum#/ from assert_distance_of_t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fea99276c7024f183bf72a16ad9f36af4bae1d42"><span class="sha1">fea9927</span></a></td>
+  <td class="commit-date">2013-08-03</td>
+  <td class="commit-message">Isolate railties Generators Tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae50fd61c61b373dff0e58b826036c89441df059"><span class="sha1">ae50fd6</span></a></td>
+  <td class="commit-date">2013-08-02</td>
+  <td class="commit-message">Fix jruby warning when capture calls unlink on an open t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/560541ffdecf6240e2cd38d68b841e01bbd654d2"><span class="sha1">560541f</span></a></td>
+  <td class="commit-date">2013-08-02</td>
+  <td class="commit-message">Fix ActiveSupport::Testing::Isolation on jruby</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6c367a0d787705746f262d0bd5ad8c4f13a8c809"><span class="sha1">6c367a0</span></a></td>
+  <td class="commit-date">2012-01-26</td>
+  <td class="commit-message">safe_constantize should handle wrong constant name NameE...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7598284c0bd9de93d9bfec4607a64953be1e30f8"><span class="sha1">7598284</span></a></td>
+  <td class="commit-date">2012-01-26</td>
+  <td class="commit-message">safe_constantize should handle wrong constant name NameE...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fec2999e65ad355b911911205e48432b24ab93a4"><span class="sha1">fec2999</span></a></td>
+  <td class="commit-date">2011-12-20</td>
+  <td class="commit-message">Fix reference to old :sql schema_format location</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ff15c87ab9cd0046bc2010fe3227f2e86e1f05d7"><span class="sha1">ff15c87</span></a></td>
+  <td class="commit-date">2011-12-19</td>
+  <td class="commit-message">Fix reference to old :sql schema_format location</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0af93089deaf6dc9428c0f2f7a376cdb6f81daee"><span class="sha1">0af9308</span></a></td>
+  <td class="commit-date">2011-11-17</td>
+  <td class="commit-message">Move schema_format :sql config setting from test.rb to a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15fb4302b6ff16e641b6279a3530eb8ed97f2899"><span class="sha1">15fb430</span></a></td>
+  <td class="commit-date">2011-11-04</td>
+  <td class="commit-message">schema_format :sql should behave like schema_format :ruby</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

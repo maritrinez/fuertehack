@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Andreas Scherer to Ruby on Rails" />
+    <meta name="keywords" content="Andreas Scherer,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #88 Andreas Scherer - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #88 <span class="fn">Andreas Scherer</span> - All time<br/>
+    <span class="listing-total">Showing 43 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26ad104e72e2b758815a043341dd83a1b02e8c7f"><span class="sha1">26ad104</span></a></td>
+  <td class="commit-date">2009-05-14</td>
+  <td class="commit-message">&#39;TIP.&#39; replaced with &#39;TIP:&#39; for consistent formatting.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/968a0ad502ea9cfd28fab1acd92b577bec1b669e"><span class="sha1">968a0ad</span></a></td>
+  <td class="commit-date">2009-03-10</td>
+  <td class="commit-message">Replace comma with full-stop in scoping chain.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ed698ed79d3c88b6d1bf16087a56bbe8004a2e8"><span class="sha1">7ed698e</span></a></td>
+  <td class="commit-date">2009-03-10</td>
+  <td class="commit-message">Revision of i18n guide, final sections.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ffe2ddb7fb64e483455137ef6a93993491f62928"><span class="sha1">ffe2ddb</span></a></td>
+  <td class="commit-date">2009-03-10</td>
+  <td class="commit-message">Revision of i18n guide, chapter 4.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/edd5d7f38c75a03b85207b7d847b1b1fccb04a18"><span class="sha1">edd5d7f</span></a></td>
+  <td class="commit-date">2009-03-10</td>
+  <td class="commit-message">Revision of i18n guide, chapter 3.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9806fe176db08c8cbc8ee9ecf709f92a8dfe0e7"><span class="sha1">c9806fe</span></a></td>
+  <td class="commit-date">2009-03-09</td>
+  <td class="commit-message">Touch-up the &#39;i18n&#39; part while reading the first two sec...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bd45029f5552e5a91e0c4a1aa480329c17753277"><span class="sha1">bd45029</span></a></td>
+  <td class="commit-date">2009-02-21</td>
+  <td class="commit-message">RedCloth 4.1.9 is OK.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/58e064afd292902bd970c813513ee3727d2f8ae3"><span class="sha1">58e064a</span></a></td>
+  <td class="commit-date">2009-02-20</td>
+  <td class="commit-message">More spurious backticks replaced/removed.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/079eda9ba0d55d1e86eafa8e466702bb5dbb3101"><span class="sha1">079eda9</span></a></td>
+  <td class="commit-date">2009-02-20</td>
+  <td class="commit-message">Don&#39;t use backticks for markup.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ba1fc18e13c03966d411947180022c1730e81ff"><span class="sha1">8ba1fc1</span></a></td>
+  <td class="commit-date">2009-02-19</td>
+  <td class="commit-message">Copyediting of the &#39;migrations&#39; guide.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07a1d645ee2218c4d57ff778f65899a8ac5d454e"><span class="sha1">07a1d64</span></a></td>
+  <td class="commit-date">2009-02-19</td>
+  <td class="commit-message">Consistent UPCASE setting of &#39;SQL&#39;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9f037ea1f5075c283f5a66f0fc02114a7260c9a"><span class="sha1">d9f037e</span></a></td>
+  <td class="commit-date">2009-02-18</td>
+  <td class="commit-message">Sorry, wrong patch applied.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/791407d996d48a4d937ebb229cf2c2735816b016"><span class="sha1">791407d</span></a></td>
+  <td class="commit-date">2009-02-18</td>
+  <td class="commit-message">Fix typos and formatting in &#39;security&#39; from chapter 8 to...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b64dd9cd13233ed49ad9fbc27f6f5bbfe11039ff"><span class="sha1">b64dd9c</span></a></td>
+  <td class="commit-date">2009-02-18</td>
+  <td class="commit-message">Copyediting of the &#39;security&#39; guide from chapter 8 to th...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bec07bc5d2229e8b1f9aa1f2750d71472c129f40"><span class="sha1">bec07bc</span></a></td>
+  <td class="commit-date">2009-02-18</td>
+  <td class="commit-message">Verbatim markup does not escape angle brackets.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d4e78fe8bb421f21eb56b4858dd19f290fabfce"><span class="sha1">4d4e78f</span></a></td>
+  <td class="commit-date">2009-02-18</td>
+  <td class="commit-message">Don&#39;t use underscore for emphasis around function contai...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/245c77666c98b0de178761ea3f3ac678a9cc6c84"><span class="sha1">245c776</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Remove superflous &#39;notextile&#39;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa6494dd5ec6ee818b995cbd38c96f0c99721a99"><span class="sha1">fa6494d</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Formatting bugs corrected.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16c82cb80702144eb410bb5b5e1827d9699d9f4f"><span class="sha1">16c82cb</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Copyediting the &#39;Security&#39; guide up to chapter 8.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71947e30cc102e8512d76932dee015802a314d32"><span class="sha1">71947e3</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Fix two errors.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48791dda34530f1221c48740857173c267f677ca"><span class="sha1">48791dd</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Remove empty line that breaks &#39;code&#39; formatting.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5c4af5973228e9e2d4aafbbcb89cfd08afb2370c"><span class="sha1">5c4af59</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Use tables for object properties and their purposes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5376a247f804b331f8157c461c61213e3c1ce35"><span class="sha1">d5376a2</span></a></td>
+  <td class="commit-date">2009-02-17</td>
+  <td class="commit-message">Fix a programming error.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8053435acfc134bad7ace3216de26665fb8d5cc"><span class="sha1">e805343</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">Consistent monospaced markup for command options.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce49b7522ad47ab28b2e4a7539e15751eccd7cdd"><span class="sha1">ce49b75</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">Delete superfluous escape characters.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f1f5de2efdb5e3cd0c72db175096705283f17eb6"><span class="sha1">f1f5de2</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">Fix two typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/74c8ff53e7fff1e7c1ceaf5f5205668dfa81557d"><span class="sha1">74c8ff5</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">More tables headers formatted.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2aeccee940ccb8b5bdedc1333a946ceb699d18b"><span class="sha1">e2aecce</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">Mark table headers.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c2c08c15a924b80f79043a28db2ade64e71187cb"><span class="sha1">c2c08c1</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">Fix a typo.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a4f25fb63a47799b871ac9105089bda322cbef0"><span class="sha1">3a4f25f</span></a></td>
+  <td class="commit-date">2009-02-16</td>
+  <td class="commit-message">Genitiv apostrophe added.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c6fd1ba873a3e23c6ef957b61cc09f6902d26a3"><span class="sha1">2c6fd1b</span></a></td>
+  <td class="commit-date">2009-02-14</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8eb7ad21ccc8dcd8ff312009070f6792929c6276"><span class="sha1">8eb7ad2</span></a></td>
+  <td class="commit-date">2009-02-14</td>
+  <td class="commit-message">Use the controller name &#39;Greetings&#39; consistently.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3bfbbeb79defce6877435c7a70e5e0301646dcc2"><span class="sha1">3bfbbeb</span></a></td>
+  <td class="commit-date">2009-02-12</td>
+  <td class="commit-message">Improvements for Association Basics.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7a5db2885bbc442b238ef80f793892ad473d7b5"><span class="sha1">d7a5db2</span></a></td>
+  <td class="commit-date">2009-02-12</td>
+  <td class="commit-message">Use ndash for numerical relations.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/115f352deb0803b427cd334fde549c39df7b4d32"><span class="sha1">115f352</span></a></td>
+  <td class="commit-date">2009-02-12</td>
+  <td class="commit-message">Use n-dashes for ranges/relations.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ce05c5a36a96dc370d66247e12900f9d07a5b4f"><span class="sha1">1ce05c5</span></a></td>
+  <td class="commit-date">2009-02-11</td>
+  <td class="commit-message">&lt;code&gt; formatting and TIP: formatting improved.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6fcc471e2edfdf26077a94425d27b1127b94c10"><span class="sha1">b6fcc47</span></a></td>
+  <td class="commit-date">2009-02-11</td>
+  <td class="commit-message">Use explicit HTML charnames for textile-formatted &lt;code/&gt;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/37411e9e57ed04a0c3683edf3e369b821b853922"><span class="sha1">37411e9</span></a></td>
+  <td class="commit-date">2009-02-11</td>
+  <td class="commit-message">Fix some formatting errors</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a088848200d52d2406717ac171c092d632c04add"><span class="sha1">a088848</span></a></td>
+  <td class="commit-date">2009-02-11</td>
+  <td class="commit-message">More consistent use of &#39;an&#39; in front of &#39;h&#39;.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36f33ef5f6e82adaa4a5b720b2959ed299e2b069"><span class="sha1">36f33ef</span></a></td>
+  <td class="commit-date">2009-02-11</td>
+  <td class="commit-message">Improvements for the forms helper guide.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2012650803d9fea305877a33f0f0b7db1f57566b"><span class="sha1">2012650</span></a></td>
+  <td class="commit-date">2009-02-10</td>
+  <td class="commit-message">Mistyped HTML corrected.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/542e61849e3bdfa8497773c68f7b65b9927114de"><span class="sha1">542e618</span></a></td>
+  <td class="commit-date">2009-02-10</td>
+  <td class="commit-message">Fix more typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b42fb934d194d8bc1770e4c5efb80c4674ea5cbe"><span class="sha1">b42fb93</span></a></td>
+  <td class="commit-date">2009-02-10</td>
+  <td class="commit-message">Missing &#39;code&#39; marker added.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

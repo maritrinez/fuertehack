@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Mohammad Typaldos to Ruby on Rails" />
+    <meta name="keywords" content="Mohammad Typaldos,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #155 Mohammad Typaldos - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #155 <span class="fn">Mohammad Typaldos</span> - All time<br/>
+    <span class="listing-total">Showing 23 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47139b8cb6275aa8bd791df221060cbf872e9e18"><span class="sha1">47139b8</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">Edited railties/guides/source/asset_pipeline.textile via...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/837a74bc0f232c225b146c23fa706264e8473371"><span class="sha1">837a74b</span></a></td>
+  <td class="commit-date">2011-06-24</td>
+  <td class="commit-message">Edited railties/guides/source/asset_pipeline.textile via...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c01c954c20e64119ea73f3b71c4d843d66fda64e"><span class="sha1">c01c954</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">Added Gzip to Asset Pipeline via GitHub</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcebf9fd93ed1dc9369f65ad91170d34653df404"><span class="sha1">fcebf9f</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">Sprockets itself doesn&#39;t compress</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d4d9f1937af42d76bd7ebb5297d9b2564067c37"><span class="sha1">2d4d9f1</span></a></td>
+  <td class="commit-date">2011-06-21</td>
+  <td class="commit-message">Edited railties/guides/source/asset_pipeline.textile via...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d64aafa98c0806f34be02c0b38bb4bd9fca2ed9"><span class="sha1">8d64aaf</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Consistency issues with pre-processor</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/04daede85d9857e88a0e89019ec6a8ef136330b4"><span class="sha1">04daede</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Edited railties/guides/source/asset_pipeline.textile via...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bb7c863966695ef0b0bdfb7868394c20beeace4"><span class="sha1">8bb7c86</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Let the reader know what JS and CSS stand for. Slight re...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/618802df714efa64a9f8a399afbd3ad07f914212"><span class="sha1">618802d</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Sprockets itself doesn&#39;t do this, it&#39;s uglifier and othe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a36817b5d437b6d78563a298b2634c05803a0c6"><span class="sha1">4a36817</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Edited railties/guides/source/asset_pipeline.textile via...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79647c6fdf75e02e65eefaef5911bc1e061cb758"><span class="sha1">79647c6</span></a></td>
+  <td class="commit-date">2011-06-09</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/45a5201b8697e3af13450e2672faf2daae5e5756"><span class="sha1">45a5201</span></a></td>
+  <td class="commit-date">2011-06-09</td>
+  <td class="commit-message">Match tone already established</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe2482e50b1eebc12025d4c39c94e33dca8e95a8"><span class="sha1">fe2482e</span></a></td>
+  <td class="commit-date">2011-06-08</td>
+  <td class="commit-message">require_tree is pretty simple</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a620e65053b1fc613590bee60b4297489f2d35bc"><span class="sha1">a620e65</span></a></td>
+  <td class="commit-date">2011-06-05</td>
+  <td class="commit-message">Edited railties/guides/source/asset_pipeline.textile via...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/910ebe1193d412cd7a08eb91e9e7692629b8b0d5"><span class="sha1">910ebe1</span></a></td>
+  <td class="commit-date">2011-05-30</td>
+  <td class="commit-message">Stubbing and some content addition and changes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0082bfa87c5c68c8df9a962c3c6869c2abc4205"><span class="sha1">d0082bf</span></a></td>
+  <td class="commit-date">2011-05-30</td>
+  <td class="commit-message">What is the asset pipeline?</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ace750871527a54bab434aaf31b1e7d80f25aaea"><span class="sha1">ace7508</span></a></td>
+  <td class="commit-date">2011-05-30</td>
+  <td class="commit-message">Adding assets to a gem</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07dcae093b0cd6fbe80e361ca0f603cd143a079b"><span class="sha1">07dcae0</span></a></td>
+  <td class="commit-date">2011-05-29</td>
+  <td class="commit-message">Fixes spelling mistakes pointed out by @vijaydev</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9342ad67486f96357e518becb71ec225e0bd216e"><span class="sha1">9342ad6</span></a></td>
+  <td class="commit-date">2011-05-29</td>
+  <td class="commit-message">Changes wording to make it a bit eaiser to understand</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4967b35e00318d4f3ba3fdf9b7778eec387d64f2"><span class="sha1">4967b35</span></a></td>
+  <td class="commit-date">2011-05-29</td>
+  <td class="commit-message">Why should you use the asset pipeline?</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ded7e35cb021512124f491c5ee90aa52829f9932"><span class="sha1">ded7e35</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">Removes a now needless test - via Github</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec44763f03b49e8c6e3bff71772ba32863a01306"><span class="sha1">ec44763</span></a></td>
+  <td class="commit-date">2011-05-26</td>
+  <td class="commit-message">Removes the restriction on primary key when joining in a...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/99dd117d6292b66a60567fd950c7ca2bda7e01f3"><span class="sha1">99dd117</span></a></td>
+  <td class="commit-date">2011-05-25</td>
+  <td class="commit-message">Adds outline draft#1 for the Asset Pipeline, please comm...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

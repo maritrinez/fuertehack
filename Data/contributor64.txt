@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Manfred Stienstra to Ruby on Rails" />
+    <meta name="keywords" content="Manfred Stienstra,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #64 Manfred Stienstra - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #64 <span class="fn">Manfred Stienstra</span> - All time<br/>
+    <span class="listing-total">Showing 66 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5da9a74bd35284cf5124793c1f7558e506b52592"><span class="sha1">5da9a74</span></a></td>
+  <td class="commit-date">2011-03-23</td>
+  <td class="commit-message">Add a failing test case for an implicit action with a be...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d3c58068c2f35e0a63d67a11685d1e5057412ff"><span class="sha1">2d3c580</span></a></td>
+  <td class="commit-date">2010-03-16</td>
+  <td class="commit-message">Improve performance of Multibyte::Utils.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e64eab6a27bebdaaffa1ec10bbbd80bd8d73cb9"><span class="sha1">0e64eab</span></a></td>
+  <td class="commit-date">2009-11-04</td>
+  <td class="commit-message">Autoload Multibyte features.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/da3a228a93e1858a46f9a0cefcb9c72285479a56"><span class="sha1">da3a228</span></a></td>
+  <td class="commit-date">2009-11-04</td>
+  <td class="commit-message">Make ActiveSupport::Chars#limit run on Ruby 1.9.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62a022891b5f12284205920a03a3cbbe5b8ecd27"><span class="sha1">62a0228</span></a></td>
+  <td class="commit-date">2009-11-04</td>
+  <td class="commit-message">Improve performance of Multibyte::Utils.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/935bd0fef8e26f4ec65fe411a1d29942493f8d46"><span class="sha1">935bd0f</span></a></td>
+  <td class="commit-date">2009-11-04</td>
+  <td class="commit-message">Add ActiveSupport::Multibyte::Chars#limit.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c680f2372e2d4081597bb130715ee79daaf80576"><span class="sha1">c680f23</span></a></td>
+  <td class="commit-date">2009-09-25</td>
+  <td class="commit-message">Prefix Internet Explorer&#39;s accepted mime types with sens...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e31d29fae766daa358ed6e6bf278e75b95a317d3"><span class="sha1">e31d29f</span></a></td>
+  <td class="commit-date">2009-09-03</td>
+  <td class="commit-message">Add methods for string verification and encoding cleanup...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07c69380cf934d7173d116db87e8d8dbb9edd2b2"><span class="sha1">07c6938</span></a></td>
+  <td class="commit-date">2009-09-03</td>
+  <td class="commit-message">Add verify and clean methods to ActiveSupport::Multibyte.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3db21fe4f54539be7fc212167553665970a955f"><span class="sha1">e3db21f</span></a></td>
+  <td class="commit-date">2009-09-01</td>
+  <td class="commit-message">Add methods for string verification and encoding cleanup...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f209d3898fbd866e1405861319b85c97674a0508"><span class="sha1">f209d38</span></a></td>
+  <td class="commit-date">2009-04-07</td>
+  <td class="commit-message">Improve tests and code for Rails::InfoController and Rai...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3aa2bcdcffb42f578b0e89fe08e1c4e234ccf3b"><span class="sha1">c3aa2bc</span></a></td>
+  <td class="commit-date">2009-03-10</td>
+  <td class="commit-message">Ensure nested with_scope merges conditions inside out [#...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6099f261ea7c624aa45b47be7573ed1cab7b6b71"><span class="sha1">6099f26</span></a></td>
+  <td class="commit-date">2009-02-25</td>
+  <td class="commit-message">Test view path loading from the initializer.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea5d288606cac0b6055dd4e088cfb848f3b9b78f"><span class="sha1">ea5d288</span></a></td>
+  <td class="commit-date">2009-02-25</td>
+  <td class="commit-message">Test database middleware loading from the initializer.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/809409d92fa57555fe0b3a148e41d2a47a1551d2"><span class="sha1">809409d</span></a></td>
+  <td class="commit-date">2009-02-25</td>
+  <td class="commit-message">Add test case for ActiveRecord::ConnectionAdapters::Conn...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8326b95169ae6af3b81f5596107fef9db4bcbbb0"><span class="sha1">8326b95</span></a></td>
+  <td class="commit-date">2008-12-18</td>
+  <td class="commit-message">Free MySQL::Result objects after a call to execute [#141...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f48c09094610cbf26ec1e93d9bf978b2ae86fa8"><span class="sha1">1f48c09</span></a></td>
+  <td class="commit-date">2008-11-24</td>
+  <td class="commit-message">Accept a prefix argument to filter_backtrace_with_cleani...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/efb9ef65ccd1e047605887fc76eab41b9add45bd"><span class="sha1">efb9ef6</span></a></td>
+  <td class="commit-date">2008-10-06</td>
+  <td class="commit-message">Fix a typo in ActiveSupport::Multibyte::NORMALIZATION_FO...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5795c509a7c0ab9c6d3d707f34526430e58e535c"><span class="sha1">5795c50</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Set encoding of the multibyte test helpers file to UTF-8...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1585a7ed0228c2d4688e986c24fc221a4a9e5104"><span class="sha1">1585a7e</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Change all calls to String#chars to String#mb_chars.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00a428655149c349d29b9351dbc345a3b8025a58"><span class="sha1">00a4286</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Change call to String#chars in inflector to String#mb_ch...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44e44b42d9226c089f00970ced796c83f193f262"><span class="sha1">44e44b4</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Deprecated String#chars in favor of String#mb_chars.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c9eedec3c17861c354635a33f3012e85083301f"><span class="sha1">3c9eede</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Move multibyte test helpers to a separate file and make ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85c05b53948a64ab0e246239d18e01d317a74d7d"><span class="sha1">85c05b5</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Add tests for u_unpack to make sure it raises an Encodin...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52f8c04e1e0f2e6610e54b00125179ec9dacbcd5"><span class="sha1">52f8c04</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Fix a test that assumes .mb_chars to always return an in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/809af7f5586cb3f2f913b21be168fbf72d58cbfe"><span class="sha1">809af7f</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Non-string results from forwarded methods should be retu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8eec5ac33d6f421fe5a2c757794ed2e4965f81d"><span class="sha1">b8eec5a</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Remove special 1.9 version of excerpt helper.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfc73852b1f03d8dee405cdeb0f2883d89c78b2d"><span class="sha1">bfc7385</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Improve documentation.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7329990d868d10e4fbf541097cd5be8f1254e2ce"><span class="sha1">7329990</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Change all calls to String#chars to String#mb_chars. Rem...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8abef4fd0df828e79be6b9fadd8f45c575ab817c"><span class="sha1">8abef4f</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">All methods which normally return a string now return a ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/520c3f33c3f642ccab3a860cf5ee0b5530c7c4f1"><span class="sha1">520c3f3</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Change all calls to String#chars to String#mb_chars.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/021172208885be0c137a9d5f352f862479044e7a"><span class="sha1">0211722</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Move with_kcode helper to abstract_unit. Add tests for m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/042fd971271791659c90e065e761cf90d3117b74"><span class="sha1">042fd97</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Add a test for ActiveSupport::Multibyte::Chars.consumes?.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/22f75d539dca7b6f33cbf86e4e9d1944bb22731f"><span class="sha1">22f75d5</span></a></td>
+  <td class="commit-date">2008-09-21</td>
+  <td class="commit-message">Simplify ActiveSupport::Multibyte and make it run on Rub...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/babbc1580da9e4a23921ab68d47c7c0d2e8447da"><span class="sha1">babbc15</span></a></td>
+  <td class="commit-date">2008-09-11</td>
+  <td class="commit-message">Fix ActiveRecord::Base.quote_bound_value for ActiveSuppe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e608af9ffd4fd62d6dca9fd2d4a31d6397f3b4d"><span class="sha1">7e608af</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Add documentation examples to prototype helper. Closes #...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/af005df811dce7b602a07abeba40aff39799a9d0"><span class="sha1">af005df</span></a></td>
+  <td class="commit-date">2007-11-06</td>
+  <td class="commit-message">Add documentation for route conditions. Closes #9041 [in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73f72eeec2d0cc689735f52de4a5c3c80c4c1e85"><span class="sha1">73f72ee</span></a></td>
+  <td class="commit-date">2007-08-05</td>
+  <td class="commit-message">Make the utf-handler return the correct value for non-ma...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe3e03e7708c576d5b09fb161e68d715796eae67"><span class="sha1">fe3e03e</span></a></td>
+  <td class="commit-date">2007-08-05</td>
+  <td class="commit-message"> Add ljust, rjust and center to utf8-handler. Closes #91...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be196f3f7ec86e072d455cdca6acae1fd8782066"><span class="sha1">be196f3</span></a></td>
+  <td class="commit-date">2007-07-31</td>
+  <td class="commit-message">Add support for []= on ActiveSupport::Multibyte::Chars. ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0ff4ec1936b6888ce199ef5131c3a2d866a968c"><span class="sha1">d0ff4ec</span></a></td>
+  <td class="commit-date">2007-06-30</td>
+  <td class="commit-message">Don&#39;t call unsupported methods on associated objects whe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/279113f9b31ba6f08ba2489f5f033d269b94f829"><span class="sha1">279113f</span></a></td>
+  <td class="commit-date">2007-06-23</td>
+  <td class="commit-message">Fixed validates_associated should not stop on the first ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/428d1f67dab05b84330c7fc66bff0202aee91bd8"><span class="sha1">428d1f6</span></a></td>
+  <td class="commit-date">2007-05-28</td>
+  <td class="commit-message">Multibyte strings respond_to the String methods they pro...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8b67f7fe1ff281a7ba00bd187fe938a12bb5566"><span class="sha1">d8b67f7</span></a></td>
+  <td class="commit-date">2007-05-28</td>
+  <td class="commit-message">Generate rdoc with utf-8 charset. Closes #7188 [manfred,...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4c24b6bb48394d9025d5d375506c85060578505"><span class="sha1">d4c24b6</span></a></td>
+  <td class="commit-date">2007-05-18</td>
+  <td class="commit-message">Merge [6775] to stable from trunk: observe_form always s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4221494348f06b0c44446a44571c8ad8b74e1da6"><span class="sha1">4221494</span></a></td>
+  <td class="commit-date">2007-05-18</td>
+  <td class="commit-message">observe_form always sends the serialized form. Closes #5...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87b7b5b3e74cb6ce3efc7e472c933bf846b26cc3"><span class="sha1">87b7b5b</span></a></td>
+  <td class="commit-date">2007-02-25</td>
+  <td class="commit-message">Added fixtures :all to test_helper.rb to assume that mos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f114177ce06ecfaa3d2e5169b8d7606ad3ea751"><span class="sha1">5f11417</span></a></td>
+  <td class="commit-date">2007-01-15</td>
+  <td class="commit-message">Merge [5935] from trunk. References #3987, #6664.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a491f928608f763cf4fa6067f7cf9529197afcae"><span class="sha1">a491f92</span></a></td>
+  <td class="commit-date">2007-01-15</td>
+  <td class="commit-message">MySQL, PostgreSQL: change_column_default quotes the defa...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a7ce06e90b83d10fb57f30086a9ebec726febfd"><span class="sha1">1a7ce06</span></a></td>
+  <td class="commit-date">2007-01-12</td>
+  <td class="commit-message">Merge [5895], [5896] from trunk. References #6891.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa619b051b5e12c6b1e8b91a32d6738edafcc3af"><span class="sha1">fa619b0</span></a></td>
+  <td class="commit-date">2007-01-12</td>
+  <td class="commit-message">link_to_unless_current works with full URLs as well as p...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/911f3db00abb7b35b400973c032e4e5c340bce6f"><span class="sha1">911f3db</span></a></td>
+  <td class="commit-date">2006-10-17</td>
+  <td class="commit-message">Ensure Chars#tidy_bytes only tidies broken bytes. Closes...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/81ddeadd4962f110d51a073a270c844407222593"><span class="sha1">81ddead</span></a></td>
+  <td class="commit-date">2006-10-14</td>
+  <td class="commit-message">Replace KCODE checks with String#chars for truncate.  Cl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/41c362352433f265a95c00d8e7b5c1f1299e9011"><span class="sha1">41c3623</span></a></td>
+  <td class="commit-date">2006-10-12</td>
+  <td class="commit-message">Use String#chars in TextHelper::excerpt. Closes #6386 [M...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48cef84150d2c5f7be351787d0584626f5b8155a"><span class="sha1">48cef84</span></a></td>
+  <td class="commit-date">2006-10-12</td>
+  <td class="commit-message">Make core_ext/string/access.rb multibyte safe. Closes #6...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb927c8774f98c979b4e0466798d74bdd23a79f2"><span class="sha1">cb927c8</span></a></td>
+  <td class="commit-date">2006-10-12</td>
+  <td class="commit-message">Make String#chars slicing behaviour consistent with Stri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e89919082624effcd70208eb58c4e2d90b57a2a9"><span class="sha1">e899190</span></a></td>
+  <td class="commit-date">2006-10-04</td>
+  <td class="commit-message">Pull in latest multibyte patch. Closes #6346 [Manfred St...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f238d495b70a264abdb864fe8107e02766b285b4"><span class="sha1">f238d49</span></a></td>
+  <td class="commit-date">2006-10-03</td>
+  <td class="commit-message">Add ActiveSupport::Multibyte.  Provides String#chars whi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7661c2b50aa5ab6d497d6e41cf53545136c4bd37"><span class="sha1">7661c2b</span></a></td>
+  <td class="commit-date">2006-09-12</td>
+  <td class="commit-message">Skip params with empty names, such as the &amp;=Save query s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94a1758f8202eee65f167337541d102d1faeaad2"><span class="sha1">94a1758</span></a></td>
+  <td class="commit-date">2006-08-07</td>
+  <td class="commit-message"> r3022@ks:  jeremy | 2005-11-12 18:40:42 -0800</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b85c5356c905add4ba2f3d68e9a67ab5e3b247d2"><span class="sha1">b85c535</span></a></td>
+  <td class="commit-date">2006-06-03</td>
+  <td class="commit-message">Added documentation for inflections (closes #5013) [m.st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac66cf1289a18504668baffeb1808540103ddc7a"><span class="sha1">ac66cf1</span></a></td>
+  <td class="commit-date">2006-06-02</td>
+  <td class="commit-message">Add :status option to send_data and send_file. Defaults ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/94046542e274f76ec9d31721a73a19e4b651fbfc"><span class="sha1">9404654</span></a></td>
+  <td class="commit-date">2006-01-25</td>
+  <td class="commit-message">Add documentation for add_index and remove_index. Closes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7afaf62bd9f6d3e7e7bf8b37d54d157ac6a3d6d"><span class="sha1">e7afaf6</span></a></td>
+  <td class="commit-date">2005-10-01</td>
+  <td class="commit-message">Added new scriptaculous options for auto_complete_field ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe4abaa7df98aa736485b6ac863d05d80d2c1d89"><span class="sha1">fe4abaa</span></a></td>
+  <td class="commit-date">2005-09-11</td>
+  <td class="commit-message">Added Array#to_sentence that&#39;ll turn [&#39;one&#39;, &#39;two&#39;, &#39;thr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07989b64f47112d7e501e2114284dec322ac2c6c"><span class="sha1">07989b6</span></a></td>
+  <td class="commit-date">2005-01-01</td>
+  <td class="commit-message">Added automated rewriting of the shebang lines on instal...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

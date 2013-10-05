@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Subba Rao Pasupuleti to Ruby on Rails" />
+    <meta name="keywords" content="Subba Rao Pasupuleti,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #141 Subba Rao Pasupuleti - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #141 <span class="fn">Subba Rao Pasupuleti</span> - All time<br/>
+    <span class="listing-total">Showing 26 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6ce2306cdbc5b074b75d5a22d6bfdc83a6a037a"><span class="sha1">b6ce230</span></a></td>
+  <td class="commit-date">2012-06-28</td>
+  <td class="commit-message">fixing typo in from documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ae81a21243961f4d2481e9b87e3c807291d21a9"><span class="sha1">0ae81a2</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">Refactoring conditional logic</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d74ed49f4513572b102ce82696a6f62335a1841"><span class="sha1">2d74ed4</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">reader method eliminates defined? checks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c5248f6f2a1e8c417a7afd25c818181e7ff5564"><span class="sha1">9c5248f</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">nested attributes tests should rely on associated object...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dba4efbd0e437fb3d5a58e180e0bb314d1eb6bc6"><span class="sha1">dba4efb</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">nested attributes tests should rely on associated object...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dbe5ae488eebee660cd97e59a2e15c4752fbe15b"><span class="sha1">dbe5ae4</span></a></td>
+  <td class="commit-date">2010-08-15</td>
+  <td class="commit-message">select tags coerce the :selected option, options to stri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/54477c98482f37d547fa158155ae1624b1f7f7ac"><span class="sha1">54477c9</span></a></td>
+  <td class="commit-date">2010-08-15</td>
+  <td class="commit-message">select tags coerce the :selected option, options to stri...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e5163784102e3ce97b99dd50b35b18868dc3c3b5"><span class="sha1">e516378</span></a></td>
+  <td class="commit-date">2010-08-14</td>
+  <td class="commit-message">Adding missing required statement</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8f437191f1cbf37ba842038164c1b873dc453e9"><span class="sha1">f8f4371</span></a></td>
+  <td class="commit-date">2010-08-14</td>
+  <td class="commit-message">no callbacks should be created for empty array [#5289 st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b61ff257e9ae4b74d4fc3b0d7d24dd15f127de1c"><span class="sha1">b61ff25</span></a></td>
+  <td class="commit-date">2010-08-14</td>
+  <td class="commit-message">tidy up validations length code [#5297 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/76c91a237c5cfa630b19c096c30f9002cd749ed9"><span class="sha1">76c91a2</span></a></td>
+  <td class="commit-date">2010-08-14</td>
+  <td class="commit-message">Adding missing required statement</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7fdc937fafb96134a484ee68669899f66f02637"><span class="sha1">b7fdc93</span></a></td>
+  <td class="commit-date">2010-08-14</td>
+  <td class="commit-message">Adding missing required statement</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe2d65864e6a89bfa9936ca7035b16e43cd3c394"><span class="sha1">fe2d658</span></a></td>
+  <td class="commit-date">2010-08-12</td>
+  <td class="commit-message">no callbacks should be created for empty array [#5289 st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9df227983f08a2f46725f5909ab3b85e7b206c98"><span class="sha1">9df2279</span></a></td>
+  <td class="commit-date">2010-08-12</td>
+  <td class="commit-message">tidy up validations length code [#5297 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef0da581e94be1c938202cfa7ed39fb29614e570"><span class="sha1">ef0da58</span></a></td>
+  <td class="commit-date">2010-08-12</td>
+  <td class="commit-message">no callbacks should be created for empty array [#5289 st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e82b38cd578aa316a03dae55df8076c4b2111bb6"><span class="sha1">e82b38c</span></a></td>
+  <td class="commit-date">2010-08-12</td>
+  <td class="commit-message">tidy up validations length code [#5297 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5987fd4c79a219753f0eafa0b57198f0a29387ca"><span class="sha1">5987fd4</span></a></td>
+  <td class="commit-date">2010-08-03</td>
+  <td class="commit-message">Tidy up error.rb code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d9d8bc93cd603d76c39779a55142715d8153e88"><span class="sha1">8d9d8bc</span></a></td>
+  <td class="commit-date">2010-08-03</td>
+  <td class="commit-message">Tidy up error.rb code</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12bbc34aca509aba5032e8cc8859ef0c0c845cca"><span class="sha1">12bbc34</span></a></td>
+  <td class="commit-date">2010-08-03</td>
+  <td class="commit-message">In nested_attributes when association is not loaded and ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0c7dee4f2744286069c5ff4e65c3d081a4cb24a"><span class="sha1">b0c7dee</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">removing unused models from tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d77c3b669ce052234868b3d8e4f066e1baf9dbd5"><span class="sha1">d77c3b6</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">eagerly loaded association records should respect defaul...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96b2516c3cbcf900f2e84163baba3db7cb0e37d9"><span class="sha1">96b2516</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">Strengthening the test for nested_attribute</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0bfa0bfc17f4aa615cd9d1006509e0d84b5692d"><span class="sha1">c0bfa0b</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">In nested_attributes when association is not loaded and ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4a0d7c1a439c6ad8d35bf514761824e51fa07df2"><span class="sha1">4a0d7c1</span></a></td>
+  <td class="commit-date">2010-07-18</td>
+  <td class="commit-message">save on parent should not cascade to child unless child ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dec2c4f4e340b60e69e1a88cb6cf46c34c940244"><span class="sha1">dec2c4f</span></a></td>
+  <td class="commit-date">2010-07-18</td>
+  <td class="commit-message">renaming test name to fix accidently override [#5076 sta...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44e7fba59e251c1eb12d8f793a643b5804cb3977"><span class="sha1">44e7fba</span></a></td>
+  <td class="commit-date">2010-07-13</td>
+  <td class="commit-message">renaming test name to fix accidently override</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

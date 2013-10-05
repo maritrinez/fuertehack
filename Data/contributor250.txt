@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by R.T. Lechow to Ruby on Rails" />
+    <meta name="keywords" content="R.T. Lechow,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #242 R.T. Lechow - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #242 <span class="fn">R.T. Lechow</span> - All time<br/>
+    <span class="listing-total">Showing 14 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e63fd899c7bb97095c586caadafd020e9b903663"><span class="sha1">e63fd89</span></a></td>
+  <td class="commit-date">2011-06-18</td>
+  <td class="commit-message">Typo.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ca18f9037b8ce86d9fd3e19be754cc3f97de0fd"><span class="sha1">6ca18f9</span></a></td>
+  <td class="commit-date">2011-06-16</td>
+  <td class="commit-message">Typo.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/737abe4b4dcf3621d7ba6db7fe5d64d73078bfad"><span class="sha1">737abe4</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Railties typos.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87e9e3f9afa470df49f2a07af87074b9f4567028"><span class="sha1">87e9e3f</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Action Pack typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a1b4d8e7b277ddcfba6c31cbb9245025123cf04b"><span class="sha1">a1b4d8e</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Active Record typos.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/273700cbd0f8e9013fd4b4a33ab310e4ac02ff62"><span class="sha1">273700c</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Active Support typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48841dd6aebd41cfab66f719f3d6896e172d7b9f"><span class="sha1">48841dd</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Active Resource typos.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86c15d8b8984b5865d73ecdd6687d91060bda5ba"><span class="sha1">86c15d8</span></a></td>
+  <td class="commit-date">2011-03-05</td>
+  <td class="commit-message">Active Model typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8dae23a2addbbeb8fabf832676b12ef51060b56"><span class="sha1">c8dae23</span></a></td>
+  <td class="commit-date">2011-03-04</td>
+  <td class="commit-message">Railties typos.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12325cf970cc62f7ce3723177da3ee7ba122bedf"><span class="sha1">12325cf</span></a></td>
+  <td class="commit-date">2011-03-04</td>
+  <td class="commit-message">Action Pack typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/238e6f0c6e79257f3e522e66dd96f8249d0af0b0"><span class="sha1">238e6f0</span></a></td>
+  <td class="commit-date">2011-03-04</td>
+  <td class="commit-message">Active Record typos.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/80e3beb24b3fa7fad03486bd4f168f45377a8a60"><span class="sha1">80e3beb</span></a></td>
+  <td class="commit-date">2011-03-04</td>
+  <td class="commit-message">Active Support typos.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/103c297ab3e6c32ad965a6f5c35dc28e2f3c2469"><span class="sha1">103c297</span></a></td>
+  <td class="commit-date">2011-03-04</td>
+  <td class="commit-message">Active Resource typos.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbed63aef056a2fbf9cf1eb846e7f8948001601c"><span class="sha1">fbed63a</span></a></td>
+  <td class="commit-date">2011-03-04</td>
+  <td class="commit-message">Active Model typos.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

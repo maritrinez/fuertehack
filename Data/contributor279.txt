@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Cesar Carruitero to Ruby on Rails" />
+    <meta name="keywords" content="Cesar Carruitero,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Cesar Carruitero - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Cesar Carruitero</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a028b16db88c3634189bbf5c282b7d71decaf71d"><span class="sha1">a028b16</span></a></td>
+  <td class="commit-date">2013-07-02</td>
+  <td class="commit-message">update test names in testing guide [ci-skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d89b03a7c35710b65fe1d344d29aa5904478a2f0"><span class="sha1">d89b03a</span></a></td>
+  <td class="commit-date">2012-11-09</td>
+  <td class="commit-message">update syntax and add note about prompt use of HttpHelpe...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/477cf3151a649b337e56a82dd749a40710deb8d5"><span class="sha1">477cf31</span></a></td>
+  <td class="commit-date">2012-11-09</td>
+  <td class="commit-message">correct link syntax [ci-skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0500becd3fa868bf0eabb8ad47e4cd9f933abb96"><span class="sha1">0500bec</span></a></td>
+  <td class="commit-date">2012-11-09</td>
+  <td class="commit-message">change rdoc syntax for adecuate render [ci-skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3738ef292ac9000cf2e66e91fed61ed939daf59a"><span class="sha1">3738ef2</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">correct double quotes for interpolation in routing guide...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5fe385ba931217edea254f3e6d14538f0801105c"><span class="sha1">5fe385b</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">change match to get and add single quotes in routing/red...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c04abbaa6366771db7434dea32f4f5b747fda1dc"><span class="sha1">c04abba</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">fix bugs in rails_on_rack [ci-skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/01c7a1e702ee1091c0bbcfafccbba57ddac1186d"><span class="sha1">01c7a1e</span></a></td>
+  <td class="commit-date">2012-11-08</td>
+  <td class="commit-message">update syntax in routing guide [ci-skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/223ed2b4832d63853b61ccb8e9ff82fcd835e61f"><span class="sha1">223ed2b</span></a></td>
+  <td class="commit-date">2012-11-05</td>
+  <td class="commit-message">fix white spaces</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/40b0cecea2f4d7ee2e6c1210e6b33d9cdb788ed9"><span class="sha1">40b0cec</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">fix error in AssertTagHelper documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ce7ea65e1b9be853a007379a35d93135fbba2aa"><span class="sha1">0ce7ea6</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">update AssetTagHelper documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe5f5d11c1b27e34d281ea301c47d2ce71592a69"><span class="sha1">fe5f5d1</span></a></td>
+  <td class="commit-date">2012-10-15</td>
+  <td class="commit-message">fix link bug in contributing page</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

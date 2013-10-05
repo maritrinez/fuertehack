@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Colin Curtin to Ruby on Rails" />
+    <meta name="keywords" content="Colin Curtin,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Colin Curtin - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Colin Curtin</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/74fe58add5d6d83038e7db3c79024b6789a2ec25"><span class="sha1">74fe58a</span></a></td>
+  <td class="commit-date">2009-02-20</td>
+  <td class="commit-message">Added Rake section to the command line guide.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb6091a93a1e8695534a23e71886cabbe44ff6de"><span class="sha1">cb6091a</span></a></td>
+  <td class="commit-date">2009-02-04</td>
+  <td class="commit-message">Added advanced server command and a mini-generator tutor...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b29972d1bf762cc3660f199cb09ada7f22ce231a"><span class="sha1">b29972d</span></a></td>
+  <td class="commit-date">2009-02-02</td>
+  <td class="commit-message">Added the first part to the Rails Advanced Command Line</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10e601bd910900d9398943f3cc91bf6f1caa1c11"><span class="sha1">10e601b</span></a></td>
+  <td class="commit-date">2008-12-21</td>
+  <td class="commit-message">Command Line Guide: Added short console/dbconsole/plugin...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e121f9ed93ebb417cc63307aaaf47f8adfd220d"><span class="sha1">0e121f9</span></a></td>
+  <td class="commit-date">2008-12-21</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0187434bd7601a5b2e5f7afac99c964e566b9db"><span class="sha1">b018743</span></a></td>
+  <td class="commit-date">2008-12-17</td>
+  <td class="commit-message">Started working with the scaffold instead of model gener...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4812e350b9e96641a29c8db6ea153426dad1c9a2"><span class="sha1">4812e35</span></a></td>
+  <td class="commit-date">2008-11-26</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78af01f80b3622237462d150aca4aba18204c093"><span class="sha1">78af01f</span></a></td>
+  <td class="commit-date">2008-11-26</td>
+  <td class="commit-message">Next installment: more of the generate script, but shoul...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d4554d766dbf8391689d91b4b88766757051c68"><span class="sha1">1d4554d</span></a></td>
+  <td class="commit-date">2008-11-20</td>
+  <td class="commit-message">ActionMailer should respect content type when choosing l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5b72c9b697d113dd14672ecf43ccb5e854ac4594"><span class="sha1">5b72c9b</span></a></td>
+  <td class="commit-date">2008-11-20</td>
+  <td class="commit-message">ActionMailer should respect content type when choosing l...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c874b3d44fde1dbb369252f425b123b3c73988be"><span class="sha1">c874b3d</span></a></td>
+  <td class="commit-date">2008-11-13</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb0fead1dbc1470717019efcabe6c90da3cf934d"><span class="sha1">bb0fead</span></a></td>
+  <td class="commit-date">2008-11-13</td>
+  <td class="commit-message">The beginnings of a command line tutorial</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

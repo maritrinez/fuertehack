@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Sam Ruby to Ruby on Rails" />
+    <meta name="keywords" content="Sam Ruby,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #112 Sam Ruby - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #112 <span class="fn">Sam Ruby</span> - All time<br/>
+    <span class="listing-total">Showing 34 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8dd88ac81b474cf076222ac20ff718a52872e2c"><span class="sha1">e8dd88a</span></a></td>
+  <td class="commit-date">2013-05-17</td>
+  <td class="commit-message">Eliminate minitest warnings</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f96478369e0e01a00d1d6909814d388c49642b1a"><span class="sha1">f964783</span></a></td>
+  <td class="commit-date">2013-05-16</td>
+  <td class="commit-message">restore whitespace in Gemfile between sqlite3 and sprockets</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0f84c562d0e1919743897f9d8c8bfb98b9631e0"><span class="sha1">c0f84c5</span></a></td>
+  <td class="commit-date">2013-05-16</td>
+  <td class="commit-message">restore whitespace in Gemfile between sqlite3 and sprockets</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10726029107064b364095eb88b86cfe793631bab"><span class="sha1">1072602</span></a></td>
+  <td class="commit-date">2013-05-16</td>
+  <td class="commit-message">restore whitespace in Gemfile between sqlite3 and sprockets</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbd26265eb3e3718291be03e4d7c4db5e8c099df"><span class="sha1">fbd2626</span></a></td>
+  <td class="commit-date">2013-05-05</td>
+  <td class="commit-message">2.15.1 is the first release that supports Rails 4.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec92d8440fa51aea40de1567eed7974422bff000"><span class="sha1">ec92d84</span></a></td>
+  <td class="commit-date">2013-05-03</td>
+  <td class="commit-message">Add a test case for comparing Rails versions</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/558d402472b49c4c99bf6753d341d7aef2e25dd4"><span class="sha1">558d402</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">Make railties version match RAILS_VERSION</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8efc87c14ed6077897fb2437fb2edf7b03e08ebb"><span class="sha1">8efc87c</span></a></td>
+  <td class="commit-date">2013-04-16</td>
+  <td class="commit-message">switch (and lazily convert) ivar names to 3.x</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a4f812f512cf83f5330562bcdf0b2a4199179466"><span class="sha1">a4f812f</span></a></td>
+  <td class="commit-date">2013-04-11</td>
+  <td class="commit-message">Use strip_heredoc where possible</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0171c475f2dd374cf43c1a8a9200165208596483"><span class="sha1">0171c47</span></a></td>
+  <td class="commit-date">2013-04-10</td>
+  <td class="commit-message">Editorial pass over generated Gemfile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfb37a899d915fbfc63b36e7b1627c5c63cfa622"><span class="sha1">cfb37a8</span></a></td>
+  <td class="commit-date">2013-04-03</td>
+  <td class="commit-message">Avoid running bundler on tests that don&#39;t need it</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/04cda1848cb847c2bdad0bfc12160dc8d5547775"><span class="sha1">04cda18</span></a></td>
+  <td class="commit-date">2013-04-02</td>
+  <td class="commit-message">Prefer find_by over dynamic finders in rdoc</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4e35dc0ebec33905a05dca1fdeecc6a39e87e9cc"><span class="sha1">4e35dc0</span></a></td>
+  <td class="commit-date">2013-03-27</td>
+  <td class="commit-message">Remove buggy and unnecessary logic</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7"><span class="sha1">49c4af4</span></a></td>
+  <td class="commit-date">2013-03-27</td>
+  <td class="commit-message">Cosmetic cleanup of generated Gemfile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a9a7007637b8279501770be03bd84ce83d61ab8"><span class="sha1">7a9a700</span></a></td>
+  <td class="commit-date">2013-03-24</td>
+  <td class="commit-message">Use jquery-rails from github</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3008994d1e29b7e59a64bf0a03b5408a2946db25"><span class="sha1">3008994</span></a></td>
+  <td class="commit-date">2013-03-13</td>
+  <td class="commit-message">Add support for generate scaffold password:digest</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c41b768a7846ee7ca4a1249a33603971359c2eb3"><span class="sha1">c41b768</span></a></td>
+  <td class="commit-date">2013-03-09</td>
+  <td class="commit-message">ensure response.stream is closed</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/977455cc2efb94f40b4c0d46d1842be198ed7c4c"><span class="sha1">977455c</span></a></td>
+  <td class="commit-date">2013-02-26</td>
+  <td class="commit-message">Allow both a path and an option on root in config/routes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/549ced9c10974a97b6db8ce0adfbac999a813644"><span class="sha1">549ced9</span></a></td>
+  <td class="commit-date">2013-02-23</td>
+  <td class="commit-message">guides/rails_guides moved up and out of the railties dir...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d528f835e871f5f9d4b68e8a81cfbe900b7e718"><span class="sha1">5d528f8</span></a></td>
+  <td class="commit-date">2013-02-14</td>
+  <td class="commit-message">Make valid_type? public</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c692774bbae528d83925d04e1c3cebb73e3f8ae5"><span class="sha1">c692774</span></a></td>
+  <td class="commit-date">2013-01-11</td>
+  <td class="commit-message">Fix regression introduced in pull request 8812</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9cc82b77196d21a5c7021f6dca59ab9b2b158a45"><span class="sha1">9cc82b7</span></a></td>
+  <td class="commit-date">2013-01-08</td>
+  <td class="commit-message">Eliminate Rack::File headers deprecation warning</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73f4f4aa8fc33fdd72e98f397b876a5a5e6528cf"><span class="sha1">73f4f4a</span></a></td>
+  <td class="commit-date">2013-01-02</td>
+  <td class="commit-message">Fix a number of validation/style errors:</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9eb784208b1b09602d0bc4038641561dc03e157"><span class="sha1">b9eb784</span></a></td>
+  <td class="commit-date">2012-12-15</td>
+  <td class="commit-message">Remove blank lines from generated Gemfile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42954c426b2338bf90f286b8e425b2e192d483ae"><span class="sha1">42954c4</span></a></td>
+  <td class="commit-date">2011-11-18</td>
+  <td class="commit-message">Stop db:seed from performing a reload of the db</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/829df8007d5898ee5f68c68412034d39adbad5c5"><span class="sha1">829df80</span></a></td>
+  <td class="commit-date">2010-08-29</td>
+  <td class="commit-message">Make rake routes gracefully handle routes with no name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/600cf8bebc29da3538032ea141d9881a5ead9b1f"><span class="sha1">600cf8b</span></a></td>
+  <td class="commit-date">2010-08-29</td>
+  <td class="commit-message">Make rake routes gracefully handle routes with no name</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/788684d75a7102107c0d99e5cb32a11a610f628f"><span class="sha1">788684d</span></a></td>
+  <td class="commit-date">2010-05-08</td>
+  <td class="commit-message">get the rescue error page back [#4536 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/80095c54bdf134da1aaaca75653e7316bbcbdf70"><span class="sha1">80095c5</span></a></td>
+  <td class="commit-date">2010-03-19</td>
+  <td class="commit-message">Controller generators should generate tests when action ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cbc0201a3e0145da51baa9d228d88633033521ce"><span class="sha1">cbc0201</span></a></td>
+  <td class="commit-date">2010-03-11</td>
+  <td class="commit-message">Add deprecation warning for overwrite_params and remove ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df8852d04d030330efcb86f16977b837473bf022"><span class="sha1">df8852d</span></a></td>
+  <td class="commit-date">2010-02-02</td>
+  <td class="commit-message">Make rdoc match current API</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5998dd7bb84c76f4c8a272a71b588e2331989b4b"><span class="sha1">5998dd7</span></a></td>
+  <td class="commit-date">2010-02-02</td>
+  <td class="commit-message">Resolve view paths correctly on CygWin</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8cba7db76d7128dfd8fd03de0e085c81bbed92a"><span class="sha1">c8cba7d</span></a></td>
+  <td class="commit-date">2010-01-20</td>
+  <td class="commit-message">Add AD::Route#to_s</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa3565f3a6327c947ded314525ba1d0674d5a71e"><span class="sha1">aa3565f</span></a></td>
+  <td class="commit-date">2009-12-24</td>
+  <td class="commit-message">Allow named_routes to be used with root, and with new DS...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

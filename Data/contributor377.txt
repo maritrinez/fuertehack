@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Sebastian Kanthak to Ruby on Rails" />
+    <meta name="keywords" content="Sebastian Kanthak,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Sebastian Kanthak - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Sebastian Kanthak</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4766f521ee183bf5cba66f0cdd88ec3f1d28d473"><span class="sha1">4766f52</span></a></td>
+  <td class="commit-date">2007-06-23</td>
+  <td class="commit-message">Fix that FCGIs would leave log files open when asked to ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/27962ead0380dcc3997eb45714d6334960f8cce7"><span class="sha1">27962ea</span></a></td>
+  <td class="commit-date">2005-09-11</td>
+  <td class="commit-message">Add ability to specify Route Regexps for controllers. Cl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1a4f91a58363d872ffbaaac4ceb7c50fb372b2b"><span class="sha1">b1a4f91</span></a></td>
+  <td class="commit-date">2005-08-14</td>
+  <td class="commit-message">Make destroy return self #1913 [sebastian.kanthak@muehlh...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfe6a759c25ad02b4bfcb2dd16999d8ba72e2df8"><span class="sha1">bfe6a75</span></a></td>
+  <td class="commit-date">2005-06-16</td>
+  <td class="commit-message">Added actual database-changing behavior to collection as...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad6798f965d74568bf0722f595dcb84bc3e82b0b"><span class="sha1">ad6798f</span></a></td>
+  <td class="commit-date">2005-03-27</td>
+  <td class="commit-message">Fixed that pagination_helper would ignore :params #947 [...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78a732bf3ffaab0788c2962d03a059b3a8324a5f"><span class="sha1">78a732b</span></a></td>
+  <td class="commit-date">2005-03-17</td>
+  <td class="commit-message">close database.yml after reading in configuration #841 [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b55f59e811564604a86dcaba23e3d27c32812f17"><span class="sha1">b55f59e</span></a></td>
+  <td class="commit-date">2005-03-14</td>
+  <td class="commit-message">Added optionally allow for nil or empty strings with val...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/693e0df352e52dd5b3d1b191bbd018cd17023343"><span class="sha1">693e0df</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Fixed rake stats to ignore editor backup files like mode...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/838ae35d63c34872d46bee8b006796ebdd9c7722"><span class="sha1">838ae35</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added validates_numericality_of #716 [skanthak/c.r.mcgrath]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Russell Norris to Ruby on Rails" />
+    <meta name="keywords" content="Russell Norris,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Russell Norris - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Russell Norris</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48ac592bd9d1b1fb9e069f005b084d535941240e"><span class="sha1">48ac592</span></a></td>
+  <td class="commit-date">2013-05-30</td>
+  <td class="commit-message">Revert &quot;change additional &#39;RESTful&#39; routes to &#39;resourcef...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/382419d28fe8c43b88e39b83ac175973a36feca8"><span class="sha1">382419d</span></a></td>
+  <td class="commit-date">2013-05-30</td>
+  <td class="commit-message">change additional &#39;RESTful&#39; routes to &#39;resourceful&#39; rout...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21b55e4462c2a9d3a6420d2754ab63a9d6f01da8"><span class="sha1">21b55e4</span></a></td>
+  <td class="commit-date">2013-04-09</td>
+  <td class="commit-message">improve accuracy of simple_format documentation. span do...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba342c2c96999d207012140b34f95fc553b3d447"><span class="sha1">ba342c2</span></a></td>
+  <td class="commit-date">2008-09-10</td>
+  <td class="commit-message">fixed association preloading to use = instead of IN when...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ce13429cbc1359d85e1dc99c84561840e89d455"><span class="sha1">6ce1342</span></a></td>
+  <td class="commit-date">2008-09-10</td>
+  <td class="commit-message">fixed association preloading to use = instead of IN when...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/95812d5eafc3b63ce5eeb0748a5d0132f5108b64"><span class="sha1">95812d5</span></a></td>
+  <td class="commit-date">2008-07-13</td>
+  <td class="commit-message">Ensure :index works with fields_for select methods. [#51...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/81286f858770e0b95e15af37f19156b044ec6a95"><span class="sha1">81286f8</span></a></td>
+  <td class="commit-date">2008-03-29</td>
+  <td class="commit-message">Dirty typecasts attribute values before comparison, if p...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f8146bc5e7711a6823ce095bb2be3e42012de2b"><span class="sha1">2f8146b</span></a></td>
+  <td class="commit-date">2007-09-22</td>
+  <td class="commit-message">Use rel=&quot;stylesheet&quot; in lowercase as prescribed by XHTML...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ccbef586262b2340f45cafc9eb1668665a2a50d"><span class="sha1">6ccbef5</span></a></td>
+  <td class="commit-date">2006-12-19</td>
+  <td class="commit-message">Merge [5755] from trunk. Closes #6514, closes #6743.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e56bd3a121d1b9ae1d89a335cc39ff9aef36789e"><span class="sha1">e56bd3a</span></a></td>
+  <td class="commit-date">2006-12-19</td>
+  <td class="commit-message">Only cache GET requests with a 200 OK response. Closes #...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

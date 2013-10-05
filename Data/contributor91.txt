@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Richard Hulse to Ruby on Rails" />
+    <meta name="keywords" content="Richard Hulse,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #88 Richard Hulse - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #88 <span class="fn">Richard Hulse</span> - All time<br/>
+    <span class="listing-total">Showing 43 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f94567a2b8129af28fa328e8f71186d9ea9b5aac"><span class="sha1">f94567a</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">[guides] add note about cosequences of option changes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26e2c082595ecca360954cfc20ecc52221748f7b"><span class="sha1">26e2c08</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">[guides] add local precompilation section</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96e5d10fd70e6931c2f96e8ab37b995d2831e329"><span class="sha1">96e5d10</span></a></td>
+  <td class="commit-date">2012-01-16</td>
+  <td class="commit-message">[docs] Update pipeline asset organization section.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d170e36a239799a55e513ff3b259cc95e80d574"><span class="sha1">1d170e3</span></a></td>
+  <td class="commit-date">2012-01-15</td>
+  <td class="commit-message">[docs] Update pipeline asset organization section.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9473f7db229cc5ea3b3617fb96f126c3c89a5a83"><span class="sha1">9473f7d</span></a></td>
+  <td class="commit-date">2011-12-02</td>
+  <td class="commit-message">[docs] removed last-modifed line from examples</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d72a85c0224902005d22ad4981358fcc985b318c"><span class="sha1">d72a85c</span></a></td>
+  <td class="commit-date">2011-12-01</td>
+  <td class="commit-message">[docs] removed last-modifed line from examples</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce5b55939844426a4778f609ce24ec34ccf8c0c2"><span class="sha1">ce5b559</span></a></td>
+  <td class="commit-date">2011-09-03</td>
+  <td class="commit-message">Added new asset config options to guides</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3edf3d2a307630980731b1963721c60ba2a14e0"><span class="sha1">a3edf3d</span></a></td>
+  <td class="commit-date">2011-09-02</td>
+  <td class="commit-message">fix YUI description</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca7c37a660b66b6b3cdd7fe4ab850ea5a32cc2c0"><span class="sha1">ca7c37a</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">fix some minor omissions in pipeline docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfd785f910fc914c576133fee263875833ba0c92"><span class="sha1">cfd785f</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">Move css data URI into css/erb section</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f998c7578d343310a4309bc0b06af224132648d"><span class="sha1">1f998c7</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">pipeline docs improvement</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5421d4d0161949e24f63bab30b82be694761a6d4"><span class="sha1">5421d4d</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">pipeline docs - spelling and some whitespace</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ed1dfaf48da81fa5d88248950419b3a552b44ecf"><span class="sha1">ed1dfaf</span></a></td>
+  <td class="commit-date">2011-09-01</td>
+  <td class="commit-message">update pipeline docs to reflect new defaults</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f0af56395288d6081d5b36f599fa6bc8695463d6"><span class="sha1">f0af563</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">Added new asset config options to guides</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bb9bb245cfd0aabaade92a6c7481a768e624187"><span class="sha1">8bb9bb2</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">Add section to pipeline docs to help people upgrading</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/054bdc1f59a035e1b50febac1487f9b982d6e63a"><span class="sha1">054bdc1</span></a></td>
+  <td class="commit-date">2011-08-31</td>
+  <td class="commit-message">Add section to pipeline docs to help people upgrading</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49e81f21a3e6facac06c49739644dbb36c94f794"><span class="sha1">49e81f2</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">[asset pipeline] update snippet to reflect patch</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32da2f864eb9e1f626f25e5d46a38d0c0d214d15"><span class="sha1">32da2f8</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">[asset pipeline] update to reflect new sendfile header d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b840d71bfb702b121b48832f984090e202793f10"><span class="sha1">b840d71</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">[asset pipeline] Update Capistrano info</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc49d6d1eb075900657b0f94d03c51d18a95a54d"><span class="sha1">bc49d6d</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">[asset pipeline] fixed example</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f4d827b23df36e86e9a8ee903fac0d14bc3a065c"><span class="sha1">f4d827b</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] update capistrano task code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f86f8fc454ca91a5d430889f4fde320b2830b4d2"><span class="sha1">f86f8fc</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] Correct CSS section and include Gem det...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56a8997b985a0676404e53ce1f5a55b4ae5b4570"><span class="sha1">56a8997</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[configuring] add doc for missing assets attribute</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a64748bb438dcdc80ce46fa00d94ec3001bbab00"><span class="sha1">a64748b</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] A few corrections and some new material</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d30929a9156fbf01911ce9639f9bb47630d4aab"><span class="sha1">0d30929</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] Add section on sendfile option</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f619bccbd26f60393f1eec77869127337eaaf49d"><span class="sha1">f619bcc</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] Added information about data uri helper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a4e204660adb27d67fce900ecacc3663c95ea84"><span class="sha1">2a4e204</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] add capistrano task</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/43e69109c12d0eda49eb863de73ab555b14f18c9"><span class="sha1">43e6910</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">[asset pipeline] more updates to docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/27b1bf3c1f74c9f4fd43749a319d8ff8fe8be326"><span class="sha1">27b1bf3</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">[asset pipeline] update capistrano task code</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5187264e19df0bb0e36150803e3c69b2e0e26a74"><span class="sha1">5187264</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">[asset pipeline] Correct CSS section and include Gem det...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/602bac19e75347d642c7f5b86ff46dae2c32c4e5"><span class="sha1">602bac1</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">[configuring] add doc for missing assets attribute</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86869a09eec2eac76e57c04b785c9b4443ad2c72"><span class="sha1">86869a0</span></a></td>
+  <td class="commit-date">2011-07-17</td>
+  <td class="commit-message">[asset pipeline] A few corrections and some new material</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f78aeee87c25bb8fb864daf0f0a1b2bf7a241ac"><span class="sha1">0f78aee</span></a></td>
+  <td class="commit-date">2011-07-16</td>
+  <td class="commit-message">[asset pipeline] Add section on sendfile option</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28d5d22f5a1e3a535d86ad06f4dc8220e61a8d64"><span class="sha1">28d5d22</span></a></td>
+  <td class="commit-date">2011-07-15</td>
+  <td class="commit-message">[asset pipeline] Added information about data uri helper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5dcebd7e3803c34b7e1aa1ed3577c9851dbee4a4"><span class="sha1">5dcebd7</span></a></td>
+  <td class="commit-date">2011-07-13</td>
+  <td class="commit-message">[asset pipeline] add capistrano task</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/826820fb7f3206892fe2d558a59e33b23e4fc358"><span class="sha1">826820f</span></a></td>
+  <td class="commit-date">2011-07-11</td>
+  <td class="commit-message">[asset pipeline] more updates to docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a715c37218d0ebc46d48104d474a4ef9a3acda9a"><span class="sha1">a715c37</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">[asset pipeline] expand section on configuration</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7dec1716ef102226598974cf48a75aed58a6411"><span class="sha1">c7dec17</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">[asset pipeline] More updates</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dc2c57bb3084f0fbbacbbb015e370b1164deb0e"><span class="sha1">0dc2c57</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">[asset pipeline] Add resources to fingerprinting</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfbed13a61a35529fcb57a4291adb708be08dd15"><span class="sha1">cfbed13</span></a></td>
+  <td class="commit-date">2011-07-03</td>
+  <td class="commit-message">[asset pipeline] what is fingerprinting section</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/870d07032f75027faf2b43df6c75ed721d570416"><span class="sha1">870d070</span></a></td>
+  <td class="commit-date">2011-07-02</td>
+  <td class="commit-message">[asset pipeline] spelling !</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a06de86fa8a1de295e9aeefd2c488b063a41ffe"><span class="sha1">2a06de8</span></a></td>
+  <td class="commit-date">2011-07-02</td>
+  <td class="commit-message">[asset pipeline] Add new rationale section</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8de6ded7a5aa243d3b7eca246384fb65fcdf91da"><span class="sha1">8de6ded</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">[asset pipeline] refactor docs and add new content</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Yasuo Honda to Ruby on Rails" />
+    <meta name="keywords" content="Yasuo Honda,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #88 Yasuo Honda - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #88 <span class="fn">Yasuo Honda</span> - All time<br/>
+    <span class="listing-total">Showing 43 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d613034a1184f9de6167288d20f1e2ccf364997a"><span class="sha1">d613034</span></a></td>
+  <td class="commit-date">2013-08-01</td>
+  <td class="commit-message">Change test_registering_new_handlers and test_count_on_i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/798cf2b9ef67faace7fb9f8d5ecfcf892a77eb62"><span class="sha1">798cf2b</span></a></td>
+  <td class="commit-date">2013-05-07</td>
+  <td class="commit-message">Remove current_adapter? from test_sanitize_sql_hash_hand...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0997a14baea5d01fa2083f5bc4c320988f6706ce"><span class="sha1">0997a14</span></a></td>
+  <td class="commit-date">2013-04-11</td>
+  <td class="commit-message">Address ORA-00979: not a GROUP BY expression error</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/67994ef2f9d6c529ec88c28c884681eafa335309"><span class="sha1">67994ef</span></a></td>
+  <td class="commit-date">2013-04-02</td>
+  <td class="commit-message">Show deprecated messages only when target database adapt...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5571e833f2408e93d42410115cdac3bcdd2b5e22"><span class="sha1">5571e83</span></a></td>
+  <td class="commit-date">2013-03-10</td>
+  <td class="commit-message">Address ActiveRecord::StatementInvalid: OCIError: ORA-00979</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d57b821d04eab3fd9b4bdf78254dc428d203be7"><span class="sha1">5d57b82</span></a></td>
+  <td class="commit-date">2013-03-07</td>
+  <td class="commit-message">Use shorter prefix and suffix as in Oracle database iden...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c27da1fbcc243613949c682c44f05fffa71519c4"><span class="sha1">c27da1f</span></a></td>
+  <td class="commit-date">2013-02-27</td>
+  <td class="commit-message">Revert &quot;Skip test_remove_column_with_array_as_an_argumen...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97df33d818602d452a0873e0affe0263ed3c2abb"><span class="sha1">97df33d</span></a></td>
+  <td class="commit-date">2013-02-27</td>
+  <td class="commit-message">Fix ORA-00972 error at test_rename_table_with_prefix_and...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6fad6b5e5c3bbaf23f577b2fdccf4b123dff726e"><span class="sha1">6fad6b5</span></a></td>
+  <td class="commit-date">2013-02-24</td>
+  <td class="commit-message">Oracle enhanced adapter shortens its name if it is longe...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8357935acde972fe42a1a3e0d8c969e518956ed"><span class="sha1">e835793</span></a></td>
+  <td class="commit-date">2013-02-03</td>
+  <td class="commit-message">This pull requests addresses ORA-01400 errors and also s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/28ac50b7b33ea45b6d8f24b7e8f06bb68e6e4e8c"><span class="sha1">28ac50b</span></a></td>
+  <td class="commit-date">2013-01-14</td>
+  <td class="commit-message">Address test_create_when_database_exists_outputs_info_to...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3d1a879f4cf9931a81477b63f9f999d52bac771c"><span class="sha1">3d1a879</span></a></td>
+  <td class="commit-date">2013-01-08</td>
+  <td class="commit-message">Ignore binds payload with nil column in AR log subscriber</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7ff765e116600f85fd3bb68e6e9a5a5cbaef04d"><span class="sha1">e7ff765</span></a></td>
+  <td class="commit-date">2013-01-01</td>
+  <td class="commit-message">Address a failure test_remove_column_with_multi_column_i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d4b2431a8af9014fca9422df5b0644a740f7992"><span class="sha1">2d4b243</span></a></td>
+  <td class="commit-date">2012-12-19</td>
+  <td class="commit-message">Address test_binary_data_is_not_logged with Oracle database</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c8252217e544bfcb395aa76d79e029f0bda80ad"><span class="sha1">9c82522</span></a></td>
+  <td class="commit-date">2012-11-16</td>
+  <td class="commit-message">Revert &quot;mysql does not build on Ruby 2.0.0 at the moment&quot;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/048866aa14b34781f4472d02c5974cce0a7f4e5f"><span class="sha1">048866a</span></a></td>
+  <td class="commit-date">2012-10-19</td>
+  <td class="commit-message">Revert &quot;truncate debug.log on each test run&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10f5f2305d7f73ae32a0cb9fabd1e1130f7f250a"><span class="sha1">10f5f23</span></a></td>
+  <td class="commit-date">2012-09-28</td>
+  <td class="commit-message">Change query pattern case insensitive</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5826b5008ff891a8bc9c0dc64a212ed24206245f"><span class="sha1">5826b50</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">Skip tests for non-supported isolation levels</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f1710b187ccb9791f24023e334541788a2e83cd"><span class="sha1">5f1710b</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">Skip tests for non-supported isolation levels with Oracle</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/babc24c1b07c1fd58b9b3249b0256f9b0d45c0f0"><span class="sha1">babc24c</span></a></td>
+  <td class="commit-date">2012-08-21</td>
+  <td class="commit-message">Rename to test_mysql_strict_mode_disabled_dont_override_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/708b5c0d3a5cf7ca15107ed02d0eb408401e3a63"><span class="sha1">708b5c0</span></a></td>
+  <td class="commit-date">2012-07-27</td>
+  <td class="commit-message">Modity the :json_data_empty attribute from `:null =&gt; fal...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dab8ca53be6a6133fdc24b88e0bf0911bf9ed527"><span class="sha1">dab8ca5</span></a></td>
+  <td class="commit-date">2012-07-27</td>
+  <td class="commit-message">Modify the preference attribute from `:null =&gt; false` to...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/05895c6c861597fcefb3114d78dc6cb676fec433"><span class="sha1">05895c6</span></a></td>
+  <td class="commit-date">2012-07-25</td>
+  <td class="commit-message">Use string datatype for the setting attribute</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0da49506f1418739228f3a72578ab21272011809"><span class="sha1">0da4950</span></a></td>
+  <td class="commit-date">2012-07-24</td>
+  <td class="commit-message">This pull requests addresses ORA-01400 errors and also s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/88de905ce2c73ebab0165fffddbd1dc5b5d5f9af"><span class="sha1">88de905</span></a></td>
+  <td class="commit-date">2012-06-28</td>
+  <td class="commit-message">Skip test_setting_time_attribute because Oracle database</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/23859d0801ec6c8ac9a829bc20f95631ca763513"><span class="sha1">23859d0</span></a></td>
+  <td class="commit-date">2012-06-27</td>
+  <td class="commit-message">Address test_basic_model test error with Oracle enhanced...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d815bd5f66e9767f84916b9b448800434affa48"><span class="sha1">5d815bd</span></a></td>
+  <td class="commit-date">2012-06-18</td>
+  <td class="commit-message">Add ensure Joke.reset_sequence_name</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0363e2ca69c77f420313e9bfd614a13c92ce8bb"><span class="sha1">a0363e2</span></a></td>
+  <td class="commit-date">2012-06-11</td>
+  <td class="commit-message">Address ORA-00911 errors because of the heading underscore.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a74f840750295522cb37ae693a5d28b95dca5165"><span class="sha1">a74f840</span></a></td>
+  <td class="commit-date">2012-06-07</td>
+  <td class="commit-message">Skip two tests with polymorphic if current adapter is Or...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7544c7a9f290a3ea25099ae38d52795458391785"><span class="sha1">7544c7a</span></a></td>
+  <td class="commit-date">2012-06-01</td>
+  <td class="commit-message">Skip test_remove_column_with_array_as_an_argument_is_dep...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/40cfcacca4c12a74556bfda3bded979df43434eb"><span class="sha1">40cfcac</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">Cache metadata in advance to avoid extra sql statements ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d655857851dd055f047fd9491fb718d3456ccb8"><span class="sha1">7d65585</span></a></td>
+  <td class="commit-date">2012-04-13</td>
+  <td class="commit-message">Fix ORA-00972 error at test_rename_table_with_prefix_and...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53db676a5e7b58ecbb658b98d95b743a6fdb2afb"><span class="sha1">53db676</span></a></td>
+  <td class="commit-date">2012-03-29</td>
+  <td class="commit-message">Address an error for test_has_many_through_polymorphic_h...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/60272ae5a60f02eb92bf6a0aa52627ee9412e4e6"><span class="sha1">60272ae</span></a></td>
+  <td class="commit-date">2012-03-29</td>
+  <td class="commit-message">Address an error for test_has_many_through_polymorphic_h...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef3f8093c0f4021e7304163e3ceeb8617bb83476"><span class="sha1">ef3f809</span></a></td>
+  <td class="commit-date">2012-03-28</td>
+  <td class="commit-message">Change the order argument from (&#39;id&#39;) to (&#39;taggings.id&#39;)</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ecba955e06fee5821919ded769864ec3a5bd388"><span class="sha1">0ecba95</span></a></td>
+  <td class="commit-date">2012-03-15</td>
+  <td class="commit-message">Address the dump file format for hstore</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5bc23e4fb503e038c8e24a3a58d4eb1c323e94c8"><span class="sha1">5bc23e4</span></a></td>
+  <td class="commit-date">2011-10-19</td>
+  <td class="commit-message">Fix ORA-00932 error when trying to insert 0 to DATE type...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f40bbc94e1b55b1cc40dd7dcebbbded46101a5a8"><span class="sha1">f40bbc9</span></a></td>
+  <td class="commit-date">2011-10-06</td>
+  <td class="commit-message">Fixed test_nonexisting_method_with_arguments to revert c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/281b8caf8048c0170873b6af995ecf6aba503a61"><span class="sha1">281b8ca</span></a></td>
+  <td class="commit-date">2011-10-06</td>
+  <td class="commit-message">Fixed test_nonexisting_method_with_arguments to revert c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8cc70cf32a48eb31503f828802c65f974cf559f3"><span class="sha1">8cc70cf</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">Fix typo in Rakefile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b564ffcad4df58c8364bafb850774539b161b26a"><span class="sha1">b564ffc</span></a></td>
+  <td class="commit-date">2011-10-03</td>
+  <td class="commit-message">To support ActiveRecord unit tests for IBM DB2</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44791a2bc6611b755b418f1db3ca93f9edec0908"><span class="sha1">44791a2</span></a></td>
+  <td class="commit-date">2011-09-30</td>
+  <td class="commit-message">Modified how to handle if ActiveRecord is defined.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3937d443d6a491df4a66d267527462f97c37759f"><span class="sha1">3937d44</span></a></td>
+  <td class="commit-date">2011-09-07</td>
+  <td class="commit-message">Add ROWNUM to test first and last to support Oracle.</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

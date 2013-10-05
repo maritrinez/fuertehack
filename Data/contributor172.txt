@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Pablo Torres to Ruby on Rails" />
+    <meta name="keywords" content="Pablo Torres,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #167 Pablo Torres - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #167 <span class="fn">Pablo Torres</span> - All time<br/>
+    <span class="listing-total">Showing 22 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d963ff433cb6d80c69a315acf8ab038d78bd3fc0"><span class="sha1">d963ff4</span></a></td>
+  <td class="commit-date">2012-12-17</td>
+  <td class="commit-message">Add missing requires to core_ext/integer/time</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcf0b2dc5d034f22027b6db02fb56c5678caeab2"><span class="sha1">dcf0b2d</span></a></td>
+  <td class="commit-date">2012-12-13</td>
+  <td class="commit-message">General refreshment of the Active Record Basics guide</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2cdf6bda4a34c9e20eb0af41ccb18a4bcb192aed"><span class="sha1">2cdf6bd</span></a></td>
+  <td class="commit-date">2012-12-12</td>
+  <td class="commit-message">Add #destroy! as a method that triggers callbacks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/019b38999d8bc7e1f33b89a85279a43c89b29672"><span class="sha1">019b389</span></a></td>
+  <td class="commit-date">2012-12-12</td>
+  <td class="commit-message">Remove deprecated Time methods from the guides [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83cb6fbd13f3c5ea3106b9a57964b1a6fb243682"><span class="sha1">83cb6fb</span></a></td>
+  <td class="commit-date">2012-12-06</td>
+  <td class="commit-message">Introduce Bundler and Gemfiles in a NOTE</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb389fc6d002b1ec9102f6d39d6de195dcf90c34"><span class="sha1">cb389fc</span></a></td>
+  <td class="commit-date">2012-12-05</td>
+  <td class="commit-message">Define a generator before referring to it</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad223520bf8dca33ced04a0af279527da49489fc"><span class="sha1">ad22352</span></a></td>
+  <td class="commit-date">2012-12-05</td>
+  <td class="commit-message">Correct bad English</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/286e56ffe7807421b2b4a72e8386e9eb83767313"><span class="sha1">286e56f</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Standardize use of &quot;route globbing&quot; and &quot;wildcard segmen...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d36963754d4bb0fdd563c3354ff8aae805577a0"><span class="sha1">1d36963</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Add counterexample for regex [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25e75153b4a8f395bded7c82e63e2e188e7acea2"><span class="sha1">25e7515</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Convert parragraph about security to a NOTE [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/51b26298e699e039a78651452ec5f5a46d570d24"><span class="sha1">51b2629</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Add clarity to static segments docs in non-resourceful r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c5539cdbdda302a0f6535c0b8b7e404ec57d349c"><span class="sha1">c5539cd</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Correct grammar [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d6cb7585d08e1c76c61595f87d071d8a50c12c9"><span class="sha1">7d6cb75</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Convert a section to a tip to highlight it [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/082f4f98cc82616c3f8d846488fdcb18ee64adf4"><span class="sha1">082f4f9</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Normalize use of colon before code examples in routing g...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34f8cd226ac50e2270e760c15813d11470f95d45"><span class="sha1">34f8cd2</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Show equivalent routes definition without using concerns...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12c7f8042d5945450d05164a3f333b9a5bea74e6"><span class="sha1">12c7f80</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Clarify section titles [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/624069d58a2c4b535140422cc90cd5347f18cd4f"><span class="sha1">624069d</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Move note to a meaningful section in the guides [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d21a46823142f62ff744e505b7d6162ffad769c4"><span class="sha1">d21a468</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Use correct conjunction and connector words [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e309e7418964728a477aad2fda8b061657fd41df"><span class="sha1">e309e74</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Capitalize all table column titles in routing guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ba6cddf89070ec16526ab5e37c9c9fc38ede5bb"><span class="sha1">1ba6cdd</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">List instructions in the order to be executed</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2610797d08c2d356e5a2e33f0d3bf6864adeddfc"><span class="sha1">2610797</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Add shallow nesting to the routing guide</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a39ab3a57d71990af221a462b0076b6f44b18056"><span class="sha1">a39ab3a</span></a></td>
+  <td class="commit-date">2012-12-02</td>
+  <td class="commit-message">Remove nodoc from FlashHash #[]= [ci skip]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

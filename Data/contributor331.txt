@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Evgeniy Dolzhenko to Ruby on Rails" />
+    <meta name="keywords" content="Evgeniy Dolzhenko,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Evgeniy Dolzhenko - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Evgeniy Dolzhenko</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78bab03804c05cf36554bce1835545eac14f2eb3"><span class="sha1">78bab03</span></a></td>
+  <td class="commit-date">2011-10-14</td>
+  <td class="commit-message">Use .add instead of &lt;&lt; to add errors</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c317419359d9d868c4e8c12a2ba2e2f541eef3d6"><span class="sha1">c317419</span></a></td>
+  <td class="commit-date">2011-10-11</td>
+  <td class="commit-message">Use .add instead of &lt;&lt; to add errors</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86cf3fb5faffa38a0337b4396926f53f8501e66f"><span class="sha1">86cf3fb</span></a></td>
+  <td class="commit-date">2011-09-25</td>
+  <td class="commit-message">Implement Mime::Type#respond_to? (consistently with #met...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ee31847a5a650c93a49ebb6e4d1dc93bd2c1923f"><span class="sha1">ee31847</span></a></td>
+  <td class="commit-date">2010-10-01</td>
+  <td class="commit-message">Fix serialization :include option name</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0549ed2e5f70b530a3b9e174aa41d3224051340"><span class="sha1">c0549ed</span></a></td>
+  <td class="commit-date">2010-08-21</td>
+  <td class="commit-message">Fix docs to reference ActiveRecord::LogSubscriber</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56b35afbdd64a894e8efddda4651ef89ed7473b2"><span class="sha1">56b35af</span></a></td>
+  <td class="commit-date">2010-06-27</td>
+  <td class="commit-message">Add module_eval missing file_name and line_number args</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a39f2657b1ae8d61c6018766f8d250b1401beace"><span class="sha1">a39f265</span></a></td>
+  <td class="commit-date">2010-06-26</td>
+  <td class="commit-message">Add module_eval missing file_name and line_number args [...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef404c771d11b5c396907e47581f36b654d820df"><span class="sha1">ef404c7</span></a></td>
+  <td class="commit-date">2010-06-15</td>
+  <td class="commit-message">Fix a bunch of minor spelling mistakes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ed507300f05fa5e86f7f7d8988f2d25a91b37b8b"><span class="sha1">ed50730</span></a></td>
+  <td class="commit-date">2010-06-11</td>
+  <td class="commit-message">Fix minor mistake in activemodel/README</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ccf9577aee86ce1f766c5e8854e0c285dc38f8ac"><span class="sha1">ccf9577</span></a></td>
+  <td class="commit-date">2010-06-11</td>
+  <td class="commit-message">Fix a bunch of minor spelling mistakes</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

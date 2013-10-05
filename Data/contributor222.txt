@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Nihad Abbasov to Ruby on Rails" />
+    <meta name="keywords" content="Nihad Abbasov,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Nihad Abbasov - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Nihad Abbasov</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f354ad1b69188009b5dc2827f19f634730fcf923"><span class="sha1">f354ad1</span></a></td>
+  <td class="commit-date">2013-05-04</td>
+  <td class="commit-message">generate &#39;app/assets/images&#39; directory when creating new...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0f1cd8719c2c75ebeddb376312fa4bf8c1c9c22"><span class="sha1">b0f1cd8</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">use constant for encoding</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f9be80f51c07e4fff3cde3d42ceb85c3a85d823e"><span class="sha1">f9be80f</span></a></td>
+  <td class="commit-date">2013-03-04</td>
+  <td class="commit-message">add prompt to 422 page to check logs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc142f9cd4d6341df28350ef4065c40f21e1f586"><span class="sha1">dc142f9</span></a></td>
+  <td class="commit-date">2013-02-22</td>
+  <td class="commit-message">document setting custom datetime attribute for time_tag ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8e92c7264511f19e5cf48006a55a02358f838fd"><span class="sha1">e8e92c7</span></a></td>
+  <td class="commit-date">2013-02-22</td>
+  <td class="commit-message">fix time_tag helper and update tests to not rely on dyna...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e5290586f37d6c8858b183275a270daabf9b751"><span class="sha1">5e52905</span></a></td>
+  <td class="commit-date">2013-02-21</td>
+  <td class="commit-message">remove assigned but unused variable warning</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c6897b7d7b18b5c89aca46d4595b47c2590ce335"><span class="sha1">c6897b7</span></a></td>
+  <td class="commit-date">2013-01-11</td>
+  <td class="commit-message">remove_possible_method -&gt; remove_method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f8f75c81a805b9e6721ee1a05b1f92263e62ff9"><span class="sha1">0f8f75c</span></a></td>
+  <td class="commit-date">2013-01-08</td>
+  <td class="commit-message">set &#39;alt&#39; attribute for image_submit_tag</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/513331d114b4ad683e85c0158f7f596cad315cb5"><span class="sha1">513331d</span></a></td>
+  <td class="commit-date">2012-12-24</td>
+  <td class="commit-message">fetch highlighter option only when needed</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ecee64192fd9d3139187fb2c977bed82c49c4877"><span class="sha1">ecee641</span></a></td>
+  <td class="commit-date">2012-10-14</td>
+  <td class="commit-message">remove &#39;then&#39; from conditional statement</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae9b3d7cecd77b9ace38671b183e1a360bf632b6"><span class="sha1">ae9b3d7</span></a></td>
+  <td class="commit-date">2012-10-02</td>
+  <td class="commit-message">remove unnecessary object/conversions file</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a200ebd8818d045e035c6e025733f8868f5a0181"><span class="sha1">a200ebd</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">update image_tag output in examples to actual</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3164b0a2c1e6b000d933263716f2e3f2ff1cca52"><span class="sha1">3164b0a</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">change ^ and $ anchors in regexp to \A and \z respectively</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2b9bce88e12c1e23320a6e4733198d1125939c0d"><span class="sha1">2b9bce8</span></a></td>
+  <td class="commit-date">2012-09-25</td>
+  <td class="commit-message">allow to pass numerical value to size option in image_tag</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6927fadbe7c3768f94d91dcd9197dc6c68cff6d7"><span class="sha1">6927fad</span></a></td>
+  <td class="commit-date">2012-09-14</td>
+  <td class="commit-message">use presence method instead of checking for blank</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab14392cbb124ed30278400c5b8a8a05ee452d82"><span class="sha1">ab14392</span></a></td>
+  <td class="commit-date">2012-09-12</td>
+  <td class="commit-message">remove &#39;.rb&#39; from require call</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

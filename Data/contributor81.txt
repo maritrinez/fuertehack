@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ernie Miller to Ruby on Rails" />
+    <meta name="keywords" content="Ernie Miller,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #81 Ernie Miller - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #81 <span class="fn">Ernie Miller</span> - All time<br/>
+    <span class="listing-total">Showing 51 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2d82508148fc4e3d507f70ed236414a75c58672"><span class="sha1">e2d8250</span></a></td>
+  <td class="commit-date">2013-07-14</td>
+  <td class="commit-message">Blacklist-&gt;whitelist for reference scans in order!</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0c3998782b455c81a0cb857a7bd4c90c5ab2e821"><span class="sha1">0c39987</span></a></td>
+  <td class="commit-date">2013-03-05</td>
+  <td class="commit-message">Fix WhereChain docs to mention only not</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7763f39a7f7e705bbd6b0a46f3dede48f3dae185"><span class="sha1">7763f39</span></a></td>
+  <td class="commit-date">2013-01-20</td>
+  <td class="commit-message">Fix for CVE-2013-0155</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/18b9187b561639795279a5c9e1b6c2de8f1eab70"><span class="sha1">18b9187</span></a></td>
+  <td class="commit-date">2013-01-11</td>
+  <td class="commit-message">Revert &quot;Merge pull request #7661 from ernie/build-join-r...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/990a938cf7527b654cef06674f25f3632920bad7"><span class="sha1">990a938</span></a></td>
+  <td class="commit-date">2012-10-12</td>
+  <td class="commit-message">Fix has_many assocation w/select load after create</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f3b8cd5a5e37583bf9356456a3fc1b3484f4294"><span class="sha1">9f3b8cd</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">Fix has_many assocation w/select load after create</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/610b63288f05bdec677bfd78c546ee085e5184b9"><span class="sha1">610b632</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">Fix collection= on hm:t join models when unsaved</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f107da4ffafa2b77d87fc5a6fb09fa34343184c"><span class="sha1">4f107da</span></a></td>
+  <td class="commit-date">2012-09-08</td>
+  <td class="commit-message">Raise MissingAttributeError on query methods</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/05136e5c0b3d7b841bdec53847879321309604d3"><span class="sha1">05136e5</span></a></td>
+  <td class="commit-date">2012-09-03</td>
+  <td class="commit-message">Make enhanced routing Concerns more tell-don&#39;t-ask</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb43d3d1d94c67b3bf9c0cf576cdae8380f27260"><span class="sha1">eb43d3d</span></a></td>
+  <td class="commit-date">2012-09-03</td>
+  <td class="commit-message">Fix concerns not executing block in mapper</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4037e31d8874250e485ca6a27bd792a3beb13f76"><span class="sha1">4037e31</span></a></td>
+  <td class="commit-date">2012-09-03</td>
+  <td class="commit-message">Allow routing concerns to accept a callable</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf80522be4d7ac521fa3c30d889afa68450a0bc2"><span class="sha1">bf80522</span></a></td>
+  <td class="commit-date">2012-08-19</td>
+  <td class="commit-message">Fix &quot;last equality wins&quot; logic in relation merge</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b127d86c1823d60a29191ecc3c21c97ee3ac502c"><span class="sha1">b127d86</span></a></td>
+  <td class="commit-date">2012-08-17</td>
+  <td class="commit-message">Fix merge error when Equality LHS is non-attribute</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a1c05dd8b9bd3623289d3aa73dda2943d620cc34"><span class="sha1">a1c05dd</span></a></td>
+  <td class="commit-date">2012-06-24</td>
+  <td class="commit-message">Stop assuming strings for grouped calculations</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc2903da9f13c26ba3d94c149f31d4c53b94b2ed"><span class="sha1">cc2903d</span></a></td>
+  <td class="commit-date">2012-06-11</td>
+  <td class="commit-message">Additional fix for CVE-2012-2661</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/176af7eff2e33b331c92febbeda98123da1151f3"><span class="sha1">176af7e</span></a></td>
+  <td class="commit-date">2012-06-08</td>
+  <td class="commit-message">Additional fix for CVE-2012-2661</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8355abf153615a717c0d0e4a58b2bfca39b35025"><span class="sha1">8355abf</span></a></td>
+  <td class="commit-date">2012-06-08</td>
+  <td class="commit-message">Additional fix for CVE-2012-2661</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b444eed71402cda92dae2d9d1c342253dd18f8c"><span class="sha1">3b444ee</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">Fix HABTM syntax error in Ruby 1.8.x</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f74f5f7f00bd591fbca0cbc2b847acb0ec420256"><span class="sha1">f74f5f7</span></a></td>
+  <td class="commit-date">2011-08-20</td>
+  <td class="commit-message">Fix PredicateBuilder clobbering select_values in subquery.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2ae015952c5bdcca044504b5be1c13a518eeaac"><span class="sha1">e2ae015</span></a></td>
+  <td class="commit-date">2011-08-20</td>
+  <td class="commit-message">Fix assumption of primary key name in PredicateBuilder s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2bdad7669c7a46e8c1362bd4d4e3c996496a6807"><span class="sha1">2bdad76</span></a></td>
+  <td class="commit-date">2011-07-06</td>
+  <td class="commit-message">Remove case statement changes from 2e0840d and 56ac32a. ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/280b657e60bec3943733c591aa3e4b45a39d4131"><span class="sha1">280b657</span></a></td>
+  <td class="commit-date">2011-07-01</td>
+  <td class="commit-message">Require attr_internal before using in ActionView::Helpers</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c26c273761d12e1b42cc490cd8db0622772aab3b"><span class="sha1">c26c273</span></a></td>
+  <td class="commit-date">2011-06-28</td>
+  <td class="commit-message">Support reversal of ARel orderings in reverse_sql_order</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08f3f30994d37f6f44acfac801f82fc43127fc78"><span class="sha1">08f3f30</span></a></td>
+  <td class="commit-date">2011-06-20</td>
+  <td class="commit-message">Support reversal of ARel orderings in reverse_sql_order</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a2ef52ad6cede6a4bab48e4689f2466c10cb6b8"><span class="sha1">3a2ef52</span></a></td>
+  <td class="commit-date">2011-06-01</td>
+  <td class="commit-message">Require attr_internal before using in ActionView::Helpers</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15baa498710abe5914ae6938827df717696868b8"><span class="sha1">15baa49</span></a></td>
+  <td class="commit-date">2011-05-24</td>
+  <td class="commit-message">Redundant condition in compute_asset_host is redundant.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9b7cd75db340b6d0c6f2ec342ae4d7a201e46e84"><span class="sha1">9b7cd75</span></a></td>
+  <td class="commit-date">2011-05-05</td>
+  <td class="commit-message">Add a test for outer joins with conditions where value I...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d270a2abbc1601777f4918bd1968c18f7864ae5"><span class="sha1">8d270a2</span></a></td>
+  <td class="commit-date">2011-05-05</td>
+  <td class="commit-message">Add join conditions to JOIN clause, not WHERE</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbd917f50a6046d02dd6a64ccfb1aed0cbce68d8"><span class="sha1">fbd917f</span></a></td>
+  <td class="commit-date">2011-02-13</td>
+  <td class="commit-message">Remove Relation#&amp; alias for Relation#merge</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66003f596452aba927312c4218dfc8d408166d54"><span class="sha1">66003f5</span></a></td>
+  <td class="commit-date">2011-02-13</td>
+  <td class="commit-message">Deprecate Relation#&amp; alias for Relation#merge</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d72add9c20778e253f90fbfe587eae0e205c40ad"><span class="sha1">d72add9</span></a></td>
+  <td class="commit-date">2011-02-12</td>
+  <td class="commit-message">Fix table name collision due to incorrect alias count on...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97eddc057d0925750febdb3a1c9a34e5a06451dc"><span class="sha1">97eddc0</span></a></td>
+  <td class="commit-date">2011-01-11</td>
+  <td class="commit-message">Fix polymorphic belongs_to associationproxy raising erro...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d4d7457301faa85aa32b5ae29e13976e828954f"><span class="sha1">7d4d745</span></a></td>
+  <td class="commit-date">2011-01-11</td>
+  <td class="commit-message">Fix polymorphic belongs_to associationproxy raising erro...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d37ff6bb2b1f948034bf06e450f2fdb8195c4e5"><span class="sha1">5d37ff6</span></a></td>
+  <td class="commit-date">2010-12-15</td>
+  <td class="commit-message">Fix hm:t to self table aliasing in construct_scope</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c81af00a7ab64ec1159e8b319f8498ea5b9037c7"><span class="sha1">c81af00</span></a></td>
+  <td class="commit-date">2010-12-15</td>
+  <td class="commit-message">Fix hm:t to self table aliasing in construct_scope</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c681df48e34af9f4cefa8a1259580cf99d10f775"><span class="sha1">c681df4</span></a></td>
+  <td class="commit-date">2010-10-30</td>
+  <td class="commit-message">Fix issues when including the same association multiple ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0bb85ed9ffa9808926b46e8f7e59cab5b85ac19f"><span class="sha1">0bb85ed</span></a></td>
+  <td class="commit-date">2010-10-30</td>
+  <td class="commit-message">Fix issues when including the same association multiple ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21cb1d40b9c57ab814c69d01a242b50e27e8283b"><span class="sha1">21cb1d4</span></a></td>
+  <td class="commit-date">2010-10-04</td>
+  <td class="commit-message">Test to_model being called in ActiveModel::Naming helpers</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/33aaa15f6208d65ca043ffcc5dc161d410963e9d"><span class="sha1">33aaa15</span></a></td>
+  <td class="commit-date">2010-10-04</td>
+  <td class="commit-message">Convert to model before calling model_name on a record i...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a4eaa1fd39f93eff975bfd8a5cc4c7dfc3f18aa7"><span class="sha1">a4eaa1f</span></a></td>
+  <td class="commit-date">2010-06-08</td>
+  <td class="commit-message">Fix multiple self-referencing eager loads failing to joi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/902861a43ae90032063f4a14a3e8b4b9b9c3ca2f"><span class="sha1">902861a</span></a></td>
+  <td class="commit-date">2010-05-06</td>
+  <td class="commit-message">Fix unintuitive behavior with multiple order and group c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5be49884b5947d4624bdaaf9cf2629ca4dd73567"><span class="sha1">5be4988</span></a></td>
+  <td class="commit-date">2010-05-05</td>
+  <td class="commit-message">Prevent calling regexp on symbol in Ruby 1.9 in associat...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e33d304975f5b20b0ba819ab644a2a8f80ff3743"><span class="sha1">e33d304</span></a></td>
+  <td class="commit-date">2010-04-29</td>
+  <td class="commit-message">Fix eager loading of associations causing table name col...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98bf00d50d81c522f747131da7071d02815652f3"><span class="sha1">98bf00d</span></a></td>
+  <td class="commit-date">2010-03-31</td>
+  <td class="commit-message">Add tests for postgresql column type mapping updates [#4...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ccf8311123a448fb82a568a57974d58b6b990837"><span class="sha1">ccf8311</span></a></td>
+  <td class="commit-date">2010-03-31</td>
+  <td class="commit-message">Fix mapping of bigint/smallint/uuid columns in postgresq...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00b95eb265ff606ae0a7b650265aa3c6fd43a1da"><span class="sha1">00b95eb</span></a></td>
+  <td class="commit-date">2010-03-29</td>
+  <td class="commit-message">belongs_to associations now honor :primary_key option fo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/63026541b209cc11ffd74cf3ca04b89d1e437737"><span class="sha1">6302654</span></a></td>
+  <td class="commit-date">2010-03-29</td>
+  <td class="commit-message">Fix honoring :primary_key option when joining or eager l...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44af2efa2c7391681968c827ca47201a0a02e974"><span class="sha1">44af2ef</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Refactored AssociationCollection#count for uniformity an...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7b00c113a71c8aafcca1974ef34d22da1bcd2b8"><span class="sha1">e7b00c1</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Fixed AssociationCollection#&lt;&lt; resulting in unexpected v...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f6e7ba1f7e8735f1c3f30ba125b5432f00d2a70"><span class="sha1">7f6e7ba</span></a></td>
+  <td class="commit-date">2008-08-08</td>
+  <td class="commit-message">Fixed AssociationCollection#&lt;&lt; resulting in unexpected v...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0092dc44d580f4179308c7394d9023098406f79"><span class="sha1">d0092dc</span></a></td>
+  <td class="commit-date">2008-06-29</td>
+  <td class="commit-message">Added support for regexp matching of priority zones in t...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

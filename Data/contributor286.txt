@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jatinder Singh to Ruby on Rails" />
+    <meta name="keywords" content="Jatinder Singh,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 Jatinder Singh - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">Jatinder Singh</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aeff1719ab9c4a0d1a9abd7a609ed8fb9646a0d8"><span class="sha1">aeff171</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">AR JSON Serializer now supports custom root option.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bce2c0ce37cbd4abb45ca36362fbb8fae3bbc6b9"><span class="sha1">bce2c0c</span></a></td>
+  <td class="commit-date">2010-05-04</td>
+  <td class="commit-message">Active Model JSON serializer now supports custom root op...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/158e7b63ab83dbcb9cdc7f951be920faf16fe3c0"><span class="sha1">158e7b6</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">Use format of ARes rather than content-type of remote er...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e87748869af238fe6bcb78e8d9a8d2bbc3734039"><span class="sha1">e877488</span></a></td>
+  <td class="commit-date">2010-01-28</td>
+  <td class="commit-message">Use format of ARes rather than content-type of remote er...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a363dba790d9d9f6284f7f857d872eca124805ee"><span class="sha1">a363dba</span></a></td>
+  <td class="commit-date">2009-08-15</td>
+  <td class="commit-message">Fix ActiveResource load test for 64bit machines [#3051 s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dbc62ad225660453a6a955e507401504dffb8e20"><span class="sha1">dbc62ad</span></a></td>
+  <td class="commit-date">2009-08-15</td>
+  <td class="commit-message">Fix ActiveResource load test for 64bit machines [#3051 s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8a49af31581095a35b6dc8b20ed12c2f9fb80855"><span class="sha1">8a49af3</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">AR should respect default values for MySQL BINARY and VA...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5704ecffadffa04981ec5999c362cb691d4a676e"><span class="sha1">5704ecf</span></a></td>
+  <td class="commit-date">2009-08-10</td>
+  <td class="commit-message">AR should respect default values for MySQL BINARY and VA...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/be017fd7d54c9203dc574d8e1a6f22d80df0e899"><span class="sha1">be017fd</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Active Resource recognizes 410 as Resource Gone now [#23...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/916b18adeb0a1ae09fdaff21dda8d0bc8ed4ffa9"><span class="sha1">916b18a</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Active Resource recognizes 410 as Resource Gone now [#23...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/323f58f19f052d77e972b94767ab133d58fdcd90"><span class="sha1">323f58f</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Make ActiveResource#exists? work [#3020 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1fc1986d6deacd71ec4bea2287d9cfed6123b898"><span class="sha1">1fc1986</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Make ActiveResource#exists? work [#3020 state:resolved]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Luca Guidi to Ruby on Rails" />
+    <meta name="keywords" content="Luca Guidi,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #133 Luca Guidi - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #133 <span class="fn">Luca Guidi</span> - All time<br/>
+    <span class="listing-total">Showing 28 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/447d60e9ed015e5d6bd336323881f8180c2070d0"><span class="sha1">447d60e</span></a></td>
+  <td class="commit-date">2009-06-13</td>
+  <td class="commit-message">Bytes calculation speed up</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9eeb5fed2ff8e781e56202f62b125bfadc486999"><span class="sha1">9eeb5fe</span></a></td>
+  <td class="commit-date">2009-06-13</td>
+  <td class="commit-message">Bytes calculation speed up</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a85927da21859a6868c3e0ec92267706b0a14bf"><span class="sha1">7a85927</span></a></td>
+  <td class="commit-date">2009-05-18</td>
+  <td class="commit-message">Ensure HasManyThroughAssociation#destroy delete orphan r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cef76c8af4705dc60f85a721e3a14adb99418d33"><span class="sha1">cef76c8</span></a></td>
+  <td class="commit-date">2009-05-18</td>
+  <td class="commit-message">Ensure HasManyThroughAssociation#destroy delete orphan r...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/42cdc7571d115c5eb4ece440001d221f24553100"><span class="sha1">42cdc75</span></a></td>
+  <td class="commit-date">2009-04-05</td>
+  <td class="commit-message">Ensure SqlBypass use ActiveRecord::Base connection</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f10533949457e3797c8f0b51eb30a9268bceb4d"><span class="sha1">5f10533</span></a></td>
+  <td class="commit-date">2009-03-15</td>
+  <td class="commit-message">Make sure Metal use ActionController class name conventi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47bdf3bf40ec17e1f8ca1c0e3d7f697d0c4cd1bf"><span class="sha1">47bdf3b</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Ensure AutosaveAssociation runs remove callbacks [#2146 ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75b2e7e9c90b6229f7ef1a5f3d7ccce44caf6855"><span class="sha1">75b2e7e</span></a></td>
+  <td class="commit-date">2009-01-31</td>
+  <td class="commit-message">Make sure XmlMini is being correctly autoloaded by Ruby ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4ccbc5dffb980edf35be899889f9e227dbd426c7"><span class="sha1">4ccbc5d</span></a></td>
+  <td class="commit-date">2008-11-06</td>
+  <td class="commit-message">Increment the version of our modified memcache_client co...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/27ec3ee00975a6655d2949520a6545e831751024"><span class="sha1">27ec3ee</span></a></td>
+  <td class="commit-date">2008-11-02</td>
+  <td class="commit-message">Made more clear the case of ignored :limit option for ea...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5229fc4cc034ac5f565d143f5fd59ac11ebdc8e3"><span class="sha1">5229fc4</span></a></td>
+  <td class="commit-date">2008-11-01</td>
+  <td class="commit-message">Make sure habtm use class variable to list association v...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f6653f9fde4742babe13fd714d401b875955bcc"><span class="sha1">3f6653f</span></a></td>
+  <td class="commit-date">2008-11-01</td>
+  <td class="commit-message">Make sure habtm use class variable to list association v...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47007c75afbe2b482e2a87e11678556ccf0f9a43"><span class="sha1">47007c7</span></a></td>
+  <td class="commit-date">2008-10-30</td>
+  <td class="commit-message">Update prototype to 1.6.0.3</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a01f9f072382fa6a90369a52adb7a5bfd4810eb5"><span class="sha1">a01f9f0</span></a></td>
+  <td class="commit-date">2008-10-30</td>
+  <td class="commit-message">Update prototype to 1.6.0.3</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1bc267d21679408b3624d1c697656ec250c01972"><span class="sha1">1bc267d</span></a></td>
+  <td class="commit-date">2008-10-03</td>
+  <td class="commit-message">Make sure recreate MySQL test database with the proper e...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d71e99d1fc1f57900288e008d7528c339138cf0"><span class="sha1">4d71e99</span></a></td>
+  <td class="commit-date">2008-08-27</td>
+  <td class="commit-message">Fix Ruby&#39;s Time marshaling bug in pre-1.9 versions of Ru...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ce65a05c5b027175c3c541055081f82c8bfc36bf"><span class="sha1">ce65a05</span></a></td>
+  <td class="commit-date">2008-08-27</td>
+  <td class="commit-message">Fix Ruby&#39;s Time marshaling bug in pre-1.9 versions of Ru...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc77359c16abc0f693e3847e677c0cad62d0df50"><span class="sha1">dc77359</span></a></td>
+  <td class="commit-date">2008-07-08</td>
+  <td class="commit-message">Removed unnecessary or condition in #error_messages_for</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cf5d6ab9a849d19ac683180cc7b603ca94b13ed7"><span class="sha1">cf5d6ab</span></a></td>
+  <td class="commit-date">2008-07-08</td>
+  <td class="commit-message">Added localize helper method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2949918b4cea26435d1f0a076fe884c8113b40fa"><span class="sha1">2949918</span></a></td>
+  <td class="commit-date">2008-07-08</td>
+  <td class="commit-message">Make sure object name is translated in #error_messages_for</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/826c3db42105518b3a88cf56e348b48c1660f850"><span class="sha1">826c3db</span></a></td>
+  <td class="commit-date">2008-07-07</td>
+  <td class="commit-message">Updated ActiveRecord::Errors#default_error_messages depr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d41e4c1c3d6e6259f1cfc0cdbd4fc30fee0f866a"><span class="sha1">d41e4c1</span></a></td>
+  <td class="commit-date">2008-07-03</td>
+  <td class="commit-message">Make sure ActionMailer use default charset if no defined...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7403c825a05af320e20f1b7e20b0c565081ede89"><span class="sha1">7403c82</span></a></td>
+  <td class="commit-date">2008-07-02</td>
+  <td class="commit-message">Fixed Date and Time localization for ActiveSupport</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6982acb0793fb6e59f52cab4062344a88e3691ce"><span class="sha1">6982acb</span></a></td>
+  <td class="commit-date">2008-07-01</td>
+  <td class="commit-message">Experimental I18n charset support for ActionMailer</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/66c2508ebbca06e551255a76cc47a1608f091992"><span class="sha1">66c2508</span></a></td>
+  <td class="commit-date">2008-06-27</td>
+  <td class="commit-message">Make sure mocha is available</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/083b0b7f3f430b9377c08f603eb9063d80c4595a"><span class="sha1">083b0b7</span></a></td>
+  <td class="commit-date">2008-01-07</td>
+  <td class="commit-message">Catchup Backport to 2.0 of the following Changesets:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4261b837f5a0f34395b168d3697a2c1013a4e5d9"><span class="sha1">4261b83</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">Fix small documentation typo.  Closes #10670 [l.guidi]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14f6440ed60a3e6bfa263cc30f10547ca52db64f"><span class="sha1">14f6440</span></a></td>
+  <td class="commit-date">2008-01-02</td>
+  <td class="commit-message">Correct indentation in a couple spots.  Closes #10671 [l...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

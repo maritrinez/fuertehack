@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Duane Johnson to Ruby on Rails" />
+    <meta name="keywords" content="Duane Johnson,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Duane Johnson - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Duane Johnson</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/083b0b7f3f430b9377c08f603eb9063d80c4595a"><span class="sha1">083b0b7</span></a></td>
+  <td class="commit-date">2008-01-07</td>
+  <td class="commit-message">Catchup Backport to 2.0 of the following Changesets:</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e3a54a3b92c0f9a7bf95f8cb11ba2db89f6eecc"><span class="sha1">0e3a54a</span></a></td>
+  <td class="commit-date">2007-12-28</td>
+  <td class="commit-message">Don&#39;t unnecessarily load has_many associations in after_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b92d38c0083c2077d0533014678ed017026fac1"><span class="sha1">0b92d38</span></a></td>
+  <td class="commit-date">2005-10-26</td>
+  <td class="commit-message">Added :offset and :limit to the kinds of options that Ba...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b25f9af998ad26653083e004b7a6cb9ca0061940"><span class="sha1">b25f9af</span></a></td>
+  <td class="commit-date">2005-07-24</td>
+  <td class="commit-message">Allow ERb in the database.yml file (just like with fixtu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2a021dc06d934f569977a05fa4e579e3f593d34"><span class="sha1">f2a021d</span></a></td>
+  <td class="commit-date">2005-06-21</td>
+  <td class="commit-message">Added option to pass in parameters to CaptureHelper#capt...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10eb22cdce104326e319826af0ea4292940a9246"><span class="sha1">10eb22c</span></a></td>
+  <td class="commit-date">2005-05-21</td>
+  <td class="commit-message">Added the :if option to all validations that can either ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0d2db8a7d112488c93680e88c9beecfdea0a9db5"><span class="sha1">0d2db8a</span></a></td>
+  <td class="commit-date">2005-01-24</td>
+  <td class="commit-message">Added Base.update_collection that can update an array of...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cab24945634bc22b0c0c5d10b72c83eaa09f1e41"><span class="sha1">cab2494</span></a></td>
+  <td class="commit-date">2005-01-01</td>
+  <td class="commit-message">Updated documentation for associations #387 [canadaduane]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

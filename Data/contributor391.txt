@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Benedikt Deicke to Ruby on Rails" />
+    <meta name="keywords" content="Benedikt Deicke,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Benedikt Deicke - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Benedikt Deicke</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ebfa58abc895c0639211cb896a47b04e424322c8"><span class="sha1">ebfa58a</span></a></td>
+  <td class="commit-date">2012-04-19</td>
+  <td class="commit-message">Removes unneeded caching from ActiveRecord::Base.relation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c21a2f7eb9f8cc50a3e957784105e187f63d5f3"><span class="sha1">2c21a2f</span></a></td>
+  <td class="commit-date">2012-04-19</td>
+  <td class="commit-message">Revert &quot;Revert &quot;Fix #5667. Preloading should ignore scop...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8491740ca5361ba9df20e1c8b906c709f5bfbc12"><span class="sha1">8491740</span></a></td>
+  <td class="commit-date">2012-04-19</td>
+  <td class="commit-message">Adds test to check that circular preloading does not mod...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/13f1401a6cf0266a3b0a91b173f976db2d4e50f3"><span class="sha1">13f1401</span></a></td>
+  <td class="commit-date">2012-04-19</td>
+  <td class="commit-message">Removes caching from ActiveRecord::Core::ClassMethods#re...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/402576b044ce1cb06c3e48061f62542d0908fa17"><span class="sha1">402576b</span></a></td>
+  <td class="commit-date">2012-04-03</td>
+  <td class="commit-message">Adds test to check that circular preloading does not mod...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/68677ffb8298105eb9d3efa26d928dd88cc5e006"><span class="sha1">68677ff</span></a></td>
+  <td class="commit-date">2012-04-03</td>
+  <td class="commit-message">Removes caching from ActiveRecord::Core::ClassMethods#re...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b17fd25a2d554a9b126fc185dc7609f7846ee267"><span class="sha1">b17fd25</span></a></td>
+  <td class="commit-date">2011-06-12</td>
+  <td class="commit-message">Don&#39;t wrap operations on collection associations in tran...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa8dfad7654baa831c8de515118008b3382df515"><span class="sha1">fa8dfad</span></a></td>
+  <td class="commit-date">2011-06-12</td>
+  <td class="commit-message">Don&#39;t wrap operations on collection associations in tran...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

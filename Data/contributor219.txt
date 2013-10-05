@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Krekoten&#39; Marjan to Ruby on Rails" />
+    <meta name="keywords" content="Krekoten&#39; Marjan,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Krekoten&amp;#39; Marjan - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Krekoten&#39; Marjan</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/117cad8f05ce3dc48979e53a6f8ee5a5add7dede"><span class="sha1">117cad8</span></a></td>
+  <td class="commit-date">2011-01-10</td>
+  <td class="commit-message">Refactor to handle the X-Cascade without having to raise...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/366e7854ac41699217e8cad1a336ab845c781359"><span class="sha1">366e785</span></a></td>
+  <td class="commit-date">2011-01-10</td>
+  <td class="commit-message">Refactor to handle the X-Cascade without having to raise...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a9b666b51d28b2e74da630c31327dee7cbe96d37"><span class="sha1">a9b666b</span></a></td>
+  <td class="commit-date">2010-11-30</td>
+  <td class="commit-message">Fix generation of wrong json string when field has multi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a75d21df06d0b7af21921aad38b021056aa15e63"><span class="sha1">a75d21d</span></a></td>
+  <td class="commit-date">2010-10-18</td>
+  <td class="commit-message">Fix status initialization when custom status provided</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/608bf7b72c227a3030db9418217d9a77325c2b21"><span class="sha1">608bf7b</span></a></td>
+  <td class="commit-date">2010-10-18</td>
+  <td class="commit-message">AC::Caching DRYup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7b2ec381ca5ce88fe62a0a42183b3a5df63ee68b"><span class="sha1">7b2ec38</span></a></td>
+  <td class="commit-date">2010-10-17</td>
+  <td class="commit-message">Change def to attr_reader + alias</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f4d00c5a58214646ba3fe22fe55b2a257dbf992"><span class="sha1">6f4d00c</span></a></td>
+  <td class="commit-date">2010-10-12</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0744d36f479ad35a89a50efaadb66674cac0a323"><span class="sha1">0744d36</span></a></td>
+  <td class="commit-date">2010-10-12</td>
+  <td class="commit-message">Fix small typo in documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b7d30bfc925562cffff10db2a0388770e9bc06c"><span class="sha1">1b7d30b</span></a></td>
+  <td class="commit-date">2010-09-25</td>
+  <td class="commit-message">Fix &#39;warning: method redefined&#39; [#5551 state:resolved]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8639c10a40604cee2f3d412470c2960712fdc809"><span class="sha1">8639c10</span></a></td>
+  <td class="commit-date">2010-09-25</td>
+  <td class="commit-message">Fix logging when cache key contains % sign [#5570 state:...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/da94d0e8ca03209610a01f1be8d056319befe571"><span class="sha1">da94d0e</span></a></td>
+  <td class="commit-date">2010-09-25</td>
+  <td class="commit-message">Remove duplicate helper method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d4fa120671e989eecb71c14647dd2051d28de4a5"><span class="sha1">d4fa120</span></a></td>
+  <td class="commit-date">2010-09-18</td>
+  <td class="commit-message">Move capture to Kernel. [#5641 state:resolved]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2adad2a0cc6e6179cb03b6e2c61d7e8efd46389e"><span class="sha1">2adad2a</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">Make ActiveSupport::Duration#method_missing delegate blo...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57693d1362dcde9e0e32689255a22414488e1335"><span class="sha1">57693d1</span></a></td>
+  <td class="commit-date">2010-09-01</td>
+  <td class="commit-message">Make ActiveSupport::Duration#method_missing delegate blo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/570841205233c7b4fa408d1e54fe7bf1f658136e"><span class="sha1">5708412</span></a></td>
+  <td class="commit-date">2010-08-24</td>
+  <td class="commit-message">Fix test of generated Gemfile with mysql selected as DB ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0284791df3caed66e3cabb80a62680d69182ddb"><span class="sha1">a028479</span></a></td>
+  <td class="commit-date">2010-08-24</td>
+  <td class="commit-message">Fix test of generated Gemfile with mysql selected as DB ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Joseph Pecoraro to Ruby on Rails" />
+    <meta name="keywords" content="Joseph Pecoraro,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Joseph Pecoraro - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Joseph Pecoraro</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c2917940f5997e824263d89f2bac7a0297fc6935"><span class="sha1">c291794</span></a></td>
+  <td class="commit-date">2009-06-01</td>
+  <td class="commit-message">Fixed XHR typo and another Application =&gt; ApplicationCon...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0351896f71bb06605eb85060bd5b9f72309569b1"><span class="sha1">0351896</span></a></td>
+  <td class="commit-date">2009-05-31</td>
+  <td class="commit-message">Fixed some typos and a more common grammar styles.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e93e422532fcd55f19d4859197fbc5300d589816"><span class="sha1">e93e422</span></a></td>
+  <td class="commit-date">2009-05-31</td>
+  <td class="commit-message">Fixed typo.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e06b2ce256a8ac62aab0f085b4c9e46063b339c"><span class="sha1">8e06b2c</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Fixed some links pointing to guides.rails.info to relati...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b6a40a7bd1901274807fa6f22db6083dda18a28"><span class="sha1">3b6a40a</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Fixed links to the Routing Guide.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ece603cdf9ce20cf6acd84b3df669c5d516de2d3"><span class="sha1">ece603c</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Added TIP about resources when using the short form_for ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9d7affd8c5da5326eeed9df86ea5b46dc02faa7"><span class="sha1">c9d7aff</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Link titles are generally capitalized.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dd888c9603972146eb57c90235f856ea91037d0b"><span class="sha1">dd888c9</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Removed the Javascript. It conflicts with the highlighti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7749e1784c1127cf532d9f41a0331ed266ebec6d"><span class="sha1">7749e17</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Grammer: &#39;a&#39; =&gt; &#39;an&#39; where applicable.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3aeec3209c04219c3e78cce060e6c0e284e60108"><span class="sha1">3aeec32</span></a></td>
+  <td class="commit-date">2009-05-30</td>
+  <td class="commit-message">Clarification in an example. Grammar correction.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf1b1e976b8315f67f82e324e6d3bc3d0b353fd5"><span class="sha1">bf1b1e9</span></a></td>
+  <td class="commit-date">2009-05-29</td>
+  <td class="commit-message">Semi-fix for Firefox code Copy and Paste</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f68fca2e7665dec8efcc1f45477760ef266d3d43"><span class="sha1">f68fca2</span></a></td>
+  <td class="commit-date">2009-05-29</td>
+  <td class="commit-message">Linked to the IRC channel.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3014f0f4c53da5b10294670976080b0036c016dd"><span class="sha1">3014f0f</span></a></td>
+  <td class="commit-date">2009-05-29</td>
+  <td class="commit-message">Capitalized Rails where appropriate.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/796fef684bb9ab081c1ed899c6ac98203a459289"><span class="sha1">796fef6</span></a></td>
+  <td class="commit-date">2009-05-29</td>
+  <td class="commit-message">Corrected path to standard.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/72b033f6b6ba590a3993d72fef615548d3a8b7f7"><span class="sha1">72b033f</span></a></td>
+  <td class="commit-date">2009-05-29</td>
+  <td class="commit-message">Corrected paths to standard.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d2b8564ab213d0b63790297f29696a277812eea5"><span class="sha1">d2b8564</span></a></td>
+  <td class="commit-date">2009-05-29</td>
+  <td class="commit-message">Typo and Style Corrections</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

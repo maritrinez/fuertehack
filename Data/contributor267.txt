@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Kristian Freeman to Ruby on Rails" />
+    <meta name="keywords" content="Kristian Freeman,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #257 Kristian Freeman - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #257 <span class="fn">Kristian Freeman</span> - All time<br/>
+    <span class="listing-total">Showing 13 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f536f9158588b66c0e5a6aa8772b919812f9cb9"><span class="sha1">7f536f9</span></a></td>
+  <td class="commit-date">2012-05-04</td>
+  <td class="commit-message">Play nice with some lint patterns</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6bcc1b89dc6c919292462110457d253e08705e00"><span class="sha1">6bcc1b8</span></a></td>
+  <td class="commit-date">2012-01-04</td>
+  <td class="commit-message">Final grammar checkup on 3.2 release notes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8758156d75ccaf432a4d9d1564cdedebabe646bf"><span class="sha1">8758156</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Final grammar checkup on 3.2 release notes.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b87491b8f6ace5f18f7ba347d749ce1f600c2495"><span class="sha1">b87491b</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Grammar in 3.2 release notes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2315e96a177502afea1910d2211e90c021e915f0"><span class="sha1">2315e96</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Finished implementation of MIT license linking.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17da02425e9eae597f11cf1b409cbbb78002875e"><span class="sha1">17da024</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Added link in MIT license for Action Mailer README. I th...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4907f46742affe679b06d786a4cb4d5f01c47610"><span class="sha1">4907f46</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Added link to MIT license. Would love commentary on whet...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d6d39aa839561082d2cbc7c6c5958c123ba4bd0"><span class="sha1">2d6d39a</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Readability in Action Mailer README.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cffb636e825fc044f62881ee923f40697de69bac"><span class="sha1">cffb636</span></a></td>
+  <td class="commit-date">2011-12-23</td>
+  <td class="commit-message">Correct grammar on Mailer generator -- passES. Working o...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcbbfd745c968812dea0edd7671fc95ea5c8a7eb"><span class="sha1">dcbbfd7</span></a></td>
+  <td class="commit-date">2011-12-20</td>
+  <td class="commit-message">Revert &quot;Updated RUNNING_UNIT_TESTS&quot;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d11c12958acf28ffb27d7e11a9c7f5b1418e77f"><span class="sha1">7d11c12</span></a></td>
+  <td class="commit-date">2011-12-20</td>
+  <td class="commit-message">Updated RUNNING_UNIT_TESTS</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c86359a0678f96829e80173975828ead9a35a2a3"><span class="sha1">c86359a</span></a></td>
+  <td class="commit-date">2011-12-19</td>
+  <td class="commit-message">Removed period in comment regarding Levenshtein Wikipedi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30aa4e6c3b33d93c6b1a000685d6d97d51f7ab68"><span class="sha1">30aa4e6</span></a></td>
+  <td class="commit-date">2011-12-19</td>
+  <td class="commit-message">Fixed some grammatical errors in raw_email_with_invalid_...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

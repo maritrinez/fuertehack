@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Fred Wu to Ruby on Rails" />
+    <meta name="keywords" content="Fred Wu,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #167 Fred Wu - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #167 <span class="fn">Fred Wu</span> - All time<br/>
+    <span class="listing-total">Showing 22 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/85750d43fa714f6773396b8304430f2d1f459350"><span class="sha1">85750d4</span></a></td>
+  <td class="commit-date">2013-06-20</td>
+  <td class="commit-message">ActiveModel::Model inclusion chain backward compatibility</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7f47ee10a7c44e64b40975afbb4b5dabdaf8c5d"><span class="sha1">c7f47ee</span></a></td>
+  <td class="commit-date">2013-06-19</td>
+  <td class="commit-message">Fixes AciveModel::Model with no ancestors, fixes #11004</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84bb0b0e90267af61b38805f69c6ee9b2cb36d8f"><span class="sha1">84bb0b0</span></a></td>
+  <td class="commit-date">2013-06-19</td>
+  <td class="commit-message">Fixes AciveModel::Model with no ancestors, fixes #11004</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0b502cb87906505e519b404ef2cd1d607c89a44a"><span class="sha1">0b502cb</span></a></td>
+  <td class="commit-date">2013-06-19</td>
+  <td class="commit-message">Fixes AciveModel::Model with no ancestors, fixes #11004</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3dc10f13393c0b1329f31062a50b5c050159151"><span class="sha1">e3dc10f</span></a></td>
+  <td class="commit-date">2013-06-19</td>
+  <td class="commit-message">Fixed ActiveModel::Model&#39;s inclusion chain</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d9b73b202e4f5fe3b81a1a2e231981b649ca7d8"><span class="sha1">2d9b73b</span></a></td>
+  <td class="commit-date">2013-06-19</td>
+  <td class="commit-message">Fixed ActiveModel::Model&#39;s inclusion chain</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dee5915aac009b6b6456a81ae7b8927866d0c240"><span class="sha1">dee5915</span></a></td>
+  <td class="commit-date">2013-03-27</td>
+  <td class="commit-message">Fixed test failures on 1.8.7 caused by 74e59ea</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8bd56f0f7ad2b48a50f12c49d436a469fdbb7135"><span class="sha1">8bd56f0</span></a></td>
+  <td class="commit-date">2013-03-26</td>
+  <td class="commit-message">Added changelog for 55e2954</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55e295470303a6abcf152f24a1a8c7864dab5ef6"><span class="sha1">55e2954</span></a></td>
+  <td class="commit-date">2013-03-26</td>
+  <td class="commit-message">Don&#39;t reset inheritance_column when setting explicitly.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/38d06478614adcf68a45947cb162c3152e2d7bb1"><span class="sha1">38d0647</span></a></td>
+  <td class="commit-date">2013-03-20</td>
+  <td class="commit-message">Added changelog for 687e68d</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/687e68d88f5e1a7bb6a2d876fbbc5b8c4571d853"><span class="sha1">687e68d</span></a></td>
+  <td class="commit-date">2013-03-20</td>
+  <td class="commit-message">Fixed assets loading performance in 3.2.13</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26aa26564d16b7830ea4889168adfad8468186b7"><span class="sha1">26aa265</span></a></td>
+  <td class="commit-date">2013-03-16</td>
+  <td class="commit-message">Added Inflector#underscore fix to the changelog</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/515feb1fd61184cb14840a8f3b82ba3c388fdc3c"><span class="sha1">515feb1</span></a></td>
+  <td class="commit-date">2013-03-16</td>
+  <td class="commit-message">Fixed a bug where the inflector would replace camelCase ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/686966a1861e6761021d45f6795de753e8a62216"><span class="sha1">686966a</span></a></td>
+  <td class="commit-date">2012-06-06</td>
+  <td class="commit-message">Fixed the application_controller require_dependency path...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/126586a5e61ec2026843c14606d1b7e2f8bbe7b7"><span class="sha1">126586a</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">Fixed the Gemfile when gemspec is skipped in the &#39;rails ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/19e68b49095439bab9a8a2fd90c2278e4bcd9f33"><span class="sha1">19e68b4</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Fixed the SelectorAssertions documentation url.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0f059136bf9f99095738c5a1f4b57ed927771cd"><span class="sha1">b0f0591</span></a></td>
+  <td class="commit-date">2010-09-24</td>
+  <td class="commit-message">Ensures the app generator generates the correct @app_nam...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/51e8435e346c3f2f6356342b661231fcaeaa357a"><span class="sha1">51e8435</span></a></td>
+  <td class="commit-date">2010-09-24</td>
+  <td class="commit-message">Ensures the app generator generates the correct @app_nam...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cedc49dbd3669c82a8844c13a7aa3e165062c9e7"><span class="sha1">cedc49d</span></a></td>
+  <td class="commit-date">2010-09-15</td>
+  <td class="commit-message">Updated the Cache Money repo link to one that works with...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3edd3d052efc6d39345aaa3258109ec2fc92baa4"><span class="sha1">3edd3d0</span></a></td>
+  <td class="commit-date">2010-08-28</td>
+  <td class="commit-message">Fixed the session name generated by the app_generator. A...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83f4507cf153ea6081dd70326f5f3a0331cc167e"><span class="sha1">83f4507</span></a></td>
+  <td class="commit-date">2010-08-28</td>
+  <td class="commit-message">Fixed the session name generated by the app_generator. A...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cdad483dff4fef1b640dc3c750719c325b252f89"><span class="sha1">cdad483</span></a></td>
+  <td class="commit-date">2010-08-02</td>
+  <td class="commit-message">Improved how AppGenerator generates the application name...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

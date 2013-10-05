@@ -1,0 +1,1716 @@
+<!DOCTYPE html>
+
+<!--[if IEMobile 7]><html class="no-js iem6 oldie"><![endif]-->
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js ie9 oldie" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+
+<head>
+<base href="http://www.iso.org/iso/" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="utf-8">
+
+<!-- page title -->
+
+<title>Country Codes - ISO 3166</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="style.css?v2.1">
+
+
+<!-- For progressively larger displays--> 
+<link rel="stylesheet" media="only screen and (min-width: 480px)" href="480.css?v2.0">
+<link rel="stylesheet" media="only screen and (min-width: 600px)" href="600.css?v2.0">
+<link rel="stylesheet" media="only screen and (min-width: 768px)" href="768.css?v2.1">
+<link rel="stylesheet" media="only screen and (min-width: 992px)" href="992.css?v2.0">
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" href="480.css?v1.0">
+	<link rel="stylesheet" href="768.css?v1.0">
+	<link rel="stylesheet" href="992.css?v1.0">
+<![endif]-->
+
+<!-- SCRATCH CSS -->
+
+<link rel="stylesheet" href="scratch-d.css?v1.0">
+
+<link rel="stylesheet" href="scratch-leg.css?v2.10">
+<link rel="stylesheet" href="scratch-lp.css?v1.3">
+<link rel="stylesheet" href="flexslider.css?v1.0">
+
+<!-- For Retina displays -->
+<link rel="stylesheet" media="only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5)" href="2x.css?v2.0">
+
+
+<!-- Additional CSS -->
+<link rel="stylesheet" href="ss-social.css?v1">
+<link rel="stylesheet" media="print" href="print.css?v1.0">
+
+
+
+
+
+<!-- JavaScript  -->
+<!-- David's custom Modernizr  -->
+<script src="modernizr-2.5.3.cust.min.js"></script>
+
+<script type="text/javascript">
+		var pleasWaitStr = 'searching, please wait';
+</script>
+
+<!-- For iPhone retina -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="iso2012_apple-touch-icon_144.png">
+<!-- For iPhone 4 -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="iso2012_apple-touch-icon_114.png">
+<!-- For iPad 1-->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="iso2012_apple-touch-icon_72.png">
+<!-- For iPhone 3G, iPod Touch and Android -->
+<link rel="apple-touch-icon-precomposed" href="iso2012_apple-touch-icon-precomposed.png">
+<!-- For Nokia -->
+<link rel="shortcut icon" href="iso2012_apple-touch-icon_57.png">
+<!-- For everything else -->
+<link rel="shortcut icon" href="favicon.ico">
+
+<!--Microsoft. Delete if not required -->
+<meta http-equiv="cleartype" content="on">
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+
+<!-- Chrome Frame for IE6 -->
+<!--[if lt IE 7 ]>
+ <script src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script><script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script> 
+<![endif]-->
+
+
+
+<!-- JavaScript  -->
+<!--[if (lt IE 9) & (!IEMobile)]>
+<script src="selectivizr-min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2696651-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+	
+	<body class=" clearfix">
+
+	<!-- HEADER -->
+	<div id="printlogo"><img src="2012_iso-logo_print.png" width="295" alt="ISO logo" /><h2>International Organization for Standardization</h2><span>International Standards for Business, Government and Society</span></div>
+
+<div id="skip">
+<a href="home/standards/country_codes/country_names_and_code_elements.htm#content">Skip to Content</a>
+</div>
+<header role="banner">
+
+	<div class="inner clearfix">
+	<a href="home.htm"><h1><span>Home</span></h1></a>
+	
+	<ul class="nav-sub clearfix">
+		
+		<li class="langage"><a href="home/standards/country_codes/country_names_and_code_elements.htm?lang=4&=" title="Version française">Français</a> <span class="separation">|</span> <a href="home/standards/country_codes/country_names_and_code_elements.htm?lang=2&=" title="Русская версия">Русский</a></li>
+		
+		<li class="members"><a href="http://isodoc.iso.org/livelink/livelink/portal_entry.htm?func=doc.Fetch&nodeId=4865424" title="Members">Members</a></li>
+		
+		<li class="navicon"><a href="#navigation" class="scroll"><span>MENU</span><img src="align_just_icon_48.png" width="48" alt="Go to navigation" border="0" /></a></li>
+		<li class="searchiconTablet"><a href="home/search.htm"><img src="zoom_icon_48.png" width="48" alt="Search" border="0" /></a></li>
+		<li class="searchiconPhone"><a href="javascript:toggleSearch()"><img src="zoom_icon_48.png" width="48" alt="Search" border="0" /></a></li>
+		
+		
+		
+		
+		
+		<li class="storeBasket">
+			<a href="https://store.iso.org/store/app?page=basket%2FBasketMain&amp;service=page&amp;guilang=en&continue_shopping=http%3A%2F%2Fwww.iso.org%2Fiso%2Fcountry%5Fnames%5Fand%5Fcode%5Felements">
+				<img src="shop_cart_icon48.png" width="48" alt="View my ISO cart" border="0" />
+			</a>
+		</li>
+		
+		
+	</ul>
+
+	
+	<ul class="nav-main clearfix">
+		
+					<li class="selected"><a href="home/standards.htm">Standards</a></li>
+				
+					<li><a href="home/about.htm">About us</a></li>
+				
+					<li><a href="home/standards_development.htm">Standards Development</a></li>
+				
+					<li><a href="home/news_index.htm">News</a></li>
+				
+					<li><a href="home/store.htm">Store</a></li>
+				
+		</ul>
+
+	
+	
+	<form role="search" name="search" id="search" action="home/search.htm" method="get">
+	
+	
+	<input placeholder="Search ISO" title="Search ISO" name="qt" id="searchField">
+	<button type="submit">Go</button>
+	<input type="hidden" name="sort" value="rel"/>
+				<input type="hidden" name="type" value="simple"/>
+				<input type="hidden" name="published" value="on"/>
+	</form>
+
+	</div>
+	
+	<div class="nav_bar_level2">
+	<ul class="nav-level2 clearfix">
+		
+					<li><span><a href="home/standards/benefitsofstandards.htm">Benefits</a></span></li>
+				
+					<li><span><a href="home/standards/certification.htm">Certification</a></span></li>
+				
+					<li><span><a href="home/standards/management-standards.htm">Management system standards</a></span></li>
+				
+					<li><span><a href="home/standards/standards-in-education.htm">Education about standards</a></span></li>
+				
+		</ul>
+</div>
+	<div id="searchbar"></div>
+	
+</header>
+
+	
+	<!-- TOP NAVIGATION -->
+	<header class="toolbar clearfix">
+	<div class="breadcrumb clearfix ">
+		<ul>
+			
+			<li class="parent"><a href="home/standards.htm" title="Standards">Standards</a></li>
+			<li class="parent"><a href="home/standards/country_codes.htm" title="ISO 3166 - Country codes">ISO 3166 - Country codes</a></li>
+<li class="self">HTML list</li>
+		</ul>
+	</div>
+	<div class="mainSection"></div>
+	
+</header>
+
+	
+	
+	<!-- CONTENT -->
+	
+	<a name="content" id="content"></a>
+	<!-- CONTENT 2 columns -->
+<div class="content clearfix">
+	<h1>ISO 3166-1-alpha-2 code</h1>
+	<div class="main">
+		<p><p class="comment"><span style="color:#B4B4B4;">Last <em><a href="home/standards/country_codes/updates_on_iso_3166.htm?show=tab2" title="Updates on ISO 3166-1">updated</a>: 
+2013-02-06</em></span></p></p>
+
+<table class="sortable">
+<thead>
+<tr>
+	<th class="header headerSortDown">Code</th>
+	<th class="{sorter: 'utf8'} header">Country Name</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AF'></a>AF</td>
+	<td data-label='Country name'>AFGHANISTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AX'></a>AX</td>
+	<td data-label='Country name'>ÅLAND ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AL'></a>AL</td>
+	<td data-label='Country name'>ALBANIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'DZ'></a>DZ</td>
+	<td data-label='Country name'>ALGERIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AS'></a>AS</td>
+	<td data-label='Country name'>AMERICAN SAMOA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AD'></a>AD</td>
+	<td data-label='Country name'>ANDORRA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AO'></a>AO</td>
+	<td data-label='Country name'>ANGOLA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AI'></a>AI</td>
+	<td data-label='Country name'>ANGUILLA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AQ'></a>AQ</td>
+	<td data-label='Country name'>ANTARCTICA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AG'></a>AG</td>
+	<td data-label='Country name'>ANTIGUA AND BARBUDA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AR'></a>AR</td>
+	<td data-label='Country name'>ARGENTINA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AM'></a>AM</td>
+	<td data-label='Country name'>ARMENIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AW'></a>AW</td>
+	<td data-label='Country name'>ARUBA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AU'></a>AU</td>
+	<td data-label='Country name'>AUSTRALIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AT'></a>AT</td>
+	<td data-label='Country name'>AUSTRIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AZ'></a>AZ</td>
+	<td data-label='Country name'>AZERBAIJAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BS'></a>BS</td>
+	<td data-label='Country name'>BAHAMAS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BH'></a>BH</td>
+	<td data-label='Country name'>BAHRAIN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BD'></a>BD</td>
+	<td data-label='Country name'>BANGLADESH</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BB'></a>BB</td>
+	<td data-label='Country name'>BARBADOS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BY'></a>BY</td>
+	<td data-label='Country name'>BELARUS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BE'></a>BE</td>
+	<td data-label='Country name'>BELGIUM</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BZ'></a>BZ</td>
+	<td data-label='Country name'>BELIZE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BJ'></a>BJ</td>
+	<td data-label='Country name'>BENIN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BM'></a>BM</td>
+	<td data-label='Country name'>BERMUDA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BT'></a>BT</td>
+	<td data-label='Country name'>BHUTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BO'></a>BO</td>
+	<td data-label='Country name'>BOLIVIA, PLURINATIONAL STATE OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BQ'></a>BQ</td>
+	<td data-label='Country name'>BONAIRE, SINT EUSTATIUS AND SABA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BA'></a>BA</td>
+	<td data-label='Country name'>BOSNIA AND HERZEGOVINA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BW'></a>BW</td>
+	<td data-label='Country name'>BOTSWANA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BV'></a>BV</td>
+	<td data-label='Country name'>BOUVET ISLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BR'></a>BR</td>
+	<td data-label='Country name'>BRAZIL</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IO'></a>IO</td>
+	<td data-label='Country name'>BRITISH INDIAN OCEAN TERRITORY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BN'></a>BN</td>
+	<td data-label='Country name'>BRUNEI DARUSSALAM</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BG'></a>BG</td>
+	<td data-label='Country name'>BULGARIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BF'></a>BF</td>
+	<td data-label='Country name'>BURKINA FASO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BI'></a>BI</td>
+	<td data-label='Country name'>BURUNDI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KH'></a>KH</td>
+	<td data-label='Country name'>CAMBODIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CM'></a>CM</td>
+	<td data-label='Country name'>CAMEROON</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CA'></a>CA</td>
+	<td data-label='Country name'>CANADA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CV'></a>CV</td>
+	<td data-label='Country name'>CAPE VERDE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KY'></a>KY</td>
+	<td data-label='Country name'>CAYMAN ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CF'></a>CF</td>
+	<td data-label='Country name'>CENTRAL AFRICAN REPUBLIC</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TD'></a>TD</td>
+	<td data-label='Country name'>CHAD</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CL'></a>CL</td>
+	<td data-label='Country name'>CHILE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CN'></a>CN</td>
+	<td data-label='Country name'>CHINA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CX'></a>CX</td>
+	<td data-label='Country name'>CHRISTMAS ISLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CC'></a>CC</td>
+	<td data-label='Country name'>COCOS (KEELING) ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CO'></a>CO</td>
+	<td data-label='Country name'>COLOMBIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KM'></a>KM</td>
+	<td data-label='Country name'>COMOROS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CG'></a>CG</td>
+	<td data-label='Country name'>CONGO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CD'></a>CD</td>
+	<td data-label='Country name'>CONGO, THE DEMOCRATIC REPUBLIC OF THE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CK'></a>CK</td>
+	<td data-label='Country name'>COOK ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CR'></a>CR</td>
+	<td data-label='Country name'>COSTA RICA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CI'></a>CI</td>
+	<td data-label='Country name'>CÔTE D'IVOIRE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'HR'></a>HR</td>
+	<td data-label='Country name'>CROATIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CU'></a>CU</td>
+	<td data-label='Country name'>CUBA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CW'></a>CW</td>
+	<td data-label='Country name'>CURAÇAO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CY'></a>CY</td>
+	<td data-label='Country name'>CYPRUS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CZ'></a>CZ</td>
+	<td data-label='Country name'>CZECH REPUBLIC</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'DK'></a>DK</td>
+	<td data-label='Country name'>DENMARK</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'DJ'></a>DJ</td>
+	<td data-label='Country name'>DJIBOUTI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'DM'></a>DM</td>
+	<td data-label='Country name'>DOMINICA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'DO'></a>DO</td>
+	<td data-label='Country name'>DOMINICAN REPUBLIC</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'EC'></a>EC</td>
+	<td data-label='Country name'>ECUADOR</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'EG'></a>EG</td>
+	<td data-label='Country name'>EGYPT</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SV'></a>SV</td>
+	<td data-label='Country name'>EL SALVADOR</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GQ'></a>GQ</td>
+	<td data-label='Country name'>EQUATORIAL GUINEA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ER'></a>ER</td>
+	<td data-label='Country name'>ERITREA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'EE'></a>EE</td>
+	<td data-label='Country name'>ESTONIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ET'></a>ET</td>
+	<td data-label='Country name'>ETHIOPIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'FK'></a>FK</td>
+	<td data-label='Country name'>FALKLAND ISLANDS (MALVINAS)</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'FO'></a>FO</td>
+	<td data-label='Country name'>FAROE ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'FJ'></a>FJ</td>
+	<td data-label='Country name'>FIJI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'FI'></a>FI</td>
+	<td data-label='Country name'>FINLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'FR'></a>FR</td>
+	<td data-label='Country name'>FRANCE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GF'></a>GF</td>
+	<td data-label='Country name'>FRENCH GUIANA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PF'></a>PF</td>
+	<td data-label='Country name'>FRENCH POLYNESIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TF'></a>TF</td>
+	<td data-label='Country name'>FRENCH SOUTHERN TERRITORIES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GA'></a>GA</td>
+	<td data-label='Country name'>GABON</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GM'></a>GM</td>
+	<td data-label='Country name'>GAMBIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GE'></a>GE</td>
+	<td data-label='Country name'>GEORGIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'DE'></a>DE</td>
+	<td data-label='Country name'>GERMANY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GH'></a>GH</td>
+	<td data-label='Country name'>GHANA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GI'></a>GI</td>
+	<td data-label='Country name'>GIBRALTAR</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GR'></a>GR</td>
+	<td data-label='Country name'>GREECE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GL'></a>GL</td>
+	<td data-label='Country name'>GREENLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GD'></a>GD</td>
+	<td data-label='Country name'>GRENADA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GP'></a>GP</td>
+	<td data-label='Country name'>GUADELOUPE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GU'></a>GU</td>
+	<td data-label='Country name'>GUAM</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GT'></a>GT</td>
+	<td data-label='Country name'>GUATEMALA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GG'></a>GG</td>
+	<td data-label='Country name'>GUERNSEY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GN'></a>GN</td>
+	<td data-label='Country name'>GUINEA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GW'></a>GW</td>
+	<td data-label='Country name'>GUINEA-BISSAU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GY'></a>GY</td>
+	<td data-label='Country name'>GUYANA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'HT'></a>HT</td>
+	<td data-label='Country name'>HAITI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'HM'></a>HM</td>
+	<td data-label='Country name'>HEARD ISLAND AND MCDONALD ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VA'></a>VA</td>
+	<td data-label='Country name'>HOLY SEE (VATICAN CITY STATE)</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'HN'></a>HN</td>
+	<td data-label='Country name'>HONDURAS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'HK'></a>HK</td>
+	<td data-label='Country name'>HONG KONG</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'HU'></a>HU</td>
+	<td data-label='Country name'>HUNGARY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IS'></a>IS</td>
+	<td data-label='Country name'>ICELAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IN'></a>IN</td>
+	<td data-label='Country name'>INDIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ID'></a>ID</td>
+	<td data-label='Country name'>INDONESIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IR'></a>IR</td>
+	<td data-label='Country name'>IRAN, ISLAMIC REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IQ'></a>IQ</td>
+	<td data-label='Country name'>IRAQ</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IE'></a>IE</td>
+	<td data-label='Country name'>IRELAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IM'></a>IM</td>
+	<td data-label='Country name'>ISLE OF MAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IL'></a>IL</td>
+	<td data-label='Country name'>ISRAEL</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'IT'></a>IT</td>
+	<td data-label='Country name'>ITALY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'JM'></a>JM</td>
+	<td data-label='Country name'>JAMAICA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'JP'></a>JP</td>
+	<td data-label='Country name'>JAPAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'JE'></a>JE</td>
+	<td data-label='Country name'>JERSEY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'JO'></a>JO</td>
+	<td data-label='Country name'>JORDAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KZ'></a>KZ</td>
+	<td data-label='Country name'>KAZAKHSTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KE'></a>KE</td>
+	<td data-label='Country name'>KENYA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KI'></a>KI</td>
+	<td data-label='Country name'>KIRIBATI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KP'></a>KP</td>
+	<td data-label='Country name'>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KR'></a>KR</td>
+	<td data-label='Country name'>KOREA, REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KW'></a>KW</td>
+	<td data-label='Country name'>KUWAIT</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KG'></a>KG</td>
+	<td data-label='Country name'>KYRGYZSTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LA'></a>LA</td>
+	<td data-label='Country name'>LAO PEOPLE'S DEMOCRATIC REPUBLIC</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LV'></a>LV</td>
+	<td data-label='Country name'>LATVIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LB'></a>LB</td>
+	<td data-label='Country name'>LEBANON</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LS'></a>LS</td>
+	<td data-label='Country name'>LESOTHO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LR'></a>LR</td>
+	<td data-label='Country name'>LIBERIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LY'></a>LY</td>
+	<td data-label='Country name'>LIBYA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LI'></a>LI</td>
+	<td data-label='Country name'>LIECHTENSTEIN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LT'></a>LT</td>
+	<td data-label='Country name'>LITHUANIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LU'></a>LU</td>
+	<td data-label='Country name'>LUXEMBOURG</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MO'></a>MO</td>
+	<td data-label='Country name'>MACAO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MK'></a>MK</td>
+	<td data-label='Country name'>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MG'></a>MG</td>
+	<td data-label='Country name'>MADAGASCAR</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MW'></a>MW</td>
+	<td data-label='Country name'>MALAWI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MY'></a>MY</td>
+	<td data-label='Country name'>MALAYSIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MV'></a>MV</td>
+	<td data-label='Country name'>MALDIVES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ML'></a>ML</td>
+	<td data-label='Country name'>MALI</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MT'></a>MT</td>
+	<td data-label='Country name'>MALTA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MH'></a>MH</td>
+	<td data-label='Country name'>MARSHALL ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MQ'></a>MQ</td>
+	<td data-label='Country name'>MARTINIQUE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MR'></a>MR</td>
+	<td data-label='Country name'>MAURITANIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MU'></a>MU</td>
+	<td data-label='Country name'>MAURITIUS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'YT'></a>YT</td>
+	<td data-label='Country name'>MAYOTTE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MX'></a>MX</td>
+	<td data-label='Country name'>MEXICO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'FM'></a>FM</td>
+	<td data-label='Country name'>MICRONESIA, FEDERATED STATES OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MD'></a>MD</td>
+	<td data-label='Country name'>MOLDOVA, REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MC'></a>MC</td>
+	<td data-label='Country name'>MONACO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MN'></a>MN</td>
+	<td data-label='Country name'>MONGOLIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ME'></a>ME</td>
+	<td data-label='Country name'>MONTENEGRO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MS'></a>MS</td>
+	<td data-label='Country name'>MONTSERRAT</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MA'></a>MA</td>
+	<td data-label='Country name'>MOROCCO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MZ'></a>MZ</td>
+	<td data-label='Country name'>MOZAMBIQUE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MM'></a>MM</td>
+	<td data-label='Country name'>MYANMAR</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NA'></a>NA</td>
+	<td data-label='Country name'>NAMIBIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NR'></a>NR</td>
+	<td data-label='Country name'>NAURU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NP'></a>NP</td>
+	<td data-label='Country name'>NEPAL</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NL'></a>NL</td>
+	<td data-label='Country name'>NETHERLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NC'></a>NC</td>
+	<td data-label='Country name'>NEW CALEDONIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NZ'></a>NZ</td>
+	<td data-label='Country name'>NEW ZEALAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NI'></a>NI</td>
+	<td data-label='Country name'>NICARAGUA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NE'></a>NE</td>
+	<td data-label='Country name'>NIGER</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NG'></a>NG</td>
+	<td data-label='Country name'>NIGERIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NU'></a>NU</td>
+	<td data-label='Country name'>NIUE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NF'></a>NF</td>
+	<td data-label='Country name'>NORFOLK ISLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MP'></a>MP</td>
+	<td data-label='Country name'>NORTHERN MARIANA ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'NO'></a>NO</td>
+	<td data-label='Country name'>NORWAY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'OM'></a>OM</td>
+	<td data-label='Country name'>OMAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PK'></a>PK</td>
+	<td data-label='Country name'>PAKISTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PW'></a>PW</td>
+	<td data-label='Country name'>PALAU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PS'></a>PS</td>
+	<td data-label='Country name'>PALESTINE, STATE OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PA'></a>PA</td>
+	<td data-label='Country name'>PANAMA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PG'></a>PG</td>
+	<td data-label='Country name'>PAPUA NEW GUINEA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PY'></a>PY</td>
+	<td data-label='Country name'>PARAGUAY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PE'></a>PE</td>
+	<td data-label='Country name'>PERU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PH'></a>PH</td>
+	<td data-label='Country name'>PHILIPPINES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PN'></a>PN</td>
+	<td data-label='Country name'>PITCAIRN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PL'></a>PL</td>
+	<td data-label='Country name'>POLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PT'></a>PT</td>
+	<td data-label='Country name'>PORTUGAL</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PR'></a>PR</td>
+	<td data-label='Country name'>PUERTO RICO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'QA'></a>QA</td>
+	<td data-label='Country name'>QATAR</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'RE'></a>RE</td>
+	<td data-label='Country name'>RÉUNION</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'RO'></a>RO</td>
+	<td data-label='Country name'>ROMANIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'RU'></a>RU</td>
+	<td data-label='Country name'>RUSSIAN FEDERATION</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'RW'></a>RW</td>
+	<td data-label='Country name'>RWANDA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'BL'></a>BL</td>
+	<td data-label='Country name'>SAINT BARTHÉLEMY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SH'></a>SH</td>
+	<td data-label='Country name'>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'KN'></a>KN</td>
+	<td data-label='Country name'>SAINT KITTS AND NEVIS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LC'></a>LC</td>
+	<td data-label='Country name'>SAINT LUCIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'MF'></a>MF</td>
+	<td data-label='Country name'>SAINT MARTIN (FRENCH PART)</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'PM'></a>PM</td>
+	<td data-label='Country name'>SAINT PIERRE AND MIQUELON</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VC'></a>VC</td>
+	<td data-label='Country name'>SAINT VINCENT AND THE GRENADINES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'WS'></a>WS</td>
+	<td data-label='Country name'>SAMOA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SM'></a>SM</td>
+	<td data-label='Country name'>SAN MARINO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ST'></a>ST</td>
+	<td data-label='Country name'>SAO TOME AND PRINCIPE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SA'></a>SA</td>
+	<td data-label='Country name'>SAUDI ARABIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SN'></a>SN</td>
+	<td data-label='Country name'>SENEGAL</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'RS'></a>RS</td>
+	<td data-label='Country name'>SERBIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SC'></a>SC</td>
+	<td data-label='Country name'>SEYCHELLES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SL'></a>SL</td>
+	<td data-label='Country name'>SIERRA LEONE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SG'></a>SG</td>
+	<td data-label='Country name'>SINGAPORE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SX'></a>SX</td>
+	<td data-label='Country name'>SINT MAARTEN (DUTCH PART)</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SK'></a>SK</td>
+	<td data-label='Country name'>SLOVAKIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SI'></a>SI</td>
+	<td data-label='Country name'>SLOVENIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SB'></a>SB</td>
+	<td data-label='Country name'>SOLOMON ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SO'></a>SO</td>
+	<td data-label='Country name'>SOMALIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ZA'></a>ZA</td>
+	<td data-label='Country name'>SOUTH AFRICA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GS'></a>GS</td>
+	<td data-label='Country name'>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SS'></a>SS</td>
+	<td data-label='Country name'>SOUTH SUDAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ES'></a>ES</td>
+	<td data-label='Country name'>SPAIN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'LK'></a>LK</td>
+	<td data-label='Country name'>SRI LANKA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SD'></a>SD</td>
+	<td data-label='Country name'>SUDAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SR'></a>SR</td>
+	<td data-label='Country name'>SURINAME</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SJ'></a>SJ</td>
+	<td data-label='Country name'>SVALBARD AND JAN MAYEN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SZ'></a>SZ</td>
+	<td data-label='Country name'>SWAZILAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SE'></a>SE</td>
+	<td data-label='Country name'>SWEDEN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'CH'></a>CH</td>
+	<td data-label='Country name'>SWITZERLAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'SY'></a>SY</td>
+	<td data-label='Country name'>SYRIAN ARAB REPUBLIC</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TW'></a>TW</td>
+	<td data-label='Country name'>TAIWAN, PROVINCE OF CHINA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TJ'></a>TJ</td>
+	<td data-label='Country name'>TAJIKISTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TZ'></a>TZ</td>
+	<td data-label='Country name'>TANZANIA, UNITED REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TH'></a>TH</td>
+	<td data-label='Country name'>THAILAND</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TL'></a>TL</td>
+	<td data-label='Country name'>TIMOR-LESTE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TG'></a>TG</td>
+	<td data-label='Country name'>TOGO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TK'></a>TK</td>
+	<td data-label='Country name'>TOKELAU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TO'></a>TO</td>
+	<td data-label='Country name'>TONGA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TT'></a>TT</td>
+	<td data-label='Country name'>TRINIDAD AND TOBAGO</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TN'></a>TN</td>
+	<td data-label='Country name'>TUNISIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TR'></a>TR</td>
+	<td data-label='Country name'>TURKEY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TM'></a>TM</td>
+	<td data-label='Country name'>TURKMENISTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TC'></a>TC</td>
+	<td data-label='Country name'>TURKS AND CAICOS ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'TV'></a>TV</td>
+	<td data-label='Country name'>TUVALU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'UG'></a>UG</td>
+	<td data-label='Country name'>UGANDA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'UA'></a>UA</td>
+	<td data-label='Country name'>UKRAINE</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'AE'></a>AE</td>
+	<td data-label='Country name'>UNITED ARAB EMIRATES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'GB'></a>GB</td>
+	<td data-label='Country name'>UNITED KINGDOM</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'US'></a>US</td>
+	<td data-label='Country name'>UNITED STATES</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'UM'></a>UM</td>
+	<td data-label='Country name'>UNITED STATES MINOR OUTLYING ISLANDS</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'UY'></a>UY</td>
+	<td data-label='Country name'>URUGUAY</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'UZ'></a>UZ</td>
+	<td data-label='Country name'>UZBEKISTAN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VU'></a>VU</td>
+	<td data-label='Country name'>VANUATU</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VE'></a>VE</td>
+	<td data-label='Country name'>VENEZUELA, BOLIVARIAN REPUBLIC OF</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VN'></a>VN</td>
+	<td data-label='Country name'>VIET NAM</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VG'></a>VG</td>
+	<td data-label='Country name'>VIRGIN ISLANDS, BRITISH</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'VI'></a>VI</td>
+	<td data-label='Country name'>VIRGIN ISLANDS, U.S.</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'WF'></a>WF</td>
+	<td data-label='Country name'>WALLIS AND FUTUNA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'EH'></a>EH</td>
+	<td data-label='Country name'>WESTERN SAHARA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'YE'></a>YE</td>
+	<td data-label='Country name'>YEMEN</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ZM'></a>ZM</td>
+	<td data-label='Country name'>ZAMBIA</td> 
+</tr>
+
+<tr>
+	<td class='status1' data-label='Code'><a name = 'ZW'></a>ZW</td>
+	<td data-label='Country name'>ZIMBABWE</td> 
+</tr>
+
+</tbody>
+</table>
+
+	</div>
+	<div class="complementary">
+		
+	</div>
+</div>
+
+
+
+
+
+	
+	
+	<div class="sitemap" id="navigation">
+	<!-- CONTENT 5 columns-->
+<div class="grids grids-five clearfix">
+	<h1>More in this section</h1>
+	<div class="grid grid-one">
+		
+
+
+
+<div class="active" >
+<ul class="sitemapL1">
+
+		<li class="active"  >
+		<a title="click to open or close" id="close_L9408" class="level2less" href='javascript:toggleDiv("L9408")'>&nbsp;</a>
+		<a href="home/standards.htm" title="Standards">Standards</a>
+		<ul class="sitemapL2" id = L9408><li><a href="home/standards/benefitsofstandards.htm" title="Benefits">Benefits</a></li><li><a href="home/standards/certification.htm" title="Certification">Certification</a></li><li><a href="home/standards/management-standards.htm" title="Management system standards">Management system standards</a></li><li><a href="home/standards/iso26000.htm" title="ISO 26000">ISO 26000</a></li><li><a href="home/standards/iso31000.htm" title="ISO 31000">ISO 31000</a></li><li><a href="home/standards/currency_codes.htm" title="ISO 4217 - Currency codes">ISO 4217 - Currency codes</a></li><li><a href="home/standards/iso8601.htm" title="ISO 8601 - Time and date format">ISO 8601 - Time and date format</a></li><li><a href="home/standards/language_codes.htm" title="ISO 639 - Language codes">ISO 639 - Language codes</a></li><li class='current'><a href="home/standards/country_codes.htm" title="ISO 3166 - Country codes">ISO 3166 - Country codes</a></li><li><a href="home/standards/standards-in-education.htm" title="Education about standards">Education about standards</a></li></ul></li></li></ul></div>
+<div class="sister-section"></div>
+	</div>
+	<div class="grid grid-two">
+		
+
+
+
+<div class="sister-section">
+<ul class="sitemapL1">
+
+		<li class="sister-section" >
+		<a title="click to open or close" id="close_L9480" class="level2more" href='javascript:toggleDiv("L9480")'>&nbsp;</a>
+		<a href="home/about.htm" title="About us">About us</a>
+		<ul class="sitemapL2 hideByDefault" id = L9480><li><a href="home/about/about_governance.htm" title="Structure">Structure</a></li><li><a href="home/about/the_iso_story.htm" title="The ISO story">The ISO story</a></li><li><a href="home/about/iso_members.htm" title="Members">Members</a></li><li><a href="home/about/annual_reports.htm" title="Annual Reports">Annual Reports</a></li><li><a href="home/about/iso-in-figures.htm" title="ISO in figures ">ISO in figures </a></li><li><a href="home/about/organizations_in_liaison.htm" title="Organizations in cooperation with ISO">Organizations in cooperation with ISO</a></li><li><a href="home/about/iso-and-the-consumer.htm" title="Consumers">Consumers</a></li><li><a href="home/about/iso-and-smes.htm" title="SMEs">SMEs</a></li><li><a href="home/about/conformity-assessment.htm" title="Conformity assessment">Conformity assessment</a></li><li><a href="home/about/iso-and-developing-countries.htm" title="Developing countries">Developing countries</a></li><li><a href="home/about/training-technical-assistance.htm" title="Training">Training</a></li><li><a href="home/about/jobs.htm" title="Jobs at ISO Central Secretariat">Jobs at ISO Central Secretariat</a></li><li><a href="home/about/iso-awards.htm" title="ISO Awards">ISO Awards</a></li></ul></li></li></ul></div>
+<div class="sister-section"></div>
+	</div>
+	<div class="grid grid-three">
+		
+
+
+
+<div class="sister-section">
+<ul class="sitemapL1">
+
+		<li class="sister-section" >
+		<a title="click to open or close" id="close_L9918" class="level2more" href='javascript:toggleDiv("L9918")'>&nbsp;</a>
+		<a href="home/standards_development.htm" title="Standards Development">Standards Development</a>
+		<ul class="sitemapL2 hideByDefault" id = L9918><li><a href="home/standards_development/list_of_iso_technical_committees.htm" title="Technical committees">Technical committees</a></li><li><a href="home/standards_development/deliverables-all.htm" title="Deliverables">Deliverables</a></li><li><a href="home/standards_development/who-develops-iso-standards.htm" title="Who develops standards ">Who develops standards </a></li><li><a href="home/standards_development/standardsdevelopment_gettinginvolved.htm" title="Why get involved?">Why get involved?</a></li><li><a href="home/standards_development/resources-for-technical-work.htm" title="Resource area">Resource area</a></li><li><a href="home/standards_development/governance_of_technical_work.htm" title="Governance - Technical Work">Governance - Technical Work</a></li></ul></li></li></ul></div>
+<div class="sister-section"></div>
+	</div>
+	<div class="grid grid-four">
+		
+
+
+
+<div class="sister-section">
+<ul class="sitemapL1">
+
+		<li class="sister-section" >
+		<a title="click to open or close" id="close_L10890" class="level2more" href='javascript:toggleDiv("L10890")'>&nbsp;</a>
+		<a href="home/news_index.htm" title="News">News</a>
+		<ul class="sitemapL2 hideByDefault" id = L10890><li><a href="home/news_index/iso-in-action.htm" title="ISO Standards in action">ISO Standards in action</a></li><li><a href="home/news_index/iso_magazines" title="ISO Magazines">ISO Magazines</a></li><li><a href="home/news_index/events.htm" title="Events">Events</a></li><li><a href="home/news_index/news_archive.htm" title="News archive">News archive</a></li><li><a href="home/news_index/mediakit.htm" title="Media kit">Media kit</a></li></ul></li></li></ul></div>
+<div class="sister-section"></div>
+	</div>
+	<div class="grid grid-five">
+		
+
+
+
+<div class="sister-section">
+<ul class="sitemapL1">
+
+		<li class="sister-section" >
+		<a title="click to open or close" id="close_L9608" class="level2more" href='javascript:toggleDiv("L9608")'>&nbsp;</a>
+		<a href="home/store.htm" title="Store">Store</a>
+		<ul class="sitemapL2 hideByDefault" id = L9608><li><a href="home/store/catalogue_ics.htm" title="Standards catalogue">Standards catalogue</a></li><li><a href="home/store/online_collections.htm" title="Online collections">Online collections</a></li><li><a href="home/store/publications_and_e-products.htm" title="Publications">Publications</a></li></ul></li></li></ul></div>
+<div class="sister-section"></div>
+	</div>
+</div>
+</div>
+	<!-- FOOTER -->
+	<footer role="contentinfo" class="clearfix">
+  <div class="content">	
+	<ul class="clearfix">
+	<li><a href="home/policies.htm" title="Privacy and copyright">Privacy and copyright</a></li>
+	<li><a href="home/name_and_logo.htm" title="Name and logo">Name and logo</a></li>
+	<li><a href="home/sitemap.htm" title="Sitemap">Sitemap</a></li>
+	<li><a href="home/about/jobs.htm" title="Jobs">Jobs</a></li>
+	<li><a href="home/faqs.htm" title="FAQs">FAQs</a></li>
+	<li><a href="home/contact_iso.htm" title="Contact ISO">Contact ISO</a></li>
+	</ul>
+	<div class="ss-icon clearfix">
+	<ul>
+		<li class="firsttwo"><a href="home/contact_iso.htm" title="Contact ISO">✉</a></li>
+		<li class="firsttwo"><a href="http://www.iso.org/facebook" title="Facebook"></a></li>
+		<li><a href="http://www.iso.org/twitter" title="Twitter"></a></li>
+		<li class="firsttwo"><a href="http://www.iso.org/google+" title="Google+"></a></li>
+		<li class="firsttwo"><a href="http://www.iso.org/youtube" title="YouTube"></a></li>
+		<li><a href="http://www.iso.org/linkedin" title="Linkedin"></a></li>
+		<li class="firsttwo" style="margin-right:0; border-bottom:none;"></li>
+		<li class="firsttwo" style="border-bottom:none;"><a href="http://www.iso.org/flickr" title="Flickr"></a></li>
+		<li style="margin-right:0;border-bottom:none;"></li>
+	</ul>
+</div>
+
+	<p style="font-size:85%">We are committed to ensuring that our website is accessible to everyone. If you 
+have any questions or suggestions regarding the accessibility of this site, please <a href="mailto:webmaster@iso.org?subject=Accessibility" style="white-space: nowrap">contact 
+us</a>.</p>
+<div class="logo_mobile"><img src="iso_logo.gif" width="82" alt="ISO logo for mobile" border="0" /></div>
+<small style="margin-top:0.5em;"><a href="#copyright">© All Rights Reserved.</a> <span id="copyright">All ISO publications and 
+materials are protected by copyright and are subject to the user’s acceptance of ISO’s conditions of 
+copyright. Any use, including reproduction requires our written permission. All copyright requests should 
+be addressed to <a href="mailto:copyright@iso.org">copyright@iso.org</a>.</span></small>
+  </div>
+  <div class="goToTop"><a href="#skip" class="toplink">TOP</a></div>
+</footer>
+	
+	<!-- SCRIPTS -->
+	<!-- <script src="jquery-1.6.2.min.js"></script> -->
+ <script src="jquery-1.7.1.min.js?ver1.0"></script>
+
+<script src="plugins.js?ver1.0"></script>
+<script src="helper.js?ver1.0"></script>
+<!-- Load Flexslider only when necessary in the additional JS section -->
+<!-- <script src="jquery.flexslider-min.js"></script>-->
+
+<script src="bootstrap-dropdown.js?ver1.0"></script>
+
+<script src="jquery.mobilemenu.js?ver1.0"></script> 
+
+<script src="script.js?ver1.2" charset="utf-8"></script>
+<script>
+ 				jQuery.tablesorter.addParser({
+					id: 'utf8',
+					is: function(s) {
+						return false;
+					},
+					format: function(s) {
+						return s.replace(/Å/,'A').replace(/É/,'E').replace(/Î/,'I').replace(/é/,'e');
+					},
+					type: 'text'
+				});
+				
+				  jQuery.tablesorter.addParser({ 
+						        id: 'currency', 
+						        is: function(s) { 
+						            return false; 
+						        }, 
+						        format: function(s) { 
+						            return s.toLowerCase().replace(/,/,'.'); 
+						        }, 
+						        type: 'numeric' 
+		   		 }); 
+		   		 
+		   		 jQuery.tablesorter.addParser({ 
+				 			id: 'tc', 
+				 		        is: function(s) { 
+				 			            return false; 
+				 					        }, 
+				 				format: function(s) { 
+				 				            return s.replace(/JTC /,'00').replace(/TC /,'01'); 
+				 					        }, 
+				 		        type: 'numeric' 
+		   		 }); 
+	
+		    jQuery(".sortable").tablesorter(); 
+
+</script>
+<!--[if (lt IE 9) & (!IEMobile)]>
+<script src="jquery-extra-selectors.js?ver1.0"></script>
+<script src="imgsizer.js?ver1.0"></script>
+<![endif]-->
+
+<script>
+// iOS scale bug fix
+MBP.scaleFix();
+
+// Respond.js
+//yepnope({
+//test : Modernizr.mq('(min-width)'),
+//nope : ['respond.min.js']
+//});
+</script>
+
+<!--[if (lt IE 7) & (!IEMobile)]>
+<script type="text/javascript" charset="utf-8">
+
+    jQuery(document).ready(function() {
+
+      // target all [role="xxx"] and transform them into classes
+
+      jQuery('header [role="banner"]').addClass("banner");
+      jQuery('footer [role="contentinfo"]').addClass("contentinfo");
+      jQuery('div [role="main"]').addClass("main");
+      jQuery('form [role="search"]').addClass("search");
+
+	  // help with .class + .class
+	  jQuery('.index .content + .content').css("margin-top","-1.5em").css("padding-top","1.5em").css("border-top","1px solid #E7F0F5");
+        
+    });
+</script>
+<![endif]-->
+
+<!-- http://mths.be/aab -->
+
+	
+	<!-- SHOPPING CART -->
+	
+	
+	<!-- More JS -->
+	
+	
+	
+	
+	
+	
+</body>
+
+
+
+	
+	<!-- Additional JS -->
+	
+	
+	
+	
+</html>

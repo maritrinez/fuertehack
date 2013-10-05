@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Ken Kunz to Ruby on Rails" />
+    <meta name="keywords" content="Ken Kunz,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Ken Kunz - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Ken Kunz</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3f459eecfec2beda2f51fb6d62eca4e5d5fbd70"><span class="sha1">a3f459e</span></a></td>
+  <td class="commit-date">2006-07-08</td>
+  <td class="commit-message">Firebird migrations support. Closes #5337.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb62f06dcf11f440d917cd4862c0786a213a5252"><span class="sha1">cb62f06</span></a></td>
+  <td class="commit-date">2006-06-03</td>
+  <td class="commit-message">Fixed issues with BLOB limits, charsets, and booleans fo...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fbcae1912b1b6102790ef28f06c2d2a51e72828"><span class="sha1">2fbcae1</span></a></td>
+  <td class="commit-date">2006-06-03</td>
+  <td class="commit-message">Added disconnect! to Firebird adapter (closes #5210) [ke...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6a9f47f33f853c6899bb50bf21e49da798bdd12e"><span class="sha1">6a9f47f</span></a></td>
+  <td class="commit-date">2006-06-03</td>
+  <td class="commit-message">Make more Firebird tests pass (closes #5188) [kennethkun...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/142304b79d25e5702413a03fbe64540c4999f32e"><span class="sha1">142304b</span></a></td>
+  <td class="commit-date">2005-12-07</td>
+  <td class="commit-message"> r3363@asus:  jeremy | 2005-12-06 22:26:27 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3d0e3c92900ff3dd1ddef7c94c201698e71ca9d5"><span class="sha1">3d0e3c9</span></a></td>
+  <td class="commit-date">2005-12-02</td>
+  <td class="commit-message">Firebird: active? and reconnect! methods for handling st...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c86c6f4d947508421e0d516d669ebd52c70a06a"><span class="sha1">1c86c6f</span></a></td>
+  <td class="commit-date">2005-12-02</td>
+  <td class="commit-message"> r3339@asus:  jeremy | 2005-12-01 17:03:16 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/13cfabb2ffead66b3d09b2e16170b9402f1971fd"><span class="sha1">13cfabb</span></a></td>
+  <td class="commit-date">2005-12-02</td>
+  <td class="commit-message">Firebird: updated for FireRuby 0.4.0.  References #3009.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15839d56d01a1a9f60bb57314c722efcfead644d"><span class="sha1">15839d5</span></a></td>
+  <td class="commit-date">2005-11-24</td>
+  <td class="commit-message"> r3303@asus:  jeremy | 2005-11-23 17:14:31 -0800</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9cb02c5317759ab4741fb2786173287879534c1c"><span class="sha1">9cb02c5</span></a></td>
+  <td class="commit-date">2005-11-16</td>
+  <td class="commit-message"> r3116@asus:  jeremy | 2005-11-16 00:17:06 -0800</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/69d662051e609f8fc3e28d2c77a917cd0befddca"><span class="sha1">69d6620</span></a></td>
+  <td class="commit-date">2005-09-02</td>
+  <td class="commit-message">Modify read_attribute to allow a symbol argument #2024 [...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

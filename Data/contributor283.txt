@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by DeLynn Berry to Ruby on Rails" />
+    <meta name="keywords" content="DeLynn Berry,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #275 DeLynn Berry - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #275 <span class="fn">DeLynn Berry</span> - All time<br/>
+    <span class="listing-total">Showing 12 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55692003d4a230e2fc666420ce94c3b98d098f30"><span class="sha1">5569200</span></a></td>
+  <td class="commit-date">2005-07-03</td>
+  <td class="commit-message">Fixed Base.content_columns call for SQL Server adapter #...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2a29ca43cb0de38a25bf7f68bca5c11871692ce"><span class="sha1">f2a29ca</span></a></td>
+  <td class="commit-date">2005-07-01</td>
+  <td class="commit-message">Added support for ODBC connections to MS SQL Server so y...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/665ab93761f3a42ccce12b10c1e9a958ae53e691"><span class="sha1">665ab93</span></a></td>
+  <td class="commit-date">2005-06-16</td>
+  <td class="commit-message">Added :extension option to NumberHelper#number_to_phone ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba96827b3d05396b11491e36590c52a407ddb8a2"><span class="sha1">ba96827</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">Fixed FormTagHelper#check_box to respect checked #1049 [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ed46cc3058ac9406f61220c9720c51f4edd172f9"><span class="sha1">ed46cc3</span></a></td>
+  <td class="commit-date">2005-04-17</td>
+  <td class="commit-message">Added insert_at(position) to acts_as_list #1083 [DeLynnB]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa09c770e9b5400683be11952673017295246de7"><span class="sha1">aa09c77</span></a></td>
+  <td class="commit-date">2005-04-02</td>
+  <td class="commit-message">Added NumberHelper for common string representations lik...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f7c61b629e76e21ae78c6da3e9f6ee070d03bae8"><span class="sha1">f7c61b6</span></a></td>
+  <td class="commit-date">2005-04-02</td>
+  <td class="commit-message">Added options to set cc, bcc, subject, and body for UrlH...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f30b7a31bda74715c09759d03064f6f7c7c784b9"><span class="sha1">f30b7a3</span></a></td>
+  <td class="commit-date">2005-03-23</td>
+  <td class="commit-message">Fixed the MS SQL adapter to work with the new limit/offs...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6cd3bda32f6183f2e31a3b62e35c01655e8debc4"><span class="sha1">6cd3bda</span></a></td>
+  <td class="commit-date">2005-03-20</td>
+  <td class="commit-message">Fixed form helpers to query Model#id_before_type_cast in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/57c32677c929c84b7988a843d407b9105a3fabd3"><span class="sha1">57c3267</span></a></td>
+  <td class="commit-date">2005-02-19</td>
+  <td class="commit-message">Fixed the SQL Server adapter on a bunch of issues #667 [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2e6945b25d92d5a4a00e5678d8515ae35cd24bb"><span class="sha1">f2e6945</span></a></td>
+  <td class="commit-date">2005-01-04</td>
+  <td class="commit-message">Prepared for release of 0.9.3</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6fefad354d36f3e9a91f8582659ffcda1a35855"><span class="sha1">a6fefad</span></a></td>
+  <td class="commit-date">2005-01-01</td>
+  <td class="commit-message">Added the final touches to the Microsoft SQL Server adap...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

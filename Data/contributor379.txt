@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Stephen Celis to Ruby on Rails" />
+    <meta name="keywords" content="Stephen Celis,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #352 Stephen Celis - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #352 <span class="fn">Stephen Celis</span> - All time<br/>
+    <span class="listing-total">Showing 9 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/920070e42b33c5bdaf62977ed22aa867a455ffd5"><span class="sha1">920070e</span></a></td>
+  <td class="commit-date">2012-01-20</td>
+  <td class="commit-message">Don&#39;t type-cast unknown types to YAML.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0757e00f3ec2925ee6fdd25498725acf66fae98"><span class="sha1">a0757e0</span></a></td>
+  <td class="commit-date">2011-02-02</td>
+  <td class="commit-message">Protocol-relative URL support.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cfcef34bb54bce0cda77da4ae99774fa501ab713"><span class="sha1">cfcef34</span></a></td>
+  <td class="commit-date">2010-10-19</td>
+  <td class="commit-message">Additional documentation for data-* attributes.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e79094fc1dbb62e27cf21c0f18b586a26d5de46"><span class="sha1">5e79094</span></a></td>
+  <td class="commit-date">2010-10-17</td>
+  <td class="commit-message">HTML5 data attribute helpers [#5825 state:resolved].</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e69b42b21d8e76c4d87b6fbc4222f55d3b11a06"><span class="sha1">6e69b42</span></a></td>
+  <td class="commit-date">2010-05-15</td>
+  <td class="commit-message">Let label helpers accept blocks.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8730e5ce6bba4de7639ac09c6c193458038f748"><span class="sha1">f8730e5</span></a></td>
+  <td class="commit-date">2010-04-05</td>
+  <td class="commit-message">Added all the new HTML5 form types as individual form ta...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2835ec6134b1e5b706824b568dfaba24672b7409"><span class="sha1">2835ec6</span></a></td>
+  <td class="commit-date">2010-01-14</td>
+  <td class="commit-message">Custom &#39;type&#39; attribute support for text_field. [#3646 s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a99dc0ac2f36694b1cc11418129b8c39bb9044d"><span class="sha1">7a99dc0</span></a></td>
+  <td class="commit-date">2009-04-21</td>
+  <td class="commit-message">Update rails:template task to expand file paths [#2528 s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89237fe07e9c6d35687b3a473f09f4608a3625d8"><span class="sha1">89237fe</span></a></td>
+  <td class="commit-date">2008-04-12</td>
+  <td class="commit-message">Scripts and styles with multiple dots in the filename sh...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

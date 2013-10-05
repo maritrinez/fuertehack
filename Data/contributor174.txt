@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Anupam Choudhury to Ruby on Rails" />
+    <meta name="keywords" content="Anupam Choudhury,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #174 Anupam Choudhury - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #174 <span class="fn">Anupam Choudhury</span> - All time<br/>
+    <span class="listing-total">Showing 21 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08286ba171958c48d07f40a127f2b782665ed292"><span class="sha1">08286ba</span></a></td>
+  <td class="commit-date">2013-09-12</td>
+  <td class="commit-message">Removed semicolon and added space</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/44f203b0e366c99ffc74851d8a42394414f4b88e"><span class="sha1">44f203b</span></a></td>
+  <td class="commit-date">2013-09-10</td>
+  <td class="commit-message">Removed unused modules and classes</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f3e4069ede78341943fc67ab05f66155b2fec700"><span class="sha1">f3e4069</span></a></td>
+  <td class="commit-date">2013-09-10</td>
+  <td class="commit-message">Removed unnecessary require</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea4cb5d1f30a3fd9cadcb5e5083e425cf983acc1"><span class="sha1">ea4cb5d</span></a></td>
+  <td class="commit-date">2013-04-10</td>
+  <td class="commit-message">Removed unused setup</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/975234c680c0c7ab4525cb732e43f2d9b7e25599"><span class="sha1">975234c</span></a></td>
+  <td class="commit-date">2013-04-10</td>
+  <td class="commit-message">Fixed typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e000aa92dd77f026e1b57dbfd9a95cb16a64ff8a"><span class="sha1">e000aa9</span></a></td>
+  <td class="commit-date">2013-04-09</td>
+  <td class="commit-message">Removed unused setup</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8ed04e90d28057f87c06c085dc5d9c99e7afad84"><span class="sha1">8ed04e9</span></a></td>
+  <td class="commit-date">2013-04-05</td>
+  <td class="commit-message">Removed space and unused class</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/220887eeab216da50fc473f713052345fcc98334"><span class="sha1">220887e</span></a></td>
+  <td class="commit-date">2013-04-05</td>
+  <td class="commit-message">Removed unnecessary class</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ecdd432f5746a525a11b872c73308b9b20dd88ad"><span class="sha1">ecdd432</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">Replaced inject with map</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f73140fd4773a1de47017eb0d053a4164c9f3747"><span class="sha1">f73140f</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">Removed unused comma after loop variable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae984cb1ef153fb9f97bb68bfb15c64e2050d9f0"><span class="sha1">ae984cb</span></a></td>
+  <td class="commit-date">2013-04-02</td>
+  <td class="commit-message">Added missing assert</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ff2f839ca7e8138114c2fbc7df6cad0e6bf10ee"><span class="sha1">2ff2f83</span></a></td>
+  <td class="commit-date">2013-03-30</td>
+  <td class="commit-message">Refactored to remove unnecessary setup</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a895b4087d349605cb25ed7200a4f6f2072d6eae"><span class="sha1">a895b40</span></a></td>
+  <td class="commit-date">2013-03-28</td>
+  <td class="commit-message">Fixed grammar</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d18e8b1a3839c5c214e96c7e37e0d86febe15f99"><span class="sha1">d18e8b1</span></a></td>
+  <td class="commit-date">2013-03-28</td>
+  <td class="commit-message">Refactored to remove unused variable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9890731f8120b1fd57675cfd506a3268e60ccd6"><span class="sha1">c989073</span></a></td>
+  <td class="commit-date">2013-03-22</td>
+  <td class="commit-message">Removed unnecessary block</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae41ca80b5b77d4122cf71eb7be058b1282a1aaf"><span class="sha1">ae41ca8</span></a></td>
+  <td class="commit-date">2013-03-22</td>
+  <td class="commit-message">Removed unused loop variable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5f7c3515ee11b6d5eb61edcc614891a23b31a88b"><span class="sha1">5f7c351</span></a></td>
+  <td class="commit-date">2013-03-20</td>
+  <td class="commit-message">Removed unnecessary block</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9d8ac710ef55ac2fc28ffa28e95b2b24a1004ac7"><span class="sha1">9d8ac71</span></a></td>
+  <td class="commit-date">2013-03-20</td>
+  <td class="commit-message">Properly named variable inside block</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b88c96bd348d83c2d3479bddfbcd5ab6168bd9b3"><span class="sha1">b88c96b</span></a></td>
+  <td class="commit-date">2013-03-15</td>
+  <td class="commit-message">Refactored to reuse method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1231eb80c8fd4255211ceec77d76bf78c0ba4f1e"><span class="sha1">1231eb8</span></a></td>
+  <td class="commit-date">2013-03-08</td>
+  <td class="commit-message">Refactored test case with standard variable naming</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f15d9bd11612442be4fe18c013bcad77b3d97f6b"><span class="sha1">f15d9bd</span></a></td>
+  <td class="commit-date">2013-03-07</td>
+  <td class="commit-message">Refactored and removed unnecessary lines in the test case</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

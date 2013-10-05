@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Gaston Ramos to Ruby on Rails" />
+    <meta name="keywords" content="Gaston Ramos,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #257 Gaston Ramos - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #257 <span class="fn">Gaston Ramos</span> - All time<br/>
+    <span class="listing-total">Showing 13 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc1b0fd957246a05f7b490aa03970bcdcc9c48ba"><span class="sha1">dc1b0fd</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">- added ActionView::PartialRenderer#merge_path_into_part...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7621d131d2b8f7b65f7f06615e6714d8f4605439"><span class="sha1">7621d13</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">- added test case for issue:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d0e3c9dc27dd5b3c9fb4c5fe73ff77814c6af53"><span class="sha1">8d0e3c9</span></a></td>
+  <td class="commit-date">2011-07-24</td>
+  <td class="commit-message">- added ActionView::PartialRenderer#merge_path_into_part...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f3f9f1b075dbdf40b241f012439c596d577b011"><span class="sha1">1f3f9f1</span></a></td>
+  <td class="commit-date">2011-07-23</td>
+  <td class="commit-message">- added test case for issue:</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cec6f3fe209f0c2312da1e1d091bffd30d6733b0"><span class="sha1">cec6f3f</span></a></td>
+  <td class="commit-date">2010-10-07</td>
+  <td class="commit-message">- update documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aee043de5a7f1189bd82ce6da20fffbefe36983b"><span class="sha1">aee043d</span></a></td>
+  <td class="commit-date">2010-10-07</td>
+  <td class="commit-message">- ActiveResource::HttpMock.respond_to</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b9f8501f8249cdc2dc780a7a1255269c63584ef2"><span class="sha1">b9f8501</span></a></td>
+  <td class="commit-date">2010-10-07</td>
+  <td class="commit-message">- Fix ActiveResource::HttpMock.respond_to replace the re...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f85b38a36b68488e94e9950fd15ec29a21bf6917"><span class="sha1">f85b38a</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">- added mock to test ActiveResource::MissingPrefixParam ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e405dbcb4896054d517c6e0cb8b737e5e632c617"><span class="sha1">e405dbc</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">- update exceptions documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/823a8e6e66b6e63583f569fdbc2e9cffa9430bf8"><span class="sha1">823a8e6</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">- check prefix options in collection_path</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9363931f349d783058688c2c14a31856116125e0"><span class="sha1">9363931</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">- better name for prefix param test case</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30fb3638cce6fd27d003c7e0c4f689a0f1e28177"><span class="sha1">30fb363</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">- refactoring, move prefix_options check to a custom method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a71e07d61e8bb69788b7120a5cf0d3620c6094be"><span class="sha1">a71e07d</span></a></td>
+  <td class="commit-date">2010-09-27</td>
+  <td class="commit-message">- elmenth_path raise an ActiveResource::MissingPrefixPar...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

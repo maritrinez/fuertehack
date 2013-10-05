@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Eduardo Cavazos to Ruby on Rails" />
+    <meta name="keywords" content="Eduardo Cavazos,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Eduardo Cavazos - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Eduardo Cavazos</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f74a4d80b0ad60323331845b3da4b63362e5164a"><span class="sha1">f74a4d8</span></a></td>
+  <td class="commit-date">2011-09-13</td>
+  <td class="commit-message">getting_started.textile: Fix typo and split up a sentenc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbde94a5a4576d89dd41b71c7c99c2b455463c1d"><span class="sha1">fbde94a</span></a></td>
+  <td class="commit-date">2011-09-13</td>
+  <td class="commit-message">getting_started.textile: Fix typos in section &quot;Rendering...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d235b972b29659d94e2b290be6e0ad3bc6a2668"><span class="sha1">7d235b9</span></a></td>
+  <td class="commit-date">2011-09-12</td>
+  <td class="commit-message">getting_started.textile: Fix typo and split up a sentenc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/70198fdb3614ef0299e848440df62d18b46a7f77"><span class="sha1">70198fd</span></a></td>
+  <td class="commit-date">2011-09-12</td>
+  <td class="commit-message">getting_started.textile: Fix typos in section &quot;Rendering...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fbcff812a61443f525c4e6839ce335167adf3a29"><span class="sha1">fbcff81</span></a></td>
+  <td class="commit-date">2011-09-11</td>
+  <td class="commit-message">getting_started.textile section 6: Correct file names in...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f50aeda2f73b47c47664e3651c638ba624418b8b"><span class="sha1">f50aeda</span></a></td>
+  <td class="commit-date">2011-09-08</td>
+  <td class="commit-message">getting_started.textile section 6: Correct file names in...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98b55ee2e3d89a050359a52bcc203bfe4fbc39ed"><span class="sha1">98b55ee</span></a></td>
+  <td class="commit-date">2011-09-07</td>
+  <td class="commit-message">getting_started.textile: Fix another typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a76c23e6bec3e418b9845010fc4c9f997abe1a01"><span class="sha1">a76c23e</span></a></td>
+  <td class="commit-date">2011-09-05</td>
+  <td class="commit-message">getting_started.textile: fix minor typo</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dfd03fdbd32d25ef0f70e40ab7cb3794b1ffe0c0"><span class="sha1">dfd03fd</span></a></td>
+  <td class="commit-date">2011-08-20</td>
+  <td class="commit-message">actionpack/lib/action_controller/base.rb: docs typo</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/31d38d37d394f6ebbac57ce48f465805edbfec04"><span class="sha1">31d38d3</span></a></td>
+  <td class="commit-date">2011-08-20</td>
+  <td class="commit-message">ActionController::Redirecting : fix docs typo</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

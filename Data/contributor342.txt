@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Myron Marston to Ruby on Rails" />
+    <meta name="keywords" content="Myron Marston,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Myron Marston - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Myron Marston</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fea7359d5967dceb0962e2e4f727250fca987181"><span class="sha1">fea7359</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Allow ActiveRecord observers to be disabled.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3c15a1d31d77e44b142c96cb55b654f3552a89d"><span class="sha1">d3c15a1</span></a></td>
+  <td class="commit-date">2011-08-13</td>
+  <td class="commit-message">Allow ActiveRecord observers to be disabled.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/99363dcf60a97fa25e94cc4217f9befeafbb6b70"><span class="sha1">99363dc</span></a></td>
+  <td class="commit-date">2011-05-06</td>
+  <td class="commit-message">Add documentation for new observer enable/disable feature.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7db7aa505375db75c2205f35df743becc7647c95"><span class="sha1">7db7aa5</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Add additional tests for AM::ObserverArray that I had mi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fef22157b07f101229d29544d578bfe2cb9fedfe"><span class="sha1">fef2215</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Fix bug with AM::Observer disablement.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a385394acd6599ff588daad491e9e07ee716091"><span class="sha1">9a38539</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Fix dev env memory leaks by using AS::DescendantsTracker...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/05d4653cef1c1d8d77228de26d55cf6d6a0ce20b"><span class="sha1">05d4653</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Revert &quot;Revert &quot;Handle enabling/disabling observers at d...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad62f1928768bd2676958a4a08512bad342fe469"><span class="sha1">ad62f19</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Handle enabling/disabling observers at different levels ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f8cc446d9a7ab751a2def65309ac4bc71e85cd3"><span class="sha1">1f8cc44</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Allow observers to be enabled and disabled.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5d20c0a64aafa4d35f5aa0613cc16170c2a2ec03"><span class="sha1">5d20c0a</span></a></td>
+  <td class="commit-date">2011-04-28</td>
+  <td class="commit-message">Wrap line that is over 200 characters long.  Now it&#39;s mu...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

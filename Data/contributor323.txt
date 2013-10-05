@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Bradford Folkens to Ruby on Rails" />
+    <meta name="keywords" content="Bradford Folkens,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Bradford Folkens - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Bradford Folkens</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bd559b00680b6e4c272d4df36f239768750f1a6b"><span class="sha1">bd559b0</span></a></td>
+  <td class="commit-date">2011-11-08</td>
+  <td class="commit-message">    Fix trouble using :subdomain in development environm...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0fdcd5449ed028cad78186e148ba38bfc84e7d27"><span class="sha1">0fdcd54</span></a></td>
+  <td class="commit-date">2011-11-08</td>
+  <td class="commit-message">Fixed &#39; and &#39; should be &#39; &amp;&amp; &#39;</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92955d00531394e1bfa0aad7614371d326002097"><span class="sha1">92955d0</span></a></td>
+  <td class="commit-date">2011-11-08</td>
+  <td class="commit-message">Fix trouble using :subdomain in development environment ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4755930727b3a82f5573c487f4289759d3822735"><span class="sha1">4755930</span></a></td>
+  <td class="commit-date">2011-07-14</td>
+  <td class="commit-message">assert nothing raised for setting a cookie value to nil ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36836f1add1aa7d9fb407c16012dc772531a8277"><span class="sha1">36836f1</span></a></td>
+  <td class="commit-date">2011-07-14</td>
+  <td class="commit-message">write_cookies! in ActionDispatch::TestRequest won&#39;t writ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa57e66fec3a131f5d246b8950a2c3286f858b78"><span class="sha1">aa57e66</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Ensure HWIA#reverse_merge! retrurns HWIA [#421 state:res...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0907153da7b8bc8c02692eaadfac3a0853c0e99"><span class="sha1">b090715</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Reinstate Range#step default argument.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/293f99700d6f2388ea5c504d706651ff3044d733"><span class="sha1">293f997</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Reinstate Range#step default argument.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7947e00de247d94da826d904496fbbc73fa8aa3"><span class="sha1">e7947e0</span></a></td>
+  <td class="commit-date">2008-06-03</td>
+  <td class="commit-message">Fixed Request#remote_ip to only raise hell if the HTTP_C...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/edfa195e2ace7b4fb8195333c6e44e6bf8986c11"><span class="sha1">edfa195</span></a></td>
+  <td class="commit-date">2008-06-03</td>
+  <td class="commit-message">Fixed Request#remote_ip to only raise hell if the HTTP_C...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Michael Galero to Ruby on Rails" />
+    <meta name="keywords" content="Michael Galero,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #300 Michael Galero - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #300 <span class="fn">Michael Galero</span> - All time<br/>
+    <span class="listing-total">Showing 11 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dcbdd004fc3b28ec976ffa946954f1700e3a553d"><span class="sha1">dcbdd00</span></a></td>
+  <td class="commit-date">2008-03-26</td>
+  <td class="commit-message">Standardise the implementation of the extensions to BigD...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ecde39968bb91182033d7e590879373f697897c"><span class="sha1">3ecde39</span></a></td>
+  <td class="commit-date">2008-03-15</td>
+  <td class="commit-message">Docfix (closes #11226) [mikong]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1bb208d7e5c7147ed12e1e2fd0cd24b5054eceac"><span class="sha1">1bb208d</span></a></td>
+  <td class="commit-date">2007-12-29</td>
+  <td class="commit-message">Fixup mocha tests for 0.5.6. Closes #10602 [murphy, mikong]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/632ab246db10bf15939df8d6bfc5f964dd61ef5b"><span class="sha1">632ab24</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Reveal that the type option in migrations can be any sup...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4570cf66cea1ab8b0486ad42823fe04182a5b5d2"><span class="sha1">4570cf6</span></a></td>
+  <td class="commit-date">2007-12-05</td>
+  <td class="commit-message">Document the timestamps schema definition method. Closes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f8183e3c4449d2442a95ed75504d1fba4b4cf8d"><span class="sha1">7f8183e</span></a></td>
+  <td class="commit-date">2007-10-26</td>
+  <td class="commit-message">Doc typo fixes for ActiveRecordHelper. Closes #9973 [mik...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6f559f871e9278aea65471f1ce31fab15536f56a"><span class="sha1">6f559f8</span></a></td>
+  <td class="commit-date">2007-10-23</td>
+  <td class="commit-message">Added tests for options to ActiveRecordHelper#form. Clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/210f7e29e2557f9519ecad801c564db7fc0ec0a5"><span class="sha1">210f7e2</span></a></td>
+  <td class="commit-date">2007-10-19</td>
+  <td class="commit-message">Move all Schema creation into schema.rb for Mysql. Close...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5cb6a9aabdd2d74b7c8b52828f6b4797714ce78b"><span class="sha1">5cb6a9a</span></a></td>
+  <td class="commit-date">2007-10-16</td>
+  <td class="commit-message">Improve the error message for assert_redirected_to. Clos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3353b85b0eae76bf36ae7c2f7b6adc1863278a8e"><span class="sha1">3353b85</span></a></td>
+  <td class="commit-date">2007-10-15</td>
+  <td class="commit-message">Sync country_select with ISO 3166 long names.  Closes #6...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a9eaa25a66eabb020eb9ce6c6de32681eacd9760"><span class="sha1">a9eaa25</span></a></td>
+  <td class="commit-date">2007-10-14</td>
+  <td class="commit-message">Fix environment.rb typos. Closes #9859 [fxn, mikong]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

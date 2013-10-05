@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Steven Soroka to Ruby on Rails" />
+    <meta name="keywords" content="Steven Soroka,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #319 Steven Soroka - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #319 <span class="fn">Steven Soroka</span> - All time<br/>
+    <span class="listing-total">Showing 10 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6471ced656ad0e61f12b2a7d6f51ef5b2408e64a"><span class="sha1">6471ced</span></a></td>
+  <td class="commit-date">2012-05-06</td>
+  <td class="commit-message">remove .new from raise ActionController::UnknownFormat</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec4045c02fb112937116f827c508c3680a495326"><span class="sha1">ec4045c</span></a></td>
+  <td class="commit-date">2012-05-06</td>
+  <td class="commit-message">added an integration test that checks ActionController::...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3532200576bed84bedf3554336dfc92ce9ce1cab"><span class="sha1">3532200</span></a></td>
+  <td class="commit-date">2012-05-06</td>
+  <td class="commit-message">Raise a rescuable exception when Rails doesn&#39;t know what...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2183c220ada046993274ccdc6f1f86e9e8a3a5c6"><span class="sha1">2183c22</span></a></td>
+  <td class="commit-date">2008-05-17</td>
+  <td class="commit-message">Make sure clone_structure can load the results of dump_s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c20391bbe6ec1c56f8c8ed4aefb31a93576f76a"><span class="sha1">9c20391</span></a></td>
+  <td class="commit-date">2008-05-01</td>
+  <td class="commit-message">best solution?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f386676661068573d2b58f6bd7a7245b4ff5ce5d"><span class="sha1">f386676</span></a></td>
+  <td class="commit-date">2008-04-21</td>
+  <td class="commit-message">Use the rails user when creating and dropping the databa...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7527447ba178d9862b6782c7752d669e8bd32f85"><span class="sha1">7527447</span></a></td>
+  <td class="commit-date">2008-02-02</td>
+  <td class="commit-message">Git support for script/generate. Closes #10690.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0c0610d398a89f5a74c9fee593eee1bb10975a46"><span class="sha1">0c0610d</span></a></td>
+  <td class="commit-date">2007-12-28</td>
+  <td class="commit-message">Use extract_options! rather than Hash test + pop. Closes...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/519c5c754775ae99a4ea872cd77f50c70c6884a6"><span class="sha1">519c5c7</span></a></td>
+  <td class="commit-date">2007-12-14</td>
+  <td class="commit-message">Docfix (closes #10429) [jamesh/ssoroka]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d1c6349e5872bcf5ce7fa1adcac76476fbe6fa78"><span class="sha1">d1c6349</span></a></td>
+  <td class="commit-date">2007-12-08</td>
+  <td class="commit-message">Clean up some cruft around ActionController::Base#head. ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Rafael Magana to Ruby on Rails" />
+    <meta name="keywords" content="Rafael Magana,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #179 Rafael Magana - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #179 <span class="fn">Rafael Magana</span> - All time<br/>
+    <span class="listing-total">Showing 20 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97fb1b6e65f1b75c13aeca5a96591f21012c2014"><span class="sha1">97fb1b6</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">fix typo on ActiveSupport instrumentation guide [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c4da97b19b04fae00b024d9fdc111a866f7e445"><span class="sha1">2c4da97</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">[contributing guide] add instructions to update fork [ci...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb362e59c0587cc907a3826561718d389a189065"><span class="sha1">eb362e5</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[guides] fix reference to railties directory, guides are...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/15b229e8aa278cc56c85b217e4fd84f5be68810c"><span class="sha1">15b229e</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[guides] guides:generate:kindle is the new interface to ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b5e1c197213d3b5c13a0a61e7f39e8b0bedf14c"><span class="sha1">1b5e1c1</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[guides] get rid of any reference to the generator scrip...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/724d6fa6bb48b61798c223b47dd27155839c40d5"><span class="sha1">724d6fa</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[AR querying guide] Add examples for take(limit), first(...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca65dcbbb2eca975782ea007a308000f1fbaf57f"><span class="sha1">ca65dcb</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[command line guide] Use actual output of a Rails 3.2.x app</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef498057bbb68d12f930533f455e21aae2056c3e"><span class="sha1">ef49805</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[security guide] use info, note and warning where applic...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e625056c825b0c881d2a77887f7ca51b9a808729"><span class="sha1">e625056</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[guides] update generator.rb to refer to guides:generate...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/840e688dbff7274865f9ad787444b67881727a57"><span class="sha1">840e688</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">[guides] update guides guidelines with the new generatio...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db57e6d12353e615af9f4078dc8590484b2444e8"><span class="sha1">db57e6d</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">[guides] Add rake task to show help and make it the defa...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e6d7eeaab0ecc57118e5cb74a88aa28170717b27"><span class="sha1">e6d7eea</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">[guides] Add :guides namespace and :html and :kindle tas...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12111e2391598d9519bc29e1a68e11f1c191183e"><span class="sha1">12111e2</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">[getting started] Update Setting the Application Home Pa...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10f16e6e390f16979e2b8a26c8b98e286a17f152"><span class="sha1">10f16e6</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">[getting started] specify which kind of temporary files ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3e7d43b43c71a4b4bfc53a51f2383a1d5a75e71f"><span class="sha1">3e7d43b</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">[getting started] specify what # and $ denotes in the pr...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/470c1516b384f0ae710cdcf4f5a83a81f909252c"><span class="sha1">470c151</span></a></td>
+  <td class="commit-date">2012-05-25</td>
+  <td class="commit-message">[getting started] specify that rails new blog executes b...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7cabb57f6b9ceaef48a7500e2333cddb69c90de0"><span class="sha1">7cabb57</span></a></td>
+  <td class="commit-date">2012-05-23</td>
+  <td class="commit-message">use ActionDispatch::MiddlewareStack instead of ActionCon...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56ad6ca3ffe739e9ef445f39bf7c6ff3111ca42b"><span class="sha1">56ad6ca</span></a></td>
+  <td class="commit-date">2012-05-23</td>
+  <td class="commit-message">update loaded middlewares and use of Rack::Server instea...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83f62a069e6723c994365855bd9509d5b1a218bc"><span class="sha1">83f62a0</span></a></td>
+  <td class="commit-date">2012-05-23</td>
+  <td class="commit-message">use ApplicationName::Application instead of ActionContro...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/32dd5fcaad8adda837fa7e501e23634ad9491d2d"><span class="sha1">32dd5fc</span></a></td>
+  <td class="commit-date">2012-05-10</td>
+  <td class="commit-message">remove duplicate usage of Rack::Utils.status_code in Log...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

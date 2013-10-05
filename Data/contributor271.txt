@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Mike Breen to Ruby on Rails" />
+    <meta name="keywords" content="Mike Breen,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #257 Mike Breen - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #257 <span class="fn">Mike Breen</span> - All time<br/>
+    <span class="listing-total">Showing 13 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/046c900df27994d454b7f906caa0e4226bb42b6f"><span class="sha1">046c900</span></a></td>
+  <td class="commit-date">2010-07-08</td>
+  <td class="commit-message">A generated plugin&#39;s test are not run by &#39;rake test&#39;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/69db137f891e0ff5577eeab72da6600db1d2cbcf"><span class="sha1">69db137</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Allows you to pass :all_blank to :reject_if option to au...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/50c28e78c7aa40dc329facbe6131d657d5629bd4"><span class="sha1">50c28e7</span></a></td>
+  <td class="commit-date">2009-12-02</td>
+  <td class="commit-message">Implement ActiveRecord#reset_counter_cache</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1db3a27961a9916d6dff0da056a3595a78e7886c"><span class="sha1">1db3a27</span></a></td>
+  <td class="commit-date">2009-12-02</td>
+  <td class="commit-message">Implement ActiveRecord#reset_counter_cache</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bcd0ef710ec6d2cc6b880c39de0dfacc07df85e4"><span class="sha1">bcd0ef7</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Raise an exception with friendlier error message when at...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52a50db6c0183bf53c6760cce74529c13ed3e271"><span class="sha1">52a50db</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Raise an exception with friendlier error message when at...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8056c57a94a2cbbbeb662ebe5b0cc6aa0ca1ef00"><span class="sha1">8056c57</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Serialized attributes should only be saved with partial_...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d254b5d74144a1e217125e7be21882ce380a3f8"><span class="sha1">7d254b5</span></a></td>
+  <td class="commit-date">2009-08-09</td>
+  <td class="commit-message">Serialized attributes should only be saved with partial_...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c6c216d911cc55ef7a338d2aab5c827ca6f3468"><span class="sha1">1c6c216</span></a></td>
+  <td class="commit-date">2009-08-08</td>
+  <td class="commit-message">Add option to routes task to target a specific controlle...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e8dc151396b6b92e243ac48b58abbe66be6f09b4"><span class="sha1">e8dc151</span></a></td>
+  <td class="commit-date">2009-08-08</td>
+  <td class="commit-message">Add option to routes task to target a specific controlle...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/edc9c226d11e6104d191ceeb6416c7062ceda54a"><span class="sha1">edc9c22</span></a></td>
+  <td class="commit-date">2009-05-17</td>
+  <td class="commit-message">Add tests for assert_template :template</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f383a4aa333cd8a99003eb1bdbb27b6fdea1056c"><span class="sha1">f383a4a</span></a></td>
+  <td class="commit-date">2009-05-17</td>
+  <td class="commit-message">Allow assert_template to take a symbol [#2011 state:reso...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9010ed27559ed5ab89ea71b4b16f4c8e56d03dbb"><span class="sha1">9010ed2</span></a></td>
+  <td class="commit-date">2009-05-10</td>
+  <td class="commit-message">Allow you to pass :all_blank to :reject_if option to aut...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

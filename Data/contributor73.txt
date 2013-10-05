@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Eloy Duran to Ruby on Rails" />
+    <meta name="keywords" content="Eloy Duran,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #73 Eloy Duran - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #73 <span class="fn">Eloy Duran</span> - All time<br/>
+    <span class="listing-total">Showing 58 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f775ef1a92129fcc77079bc8e00c99a75b38a38"><span class="sha1">7f775ef</span></a></td>
+  <td class="commit-date">2010-01-08</td>
+  <td class="commit-message">Renamed AssociationReflection #collection_association? t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f2aacd51405724cdf7cfd36a439c9dbfce16973a"><span class="sha1">f2aacd5</span></a></td>
+  <td class="commit-date">2010-01-08</td>
+  <td class="commit-message">Rollback the transaction when one of the autosave associ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/51e6124e6a5fcb370201d49b042d336256fca61d"><span class="sha1">51e6124</span></a></td>
+  <td class="commit-date">2010-01-08</td>
+  <td class="commit-message">Renamed AssociationReflection #collection_association? t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9a3929a75ca01d5a637cf35b837c6fd8d6eb67d"><span class="sha1">c9a3929</span></a></td>
+  <td class="commit-date">2010-01-08</td>
+  <td class="commit-message">Rollback the transaction when one of the autosave associ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7319f5fa0de8e51a2dac0963292370f7adbfdab"><span class="sha1">c7319f5</span></a></td>
+  <td class="commit-date">2010-01-08</td>
+  <td class="commit-message">Fixed french sentence so it actually makes sense.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0dbe0f670e08e6adfedc395dadb9859ca2df6d4b"><span class="sha1">0dbe0f6</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Raise a RecordNotFound if an ID in nested attributes is ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6d056c7175d1f146684235ab0155f63bf03d534d"><span class="sha1">6d056c7</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Moved the validation logic to the association reflection...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b3bd10179628f4c7302a27f9d320ff31fd951c20"><span class="sha1">b3bd101</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Remove deprecated &#39;_delete&#39; option from NestedAttributes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3d17d79bbf996e4249aad0de90c69b15073ff025"><span class="sha1">3d17d79</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Removed unnecessary call to #try and cleaned up a bit more.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b7a439bd17e6d9e8567758ee6a0da13447c3229"><span class="sha1">4b7a439</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Don&#39;t use strings for callbacks, as these will be evaled...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c48a71c7e48fa14890531de995a1253abaadb296"><span class="sha1">c48a71c</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Cleanup some code in nested_attributes.rb, autosave_asso...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f12dd62d476b6ca9e5eca5462f53d6030ba5279f"><span class="sha1">f12dd62</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Add AssociationReflection#collection_association? which ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e20ac99026888cea095c8c48d1079098fa3ce496"><span class="sha1">e20ac99</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Refactored nested attributes a bit after last commit.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9550916903c931161f04a98091fba712d7fa5c1d"><span class="sha1">9550916</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Raise a RecordNotFound if an ID in nested attributes is ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6264c43f414f323656ed135d46213466cbe00fb"><span class="sha1">b6264c4</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Moved the validation logic to the association reflection...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc6aae34597bbecaf441571b20ab861b021ea8a5"><span class="sha1">fc6aae3</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Remove deprecated &#39;_delete&#39; option from NestedAttributes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a559260e41170397ec940321f12853ccdb440993"><span class="sha1">a559260</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Removed unnecessary call to #try and cleaned up a bit more.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f866ced24ac9cdece7801f50ec79cdbe3ff5ad59"><span class="sha1">f866ced</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Don&#39;t use strings for callbacks, as these will be evaled...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2171e0a1d13a176db1e9e9dd55242fdb319b526c"><span class="sha1">2171e0a</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Cleanup some code in nested_attributes.rb, autosave_asso...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f82adc7c5addb4f9bf6b9cb3f1fcf3fb47505e53"><span class="sha1">f82adc7</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Add AssociationReflection#collection_association? which ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1afa9fa5a973734852bd7a9d20a534355c221098"><span class="sha1">1afa9fa</span></a></td>
+  <td class="commit-date">2010-01-07</td>
+  <td class="commit-message">Refactored nested attributes a bit around :reject_if =&gt; ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c23fbd0d475612fe9cd493bd08c8da2f8d7e6f03"><span class="sha1">c23fbd0</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Refactored previous changes to nested attributes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/90f001ba391fa9021d179b4a3d5d95c1308c04b4"><span class="sha1">90f001b</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Refactored previous changes to nested attributes.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c771a9608f54ebdfcb6fca819c83038489ce50d"><span class="sha1">9c771a9</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Make sure to not add autosave callbacks multiple times. ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/146a7505680cbb646c0b9d55dca7cc8494b36e47"><span class="sha1">146a750</span></a></td>
+  <td class="commit-date">2009-12-28</td>
+  <td class="commit-message">Make sure to not add autosave callbacks multiple times. ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f125a34501e21b1e0da2b80d149df7a739482804"><span class="sha1">f125a34</span></a></td>
+  <td class="commit-date">2009-11-06</td>
+  <td class="commit-message">Define autosave association callbacks when using accepts...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b2291f33063b6742cba84f5f64e03de9907c1f8"><span class="sha1">6b2291f</span></a></td>
+  <td class="commit-date">2009-11-06</td>
+  <td class="commit-message">Define autosave association callbacks when using accepts...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b18248ff05629da37ff7752a48878a486aaf72fc"><span class="sha1">b18248f</span></a></td>
+  <td class="commit-date">2009-09-25</td>
+  <td class="commit-message">The DomAssertions now also strip surrounding whitespace ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/deac481eb747a6c50e27ef22d0d3c8e0e9a6f206"><span class="sha1">deac481</span></a></td>
+  <td class="commit-date">2009-09-25</td>
+  <td class="commit-message">Made assert_dom_equal and assert_dom_not_equal ignore me...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cddd4746f9a2fba8215d53a0f9ac5241f128d07b"><span class="sha1">cddd474</span></a></td>
+  <td class="commit-date">2009-09-25</td>
+  <td class="commit-message">Rewrote ActionView::TestCase.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/26639e8a4558a844e2e374b2916545c3e717b387"><span class="sha1">26639e8</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Removed the version of ActiveRecord::Base#destroyed? tha...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a144b41cbc5111e6282674930e660a7a29578d0a"><span class="sha1">a144b41</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Removed some superfluous conditionals from the autosave ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/580ec0dccde075330abe68eb13badb03b225f9b4"><span class="sha1">580ec0d</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Added some documentation about setting :autosave =&gt; fals...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65f98951ac5fe75191c6fde996b9e0f9b765414f"><span class="sha1">65f9895</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">During autosave, ignore records that already have been d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6cc0b9638fbb6ede3c46b51d7dab17881416014c"><span class="sha1">6cc0b96</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Explicitely setting `autosave =&gt; false&#39; should override ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2524ac84e6ae165082e764e94cdbbced069e43b3"><span class="sha1">2524ac8</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Removed some superfluous conditionals from the autosave ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9290051b852604c27520c4331fb96e7066f03c75"><span class="sha1">9290051</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Added some documentation about setting :autosave =&gt; fals...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c665faac09f1ff5a1b943247091cf41762bd468b"><span class="sha1">c665faa</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">During autosave, ignore records that already have been d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2420d6272c8dfa1ebd6735fc9b29e73291b0b93c"><span class="sha1">2420d62</span></a></td>
+  <td class="commit-date">2009-09-12</td>
+  <td class="commit-message">Explicitely setting `autosave =&gt; false&#39; should override ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a70c78177a564c2f2cd09846a5e7ab6e8669e9f2"><span class="sha1">a70c781</span></a></td>
+  <td class="commit-date">2009-05-20</td>
+  <td class="commit-message">Ensure the parent record is always saved when the child ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/da3c21ead59cb47b8f4c69c6bd95f225a9c8b479"><span class="sha1">da3c21e</span></a></td>
+  <td class="commit-date">2009-04-27</td>
+  <td class="commit-message">Ensure the parent record is always saved when the child ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3b89aa605c543e772678e03add1818520c02bec8"><span class="sha1">3b89aa6</span></a></td>
+  <td class="commit-date">2009-03-15</td>
+  <td class="commit-message">Added a collection association form example.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e12b554c9601d0402ea3d5038f72fcace5bfb31"><span class="sha1">0e12b55</span></a></td>
+  <td class="commit-date">2009-03-14</td>
+  <td class="commit-message">Started on a Rails guide on nested model forms.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de55c8d7453c5fdf385b5fef9228f3327afddfcf"><span class="sha1">de55c8d</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Fixed some spelling errors in documentation about Associ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8e277f89cdbf7266c700703e437525cc8ea35c1d"><span class="sha1">8e277f8</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Revert &quot;Fixed some spelling errors in documentation abou...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b304b0be013a05b19708659a350b89fc071e9a7d"><span class="sha1">b304b0b</span></a></td>
+  <td class="commit-date">2009-03-12</td>
+  <td class="commit-message">Fixed some spelling errors in documentation about Associ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2b925fa68203607fb4f9a9aa457c0435c969f9a"><span class="sha1">e2b925f</span></a></td>
+  <td class="commit-date">2009-02-27</td>
+  <td class="commit-message">Don&#39;t validate records of an :autosave association if th...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3d1d422b8be027417cb640416d154171e75f03d1"><span class="sha1">3d1d422</span></a></td>
+  <td class="commit-date">2009-02-27</td>
+  <td class="commit-message">Pass a custom form builder on to nested fields_for calls...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db5d6950169f8f10b6aec85faa2c38e0c57315c7"><span class="sha1">db5d695</span></a></td>
+  <td class="commit-date">2009-02-06</td>
+  <td class="commit-message">Also save :autosave enabled associations when #save! is ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec8f04584479aff895b0b511a7ba1e9d33f84067"><span class="sha1">ec8f045</span></a></td>
+  <td class="commit-date">2009-02-01</td>
+  <td class="commit-message">Add support for nested object forms to ActiveRecord and ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7394d12dc7c4bd6c1604e482042efab23f455794"><span class="sha1">7394d12</span></a></td>
+  <td class="commit-date">2008-12-11</td>
+  <td class="commit-message">Fixed ActiveSupport::OrderedHash #delete_if, #reject!, a...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/823b623fe2de8846c37aa13250010809ac940b57"><span class="sha1">823b623</span></a></td>
+  <td class="commit-date">2008-11-24</td>
+  <td class="commit-message">Allow optional arguments and/or block for Object#try lik...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b47c76b1dfaaf1d99413b94179077cd58552ba88"><span class="sha1">b47c76b</span></a></td>
+  <td class="commit-date">2008-10-13</td>
+  <td class="commit-message">Make sure named routes with parameters can be used in te...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d337e9ec2e25007d557150dbe7557ab3c3bd05f"><span class="sha1">8d337e9</span></a></td>
+  <td class="commit-date">2008-10-03</td>
+  <td class="commit-message">Dynamic finders should use the ActiveRecord::Base::find ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56dc039138ea2410a347de4d916b6120442fae3c"><span class="sha1">56dc039</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Fix ActiveRecord::NamedScope::Scope#respond_to? [#818 st...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ee9e3fa5c924bef4aba3d53796f48f5badbd06f"><span class="sha1">1ee9e3f</span></a></td>
+  <td class="commit-date">2008-08-13</td>
+  <td class="commit-message">Fix ActiveRecord::NamedScope::Scope#respond_to? [#818 st...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cff3ecc2aef098fa1a0158f3d0fc01de37774e2d"><span class="sha1">cff3ecc</span></a></td>
+  <td class="commit-date">2008-03-08</td>
+  <td class="commit-message">Allow using named routes in ActionController::TestCase b...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d1c87a069d0e13347f28ff9ce4db2427efe18b1"><span class="sha1">4d1c87a</span></a></td>
+  <td class="commit-date">2007-06-01</td>
+  <td class="commit-message">pass the prefix_options to the instantiated record when ...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

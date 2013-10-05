@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Tom Lea to Ruby on Rails" />
+    <meta name="keywords" content="Tom Lea,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #210 Tom Lea - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #210 <span class="fn">Tom Lea</span> - All time<br/>
+    <span class="listing-total">Showing 16 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/97e07a88feaf334d7eaa44f66bcd57c08cd587a6"><span class="sha1">97e07a8</span></a></td>
+  <td class="commit-date">2010-03-25</td>
+  <td class="commit-message">Fix incorrect relative paths being used when looking up ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c896d56c6e5520346c260477f7d7f8bf951e72cc"><span class="sha1">c896d56</span></a></td>
+  <td class="commit-date">2009-03-06</td>
+  <td class="commit-message">Ensure self referential HABTM associations raise an exce...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a1fe469d70406242f8cde7e5bf4e2d3454c6214a"><span class="sha1">a1fe469</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Changed the fallback String#each_char to use valid 1.9 s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b696f047b5794df207e749269aff5b9536b25de3"><span class="sha1">b696f04</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Changed the fallback String#each_char to use valid 1.9 s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b06c9870aef6c44b99ae07ae8ddcbc4bfb13221"><span class="sha1">6b06c98</span></a></td>
+  <td class="commit-date">2008-11-23</td>
+  <td class="commit-message">Changed the fallback String#each_char to use valid 1.9 s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5a02f0bccf55191c2cfbcc69bd8165df6d7a2012"><span class="sha1">5a02f0b</span></a></td>
+  <td class="commit-date">2008-11-01</td>
+  <td class="commit-message">Cleaned up route optimisation guard condition generation...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6e5d29e0839540b6b5a1a89bcb3b1d037120474"><span class="sha1">a6e5d29</span></a></td>
+  <td class="commit-date">2008-10-14</td>
+  <td class="commit-message">Added deprecated warning messages to Float#months and Fl...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d599b8000968047b4095dd8ff6c8ef10bb4ed462"><span class="sha1">d599b80</span></a></td>
+  <td class="commit-date">2008-10-14</td>
+  <td class="commit-message">Deprecated Float#years and Float#months, moved Numeric#y...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/27c70ff386e76ed0af41b53f2ba8cdb09bc94ace"><span class="sha1">27c70ff</span></a></td>
+  <td class="commit-date">2008-10-14</td>
+  <td class="commit-message">Time#advance recognizes fractional days and weeks [#970 ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db26b47b9f4dbebd478a5fe6c0dcd38b8697939a"><span class="sha1">db26b47</span></a></td>
+  <td class="commit-date">2008-08-29</td>
+  <td class="commit-message">Ensure that calling content_tag_for in a helper doesn&#39;t ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3a3067adbd578ad9d145f5a148816ec0460a987"><span class="sha1">a3a3067</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Dirty: treat two changes resulting in the original value...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ad562c58eabfb8b44cb8ac9e87b87a7f998325fd"><span class="sha1">ad562c5</span></a></td>
+  <td class="commit-date">2008-08-28</td>
+  <td class="commit-message">Dirty: treat two changes resulting in the original value...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/76886789ac73f25744cd2eced5416918eab1bdc6"><span class="sha1">7688678</span></a></td>
+  <td class="commit-date">2008-08-24</td>
+  <td class="commit-message">Fix incorrect signature for NamedScope#respond_to? [#852...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3724dafe71f4afb2ca9f4d7d2526b228aa6c05a3"><span class="sha1">3724daf</span></a></td>
+  <td class="commit-date">2008-08-21</td>
+  <td class="commit-message">Fix incorrect signature for NamedScope#respond_to? [#852...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/decc9730959de85b4c4873986bcd33e12fa1985d"><span class="sha1">decc973</span></a></td>
+  <td class="commit-date">2008-08-12</td>
+  <td class="commit-message">Serialized attributes will now always be saved even with...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/992fda16ed662f028700d63a8dcbd1837f1d58ab"><span class="sha1">992fda1</span></a></td>
+  <td class="commit-date">2008-08-12</td>
+  <td class="commit-message">Serialized attributes will now always be saved even with...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

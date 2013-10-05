@@ -1,0 +1,2069 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Francesco Rodríguez to Ruby on Rails" />
+    <meta name="keywords" content="Francesco Rodríguez,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #25 Francesco Rodríguez - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #25 <span class="fn">Francesco Rodríguez</span> - All time<br/>
+    <span class="listing-total">Showing 396 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/341b73965d796ab4f04a4053735409ae34dfcf6c"><span class="sha1">341b739</span></a></td>
+  <td class="commit-date">2013-07-02</td>
+  <td class="commit-message">Remove deprecated SchemaStatements#distinct</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3107c932d3ca7247ab48606c0da23060515f7dad"><span class="sha1">3107c93</span></a></td>
+  <td class="commit-date">2013-07-02</td>
+  <td class="commit-message">Add CHANGELOG entry for 1c9f9a2 [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa45401b82a936d9b634b37e63d0491998d76222"><span class="sha1">fa45401</span></a></td>
+  <td class="commit-date">2013-07-02</td>
+  <td class="commit-message">Remove `page_cache_extension` deprecated method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1a42f103e2a86c483b8ee362748e51102339462d"><span class="sha1">1a42f10</span></a></td>
+  <td class="commit-date">2013-07-02</td>
+  <td class="commit-message">Fix code example in Getting Started guide - fixes #11219...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7e49a07349b808743a868693ab6b092a745abcf"><span class="sha1">e7e49a0</span></a></td>
+  <td class="commit-date">2013-07-02</td>
+  <td class="commit-message">Remove deprecated AR::Connection#clear_stale_cached_conn...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ba1b594aa866020fb62b961fae61a09529092a4"><span class="sha1">5ba1b59</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">Merge branch 4-0-stable of github.com:lifo/docrails [ci ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bdba7358da3367e573504d7867bc89aa53c50791"><span class="sha1">bdba735</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">add unreleased header to CHANGELOGs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eea9532c512c165cd3d1ecbc26980156c195b168"><span class="sha1">eea9532</span></a></td>
+  <td class="commit-date">2013-05-01</td>
+  <td class="commit-message">add CHANGELOG entry for a8ef0bbb [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e876f71257efe27345c484f62c8a8ce13de2905b"><span class="sha1">e876f71</span></a></td>
+  <td class="commit-date">2013-04-30</td>
+  <td class="commit-message">add missing :nodoc: marks to ActiveRecord::Delegation [c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1dee54442f2ff1082ff12c837c46a12602a709e6"><span class="sha1">1dee544</span></a></td>
+  <td class="commit-date">2013-04-30</td>
+  <td class="commit-message">add missing :nodoc: marks to ActiveRecord::Delegation [c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1847039680a024318eceadc4fc4f18cc1f40f476"><span class="sha1">1847039</span></a></td>
+  <td class="commit-date">2013-04-30</td>
+  <td class="commit-message">Fix guide section about assets precompiling task in prod...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d0e05cbfb86abe9a5b16812271a294fa8e8654b8"><span class="sha1">d0e05cb</span></a></td>
+  <td class="commit-date">2013-04-30</td>
+  <td class="commit-message">Fix guide section about assets precompiling task in prod...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/918db2c5415bf0858e49bc3fd2360076d692e92c"><span class="sha1">918db2c</span></a></td>
+  <td class="commit-date">2013-04-17</td>
+  <td class="commit-message">add :nodoc: mark to *Registry classes [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9e82ffcadac1860d5b835035e4dc4490ef6ed791"><span class="sha1">9e82ffc</span></a></td>
+  <td class="commit-date">2013-04-13</td>
+  <td class="commit-message">use define_singleton_method instead of class_eval</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/364f579b8ca43246a8f782a465c766f2f33a2ac4"><span class="sha1">364f579</span></a></td>
+  <td class="commit-date">2013-04-13</td>
+  <td class="commit-message">Add :nodoc: mark to PerThreadRegistry#method_missing [ci...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8f199d8e01afa3968bfca1dd30ea58b3c1090402"><span class="sha1">8f199d8</span></a></td>
+  <td class="commit-date">2013-04-13</td>
+  <td class="commit-message">fix :nodoc: mark on AR::AttributeMethods::Serialization ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87735d3a281bcb1eb968855678dce6a0e7d7f677"><span class="sha1">87735d3</span></a></td>
+  <td class="commit-date">2013-04-12</td>
+  <td class="commit-message">minor edit on StatementCache documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/062d1f718943925debd3c4aae45a4b5e15b40632"><span class="sha1">062d1f7</span></a></td>
+  <td class="commit-date">2013-04-11</td>
+  <td class="commit-message">Fix StatementCache docs format [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fd2fecc4aa627d872ef2955db739629726854bb3"><span class="sha1">fd2fecc</span></a></td>
+  <td class="commit-date">2013-04-11</td>
+  <td class="commit-message">Merge pull request #136 from bricestacey/master</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/525ffc52fbeee72bb241b81a188c9cd44d933014"><span class="sha1">525ffc5</span></a></td>
+  <td class="commit-date">2013-04-05</td>
+  <td class="commit-message">update ActiveRecord::AttributeMethods::Serialization doc...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1df502e000581680209692bed7249c2125cf183d"><span class="sha1">1df502e</span></a></td>
+  <td class="commit-date">2013-04-05</td>
+  <td class="commit-message">mark ReversibleBlockHelper as :nodoc: [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8dbe4c7cc9d2109781c7283bd0d8617db6f2c09"><span class="sha1">f8dbe4c</span></a></td>
+  <td class="commit-date">2013-04-05</td>
+  <td class="commit-message">fix Array#uniq_by! docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e946c5853b99607cc5fe92225c473a51ecc44e99"><span class="sha1">e946c58</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">add documentation to Benchmark#ms [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a77ad86ff1be70dee945e6425b3209ab8da72cd4"><span class="sha1">a77ad86</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">Exclude template files for rdoc API [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7755ae7ba6d64207892f079587e0d6e56396c809"><span class="sha1">7755ae7</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">fix broken format in Array#to_sentence [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4997831a6db59661a99d2a60aa89d1239a1e5f45"><span class="sha1">4997831</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">fix broken format in ActionView::Helpers::AssetTagHelper...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2a16e159ab718374582183a857f5bcb6f1c78b0b"><span class="sha1">2a16e15</span></a></td>
+  <td class="commit-date">2013-04-04</td>
+  <td class="commit-message">mark ActionView::Helpers::Tags as :nodoc: [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64d8cdee312c85a99a373922d1bf99e0ca047def"><span class="sha1">64d8cde</span></a></td>
+  <td class="commit-date">2013-04-03</td>
+  <td class="commit-message">fix broken format in ActionView::Helpers::NumberHelper [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/919c86d2d5e7b74b96305c0bfb0482bbe61d99f2"><span class="sha1">919c86d</span></a></td>
+  <td class="commit-date">2013-04-03</td>
+  <td class="commit-message">mark relation mutator as :nodoc: [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79af9e938f0265af748cca8816137536e0c723a6"><span class="sha1">79af9e9</span></a></td>
+  <td class="commit-date">2013-03-16</td>
+  <td class="commit-message">nodoc AR::ConnectionHandling for adapters [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16bd04f6bbb4bf461ca375e077e84e224552bc79"><span class="sha1">16bd04f</span></a></td>
+  <td class="commit-date">2013-02-26</td>
+  <td class="commit-message">remove private attribute? warning</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7487e79d4df7b05debb59e4177bc3810c29c9967"><span class="sha1">7487e79</span></a></td>
+  <td class="commit-date">2013-02-26</td>
+  <td class="commit-message">Add tests for #9441</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/066ae49fb7af3679c163c070515388357ee91ba9"><span class="sha1">066ae49</span></a></td>
+  <td class="commit-date">2013-02-26</td>
+  <td class="commit-message">JRuby does not support racc, include it only in ruby pla...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8ef4f05fbbc87e8f2e467b4378585cf1ce83696"><span class="sha1">b8ef4f0</span></a></td>
+  <td class="commit-date">2013-01-18</td>
+  <td class="commit-message">fix broken examples format in image_tag helper [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2aa08e313d3cc3562a3651977c428f7ca9182810"><span class="sha1">2aa08e3</span></a></td>
+  <td class="commit-date">2013-01-07</td>
+  <td class="commit-message">improve StrongParameters documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/654f0d6a1520fc6a0a0396e78255a9ec50594e44"><span class="sha1">654f0d6</span></a></td>
+  <td class="commit-date">2013-01-04</td>
+  <td class="commit-message">extract alert= and notice= examples to FlashHash#now [ci...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb493f5ac84f2d65fbd1666e1496f0a8deafa27f"><span class="sha1">eb493f5</span></a></td>
+  <td class="commit-date">2012-12-20</td>
+  <td class="commit-message">update AD::Journey to follow Rails coding conventions</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a36ae63d0710814202401cf24dd9aa7a5ad9756a"><span class="sha1">a36ae63</span></a></td>
+  <td class="commit-date">2012-12-20</td>
+  <td class="commit-message">:nodoc: Journey because is not part of the public API [c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a1cffa6d5849b45f439be62742ccca1633dfc9bd"><span class="sha1">a1cffa6</span></a></td>
+  <td class="commit-date">2012-12-19</td>
+  <td class="commit-message">remove code for Ruby 1.8.x support</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/411e499677981ef649c000a36f5a805516096c3e"><span class="sha1">411e499</span></a></td>
+  <td class="commit-date">2012-12-18</td>
+  <td class="commit-message">update concerned tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b565a7a3b43d5e27ba4fb08cf384b00e4c90aa72"><span class="sha1">b565a7a</span></a></td>
+  <td class="commit-date">2012-12-18</td>
+  <td class="commit-message">fix railties CHANGELOG [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f4386c3627674c1fe57caba9c0185f01d0da341"><span class="sha1">9f4386c</span></a></td>
+  <td class="commit-date">2012-12-17</td>
+  <td class="commit-message"> fix AS::BasicObject :nodoc: [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c04dc674cceef76408eb7f22e30c7ffc36c9262d"><span class="sha1">c04dc67</span></a></td>
+  <td class="commit-date">2012-12-11</td>
+  <td class="commit-message">remove attr_protected reference from AS Core Extensions ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e83730067709d8c07fd25669088e8e9efd2355b"><span class="sha1">1e83730</span></a></td>
+  <td class="commit-date">2012-12-11</td>
+  <td class="commit-message">remove Mass Assignment reference from Form Helpers guide...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46d63d5b209e170687860ce4122b07070342c3ba"><span class="sha1">46d63d5</span></a></td>
+  <td class="commit-date">2012-12-11</td>
+  <td class="commit-message">remove Mass Assignment reference from Security Guide [ci...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d6a314a220840872483e2ded191cada582dfd7d"><span class="sha1">4d6a314</span></a></td>
+  <td class="commit-date">2012-12-09</td>
+  <td class="commit-message">use default_options= instead of default to avoid confusion</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4ec7493e3cb9366df604f9f3082b4cd6f6dfd4fd"><span class="sha1">4ec7493</span></a></td>
+  <td class="commit-date">2012-12-08</td>
+  <td class="commit-message">use _action callbacks in actionmailer</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0e027f4fe31b652baf9a845a552f3d99fd3ec10d"><span class="sha1">0e027f4</span></a></td>
+  <td class="commit-date">2012-12-08</td>
+  <td class="commit-message">Fix #assert_instance_method to also assert indented methods</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f19e41fb16ea77422e0061fd47139d4d01a44f0c"><span class="sha1">f19e41f</span></a></td>
+  <td class="commit-date">2012-12-08</td>
+  <td class="commit-message">update guides to use _action callbacks [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd526fe4258da0f4acf0d69f37982eba7de9ee1c"><span class="sha1">cd526fe</span></a></td>
+  <td class="commit-date">2012-12-08</td>
+  <td class="commit-message">fix scaffold controller generator tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3c29b70a9ec6696e76ba5a6e5ef856d31b3a427"><span class="sha1">a3c29b7</span></a></td>
+  <td class="commit-date">2012-12-08</td>
+  <td class="commit-message">use :only instead of :except callback option in the cont...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b97d41e52e4888681b81f99335d851d434458d1"><span class="sha1">1b97d41</span></a></td>
+  <td class="commit-date">2012-12-07</td>
+  <td class="commit-message">add tests to aliased _filter callbacks</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5fb94ec04453d36fee31a227e9a54f1011527a7a"><span class="sha1">5fb94ec</span></a></td>
+  <td class="commit-date">2012-12-07</td>
+  <td class="commit-message">use `_action` instead of `_filter` callbacks</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a53a7bea8096a163876bb9961deb60f6c96b1493"><span class="sha1">a53a7be</span></a></td>
+  <td class="commit-date">2012-12-07</td>
+  <td class="commit-message">update documentation and code to use _action callbacks</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f53132deea65ae673b29b811c606be103f1ae3ab"><span class="sha1">f53132d</span></a></td>
+  <td class="commit-date">2012-12-07</td>
+  <td class="commit-message">fix prepend_before_filter documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6ee03a40bbb95c68d7517098b1e215f08ad82fb5"><span class="sha1">6ee03a4</span></a></td>
+  <td class="commit-date">2012-12-07</td>
+  <td class="commit-message">Rename ActiveSupport::BasicObject to ActiveSupport::Prox...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/86dd2f32764ef3f141d9b24a47725b004fd4ac71"><span class="sha1">86dd2f3</span></a></td>
+  <td class="commit-date">2012-12-01</td>
+  <td class="commit-message">ensure original encoding doesnt change</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83482256efec140b53adde50ba8263af6af7a016"><span class="sha1">8348225</span></a></td>
+  <td class="commit-date">2012-11-30</td>
+  <td class="commit-message">hash filters should be accessed with symbols or strings</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d168d234e3ce439911a178d1d13f6c2cbf8ff549"><span class="sha1">d168d23</span></a></td>
+  <td class="commit-date">2012-11-29</td>
+  <td class="commit-message">nodoc AS::Deprecation::InstanceDelegator class [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abdfffa2139355d7ccb6d8fd91a6bb21f2f1b8d8"><span class="sha1">abdfffa</span></a></td>
+  <td class="commit-date">2012-11-29</td>
+  <td class="commit-message">add documentation to CollectionProxy #length and #size m...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61a7a9f38bfce21bbeb1dd09efabc4f1002cc00d"><span class="sha1">61a7a9f</span></a></td>
+  <td class="commit-date">2012-11-29</td>
+  <td class="commit-message">add documentation to CollectionProxy#empty?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd17ee5598411728747011566abf6779166be9d3"><span class="sha1">cd17ee5</span></a></td>
+  <td class="commit-date">2012-10-28</td>
+  <td class="commit-message">dont encourage AC::Parameters#permit_all_parameters usag...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10f6f90d9d1bbc9598bffea90752fc6bd76904cd"><span class="sha1">10f6f90</span></a></td>
+  <td class="commit-date">2012-10-28</td>
+  <td class="commit-message">AR::AttributeMethods#[] raises AM::AttributeMissingError...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df2b60cd41bbbf87ba680015442f9d3272240d41"><span class="sha1">df2b60c</span></a></td>
+  <td class="commit-date">2012-10-27</td>
+  <td class="commit-message">fix failing isolated tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10d9cb2052610202b4f1b2db4b822aa5850b1da4"><span class="sha1">10d9cb2</span></a></td>
+  <td class="commit-date">2012-10-27</td>
+  <td class="commit-message">fix AM::Serializers titles [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/070329596f93544cb667a32dbf30be4845038ffc"><span class="sha1">0703295</span></a></td>
+  <td class="commit-date">2012-10-27</td>
+  <td class="commit-message">AM::Serializers::Xml depends on AM::Naming</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a36dc736f6094322dc8bbcf3c98c1cf185d78af"><span class="sha1">7a36dc7</span></a></td>
+  <td class="commit-date">2012-10-26</td>
+  <td class="commit-message">update AR::ImmutableRelation documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9ac095fef586bcf86ed10d31acbc4af2abb53843"><span class="sha1">9ac095f</span></a></td>
+  <td class="commit-date">2012-10-26</td>
+  <td class="commit-message">minor edits and remove mixed titles in AM::Validations d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65be1a0e7a93b2f4e308739d55516be0c58543df"><span class="sha1">65be1a0</span></a></td>
+  <td class="commit-date">2012-10-26</td>
+  <td class="commit-message">encourage use of Ruby 1.9 syntax [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2ef4d5ed5cbbb2a9266c99535e5f51918ae3e3b6"><span class="sha1">2ef4d5e</span></a></td>
+  <td class="commit-date">2012-10-22</td>
+  <td class="commit-message">fix output messages - docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae27acb342c575ce19d5ad78cb13ba23f826fab1"><span class="sha1">ae27acb</span></a></td>
+  <td class="commit-date">2012-10-22</td>
+  <td class="commit-message">read_attribute is public [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e5a6c7855e6ce7d5a9c4c53a326488bd0e3fb08"><span class="sha1">1e5a6c7</span></a></td>
+  <td class="commit-date">2012-10-22</td>
+  <td class="commit-message">add docs to AR::AttributeMethods::BeforeTypeCast [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc3f960c0f3b3d88f024969f4606317040cb2332"><span class="sha1">bc3f960</span></a></td>
+  <td class="commit-date">2012-10-22</td>
+  <td class="commit-message">improve AR::AttributeMethods documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e32bbc1356a7e72f721373344202c3d63fc37312"><span class="sha1">e32bbc1</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">fix typo and improve example [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c6fb832fe883ac996c0fa773ee2b5c9fdc2c9f62"><span class="sha1">c6fb832</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">update AR::AttributeMethods::BeforeTypeCast docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/06e908c4e13a0f87f05f6115e13e6f5b8d20d499"><span class="sha1">06e908c</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">Fix AR::AttributeMethods#[] example [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae057d622fccf7cc5dcd2609a7fe3f1e0589808f"><span class="sha1">ae057d6</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">fix StrongParameters example [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4736c14fdb6ad1071308001040f3b11c5af1cd29"><span class="sha1">4736c14</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">nodoc deprecated AR::Fixtures constant [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9a88a2c26a0d9050e6106ef5e0617fe5c4cca24"><span class="sha1">c9a88a2</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">minor edits in AM documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aceb4a58a6cc5aecb49f91424926ccce19833a17"><span class="sha1">aceb4a5</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">update AR::AttributeMethods documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/19a26736928f72bd4c77467d56a333c00db29b1a"><span class="sha1">19a2673</span></a></td>
+  <td class="commit-date">2012-10-21</td>
+  <td class="commit-message">nodoc AR::Generators [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98043c689f945cabffc043f4bdc80ab2a7edc763"><span class="sha1">98043c6</span></a></td>
+  <td class="commit-date">2012-10-19</td>
+  <td class="commit-message">truncate debug.log on each test run</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/feb9c5f42bd99d8e9e8710c4734af60e6e602d99"><span class="sha1">feb9c5f</span></a></td>
+  <td class="commit-date">2012-10-19</td>
+  <td class="commit-message">remove assert_valid method from testing guide [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2834454de720808ecefa2b0f09261af4cb4a6c4d"><span class="sha1">2834454</span></a></td>
+  <td class="commit-date">2012-10-18</td>
+  <td class="commit-message">add a nested attributes example into Strong Parameters d...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f069ec162fe92523eb5f0e8c0139005fed671a0c"><span class="sha1">f069ec1</span></a></td>
+  <td class="commit-date">2012-10-18</td>
+  <td class="commit-message">remove some non-breaking spaces [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f12244b6d7111ccc5c309d6ce75c5cdb861edc1b"><span class="sha1">f12244b</span></a></td>
+  <td class="commit-date">2012-10-18</td>
+  <td class="commit-message">remove non-breaking spaces [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/299fee5919ec41290421684436a50105c4ddc485"><span class="sha1">299fee5</span></a></td>
+  <td class="commit-date">2012-10-12</td>
+  <td class="commit-message">update AC::Parameters#permit documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/521e2eeac97a18b57384459f927dd4e1ffac3df2"><span class="sha1">521e2ee</span></a></td>
+  <td class="commit-date">2012-10-07</td>
+  <td class="commit-message">update Rails::Generators docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f1eea80671229dd7d7db2ee72fb286c212c3b51"><span class="sha1">2f1eea8</span></a></td>
+  <td class="commit-date">2012-10-07</td>
+  <td class="commit-message">nodoc JS::Generators [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ee5433ae6e470861b107c702212fe5c081513b6"><span class="sha1">0ee5433</span></a></td>
+  <td class="commit-date">2012-10-07</td>
+  <td class="commit-message">nodoc Erb::Generators [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4e8ce2c528ad2d5894e1fabaf44f0c27c4875c11"><span class="sha1">4e8ce2c</span></a></td>
+  <td class="commit-date">2012-10-07</td>
+  <td class="commit-message">nodoc CSS::Generators [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eecf14db6678eeaee299a06156fc4fe81ecc8446"><span class="sha1">eecf14d</span></a></td>
+  <td class="commit-date">2012-10-07</td>
+  <td class="commit-message">nodoc TestUnit::Generators [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3675cd41f3133ca61b9c5cb13c0cfccab63b2b56"><span class="sha1">3675cd4</span></a></td>
+  <td class="commit-date">2012-10-06</td>
+  <td class="commit-message">rename private method to avoid overriding</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d91bee80beae4e92b2b015599771310cebc3a143"><span class="sha1">d91bee8</span></a></td>
+  <td class="commit-date">2012-10-06</td>
+  <td class="commit-message">use Rails backtrace in tests</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca519eeb4096ab64e8368c2e4d24496329c06923"><span class="sha1">ca519ee</span></a></td>
+  <td class="commit-date">2012-10-06</td>
+  <td class="commit-message">bump minitest version ~&gt; 4.1.0</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2154215940f8400ed85ffe988de89e12da2cce4a"><span class="sha1">2154215</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">add AC::Parameters#permit_all_parameters config option [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4b3377ca5bc181bb8a153c1e4d86b1b1fc968032"><span class="sha1">4b3377c</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">remove old AR Mass Assignment config options [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5af266a08a9167d8a9eea86eb6b85a66afa47f60"><span class="sha1">5af266a</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">Merge pull request #115 from ruggeri/master</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8b7f353b805ecfed53ab828bb913fd9356eb882e"><span class="sha1">8b7f353</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">delete removed page cache options [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d1ae6c5f7066e100d0b85a8915a8c37861b83b61"><span class="sha1">d1ae6c5</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">use default_static_extension instead of page_cache_exten...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0d5dca7a6c9a49491d84bd2526a395d824f1982"><span class="sha1">a0d5dca</span></a></td>
+  <td class="commit-date">2012-10-05</td>
+  <td class="commit-message">update caching with rails guide to reflect action and pa...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea042bad262e34933ccf5d3f8f217afe35f4dca2"><span class="sha1">ea042ba</span></a></td>
+  <td class="commit-date">2012-10-04</td>
+  <td class="commit-message">add an entry about AP page and action extraction in the ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c82cf81f00f018386bd55d406db30725caaa5096"><span class="sha1">c82cf81</span></a></td>
+  <td class="commit-date">2012-10-04</td>
+  <td class="commit-message">add CHANGELOG entry for AP page and action caching extra...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/aa202adf6c78468c8e03efd11d84b71478de7b03"><span class="sha1">aa202ad</span></a></td>
+  <td class="commit-date">2012-10-03</td>
+  <td class="commit-message">Count returns 0 without querying if parent is not saved</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e4d5b69b57c21e334a0b26dbc90a9b6bca044781"><span class="sha1">e4d5b69</span></a></td>
+  <td class="commit-date">2012-10-03</td>
+  <td class="commit-message">rename page_cache_extension option to default_static_ext...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f81be178fd000956974d53ad265fffa58b50090"><span class="sha1">2f81be1</span></a></td>
+  <td class="commit-date">2012-10-03</td>
+  <td class="commit-message">extract AP Page and Action caching to actionpack-depreca...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/76ea63c8bbea8fc6e9a79b9a575ebb2087687fb6"><span class="sha1">76ea63c</span></a></td>
+  <td class="commit-date">2012-10-01</td>
+  <td class="commit-message">use &lt;url&gt; markdown syntax instead of [url](url) [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07a3c2103c0db8f960ea2ba2a8748a2fe2bed206"><span class="sha1">07a3c21</span></a></td>
+  <td class="commit-date">2012-10-01</td>
+  <td class="commit-message">fix example in Migration docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c5647a08b4a6ece80379306d9f148608e2597d83"><span class="sha1">c5647a0</span></a></td>
+  <td class="commit-date">2012-09-30</td>
+  <td class="commit-message">add change_table transformation to Migration docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9142da09e536ce85789129e81fb9e6cee3c295be"><span class="sha1">9142da0</span></a></td>
+  <td class="commit-date">2012-09-28</td>
+  <td class="commit-message">move metal/caching_test into controller/caching_test</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d4b9c76ccb26aaca1e785f0be37633229380cdc"><span class="sha1">2d4b9c7</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">update Security guide to reflect mass assignment protect...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/530102f656068274be8e3ea5fc873a3432d8e397"><span class="sha1">530102f</span></a></td>
+  <td class="commit-date">2012-09-24</td>
+  <td class="commit-message">add a note about DynamicForm in error_messages_for secti...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/417aa431eb43a8ecbc7edae2d056edebf4f8792f"><span class="sha1">417aa43</span></a></td>
+  <td class="commit-date">2012-09-23</td>
+  <td class="commit-message">update AC::ConditionalGet documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/191ddf26379670b477bd63bccf8debbe16d20ed9"><span class="sha1">191ddf2</span></a></td>
+  <td class="commit-date">2012-09-23</td>
+  <td class="commit-message">update AC::Caching documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0457317183a7ab0add760cf6678b72c4e3c0e8f"><span class="sha1">a045731</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">remove added indentation from the last commit [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d13cd2a7a9d766f450e9a8a7e01f5df54b3dc7b0"><span class="sha1">d13cd2a</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">update AR::Validations documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b21012bc3911d53eef6fc3bc3222c8e762664671"><span class="sha1">b21012b</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">nodoc AR::Railtie [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e3fa8410a0902a1945ce3ed10c893be0488ffbdc"><span class="sha1">e3fa841</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">remove AC::Parameters reference [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6dec7535fd26b8abea0211313ef2936d28ed1637"><span class="sha1">6dec753</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">update AR::Scoping documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0eea22bdea4df3ec89ea65157a6a0e85cb048bca"><span class="sha1">0eea22b</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">add :nodoc: directive to AR::Fixtures::File [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/64298519a560cdbdbc80fa50704b211589d37960"><span class="sha1">6429851</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">fix AR::Coders::YAMLColumn nodoc [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c57064a8ab22906cc3f5b4cc6845ac5e1e1a384d"><span class="sha1">c57064a</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">update AR/attribute_methods documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e538e81541f4c756cf465d7240b85cfe290676a"><span class="sha1">7e538e8</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">fix AR::AttributeMethods::Dirty :nodoc: [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e216b00a5ef6038ba227faf3207891c403fb8d1c"><span class="sha1">e216b00</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">fix AR::Associations::CollectionProxy#delete broken docu...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/08035482858a56963c7694bc7b92308f59272b28"><span class="sha1">0803548</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">update AR::Associations::CollectionProxy#loaded? documen...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa9424695644c12efeb8413511eea4f55b3bb22c"><span class="sha1">fa94246</span></a></td>
+  <td class="commit-date">2012-09-22</td>
+  <td class="commit-message">fix typos in AC::StrongParameters documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3395ebe32097f6c711a3f3f1f44b67b3f969107e"><span class="sha1">3395ebe</span></a></td>
+  <td class="commit-date">2012-09-21</td>
+  <td class="commit-message">add note about AR#include_root_in_json default in Upgrad...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f4a9d7db1c6f5afbf66891cf1624f3d394802809"><span class="sha1">f4a9d7d</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">remove unnecessary entry and make minor edits to AR/CHAN...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a30b8d38b41ba9c141e867836a3a9c5b21221bea"><span class="sha1">a30b8d3</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">rename AR::Model::Tag to AR::Tag - fixes #7714</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/356eed9c6034064c097cf607588185b1c526d93b"><span class="sha1">356eed9</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">add :nodoc: to AMo::DeprecatedMassAssignmentSecurity::Cl...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6783c3f449f9c80268905fe79e444f40d1b2f883"><span class="sha1">6783c3f</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">change AMo::ForbiddenAttributesProtection#sanitize_for_m...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e56f1f14c7b033a6d180514c83e61193812fede"><span class="sha1">1e56f1f</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">update AMo::ForbiddenAttributesError documentation [ci s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00da7c605dc99fd9bcc714e836308becd842a9d1"><span class="sha1">00da7c6</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">fix typos and improve AC::StrongParameters documentation...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3759e328822adc836c7eed625c2c350972744bfe"><span class="sha1">3759e32</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">add :nodoc: directives to AMo::DeprecatedMassAssignmentS...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2417218476ce607471baf364e8f1ce660dbf761d"><span class="sha1">2417218</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">update AC::StrongParameters documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8478a78801a9c5b3116331c978130eeeaf91f00"><span class="sha1">f8478a7</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">define permitted? method instead of use an alias to fix ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/93ef857fbc93eb7f5970315624f06b84d65564c4"><span class="sha1">93ef857</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">update AC::Parameters documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2aacee15248ae358387835e9d7829082cf5c485d"><span class="sha1">2aacee1</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">update AC::ParameterMissing documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/19a41ebaf5868329467eec183f41276a6e1e6d88"><span class="sha1">19a41eb</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">update AR::AttributeAssignment documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1102aa2f64af688b47ee5fe4ba3e69acf0227e03"><span class="sha1">1102aa2</span></a></td>
+  <td class="commit-date">2012-09-20</td>
+  <td class="commit-message">update AC::ParamsWrapper documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/efef82ffb0c3b5c3c2092f56793cd5940e9526cd"><span class="sha1">efef82f</span></a></td>
+  <td class="commit-date">2012-09-19</td>
+  <td class="commit-message">fix :nodoc:s in AR::Timestamp [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/255cefbff44d0bf0faeec43a5112e88b7c4424c2"><span class="sha1">255cefb</span></a></td>
+  <td class="commit-date">2012-09-19</td>
+  <td class="commit-message">fix Hash#slice code example [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2c7545cdd69376ed7e6ccb2084dda8cbd7571c2"><span class="sha1">e2c7545</span></a></td>
+  <td class="commit-date">2012-09-18</td>
+  <td class="commit-message">update ActionMailer documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eeb9635ffa8f04001f8c22b285feedcbd87f6e46"><span class="sha1">eeb9635</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">show love to contributors</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f7c6da2322ae272e6709e269569e4892a8fcb1f9"><span class="sha1">f7c6da2</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">fix rdoc task for Action Mailer documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f5654e78b248ecc90e8556366c927e1176c2428f"><span class="sha1">f5654e7</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">update ActionMailer::Base documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/82355dfb35c8bc2eeb29ccfa48b5a85e5e4ba687"><span class="sha1">82355df</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">update code examples to 1.9 hash syntax in the AR/README...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d71d5ba71fadf4219c466c0332f78f6e325bcc6c"><span class="sha1">d71d5ba</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">update AS docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c1c9f1c7b98eb219eda01f8ddaef7aa2ab710b9f"><span class="sha1">c1c9f1c</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">fix AS::OrderedOptions documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0aaf87c1e17125af47b88db9d70bd6d9cc0b96ec"><span class="sha1">0aaf87c</span></a></td>
+  <td class="commit-date">2012-09-17</td>
+  <td class="commit-message">improve AR/CHANGELOG [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00fef0a76c589bd69c1048e8bae7d66e0a8b7457"><span class="sha1">00fef0a</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">update AS/values and AS/xml_mini docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0e943381becdb882c93fe699e324bf0e6c99806"><span class="sha1">b0e9433</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">update AS/notifications and AS/testing docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d48163c65d1f6f4cec433e2b5fc785246d03c4b6"><span class="sha1">d48163c</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">update AS/log_subscriber and AS/multibyte docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ef21d80a3b58e5dc5a1e2c83e95ae0a34b786e0"><span class="sha1">7ef21d8</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">update AS/json docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ea3f284a4d07f5572f7ae2a7442cca8761fa8fc"><span class="sha1">5ea3f28</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">update AS/inflector docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8673c2eefb9d181d226b70a1f86675b46f2dc67b"><span class="sha1">8673c2e</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">update AS/deprecation docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f210a369d1c3fdbd6de768f4b9de3891c1bf7d25"><span class="sha1">f210a36</span></a></td>
+  <td class="commit-date">2012-09-15</td>
+  <td class="commit-message">add :nodoc: to AS::Autoload#extended [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2326d46e8cfd6913eda9887cbc5999d662194d2f"><span class="sha1">2326d46</span></a></td>
+  <td class="commit-date">2012-09-13</td>
+  <td class="commit-message">fix markdown markup in AR/CHANGELOG</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/68a8a298d69fdf9cb2a6e3f02568c4d0c02b62ff"><span class="sha1">68a8a29</span></a></td>
+  <td class="commit-date">2012-09-13</td>
+  <td class="commit-message">fix AS/core_ext examples [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/794a70f94485fb64ed1c49ba8532895306e2001c"><span class="sha1">794a70f</span></a></td>
+  <td class="commit-date">2012-09-12</td>
+  <td class="commit-message">update AS/core_ext docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f4e180578c673194f58d4ff5a4a656cc51b2249e"><span class="sha1">f4e1805</span></a></td>
+  <td class="commit-date">2012-09-12</td>
+  <td class="commit-message">update some AS code examples to 1.9 hash syntax [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae3965b4752285991acb5ac8147fc9f4a88eea6d"><span class="sha1">ae3965b</span></a></td>
+  <td class="commit-date">2012-09-10</td>
+  <td class="commit-message">fix punctuation in Getting Started prologue [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8cbd563edf62b3bcf62de4a5d67ff43453021174"><span class="sha1">8cbd563</span></a></td>
+  <td class="commit-date">2012-09-08</td>
+  <td class="commit-message">set default_headers to nil after use it to avoid order d...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/decf4a164d2b00f0be3fc8331df0f0cbe16e7e94"><span class="sha1">decf4a1</span></a></td>
+  <td class="commit-date">2012-09-08</td>
+  <td class="commit-message">add :nodoc: to AR::Store::IndifferentCoder [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/56652a6bf589e3f92f7faaa2fec89ef70d740d1b"><span class="sha1">56652a6</span></a></td>
+  <td class="commit-date">2012-09-08</td>
+  <td class="commit-message">add note about using block form of unscoped in AR Queryi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65ce6fb0a75d830034969eaea325f6319ccaa5c1"><span class="sha1">65ce6fb</span></a></td>
+  <td class="commit-date">2012-09-08</td>
+  <td class="commit-message">improve AR CHANGELOG [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/206d9a74908fcdd7c85dc05877e6ea2a7a8d8a38"><span class="sha1">206d9a7</span></a></td>
+  <td class="commit-date">2012-08-27</td>
+  <td class="commit-message">ensures that the test repairs the validation setup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2b2fd03640f03ac3bb0f687f9da594fb463dd666"><span class="sha1">2b2fd03</span></a></td>
+  <td class="commit-date">2012-08-27</td>
+  <td class="commit-message">fix order dependent test in AR::BasicsTest</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/47cce917f266baa0c51bb259b8ad678c0422830d"><span class="sha1">47cce91</span></a></td>
+  <td class="commit-date">2012-08-26</td>
+  <td class="commit-message">fix order dependent test in AggregationsTest</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/73f0afd1d41aa6c3febcc2e93e4d19d9bf0f27dc"><span class="sha1">73f0afd</span></a></td>
+  <td class="commit-date">2012-08-23</td>
+  <td class="commit-message">Fix ActionMailer tests that depend on run order</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/961957d5709b6e18a0c6adf0b4783297cc21140a"><span class="sha1">961957d</span></a></td>
+  <td class="commit-date">2012-08-23</td>
+  <td class="commit-message">Fix ActiveModel tests that depend on run order</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc14a3b2c1d5684c88355230faa263515358776d"><span class="sha1">cc14a3b</span></a></td>
+  <td class="commit-date">2012-08-23</td>
+  <td class="commit-message">Fix ActiveSupport tests that depend on run order</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb05d99106097fd845f415c91c016ca4d9bff511"><span class="sha1">bb05d99</span></a></td>
+  <td class="commit-date">2012-08-20</td>
+  <td class="commit-message">fix punctuation in config templates</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cbcfbdd078c1f69f65a31d87b218fb41f495ce0f"><span class="sha1">cbcfbdd</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">fix punctuation in #resources and #match documentation [...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7b7501b2e591718897f8d4a1d201b6d72f0fe7cd"><span class="sha1">7b7501b</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">update ActiveModel::Observer documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab53cc7b2eee86152f20aea6c968d74d1c747c4e"><span class="sha1">ab53cc7</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">update ActiveModel::ObserverArray documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1d537fdc47065d58ea268b6eac9593e559596431"><span class="sha1">1d537fd</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">add :nodoc: to ActiveModel::Observing#inherited [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb15fe55dab3287562f0f90d7a8ca1d1c9f5c162"><span class="sha1">cb15fe5</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">update ActiveModel::Observing documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d67b289796bd121bfe8d2b5d20d157a011116dfe"><span class="sha1">d67b289</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">update ActiveModel::Serializers documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4ff5a5df4d08fad1ed26164a057be152e40bf8d9"><span class="sha1">4ff5a5d</span></a></td>
+  <td class="commit-date">2012-07-31</td>
+  <td class="commit-message">add documentation to ActiveModel #from_json method [ci s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/829ec373dde05d834a142fc1f057195da85094b9"><span class="sha1">829ec37</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">fix nodoc in metal/live</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5906881c960f8466efef71da3a3394fde445d47c"><span class="sha1">5906881</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update coding conventions in metal/live</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eae19033fbec07bdec3dd532fe29989fc137ba24"><span class="sha1">eae1903</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">fix typo in metal/live [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ca957c5bb6d33a84a0a69681e66de79c702930d"><span class="sha1">1ca957c</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">fix #after_validation example [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea881ef9969a2dafb71ec7a0e193acb592bf2cce"><span class="sha1">ea881ef</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update AR::Validations::AssociatedValidator documentatio...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1cd40decd30d606b8e6a95b8e72e185fe8a5a8f0"><span class="sha1">1cd40de</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update AR::Validations::UniquenessValidator documentatio...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d1794713e68263ef2db49cf633a84b0c07b69f7"><span class="sha1">4d17947</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">add :nodoc: directives to ActiveModel Sanitizers [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c57b8d236bbca25fa655a7ed48ae60dd46c0f257"><span class="sha1">c57b8d2</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">fix class reference in AM::MassAssignmentSecurity docume...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb6c3e28afe2a2dca04cbb398823c664ab857800"><span class="sha1">cb6c3e2</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update ActiveModel::Validations::Callbacks documentation...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/097bfc8296eea8326ee2c62c1dd953b68f539ea5"><span class="sha1">097bfc8</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update #validates and #validates! documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0557273f38fcbdaa661715dbb2c2d8ffaf264e36"><span class="sha1">0557273</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update ActiveModel::Valdations#validates_with docs [ci s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/01e61eed6a89a756422a17984c20666de51f8dae"><span class="sha1">01e61ee</span></a></td>
+  <td class="commit-date">2012-07-30</td>
+  <td class="commit-message">update ActiveModel::Validations docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/78502673acdba43f712844c4a4054ff0f08ff72a"><span class="sha1">7850267</span></a></td>
+  <td class="commit-date">2012-07-29</td>
+  <td class="commit-message">update ActiveModel::Validator docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f0f7786aab7f5d494c13dd22434fd77a5c7f93c0"><span class="sha1">f0f7786</span></a></td>
+  <td class="commit-date">2012-07-29</td>
+  <td class="commit-message">update ActiveModel::SecurePassword docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79b87787213fe773f87ffb39c7a286ccaa5d4a1b"><span class="sha1">79b8778</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">add example to ActiveModel::StrictValidationFailed [ci s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3326b8b1393489fed9b6717e108bac6a058ff20c"><span class="sha1">3326b8b</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">Backport #6995 to 3-2 stable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8672914b746d3b29213a9b4b9252735f1c3ee5d"><span class="sha1">b867291</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">add example to ActiveModel::MissingAttributeError [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac18d642e9282fad0c2ba8f16d3c9627b507b40f"><span class="sha1">ac18d64</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">update ActiveModel::MassAssignmentSecurity docs [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b8e4f7155b9c06842f1d9d17f36886cb663aa3a4"><span class="sha1">b8e4f71</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">add example to ActiveModel::Naming#model_name [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36ebafdce959a2cf70f10655df46237020f3270a"><span class="sha1">36ebafd</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">fix AM::Naming examples [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03404936945b452b8e66e53e183973176dae8301"><span class="sha1">0340493</span></a></td>
+  <td class="commit-date">2012-07-28</td>
+  <td class="commit-message">update to_param docs [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/46b24c958a89b75e48ee42be0520a15b7c4484a9"><span class="sha1">46b24c9</span></a></td>
+  <td class="commit-date">2012-07-27</td>
+  <td class="commit-message">use &#39;HTTP_AUTHORIZATION&#39; instead of :authorization as ke...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c74ff7f73b9505478cec6eff20f1030a61285cd8"><span class="sha1">c74ff7f</span></a></td>
+  <td class="commit-date">2012-07-24</td>
+  <td class="commit-message">Update performance testing guide [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/738a0e17eb2f7b6656e8a4a9fa58d4609bcc7eaa"><span class="sha1">738a0e1</span></a></td>
+  <td class="commit-date">2012-07-23</td>
+  <td class="commit-message">fix removed ruby tag in commit 890b9dd [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b7b97fadc183771b129a7b11b7b759f72bfb2dd3"><span class="sha1">b7b97fa</span></a></td>
+  <td class="commit-date">2012-07-22</td>
+  <td class="commit-message">add :nodoc: directive to AM::ObserverArray internal meth...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12ae9d618e60b6e574c9816beb28278a80268da6"><span class="sha1">12ae9d6</span></a></td>
+  <td class="commit-date">2012-07-21</td>
+  <td class="commit-message">fixing :nodoc:s in AS::JSON::Encoding</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc65d0c581f41495d68975b1ae28ae853e6d22dc"><span class="sha1">bc65d0c</span></a></td>
+  <td class="commit-date">2012-07-13</td>
+  <td class="commit-message">add note about requiring gem dependencies before initial...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/df10279252a79a0d7a40c3014becf8482060a54d"><span class="sha1">df10279</span></a></td>
+  <td class="commit-date">2012-07-06</td>
+  <td class="commit-message">update test_help to config properly turn natural languag...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae3fdac89626eadd03cc72e603c884634dc4d868"><span class="sha1">ae3fdac</span></a></td>
+  <td class="commit-date">2012-07-06</td>
+  <td class="commit-message">update performance test template to use test method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ca802fda663d0aa5edf615d4683b4a55b6e2ffe9"><span class="sha1">ca802fd</span></a></td>
+  <td class="commit-date">2012-07-06</td>
+  <td class="commit-message">add :nodoc: to internal implementations of AM::Validator...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a7702a1df19b8d52d1500b821207efd8c099a54"><span class="sha1">9a7702a</span></a></td>
+  <td class="commit-date">2012-07-06</td>
+  <td class="commit-message">update ActiveModel::Serialization documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/70c4676d88a11c7a6f0579d69c9e3de1e1cd024e"><span class="sha1">70c4676</span></a></td>
+  <td class="commit-date">2012-07-05</td>
+  <td class="commit-message">fix syntax of AM::Validations::HelperMethods examples [c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/68df230255b39c0197a211de9d68ab263c65a093"><span class="sha1">68df230</span></a></td>
+  <td class="commit-date">2012-07-05</td>
+  <td class="commit-message">update ActiveModel::Validations::HelperMethods documenta...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e00099a28f3271befff03b5ebbb8e6e561cdcd0"><span class="sha1">6e00099</span></a></td>
+  <td class="commit-date">2012-07-05</td>
+  <td class="commit-message">update ActiveModel::Conversion documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b5bb35355d68eab0343637980a231c8a4eb6093c"><span class="sha1">b5bb353</span></a></td>
+  <td class="commit-date">2012-07-05</td>
+  <td class="commit-message">fix quoting for ActiveSupport::Duration instances</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4981fa532c32da36171e2c8dd9a073f0dc79df6b"><span class="sha1">4981fa5</span></a></td>
+  <td class="commit-date">2012-07-04</td>
+  <td class="commit-message">fix link and add activeresource link in release notes pa...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1c5722cdf675fce6c7f69bfb5ca773ce3db8fe19"><span class="sha1">1c5722c</span></a></td>
+  <td class="commit-date">2012-07-03</td>
+  <td class="commit-message">remove test/dummy from gitignore when &quot;plugin new -T&quot;</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1e509ad7a8c8264544f10f4666705cd806b5408"><span class="sha1">b1e509a</span></a></td>
+  <td class="commit-date">2012-07-02</td>
+  <td class="commit-message">Backport #3329 to 3-2-stable</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62463d11b8ecb9fe5987776e58eee644c0ad96b2"><span class="sha1">62463d1</span></a></td>
+  <td class="commit-date">2012-07-01</td>
+  <td class="commit-message">remove :nodoc: of AR::Scoping#unscoped [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9b45f0fb712ec1b649b8d482f9552a41ed5e19e2"><span class="sha1">9b45f0f</span></a></td>
+  <td class="commit-date">2012-06-30</td>
+  <td class="commit-message">fix AR::SchemaStatements#column_exists? example [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6727e3c9e7eca006e5221739dc72694d2c1e024d"><span class="sha1">6727e3c</span></a></td>
+  <td class="commit-date">2012-06-30</td>
+  <td class="commit-message">update AR::SchemaStatements#column_exists? documentation...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/debb3a178f9863d542feed037915c08dd6978089"><span class="sha1">debb3a1</span></a></td>
+  <td class="commit-date">2012-06-28</td>
+  <td class="commit-message">update AR::FinderMethods#exists?(false) example [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e2abd8da2d80aa346198b541a62176b6bb0b6a2f"><span class="sha1">e2abd8d</span></a></td>
+  <td class="commit-date">2012-06-28</td>
+  <td class="commit-message">fix ActionMailer::Async docs and update to follow coding...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/65362af7a8c738effe35b57d856dcf732cbb614f"><span class="sha1">65362af</span></a></td>
+  <td class="commit-date">2012-06-25</td>
+  <td class="commit-message">add :nodoc: to internal implementations [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/809d4f8eb2bbc615c48d0ccd7cac78a485f3dbed"><span class="sha1">809d4f8</span></a></td>
+  <td class="commit-date">2012-06-25</td>
+  <td class="commit-message">update ActiveModel::Name documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5130d862a5cf887fa782bec98d7c4aa36deafb72"><span class="sha1">5130d86</span></a></td>
+  <td class="commit-date">2012-06-25</td>
+  <td class="commit-message">fix punctuation in activemodel/errors [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/87615f28e0b80cdf2166fd32dde1a7e544e05c01"><span class="sha1">87615f2</span></a></td>
+  <td class="commit-date">2012-06-23</td>
+  <td class="commit-message">update ActiveModel::Naming documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/956c8e569a3b1fa6f10d7296d6bdb82f3f250e29"><span class="sha1">956c8e5</span></a></td>
+  <td class="commit-date">2012-06-23</td>
+  <td class="commit-message">Merge pull request #104 from udaykadaboina/typofix</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cca9a21a82b13b7c07c69f8033191c7f3de5cd05"><span class="sha1">cca9a21</span></a></td>
+  <td class="commit-date">2012-06-23</td>
+  <td class="commit-message">update ActiveModel::Model documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ffe16b16cd8ca4fa838a08407b275a38b42b5dbc"><span class="sha1">ffe16b1</span></a></td>
+  <td class="commit-date">2012-06-23</td>
+  <td class="commit-message">add description ActiveModel::StrictValidationField [ci s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62a13093c0986993ed898e0e496d702a9716d139"><span class="sha1">62a1309</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">update ActiveModel::Lint documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/311810b8b2a43b9d2fe9c78d02e2df7b0959cc5d"><span class="sha1">311810b</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">update ActiveModel::Errors#include? documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc7ac33846274a0d2c93741bf6df441d4853e4e9"><span class="sha1">bc7ac33</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">add :nodoc: to internal implementations [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1727f4330cda74f1e02e25c47d2cd02702bed431"><span class="sha1">1727f43</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">add documentation and examples to ActiveModel::Errors [c...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/629bc03bf885f8d1450a28972c5bea630a079e85"><span class="sha1">629bc03</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">change param name to improve documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc818e4bc52efb005051662ab0536790f62b1122"><span class="sha1">bc818e4</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">update ActiveModel::Errors documentation and minor fixes...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d9238d044a0ad2ef5057c31e574d8cc687bb1b77"><span class="sha1">d9238d0</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">update ActiveModel::Conversion documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d569bfed0d672ec62627ad6fa3fb89ddda7b6448"><span class="sha1">d569bfe</span></a></td>
+  <td class="commit-date">2012-06-22</td>
+  <td class="commit-message">update ActiveModel::Callbacks documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c3025e8d597bc17c9fae7c40413af4a98589a930"><span class="sha1">c3025e8</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">add description to ActiveModel::MissingAttributeError [c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ce803d0910d57bfd8b40d5cdbf4bef650bad626"><span class="sha1">1ce803d</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">add :nodoc: to AM::AttributeMethods#instance_method_alre...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/95a938a5e69a0513a3666f5979be2460fa717885"><span class="sha1">95a938a</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">add example to ActiveModel::AttributeMethods#undefine_at...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f975c4b641b4d410b7d2ef654bba549e1dfb652e"><span class="sha1">f975c4b</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">add docs to AM::AttributeMethods#define_attribute_method...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1cb2cb8bea85fedbb6594f1e79186646c8072d3c"><span class="sha1">1cb2cb8</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">add :nodoc: to AM::AttributeMethods::AttributeMethodMatc...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b5b350ad5c1d115a54ab2ebadc44fa2d63ae50bf"><span class="sha1">b5b350a</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">fix ActiveModel::AttributeMethods#alias_attribute docume...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf3332bfdf241832d0f0222f895392c48c91ed88"><span class="sha1">bf3332b</span></a></td>
+  <td class="commit-date">2012-06-21</td>
+  <td class="commit-message">update ActiveModel::AttributeMethods documentation [ci s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/065e02d04b8c249a02b63a4de8e798c950c40a94"><span class="sha1">065e02d</span></a></td>
+  <td class="commit-date">2012-06-20</td>
+  <td class="commit-message">switch to prototype also modifies application.js [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/02a4ef7a05c0f5803254d3a2a10c2ec46971e27b"><span class="sha1">02a4ef7</span></a></td>
+  <td class="commit-date">2012-06-20</td>
+  <td class="commit-message">remove deprecated methods [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12d57329143842f5beda43b4706154483ec08747"><span class="sha1">12d5732</span></a></td>
+  <td class="commit-date">2012-06-20</td>
+  <td class="commit-message">update Built-in Rails Helpers section [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a59b1ee4cb18ec37e0db12e8ad3b2196c535d40c"><span class="sha1">a59b1ee</span></a></td>
+  <td class="commit-date">2012-06-20</td>
+  <td class="commit-message">fix typo [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/949a773858b6b957ec1590a426e40cfb8e56d728"><span class="sha1">949a773</span></a></td>
+  <td class="commit-date">2012-06-19</td>
+  <td class="commit-message">add :nodoc: to AV StylesheetIncludeTag, JavascriptInclud...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7f66ee9ffe1526fedde08a41ac5f9ff14d14485f"><span class="sha1">7f66ee9</span></a></td>
+  <td class="commit-date">2012-06-19</td>
+  <td class="commit-message">add documentation to AS::TestCase#assert_nothing_raised</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b912bca9ac5ba062509c2ec073de27e6279a749e"><span class="sha1">b912bca</span></a></td>
+  <td class="commit-date">2012-06-19</td>
+  <td class="commit-message">update AS::Testing::Assertions docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/24587c26ddb6f36e6f5aaaf3f09659ae095c8ff6"><span class="sha1">24587c2</span></a></td>
+  <td class="commit-date">2012-06-19</td>
+  <td class="commit-message">fix typo [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55f8b0d09e3963f8d662c79952a1f9c3a0a4e1f3"><span class="sha1">55f8b0d</span></a></td>
+  <td class="commit-date">2012-06-18</td>
+  <td class="commit-message">add example to AS::Deprecation#deprecate_methods [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7fd77474970fb170f26b56a6b38ef1a19cd816f9"><span class="sha1">7fd7747</span></a></td>
+  <td class="commit-date">2012-06-18</td>
+  <td class="commit-message">fix invalid syntax and sqlite rake failing tests</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/588e80fd132e1eb82f4cfa9a7c21625bdd9934e8"><span class="sha1">588e80f</span></a></td>
+  <td class="commit-date">2012-06-18</td>
+  <td class="commit-message">add :nodoc: to AR::Tasks and update to follow the coding...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b6d2997669a0bbce4ce0b5142237c2a91852d16e"><span class="sha1">b6d2997</span></a></td>
+  <td class="commit-date">2012-06-18</td>
+  <td class="commit-message">check if sqlite3 file exists before remove</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a556c7e25b135e08fd0707f0e2cb01100db65501"><span class="sha1">a556c7e</span></a></td>
+  <td class="commit-date">2012-06-18</td>
+  <td class="commit-message">bump AS deprecation_horizon to 4.0</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/824733612eaa408f699c5c78018d72f49c34a061"><span class="sha1">8247336</span></a></td>
+  <td class="commit-date">2012-06-17</td>
+  <td class="commit-message">bump AS deprecation_horizon to 4.1</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/508538066c54b88bd2cca243ceaf5b65c0bee4ec"><span class="sha1">5085380</span></a></td>
+  <td class="commit-date">2012-06-17</td>
+  <td class="commit-message">add example to AS::Deprecation#silence [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a7a4e91577e832e9bf902bdb704e87de9a42d56e"><span class="sha1">a7a4e91</span></a></td>
+  <td class="commit-date">2012-06-16</td>
+  <td class="commit-message">change not valid syntax [ci-skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d2eb49d96ca4ab810ecbcbb10f9052c00dd6eb4"><span class="sha1">4d2eb49</span></a></td>
+  <td class="commit-date">2012-06-16</td>
+  <td class="commit-message">fix example with data: { disable-with: &#39;&#39; } [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f20f230a588369a7876d5a7bc03efee3c3028200"><span class="sha1">f20f230</span></a></td>
+  <td class="commit-date">2012-06-16</td>
+  <td class="commit-message">unnecessary reference to link_to_remote method in rails ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/62f6277c532625fdeace8cdf7a1ff87e60dcae74"><span class="sha1">62f6277</span></a></td>
+  <td class="commit-date">2012-06-15</td>
+  <td class="commit-message">add example to ActiveModel::Validations#validators [ci s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eed1cfe058abedecb4fc8c6ed5f1e52db5a105a3"><span class="sha1">eed1cfe</span></a></td>
+  <td class="commit-date">2012-06-12</td>
+  <td class="commit-message">Fix build</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab11a2780fe8e059ffc8824df18037773a4f5200"><span class="sha1">ab11a27</span></a></td>
+  <td class="commit-date">2012-06-06</td>
+  <td class="commit-message">change AMS::JSON.include_root_in_json default value to f...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1790b234e4354c8aa2f1704bd80300c511ffd1ca"><span class="sha1">1790b23</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">add :nodoc: to AS::NumberHelper private methods [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e1d40f7734dd65b52e45547284385c405347e2c"><span class="sha1">5e1d40f</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">add instance_accessor option to ActiveSupport::Configura...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/20ded911c0ce7647c73822491eaf8db10e615844"><span class="sha1">20ded91</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">add example to AS::Gzip</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4072de266a74edf4f432a200a322cf1ffd38d78e"><span class="sha1">4072de2</span></a></td>
+  <td class="commit-date">2012-06-05</td>
+  <td class="commit-message">remove double hyphen that doesn&#39;t allow properly parsing</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f87820d00acc4a699f2bb405fa33d4f1054ec52d"><span class="sha1">f87820d</span></a></td>
+  <td class="commit-date">2012-05-31</td>
+  <td class="commit-message">update ActiveModel::Dirty documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5db367a7fe528c33bc02a066e633c3e700496ac7"><span class="sha1">5db367a</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">update Gemfile template to 1.9 hash syntax</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5487daba9736c70b3e2ae868f3e92b24f6620273"><span class="sha1">5487dab</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">fix example format and add markup in Module#mattr_access...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34f82abf017a152bace9cbb12b69ef2076b6d67d"><span class="sha1">34f82ab</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">fix typos on migrations guide [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b89553cf41e3376d46f43dafcaed99df3f7721d3"><span class="sha1">b89553c</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">Add tests to delete by fixnum or string id with has many...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/39f0698405f8d52984f614d2aecafc514da9a3c5"><span class="sha1">39f0698</span></a></td>
+  <td class="commit-date">2012-05-29</td>
+  <td class="commit-message">Add support for CollectionAssociation#delete by Fixnum o...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/501d98b812202d87c11a68d0d78d26f6befd47a7"><span class="sha1">501d98b</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">change example on CollectionProxy#delete to accept multi...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21fee1b6540871c0227b97f2312573a4f0d89127"><span class="sha1">21fee1b</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">add ActiveSupport::JSON.decode documentation [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/070fb46295131da50df3048f70acfa7630267efa"><span class="sha1">070fb46</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">add example to ActiveSupport::JSON.encode [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a3d18d2ec0d73ed8eb92c913e324884aab7aa85b"><span class="sha1">a3d18d2</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">fix typo and remove &#39;examples&#39; noise [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a42bc4c9dfd7da50604d4136c9466dc7fcd3da14"><span class="sha1">a42bc4c</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">fix empty lines [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0ad2146ccf45b3a26924e729a92cd2ff98356413"><span class="sha1">0ad2146</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">remove :nodoc: from Class#subclasses [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c6219b021574c4da69fbe0687726763fced9e492"><span class="sha1">c6219b0</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">add :locale option to Array#to_sentence documentation [c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1e1d1da3ad71ed43fcff73bc3956579b69a1563d"><span class="sha1">1e1d1da</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">add examples to Array#to_sentence [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b4f0beb68a051495e51dd4a44a08d8a8d53f6998"><span class="sha1">b4f0beb</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">update documentation of array/access methods [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/de649452f3c39bd7e1542127c71d31659abf20ea"><span class="sha1">de64945</span></a></td>
+  <td class="commit-date">2012-05-28</td>
+  <td class="commit-message">Merge pull request #101 from lazylester/master</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4f031c8350b08eb0b1eb8abf7eb380654d284abc"><span class="sha1">4f031c8</span></a></td>
+  <td class="commit-date">2012-05-27</td>
+  <td class="commit-message">update Module#mattr_accessor documentation [ci skip]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4df16f3f3d2e2f806532ef2f698ae29f26df44db"><span class="sha1">4df16f3</span></a></td>
+  <td class="commit-date">2012-05-27</td>
+  <td class="commit-message">remove unnecessary ruby 1.8 reference from active_record...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/55c05276c71548f158cb9ae28fe2a154de9f8349"><span class="sha1">55c0527</span></a></td>
+  <td class="commit-date">2012-05-27</td>
+  <td class="commit-message">add CollectionProxy#uniq documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29713d7f3bca4267343a0bcaf8f1ee0ea3fe02ae"><span class="sha1">29713d7</span></a></td>
+  <td class="commit-date">2012-05-27</td>
+  <td class="commit-message">update Hash documentation with 1.9 syntax [ci skip]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ac50b633d4b9fd12bf0212a5cf8ebc5ab3ee8f37"><span class="sha1">ac50b63</span></a></td>
+  <td class="commit-date">2012-05-27</td>
+  <td class="commit-message">add examples to Hash#deep_stringify_keys and Hash#deep_s...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7a323e2ed15e06f468d783340c4680c5ad235e87"><span class="sha1">7a323e2</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">add :nodoc: to CollectionProxy#initialize</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb55f52ee8ae0eb932eec4eace8adb81b05d13ad"><span class="sha1">bb55f52</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">add CollectionProxy#== documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f81798d06415c538f5b1c5acfd4889b45473e62d"><span class="sha1">f81798d</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">add CollectionProxy#count documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/390d86ae899f6aba735d8efa0f7f23e05c6957a5"><span class="sha1">390d86a</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">add CollectionProxy#to_ary documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/29463aa15dd670621ad0de861b5aa66feeb09ffa"><span class="sha1">29463aa</span></a></td>
+  <td class="commit-date">2012-05-26</td>
+  <td class="commit-message">add CollectionProxy#delete documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/eb2c0a4f712b015bf6886286efd6e5b2eeaf54aa"><span class="sha1">eb2c0a4</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add CollectionProxy#length documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f539d98cc8838b0f7c3c31465cdc070ab9c1e9f3"><span class="sha1">f539d98</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add CollectionProxy#size documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3e847afbdd88d53bbf85eb2436ead2dab88f6e5b"><span class="sha1">3e847af</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add :call-seq: to +first+ and +last+ CollectionProxy met...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7e5beca38fe64344eb8b97c9fba93096ff533543"><span class="sha1">7e5beca</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add CollectionProxy#create! documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9c38cfc44afc2c8a9ab79801ff23c53f833d1085"><span class="sha1">9c38cfc</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add CollectionProxy#create documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e0859e569c007cd108797883eec402c876b9e8a0"><span class="sha1">e0859e5</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add more examples to CollectionProxy#find</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/21f4c2eb593f62658bbf5691c60ec3da3b0ab76d"><span class="sha1">21f4c2e</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">adding :call-seq: to CollectionProxy methods</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2c62dd64dbaf1b3c758e7259fa8fefbafbbdcf81"><span class="sha1">2c62dd6</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add CollectionProxy#build documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d1cab8e5e0aba87e307a387f1b8267e5c41419c6"><span class="sha1">d1cab8e</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">remove repeated documentation in CollectionProxy#clear</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8281194fee1a049826c50f9e0a095ea1abb91277"><span class="sha1">8281194</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">update CollectionProxy#clear documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1bcd5e42ed6c2efed4d1a53e74b4f8d6631b119d"><span class="sha1">1bcd5e4</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">update CollectionProxy#delete_all documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f9a718eb5e3fe969c3a01cf084c6686cc2ce7aff"><span class="sha1">f9a718e</span></a></td>
+  <td class="commit-date">2012-05-22</td>
+  <td class="commit-message">add CollectionProxy#delete_all documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ab2e2a9d2b772cf4aef4d9f4f2d506a03c205035"><span class="sha1">ab2e2a9</span></a></td>
+  <td class="commit-date">2012-05-21</td>
+  <td class="commit-message">fix CollectionProxy documentation markup</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/158a71b2cbd6be9ef9c88282b48a3e39e47908ed"><span class="sha1">158a71b</span></a></td>
+  <td class="commit-date">2012-05-21</td>
+  <td class="commit-message">add CollectionProxy#reload documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1f5c1a14236b2df638d20bcf1617110c47a4bfe8"><span class="sha1">1f5c1a1</span></a></td>
+  <td class="commit-date">2012-05-21</td>
+  <td class="commit-message">improve CollectionProxy#destroy documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d83173483d397df8cdff913d9a4929684c7bd4ce"><span class="sha1">d831734</span></a></td>
+  <td class="commit-date">2012-05-21</td>
+  <td class="commit-message">add CollectionProxy#destroy documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/03402d206ae1d1977e5283173ecb43a88aacead0"><span class="sha1">03402d2</span></a></td>
+  <td class="commit-date">2012-05-20</td>
+  <td class="commit-message">update CollectionProxy#destroy_all documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a6940f2a8307320599ded0dbcedd2375b392eaec"><span class="sha1">a6940f2</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#select documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/952737af35be26ac4760efa3b06a0313ceae2c68"><span class="sha1">952737a</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#find documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b0f55c68887930ada279302cceaf10e2ca67de52"><span class="sha1">b0f55c6</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#last documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75d71017fdf16f62c7d537788a1a175546457950"><span class="sha1">75d7101</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#first documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc8b7e036515dfa465f6fcf20e42d9950f42762c"><span class="sha1">bc8b7e0</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">improve CollectionProxy#concat documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/970a1469977690a1396741272049ff76f737fbb1"><span class="sha1">970a146</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">fix CollectionProxy#&lt;&lt; documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bb887b92f8ed119641d68487cef1b5b34b2518a1"><span class="sha1">bb887b9</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#&lt;&lt; documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3f46f73d004eb19616ad9863fefa4c21ef1d76c3"><span class="sha1">3f46f73</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#clear documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5111ec446bedbc8d0ff6ef11de1000047e0edff5"><span class="sha1">5111ec4</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">add CollectionProxy#include? documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec430d478a989aef7ad27a1f7251c4c378a08b25"><span class="sha1">ec430d4</span></a></td>
+  <td class="commit-date">2012-05-19</td>
+  <td class="commit-message">minor fix wrapper tag documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1b5c775e7a6d5457da6d2fe02e9e72c6788a7373"><span class="sha1">1b5c775</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">move docs from CollectionAssociation to CollectionProxy</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/db77b16e4fa1b2b23d4809b6fb34f61920a120df"><span class="sha1">db77b16</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add explanation of raising errors when a limit scope is ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/48acd29adbd86cec54eec6760dd317f4901125aa"><span class="sha1">48acd29</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">remove incorrect example of CollectionAssociation#empty?</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bf55f28af159ccfaa0bb8e5e0b52e50e14ede406"><span class="sha1">bf55f28</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add docs to CollectionAssociation#empty?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d029d50d48aa90655877749a57f316f6063fccf8"><span class="sha1">d029d50</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add docs to CollectionAssociation#any?</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10d375efaa85cbfab11def8ddff7069b18da7064"><span class="sha1">10d375e</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add examples to CollectionAssociation#concat</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3ef1f9448332d8e73676ceb15e94d5482c75f1d3"><span class="sha1">3ef1f94</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">fix CollectionAssociation docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fcc13f46f5f8db2a7010c00bd209d442461e948d"><span class="sha1">fcc13f4</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add example to CollectionAssociation#destroy_all</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c0c0ef59921a4a8795cd20348afc243cccc4821e"><span class="sha1">c0c0ef5</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add more explanation to CollectionAssociation docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e66c0fc04967a122cfec656e5473a57ab0223183"><span class="sha1">e66c0fc</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add CollectionAssociation hierarchy</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3c91c8127050c7abbe091c19052f9813a62b1af7"><span class="sha1">3c91c81</span></a></td>
+  <td class="commit-date">2012-05-18</td>
+  <td class="commit-message">add docs to CollectionAssociation#many?</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ea1477fb6d000073c340751c62c3d4d305e4d77f"><span class="sha1">ea1477f</span></a></td>
+  <td class="commit-date">2012-05-17</td>
+  <td class="commit-message">fix CollectionAssociation#replace docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cd840c3e3838c2396176ecfc2820c701080ec115"><span class="sha1">cd840c3</span></a></td>
+  <td class="commit-date">2012-05-17</td>
+  <td class="commit-message">Add docs to CollectionAssociation#replace</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4bbd05c90e5a62c0316307b3ca7c2262ed98b567"><span class="sha1">4bbd05c</span></a></td>
+  <td class="commit-date">2012-05-17</td>
+  <td class="commit-message">fix validations docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b1dfcc968baa58d9a182ec7e129c901de0445971"><span class="sha1">b1dfcc9</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">update AS:OrderedHash docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3004bc24706ed62ea7e4e752adc287dc92d168f5"><span class="sha1">3004bc2</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">fixing removed empty lines and examples</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a9e66c62e987e163cb80cd1dd71c1a2d4c7ce2b7"><span class="sha1">a9e66c6</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">fixing validates_with docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/95e14d1523ae075a39ce6c6efe68b13db43a16d8"><span class="sha1">95e14d1</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">better format and fixes to validators docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d8e84738ea810c7fac645349945ee765a5fc3cc4"><span class="sha1">d8e8473</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">removing 1.8 reference</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/007c3d8bcb695c3a712b85eb882c95a940c8875e"><span class="sha1">007c3d8</span></a></td>
+  <td class="commit-date">2012-05-16</td>
+  <td class="commit-message">better example format in validates_exclusion_of docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2f73c40b8a995ed685fc76f2df724b15ead16b6"><span class="sha1">b2f73c4</span></a></td>
+  <td class="commit-date">2012-05-15</td>
+  <td class="commit-message">Backporting some docs on core_ext/hash</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc0391ff7d94945e51297f2dbb15e9b149094382"><span class="sha1">fc0391f</span></a></td>
+  <td class="commit-date">2012-05-15</td>
+  <td class="commit-message">Removing ==Examples and last blank lines of docs from ac...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00c94d7d94ba9c32a10fd52885c23d434aa99951"><span class="sha1">00c94d7</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">updating define_attribute_methods documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/05234b358f2d8fabb41b16a4a7a8d676bc31dcd3"><span class="sha1">05234b3</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">allow define_attribute_methods to pass multiple values</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17059a4868532f0046f1ec0ecc643a2211d6db45"><span class="sha1">17059a4</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">Removing ==Examples and last blank lines of docs from ra...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d7c4d0c772e3ab91b9a564b3a6cb2d3f7d8b9833"><span class="sha1">d7c4d0c</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">adding examples to deep_dup method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa03e37d31d7c69c90d41f0764c374318d8dced0"><span class="sha1">fa03e37</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">removing unnecessary &#39;examples&#39; noise from activesupport</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bbd37753bf59a11a9e9b38a3ac7a94ec2906e188"><span class="sha1">bbd3775</span></a></td>
+  <td class="commit-date">2012-05-14</td>
+  <td class="commit-message">Fixing Hash#stringify_keys docs</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16301cce760ad98c6dc07c53f67c990fd5d684b4"><span class="sha1">16301cc</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">marking self in Hash#symbolize_keys!</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/92dbdb2340839f5d21b467eb68675f597fa3a588"><span class="sha1">92dbdb2</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">added example to Hash#symbolize_keys</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/817f9e64ee4e5b02efd9b4047c23340bf4b75586"><span class="sha1">817f9e6</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">unnecessary &#39;examples&#39; noise in Hash#assert_valid_keys docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cb61f57a02488c92e1dc8cc8e8fa52ed5f249955"><span class="sha1">cb61f57</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">added example to Hash#stringify_keys</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/873ac28660b6cec15064a4d321e121f68e54ee06"><span class="sha1">873ac28</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">adding examples to Hash#deep_merge method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53b12cfd2ee7ee4f37fecea7219ff6217a24d2ab"><span class="sha1">53b12cf</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">fix todo: use minitest skip instead of return nil</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f4696de6c469698a702db1e4a1e595ac5acb0df"><span class="sha1">2f4696d</span></a></td>
+  <td class="commit-date">2012-05-13</td>
+  <td class="commit-message">adding examples and docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c78c29556e3fe338e4f8d27a917765a4f75c9b0d"><span class="sha1">c78c295</span></a></td>
+  <td class="commit-date">2012-05-12</td>
+  <td class="commit-message">added examples to Integer#multiple_of?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fc6ab69777af21db3afb45de8ae08ffc316e69e9"><span class="sha1">fc6ab69</span></a></td>
+  <td class="commit-date">2012-05-12</td>
+  <td class="commit-message">removing trailing spaces</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a0b46b5f1b8b554f438dd4efcbd71274c34a5dae"><span class="sha1">a0b46b5</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#to_datetime</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53cc85fad3440d5817ecf7e0e8cd0c7ff3d9a062"><span class="sha1">53cc85f</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#to_date</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7bf6edf819adf48b253dce7673ec82cda821646b"><span class="sha1">7bf6edf</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added examples to String#exclude?</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef440bb0c3378a04300c592ec8432d26afc6ad1d"><span class="sha1">ef440bb</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">remove unnecessary &#39;examples&#39; noise</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/39c483fec56b98b0cdb11b705cd7e63b43d60a64"><span class="sha1">39c483f</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">fix String#last example</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53ef85dae8081e81f7dbb1f09a6150777f509cd4"><span class="sha1">53ef85d</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">fix String#last example</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ed116eda053e8cccb5dda1c4724f8609eceaa90f"><span class="sha1">ed116ed</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#last</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b2e9d33515eb858507cfab8e15eb4a9e049a433a"><span class="sha1">b2e9d33</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">improve String#first docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/074359dfa8d9e16058de4bd6375b2438fef3de83"><span class="sha1">074359d</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">fix typo in String#first</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/84784b4f234c0f21096202309805c3c304901baa"><span class="sha1">84784b4</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#first</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/07045fa919b4787d8ec458a1594f62cdedaf1b06"><span class="sha1">07045fa</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#from</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0822dc01f68eb262274fbedcf97a224e6457ff3b"><span class="sha1">0822dc0</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">improve String#to docs</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/315350847f5089fa2b314b00d485e5121f5622d4"><span class="sha1">3153508</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#to</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7ce4ce33c7c3229752c51dd92ca9d758ec452fc1"><span class="sha1">7ce4ce3</span></a></td>
+  <td class="commit-date">2012-05-11</td>
+  <td class="commit-message">added docs to String#at</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/039917b4086c3567f298716114301b161bb5b1fe"><span class="sha1">039917b</span></a></td>
+  <td class="commit-date">2012-05-10</td>
+  <td class="commit-message">Remove key argument from run_callbacks to fix build</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e471aacf60f36a6f3074eebe32216b8c55c02434"><span class="sha1">e471aac</span></a></td>
+  <td class="commit-date">2012-05-10</td>
+  <td class="commit-message">removing key argument from run_callbacks - fix build</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c1ce4144d1ef5bea3d829167cb52a5abc8d2ef7e"><span class="sha1">c1ce414</span></a></td>
+  <td class="commit-date">2012-05-10</td>
+  <td class="commit-message">AS::Callbacks#run_callbacks remove key argument</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6cbe8dab1e64d42eb376137366b48f1e20f9ddb9"><span class="sha1">6cbe8da</span></a></td>
+  <td class="commit-date">2012-05-10</td>
+  <td class="commit-message">deleting empty lines in docs parts</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dd7e7b3719ab47c50e73f455d7a31f3db18afb42"><span class="sha1">dd7e7b3</span></a></td>
+  <td class="commit-date">2012-05-09</td>
+  <td class="commit-message">fix attribute_accessors docs to support 1.8 syntax</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba48e230c607016b2c92679173e5e7603fa6204c"><span class="sha1">ba48e23</span></a></td>
+  <td class="commit-date">2012-05-09</td>
+  <td class="commit-message">Fix build</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16a9a877288dabcfbeb00cfb681f7c19a8a1e8a3"><span class="sha1">16a9a87</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">removing docs duplication</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/96fe0af1854fd0d0c91ab8a377d83fa3c4a33d75"><span class="sha1">96fe0af</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">added docs to attribute_accessors methods</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4831a895c445f650c9daf0b445136ceb653f781b"><span class="sha1">4831a89</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">added docs to alias_attribute method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2805c28e3e9a7386fe144754a9b664c424add2b3"><span class="sha1">2805c28</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">added docs to cattr_reader</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1ff35304885d86800d802748a053e0f4bef2ac91"><span class="sha1">1ff3530</span></a></td>
+  <td class="commit-date">2012-05-08</td>
+  <td class="commit-message">better docs for cattr_accessor and cattr_writer</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2fb6d12ad3a03c1d9b310fc6a01150f1af2af73b"><span class="sha1">2fb6d12</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">added docs and examples to cattr_writer method</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7b487e5dc16bcf7f94c031cc1411f940df8c0fc8"><span class="sha1">7b487e5</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">added docs to cattr_accessor method</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/17ef794299ae10c2a7b8ce7a2da68258267c9720"><span class="sha1">17ef794</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">adding example about using cattr_accessor with subclasses</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ae0a4ca2e16ff055883f38abb3999b303ba3295c"><span class="sha1">ae0a4ca</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">removing the surrounding +s in active model readme</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/204a79fe61051dac19ac854f22f22ca4288162b8"><span class="sha1">204a79f</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">fixing marked actived model classes in readme</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79f1daf2cef87c706cdaa98398de3e5cf401e839"><span class="sha1">79f1daf</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">marking some active model classes</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c962680e1902d2c9474f0be8ba7b0b8ab361cae6"><span class="sha1">c962680</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">fixing active model links in readme</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9f3637fad5bb68b13a6d004694ba8d2b5e6b8d9d"><span class="sha1">9f3637f</span></a></td>
+  <td class="commit-date">2012-05-07</td>
+  <td class="commit-message">adding observer example</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4657dba60eebc0d7cea11ffd18aa70d7a3d00e45"><span class="sha1">4657dba</span></a></td>
+  <td class="commit-date">2012-05-02</td>
+  <td class="commit-message">Fix #4979 against 3-2-stable - delete_all raise an error...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2f681254ee9481f30baa53720c1570decb437725"><span class="sha1">2f68125</span></a></td>
+  <td class="commit-date">2012-04-30</td>
+  <td class="commit-message">delete_all raise an error if a limit is provided - fixes...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6659252d9f0e6d77bee268adf587e03cfeb8f9ad"><span class="sha1">6659252</span></a></td>
+  <td class="commit-date">2012-04-29</td>
+  <td class="commit-message">fix typo in ActiveSupport::Inflector#titleize</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Clemens Kofler to Ruby on Rails" />
+    <meta name="keywords" content="Clemens Kofler,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #133 Clemens Kofler - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #133 <span class="fn">Clemens Kofler</span> - All time<br/>
+    <span class="listing-total">Showing 28 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d36df5e7a8a2791bb890afa0c11b8f3985293c21"><span class="sha1">d36df5e</span></a></td>
+  <td class="commit-date">2009-03-17</td>
+  <td class="commit-message">Hidden field with check box goes first.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bfa12d7a02ce0e84fcd2b83f2ce6fee1386757e3"><span class="sha1">bfa12d7</span></a></td>
+  <td class="commit-date">2008-09-15</td>
+  <td class="commit-message">Introduce convenience methods past?, today? and future? ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89e600a83f58de65f107837c64661ff23f284903"><span class="sha1">89e600a</span></a></td>
+  <td class="commit-date">2008-09-13</td>
+  <td class="commit-message">Merge branch &#39;master&#39; of git@github.com:lifo/docrails</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a8f4cd36b0f7d8f13a96a28da090a628b6187fa3"><span class="sha1">a8f4cd3</span></a></td>
+  <td class="commit-date">2008-09-13</td>
+  <td class="commit-message">Fixed a typo in the routing guide.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d3ccfe414d8f2d5058cdbc3fe7484af12dd3d05b"><span class="sha1">d3ccfe4</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Whitespace.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/288e947ae1737645985fde76f5382baaff700505"><span class="sha1">288e947</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Some performance goodness for inheritable attributes.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4d092ba2089de185cc8f5a8d16432b348e102046"><span class="sha1">4d092ba</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Some performance goodness for AR.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a377c9853c05904f76751f48d2d56ef564da51b0"><span class="sha1">a377c98</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Some performance goodness for AM Validations.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b42f53ca1fa0af0fd9cc37e2765cd9c47b100065"><span class="sha1">b42f53c</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Some performance goodness for AM StateMatchine.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/948ed346007f0383c51fd371d594576f0fc9d699"><span class="sha1">948ed34</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Some performance goodness for routing.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ba3ecf53b4902a9a5943f4dcf2073fe413de4778"><span class="sha1">ba3ecf5</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Some performance goodness for AR associations.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1646e8c36495680756304b23b7301dbda9cad07a"><span class="sha1">1646e8c</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">More symbols for send and respond_to?.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a978701f86609020eefae8cb1728ac73904234be"><span class="sha1">a978701</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">More symbols for send and respond_to?.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/abebdf52a3b1db58b9abf9774fa87271d480133a"><span class="sha1">abebdf5</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Use symbols for send and respond_to?.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2e240f0eac66fac0bf4c919a45474b7957883624"><span class="sha1">2e240f0</span></a></td>
+  <td class="commit-date">2008-09-02</td>
+  <td class="commit-message">Removed unnecessary Symbol#to_proc from Asset Tag Helper.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/105093f90728f81268367bd52581fccfa165f170"><span class="sha1">105093f</span></a></td>
+  <td class="commit-date">2008-08-07</td>
+  <td class="commit-message">Refactor DateHelper to use DateTimeSelector presenter pa...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/dc66469e6464bbb6d7bd6f242731395b6574aca2"><span class="sha1">dc66469</span></a></td>
+  <td class="commit-date">2008-08-05</td>
+  <td class="commit-message">Fixed i18n bulk translate issues in NumberHelper</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fea7771d2294bd810d04c03c125ceac5d6bb9806"><span class="sha1">fea7771</span></a></td>
+  <td class="commit-date">2008-07-30</td>
+  <td class="commit-message">Updated NumberHelper: Full i18n support (except number_t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/10d9fe4bf3110c1d5de0c6b509fe0cbb9d5eda1d"><span class="sha1">10d9fe4</span></a></td>
+  <td class="commit-date">2008-07-27</td>
+  <td class="commit-message">Refactored TextHelper#truncate, highlight, excerpt, word...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f7abf0c9db61621b3f27061debd7983075cdca61"><span class="sha1">f7abf0c</span></a></td>
+  <td class="commit-date">2008-07-27</td>
+  <td class="commit-message">error_message_on takes an options hash instead of ordere...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0f43de644ea48c1ad11d4bc73307af066bb52870"><span class="sha1">0f43de6</span></a></td>
+  <td class="commit-date">2008-07-21</td>
+  <td class="commit-message">Refactored NumberHelper API to accept arguments as an op...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ff9f6fcc75526d9fd89be834982dec8624c909c5"><span class="sha1">ff9f6fc</span></a></td>
+  <td class="commit-date">2008-07-21</td>
+  <td class="commit-message">Refactor DateHelper and improve test coverage [#665 stat...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c98692abcfd3576ee5fcde3910330d1eb39a18a5"><span class="sha1">c98692a</span></a></td>
+  <td class="commit-date">2008-07-19</td>
+  <td class="commit-message">Removed handling of string parameter in link_to to have ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/938caf4e6b2448b45939d36824794ea0aa5e1804"><span class="sha1">938caf4</span></a></td>
+  <td class="commit-date">2008-07-19</td>
+  <td class="commit-message">Removed unused option from FormHelper#fields_for [#641 s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ef67bd481bacd1ff36a79b7f23f3c08f12f6cbe1"><span class="sha1">ef67bd4</span></a></td>
+  <td class="commit-date">2008-07-12</td>
+  <td class="commit-message">ActiveSupport::CoreExtensions::Hash: Slightly modified w...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f5277eeb7eec43217f53668f8809bd6b546003e3"><span class="sha1">f5277ee</span></a></td>
+  <td class="commit-date">2008-07-12</td>
+  <td class="commit-message">ActionController::Streaming: Added missing documentation...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6e58a254942eb6d7b508452bb7b5b418607dc272"><span class="sha1">6e58a25</span></a></td>
+  <td class="commit-date">2008-07-10</td>
+  <td class="commit-message">Added notes to Routing documentation and routes.rb regar...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/feb08984ea5517db5780a88584929feac1cafb59"><span class="sha1">feb0898</span></a></td>
+  <td class="commit-date">2008-07-10</td>
+  <td class="commit-message">Added notes to Routing documentation and routes.rb regar...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

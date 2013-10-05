@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Scott Barron to Ruby on Rails" />
+    <meta name="keywords" content="Scott Barron,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #85 Scott Barron - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #85 <span class="fn">Scott Barron</span> - All time<br/>
+    <span class="listing-total">Showing 48 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7953eb170d91f44c7c202cbc85555720f9ed1a80"><span class="sha1">7953eb1</span></a></td>
+  <td class="commit-date">2006-11-03</td>
+  <td class="commit-message">merge [5424] from trunk</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ceb3859672ddba6257ffc59c2db4fd99d98ffc9b"><span class="sha1">ceb3859</span></a></td>
+  <td class="commit-date">2006-11-03</td>
+  <td class="commit-message">Turns out call_stack slows down the entire app, so just ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/855e0f6f09cd33c084d7e22b93de7143fc377eb4"><span class="sha1">855e0f6</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">merge [5408] from trunk</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2dd98cfe8cfba26bdb24a51e0ceea49995299c11"><span class="sha1">2dd98cf</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">umm ... who left that there</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c7f28e01c89b6d90b916091380458c43936abde2"><span class="sha1">c7f28e0</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">Merge in [5392] and [5393] from trunk.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/61bcbfbb9ca3fa4737dd20e1e6278c7b537c3337"><span class="sha1">61bcbfb</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">Little better formatting of this string.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa58808d08236c2453f31256d101c964c5b38a6c"><span class="sha1">fa58808</span></a></td>
+  <td class="commit-date">2006-11-02</td>
+  <td class="commit-message">Don&#39;t do call_stack warning all the time, only if a brea...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6eb941ee6cb5cc0cfda1e3777779bc059c0f4079"><span class="sha1">6eb941e</span></a></td>
+  <td class="commit-date">2006-11-01</td>
+  <td class="commit-message">Merge breakpoint/1.8.5 fix from [5380]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c1c96d55d754e6de1572e35bc9bc68cc896655bf"><span class="sha1">c1c96d5</span></a></td>
+  <td class="commit-date">2006-11-01</td>
+  <td class="commit-message">If using Ruby 1.8.5, pull in call_stack so breakpointer ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0bc2485eac73ea06e788d4fffe8891af2e8c4704"><span class="sha1">0bc2485</span></a></td>
+  <td class="commit-date">2006-05-01</td>
+  <td class="commit-message">Add README to gem [Dave Thomas]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/34a7f668259e54a9027f88321dff808f21556c41"><span class="sha1">34a7f66</span></a></td>
+  <td class="commit-date">2006-04-07</td>
+  <td class="commit-message">Not all file systems are case sensitive.  Things like &#39;r...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6b3bc1bc5216b7859552a131dbd8cdf843982119"><span class="sha1">6b3bc1b</span></a></td>
+  <td class="commit-date">2006-04-04</td>
+  <td class="commit-message">A better idea, take the -qr HEAD log as before but use t...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fb8428fe0dbb53d1793ecc9cb623f96418566029"><span class="sha1">fb8428f</span></a></td>
+  <td class="commit-date">2006-04-04</td>
+  <td class="commit-message">If using svn 1.1.x and no REVISION is specified, give an...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89352096293fbbd2077197dba8db18d97b939cba"><span class="sha1">8935209</span></a></td>
+  <td class="commit-date">2006-03-26</td>
+  <td class="commit-message">Don&#39;t raise when the migration file is missing or it&#39;ll ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c954a5b9a031abd822770f4a084fb476cc2fef56"><span class="sha1">c954a5b</span></a></td>
+  <td class="commit-date">2006-03-26</td>
+  <td class="commit-message">When doing svn log -qr HEAD trunk/url, a log message wit...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9fcbd37d9c68f252ef922ed88135c7ad63cfa752"><span class="sha1">9fcbd37</span></a></td>
+  <td class="commit-date">2006-03-01</td>
+  <td class="commit-message">When freezing to edge, we should also export railties/bi...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a447e82de4049e79dc1002257a1c6d6a660685d6"><span class="sha1">a447e82</span></a></td>
+  <td class="commit-date">2006-02-08</td>
+  <td class="commit-message">A more aesthetically pleasing implementation and changel...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2d7309388d2e8236a260a191ffebc02a4add5931"><span class="sha1">2d73093</span></a></td>
+  <td class="commit-date">2006-02-08</td>
+  <td class="commit-message">Make String#last behave more like Array#last, i.e.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/16a31ccd7d6471c8d0f1cdfbdf90945440f5a157"><span class="sha1">16a31cc</span></a></td>
+  <td class="commit-date">2005-12-30</td>
+  <td class="commit-message">Apply [3359] to stable branch.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/63c822afb22ea17cffd55a3d1c3472405e977be5"><span class="sha1">63c822a</span></a></td>
+  <td class="commit-date">2005-12-30</td>
+  <td class="commit-message">Make auto_link handle nil by returning quickly if blank?</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b05f0c8e491eaace3460cb058fbfce741e5f16a0"><span class="sha1">b05f0c8</span></a></td>
+  <td class="commit-date">2005-12-20</td>
+  <td class="commit-message">Oops, I killed Tobi&#39;s changelog entries.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/88bb279df7d2f4c1b4c48be98fbbbae859b20847"><span class="sha1">88bb279</span></a></td>
+  <td class="commit-date">2005-12-20</td>
+  <td class="commit-message">Fix change_column to work with postgres 7.x and 8.x.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d5441b2d506b4286e92746abd8c919e4ce10380e"><span class="sha1">d5441b2</span></a></td>
+  <td class="commit-date">2005-12-20</td>
+  <td class="commit-message">DRY up PG&#39;s add_column a bit to use change_column_defaul...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/1235d26bfbc99a7b7466bddb8ff69eecc585d27f"><span class="sha1">1235d26</span></a></td>
+  <td class="commit-date">2005-12-20</td>
+  <td class="commit-message">Check for the key instead of the value, because it (the ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/339fff7950bbec9936805627b5bad9ec51eb2c14"><span class="sha1">339fff7</span></a></td>
+  <td class="commit-date">2005-11-10</td>
+  <td class="commit-message">This does not need to be thread local (thanks skaes).</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c9ae41fe5154224a047efb4c8fccac4549755a0c"><span class="sha1">c9ae41f</span></a></td>
+  <td class="commit-date">2005-11-07</td>
+  <td class="commit-message">Adding new scripts should set them 0755.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/025949102edb5f31219f053bbab07b3c2b9a555a"><span class="sha1">0259491</span></a></td>
+  <td class="commit-date">2005-10-30</td>
+  <td class="commit-message">Fix problem where redirecting components can cause an </td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a2943c54de7e288ac2443556257df7b2d69ac68"><span class="sha1">3a2943c</span></a></td>
+  <td class="commit-date">2005-10-25</td>
+  <td class="commit-message">Take a different approach to keeping flash around when u...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ccd18dc65008ebb44bfb0e72a8267991838f9744"><span class="sha1">ccd18dc</span></a></td>
+  <td class="commit-date">2005-10-15</td>
+  <td class="commit-message">Should be RAILS_ROOT/test/fixtures.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f8f4eccd9afa1ed665980a3c5b1651f25956798a"><span class="sha1">f8f4ecc</span></a></td>
+  <td class="commit-date">2005-10-15</td>
+  <td class="commit-message">If a component redirects when called with render_compone...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/83b390bcfcded8bd5263883ddf741ef35bccc801"><span class="sha1">83b390b</span></a></td>
+  <td class="commit-date">2005-09-28</td>
+  <td class="commit-message">Returning false in before_destroy should cancel action. ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e1024e50cf72ade51b1b2231f1ba6649b4826b7d"><span class="sha1">e1024e5</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">#2261 was supposed to have been closed as wontfix, not s...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a111e1a271917c56306b7935677ae212027f7702"><span class="sha1">a111e1a</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">Keep flash after component is rendered.  Closes #2291.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/76a7a525576fa1ed12a362fac5da6e2f8b6dc92c"><span class="sha1">76a7a52</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">Fix serialization problem with YAML in 1.8.3</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e7059fd28191a77d53e66389f8df5b22036699e8"><span class="sha1">e7059fd</span></a></td>
+  <td class="commit-date">2005-09-25</td>
+  <td class="commit-message">Fix migrations with PG 7.x.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fa7d4a691ff4fb245c1fd0c62a11f908d5a1bcd9"><span class="sha1">fa7d4a6</span></a></td>
+  <td class="commit-date">2005-09-25</td>
+  <td class="commit-message">This seems unnecessary to call in teardown and is causin...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/49c67ea1b7411ea8c73fcba45fe15e76f8697282"><span class="sha1">49c67ea</span></a></td>
+  <td class="commit-date">2005-09-01</td>
+  <td class="commit-message">Don&#39;t require the environment just to clear the logs #20...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/6500981d608a046305898fefdcebf293553468ae"><span class="sha1">6500981</span></a></td>
+  <td class="commit-date">2005-08-12</td>
+  <td class="commit-message">Preserve +x on scripts when using darcs #1929 [Scott Bar...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cc0105cef9212dd50dd86c62168f842370014b9e"><span class="sha1">cc0105c</span></a></td>
+  <td class="commit-date">2005-08-12</td>
+  <td class="commit-message">Added -w flag to ps in process/reaper #1934 [Scott Barron]</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/50e247443371630e03cb360867770170a76ecb8b"><span class="sha1">50e2474</span></a></td>
+  <td class="commit-date">2005-08-06</td>
+  <td class="commit-message">Make assert_redirected_to properly check URL&#39;s passed as...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/e59bfc85196cc4921f87b4b145048b7fa1fbbabb"><span class="sha1">e59bfc8</span></a></td>
+  <td class="commit-date">2005-06-21</td>
+  <td class="commit-message">Added a fall-through action for form_remote_tag that&#39;ll ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/b69199c1da3ef89bdbebb98084bcf6fe31732a53"><span class="sha1">b69199c</span></a></td>
+  <td class="commit-date">2005-06-21</td>
+  <td class="commit-message">Fixed that mailer generator generated fixtures/plural wh...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/d09e42cfe4b970c03402ab41e3eef95cd32fa4d3"><span class="sha1">d09e42c</span></a></td>
+  <td class="commit-date">2005-03-23</td>
+  <td class="commit-message">Fixed that AR exists?() would explode on postgresql if t...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/36a9eff957c29cbb5fd8654c24fef6bfc94b92d4"><span class="sha1">36a9eff</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added support for timestamp with time zone in PostgreSQL...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/12c775f20c6d4d2562c99b503f720466e335e411"><span class="sha1">12c775f</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Added app/apis and components to code statistics report ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/25b656fefa75954cffff119a14cf7650f4f99a92"><span class="sha1">25b656f</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Fixed that single quote was not escaped in a UrlHelper#l...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5e44eda7872c6ee33e0d09a4b9fd78896e14b95a"><span class="sha1">5e44eda</span></a></td>
+  <td class="commit-date">2005-03-06</td>
+  <td class="commit-message">Fixed that HasManyAssociation#count was using :finder_sq...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/654370d9ad7a66f3dd9a66da78b888ab79ea0ae7"><span class="sha1">654370d</span></a></td>
+  <td class="commit-date">2005-03-02</td>
+  <td class="commit-message">Fixed that RAILS_ROOT might not be defined when AP was l...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

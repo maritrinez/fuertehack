@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Michael Schuerig to Ruby on Rails" />
+    <meta name="keywords" content="Michael Schuerig,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #155 Michael Schuerig - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #155 <span class="fn">Michael Schuerig</span> - All time<br/>
+    <span class="listing-total">Showing 23 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/529a3ee50eeb7db5a78afeb5da38fd71b42e7ea2"><span class="sha1">529a3ee</span></a></td>
+  <td class="commit-date">2012-04-29</td>
+  <td class="commit-message">Fix controller_class_name for anonymous controllers.</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/00a5fd3d18ac908af688c5944922cf69c56e850b"><span class="sha1">00a5fd3</span></a></td>
+  <td class="commit-date">2009-06-26</td>
+  <td class="commit-message">Translate foreign key violations to ActiveRecord::Invali...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/53a3eaa8603cf6e7a3c007f327fe5d3bb68de1ee"><span class="sha1">53a3eaa</span></a></td>
+  <td class="commit-date">2009-06-26</td>
+  <td class="commit-message">Translate adapter errors that indicate a violated unique...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/cad3e8b261a8d9551bc19a57007acf574d957548"><span class="sha1">cad3e8b</span></a></td>
+  <td class="commit-date">2009-04-02</td>
+  <td class="commit-message">Show installed middleware in builtin rails info (/rails/...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9a137506a1267ec5938fcec4d2ff135f15037459"><span class="sha1">9a13750</span></a></td>
+  <td class="commit-date">2008-05-11</td>
+  <td class="commit-message">Added not to sanitize helper docs that it doesn&#39;t guaran...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/30fb7b8c8bfc72ed3097352539544c07cbb38d0d"><span class="sha1">30fb7b8</span></a></td>
+  <td class="commit-date">2007-09-16</td>
+  <td class="commit-message">connection.select_rows &#39;sql&#39; returns an array (rows) of ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/8d6d450303235101a66624691e98986e0a8d6ff6"><span class="sha1">8d6d450</span></a></td>
+  <td class="commit-date">2007-06-05</td>
+  <td class="commit-message">Fixtures: correctly delete and insert fixtures in a sing...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/0092d0ac6de041995d6f4555c6e52590799cbefb"><span class="sha1">0092d0a</span></a></td>
+  <td class="commit-date">2006-10-01</td>
+  <td class="commit-message">Association collections have an _ids reader method to ma...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/acb80e3d0e96725fffad7caa42cc33281714450a"><span class="sha1">acb80e3</span></a></td>
+  <td class="commit-date">2005-10-13</td>
+  <td class="commit-message">Escape query strings in the href attribute of URLs creat...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f49dc37e7100d8358d864a6e008c17acd24765fc"><span class="sha1">f49dc37</span></a></td>
+  <td class="commit-date">2005-10-12</td>
+  <td class="commit-message">Wrap javascript_tag contents in a CDATA section and add ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/064842f516513eab305cb8a3257e32164cda68cb"><span class="sha1">064842f</span></a></td>
+  <td class="commit-date">2005-10-10</td>
+  <td class="commit-message">Convert boolean form options form the tag_helper. Reclos...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f4d1af3085cbe95cd8363fae86696a723122c195"><span class="sha1">f4d1af3</span></a></td>
+  <td class="commit-date">2005-10-09</td>
+  <td class="commit-message">Fix typo of &#39;constrains&#39; to &#39;contraints&#39;. Closes #2069.</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8e364a93f6c2de80fb56ddf2f6a46b6e96f4a9d"><span class="sha1">c8e364a</span></a></td>
+  <td class="commit-date">2005-10-09</td>
+  <td class="commit-message">Add ability to get all siblings, including the current c...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/80cd2f664527607e901a4e114098c5dc63587e3b"><span class="sha1">80cd2f6</span></a></td>
+  <td class="commit-date">2005-10-08</td>
+  <td class="commit-message">Move require_library_or_gem out of AR&#39;s abstract_adapter...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/fe0ffe406e831378a2864a706e9648b05023df1e"><span class="sha1">fe0ffe4</span></a></td>
+  <td class="commit-date">2005-09-27</td>
+  <td class="commit-message">Ticket 2263 - Make clean logger compatible with both 1.8...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/4836c4081d62aa86267f1e1c76bae1c7b06e3f23"><span class="sha1">4836c40</span></a></td>
+  <td class="commit-date">2005-09-11</td>
+  <td class="commit-message">Fix problem with mime type defaults #2165 [Michael Shuerig]</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c8e0e10e28948bce93ea9f28524f917d9e0ea2da"><span class="sha1">c8e0e10</span></a></td>
+  <td class="commit-date">2005-09-09</td>
+  <td class="commit-message">Added documentation for overwrite_params #2146 [Michael ...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/14b8fa308e5d415d5b2456fc1e0993bb7cae69a1"><span class="sha1">14b8fa3</span></a></td>
+  <td class="commit-date">2005-09-02</td>
+  <td class="commit-message">Corrected project-local generator location in scripts.rb...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/98fb9e5093decbaff5aea5fd25de53f2624ecff3"><span class="sha1">98fb9e5</span></a></td>
+  <td class="commit-date">2005-07-22</td>
+  <td class="commit-message">Fixed call on inline with new render_template #1808 [Mic...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/2abe3d2cd92e5ee55c39f1b4062ccf60043105f7"><span class="sha1">2abe3d2</span></a></td>
+  <td class="commit-date">2005-07-09</td>
+  <td class="commit-message">Added that nil options are not included in tags, so tag(...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c52edf2319eccf0feafcec7ac4fd0164011a06db"><span class="sha1">c52edf2</span></a></td>
+  <td class="commit-date">2005-07-03</td>
+  <td class="commit-message">Added :prompt option to FormOptions#select (and the user...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ebd7bf7945d8fc6881a7b576fe22eaaa2ca3efd8"><span class="sha1">ebd7bf7</span></a></td>
+  <td class="commit-date">2005-07-01</td>
+  <td class="commit-message">Added roots, root, and siblings to the batch of methods ...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f0e9fd74aed3d74e6ae8f53dbdcd1340d238cb57"><span class="sha1">f0e9fd7</span></a></td>
+  <td class="commit-date">2005-07-01</td>
+  <td class="commit-message">Make render(:inline) use locals #1556 [Michael Shuerig]</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

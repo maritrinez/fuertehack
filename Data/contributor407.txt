@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Jan Berdajs to Ruby on Rails" />
+    <meta name="keywords" content="Jan Berdajs,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #385 Jan Berdajs - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #385 <span class="fn">Jan Berdajs</span> - All time<br/>
+    <span class="listing-total">Showing 8 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/750077ab42ac8486199ddfb2c0d357fb42732e7e"><span class="sha1">750077a</span></a></td>
+  <td class="commit-date">2013-06-17</td>
+  <td class="commit-message">add test for 9041454def79d8e61cabe49e7c5cb72cef29138b</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/ec2b971118daaac06f13d9b416b952a779bc0fb5"><span class="sha1">ec2b971</span></a></td>
+  <td class="commit-date">2013-06-17</td>
+  <td class="commit-message">fix serialization type cast when value is already unseri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bd93184c61379c15ecb2bb7c0966f42698e3ac3a"><span class="sha1">bd93184</span></a></td>
+  <td class="commit-date">2013-06-17</td>
+  <td class="commit-message">add test for 9041454def79d8e61cabe49e7c5cb72cef29138b</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/480b28bd8ee3d1f791be7b41ae32b8859cae153d"><span class="sha1">480b28b</span></a></td>
+  <td class="commit-date">2013-06-17</td>
+  <td class="commit-message">fix serialization type cast when value is already unseri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/89c9ff8d8b70bb5b0bc56576be94f27f87996bbe"><span class="sha1">89c9ff8</span></a></td>
+  <td class="commit-date">2013-06-05</td>
+  <td class="commit-message">add test for 9041454def79d8e61cabe49e7c5cb72cef29138b</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/9041454def79d8e61cabe49e7c5cb72cef29138b"><span class="sha1">9041454</span></a></td>
+  <td class="commit-date">2013-06-05</td>
+  <td class="commit-message">fix serialization type cast when value is already unseri...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a774354dfea6dfe9b0caff2ab1df52a1f73716be"><span class="sha1">a774354</span></a></td>
+  <td class="commit-date">2012-10-18</td>
+  <td class="commit-message">add credit to committer of pull request #6569</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/bc7c0b5c108ef47b24bb91c502429935bb34d214"><span class="sha1">bc7c0b5</span></a></td>
+  <td class="commit-date">2012-06-14</td>
+  <td class="commit-message">prevent users from unknowingly using bad regexps that ca...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

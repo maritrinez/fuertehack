@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Commits contributed by Wincent Colaiuta to Ruby on Rails" />
+    <meta name="keywords" content="Wincent Colaiuta,Ruby on Rails,core,contributors" />
+    <meta name="author" content="Xavier Noria" />
+    <meta name="designer" content="José Espinal" />
+
+    <title>Rails Contributors - #242 Wincent Colaiuta - All time</title>
+    <link href="/assets/application-badf45f29e1e790ba53078a0c99626a2.css" media="screen" rel="stylesheet" />
+    <script src="/assets/application-08845da40fbd13214bd5156f5fc7ee27.js"></script>
+  </head>
+  <body>
+    <div id="topBar">
+      <div class="wrapper">
+        <strong>
+  More at
+  <a href="http://rubyonrails.org/" title="Ruby on Rails" class="home">rubyonrails.org:</a>
+</strong>
+
+<a href="http://rubyonrails.org/" title="Ruby on Rails - Overview">Overview</a> |
+<a href="http://rubyonrails.org/download" title="Ruby on Rails - Downloads">Download</a> |
+<a href="http://rubyonrails.org/deploy" title="Ruby on Rails - Deploy">Deploy</a> |
+<a href="https://github.com/rails/rails" title="Ruby on Rails - Code">Code</a> |
+<a href="http://rubyonrails.org/screencasts" title="Ruby on Rails - Screencasts">Screencasts</a> |
+<a href="http://rubyonrails.org/documentation" title="Ruby on Rails - Documentation">Documentation</a> |
+<a href="http://rubyonrails.org/ecosystem" title="Ruby on Rails - Ecosystem">Ecosystem</a> |
+<a href="http://rubyonrails.org/community" title="Ruby on Rails - Community">Community</a> |
+<a href="http://weblog.rubyonrails.org/" title="Ruby on Rails - Blog">Blog</a>
+
+      </div>
+    </div>
+    <div id="header">
+      <div class="wrapper">
+        <div id="logo">
+          <a href="/"><img alt="Logo" src="/assets/logo-3e267ad73b31896563e8b6223ba50aae.png" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="header-shadow">
+      <div class="wrapper">
+        <div id="container">
+          <div id="content">
+            <div id="content-in">
+              
+<!-- see http://google.com/support/webmasters/bin/answer.py?hl=en&answer=99170 -->
+<div class="vcard">
+  <h1 id="title">
+    #242 <span class="fn">Wincent Colaiuta</span> - All time<br/>
+    <span class="listing-total">Showing 14 commits</span>
+  </h1>
+
+  <div id="table-wrap">
+    <table>
+      <tr class="header">
+        <th>Hash</th>
+        <th>Date</th>
+        <th>Message</th>
+      </tr>
+      <tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/3a6acb616235349f829236ec04a182d27fe2d397"><span class="sha1">3a6acb6</span></a></td>
+  <td class="commit-date">2010-10-10</td>
+  <td class="commit-message">Fix misleading advice to add &#39;memcache&#39; to Gemfile</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/f659a1576fc4a447bbfbd866c7244d8d790a3d9c"><span class="sha1">f659a15</span></a></td>
+  <td class="commit-date">2010-10-10</td>
+  <td class="commit-message">Fix misleading advice to add &#39;memcache&#39; to Gemfile</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ccdb362b490a175e30f54471cecc8d0be2a0448"><span class="sha1">5ccdb36</span></a></td>
+  <td class="commit-date">2010-08-24</td>
+  <td class="commit-message">Add test case for ActiveRecord::Base.record_timestamps =...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/7d71b785a95ac77c214e708f615f9ec6402fc016"><span class="sha1">7d71b78</span></a></td>
+  <td class="commit-date">2010-08-24</td>
+  <td class="commit-message">Add test case for ActiveRecord::Base.record_timestamps =...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/c819c131f2d08a8c9089a6ef0dcadcf912e2538c"><span class="sha1">c819c13</span></a></td>
+  <td class="commit-date">2010-07-26</td>
+  <td class="commit-message">doc: cleanup respond_to documentation</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/79f9fcd70d9c15f63f62fb04a46996ae29769937"><span class="sha1">79f9fcd</span></a></td>
+  <td class="commit-date">2010-07-26</td>
+  <td class="commit-message">doc: cleanup respond_to documentation</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/198975ecee96632ef23064d2b8e772d042bca4ac"><span class="sha1">198975e</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">doc: form_for does return output rather than merely eval...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/680f0459a3a4fe59b215d26c2de03f963c2c29ee"><span class="sha1">680f045</span></a></td>
+  <td class="commit-date">2010-07-21</td>
+  <td class="commit-message">doc: form_for does return output rather than merely eval...</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/75b32a69a185e2e802934bc4000f6c0efbc5c2e7"><span class="sha1">75b32a6</span></a></td>
+  <td class="commit-date">2010-07-03</td>
+  <td class="commit-message">Fixes for &quot;router&quot; and &quot;routes&quot; terminology</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/52c56f9f7ec46ee39f1a6319ff4017e2492683ed"><span class="sha1">52c56f9</span></a></td>
+  <td class="commit-date">2010-06-30</td>
+  <td class="commit-message">docs: note that mail() accepts arbitrary headers</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/728b9eccad99d22028577e8b06433e8344b15d01"><span class="sha1">728b9ec</span></a></td>
+  <td class="commit-date">2010-06-19</td>
+  <td class="commit-message">option_groups_from_collection_for_select should return H...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/a424808df95c5ebe66d02f0d743e741a1864baa7"><span class="sha1">a424808</span></a></td>
+  <td class="commit-date">2010-06-17</td>
+  <td class="commit-message">truncate() should not try to produce HTML-safe output</td>
+</tr>
+<tr class="even">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/5ac05f15c6d8f496c4e152dbbecd8ccb12041770"><span class="sha1">5ac05f1</span></a></td>
+  <td class="commit-date">2009-05-05</td>
+  <td class="commit-message">Extract ActionController::Caching::Sweeper into separate...</td>
+</tr>
+<tr class="odd">
+  <td class="commit-sha1"><a class="commit" href="https://github.com/rails/rails/commit/71528b1825ce5184b23d09f923cb72f4073ce8ed"><span class="sha1">71528b1</span></a></td>
+  <td class="commit-date">2008-06-01</td>
+  <td class="commit-message">Previously we only added the &quot;lib&quot; subdirectory to the l...</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+          <div id="sidebar">
+              <ul id="navigation">
+
+      <li class="current"><a href="/contributors">All time</a></li>
+      <li><a href="/contributors/in-time-window/today">Today</a></li>
+      <li><a href="/contributors/in-time-window/this-week">This week</a></li>
+      <li><a href="/contributors/in-time-window/this-month">This month</a></li>
+      <li><a href="/contributors/in-time-window/this-year">This year</a></li>
+    <li><a href="/releases">Releases</a></li>
+    <li><a href="/edge/contributors">Edge</a></li>
+  </ul>
+
+          </div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
