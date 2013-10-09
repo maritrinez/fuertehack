@@ -1,286 +1,313 @@
-# LEER DATOS
+# DATA IMPORT
 
-# En qué directorio vamos a trabajar (de dónde leer, escribrir)
+# Set the working directory (where the files are being to be loaded from and where they are going to be saved)
 
 getwd()
-[1] "/Users/martinez/Documents"
-
 setwd("~/Dropbox/IntroduccionR")
 
 
-# Descargar la home de la página 
-
+# Download the home page http://contributors.rubyonrails.org/ and save it as *.txt
 url <- "http://contributors.rubyonrails.org/"
 download.file(url, destfile = "Data/contributors00.txt")
 
-# Leer el archivo en R
+# Load the contributors00.txt file into R
 contributors <- readLines("Data/contributors00.txt")
-contributors[60:70]
+contributors[60:70]  # Have a look at some lines
 
 
 
-# Ya tenemos la home guardada, ahora lo que queremos es una lista de todas las urls a las páginas
-# de los contribuyentes, para descargarnoslas todas y crear un tabla con los campos: ....
+# Once we have the homepage saved and loaded into R, we need to extract a vector with the URLs for every contributor page.
+# We will find the URLs in the homepage code by using regular expressions.
 
-# Utilizamos expresiones regulares para encontrar las url en el código de la página
+contributorsLines <- grep("highlight", contributors, fixed = TRUE, value = TRUE)  # Extract the lines where the contributors' names are, formatted to create the URL to their pages.
 
-contributorsLines <- grep("highlight", contributors, fixed = TRUE, value = TRUE)  # Extraemos las lineas en las que están los nombres de los contribuyentes en modo url.
+r <- gregexpr("/contributors/(.*)/commits", contributorsLines)  # Get two indices: where the match starts and the match's length.
+contributorsURL <- regmatches(contributorsLines, r)  # Get the registered matches.
+contributorsURL <- paste("http://contributors.rubyonrails.org", contributorsURL, sep="")  # Paste the registered matches to the main URL.
 
-r <- gregexpr("/contributors/(.*)/commits", contributorsLines)  # Obtenemos el indice en el que empieza la cadena buscada y la longitud.
-contributorsURL <- regmatches(contributorsLines, r)  # Sacamos los registros
-contributorsURL <- paste("http://contributors.rubyonrails.org", contributorsURL, sep="")  # Lo juntamos a la URL de la home
-
-head(contributorsURL)
-
+head(contributorsURL)  # We have now the URLs vector, containing every URL for each contributor page.
 
 
 
 
-# Tenemos la lista de todas las URLs que hay que descargar, cargar en R y extraer los datos que queremos a un data.frame
+
+# Now, download every contributor page as *.txt, load into R and get the data we want (contributor name, rank, date, message)
+
+# This may take a looong time, so you'd better download the resultant *.csv
+
+urlCsv <- "https://github.com/beamartinez/fuertehack/blob/master/Data/contributorsdf.csv"
+download.file(urlCsv, destfile = "contributorsdf.csv", method = "curl")  # method must be set to 'curl' as it is a secure URL (https)
+contributorsdf <- read.csv("contributorsdf.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
 
 
-contributorsdf <- data.frame()  # Se crea un data.frame vacío en el que ir guardando los datos
+# Uncomment the code below to run the whole process (just remember it takes a time; it depends on your internet connection, but it took me more than half an hour)
 
-for (i in (1:length(contributorsURL))){  # Para cada página
-	
-	# Se descarga
-	url2 <- contributorsURL[i]
-	download.file(url2, destfile = paste("Data/contributor",i,".txt", sep = ""))
-	contributor <- readLines(paste("Data/contributor",i,".txt", sep = ""))  
-	
-	
-	# Se crea un vector con las fechas de los commits (date)
-	date <- grep("commit-date", contributor, fixed = TRUE, value=TRUE)
-	r <- gregexpr("[0-9]{4}-[0-9]{2}-[0-9]{2}", date)
-	date <- unlist(regmatches(date,r))
-	
-	# Otro con los mensajes (message)
-	message <- grep("commit-message", contributor, fixed = TRUE, value = TRUE)
-	r <- regexec(">(.*)<", message)
-	message <- regmatches(message, r)
-	message <- sapply(message, function(x) x[2])
-	
-	# Se extra el Nombre (Name) del contribuyente y su posición en el ranking (Rank)
-	r <- regexec("Rails Contributors - #(.*?) (.*) -", contributor)
-	m <- unlist(regmatches(contributor, r))
-	m
-	Rank <- m[2]  ## MIRAR SI FUNCIONA CON MINÚSCULAS
-	Name <- m[3]
-	
-	# Se combinan los 4 vectores y se obtienen los datos del contribuyente
-	tableContributor <- as.data.frame(cbind(date, message))
-	tableContributor$name <- Name
-	tableContributor$rank <- Rank
-	
-	# Éstos se pasan al data.frame que creamos vacío y así.
-	contributorsdf <- rbind(tableContributor, contributorsdf)
-}
+# contributorsdf <- data.frame()  # Create an empty data.frame where store the data as it is being extracting from the contributors' pages.
+
+# for (i in (1:length(contributorsURL))){  # For every contributors' page
+
+## Download it		
+# url2 <- contributorsURL[i]
+# download.file(url2, destfile = paste("Data/contributor",i,".txt", sep = ""))
+# contributor <- readLines(paste("Data/contributor",i,".txt", sep = ""))  
+
+## Generate a vector with the commits dates.
+# date <- grep("commit-date", contributor, fixed = TRUE, value=TRUE)
+# r <- gregexpr("[0-9]{4}-[0-9]{2}-[0-9]{2}", date)
+# date <- unlist(regmatches(date,r))
+
+## Another one with the commit messages.
+# message <- grep("commit-message", contributor, fixed = TRUE, value = TRUE)
+# r <- regexec(">(.*)<", message)
+# message <- regmatches(message, r)
+# message <- sapply(message, function(x) x[2])
+
+## Extract the contributors' names and ranks.
+# r <- regexec("Rails Contributors - #(.*?) (.*) -", contributor)
+# m <- unlist(regmatches(contributor, r))
+# rank <- m[2]  
+# name <- m[3]
+
+## Join the four vectors (date, message, name and rank) in a data.frame
+# tableContributor <- as.data.frame(cbind(date, message))
+# tableContributor$name <- name
+# tableContributor$rank <- rank
+
+## Store this data in the empty data.frame created before the for loop.
+# contributorsdf <- rbind(tableContributor, contributorsdf)
+#}
 
 
-# Están los datos listos
-
+# The data.frame with the data we wanted is ready.
 head(contributorsdf)
 
-# Ahora se pueden escribir
+# Now you can save it (new data have been generated in R !)
 write.csv(contributorsdf, file = "Data/contributorsdf.csv", row.names = FALSE)
 
-# Y leer
-contributorsdf <- read.csv("~/Dropbox/IntroduccionR/Data/contributorsdf.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
+# And load the file again to use it as input data.
+contributorsdf <- read.csv("Data/contributorsdf.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
 
-===================================================
-	
-	TRATAMIENTO Y ANÁLISIS DE DATOS
 
-# Echar un vistazo a los datos, obtener información del objeto
 
+# DATA TREATMENT
+
+# Have a look at the data and get information about the object.
 str(contributorsdf)
-
 summary(contributorsdf)
 
 
-# Cambiar la clase de un objeto
+# Change an object class
 contributorsdf$date <- as.Date(contributorsdf$date, "%Y-%m-%d")
 summary(contributorsdf)
 
 
-# Eliminar un registro
-contributorsdf <- contributorsdf[which(contributorsdf$date != "1970-01-01"), ]
+# Remove one register
+contributorsdf <- contributorsdf[which(contributorsdf$date != "1970-01-01"), ]  # The date was wrong, so we remove the whole observation.
 nrow(contributorsdf)
 
-# Combinar con otro data.frame
+# Add some information from other data.frame.
+# E.g.: Assign a country to each contributor (not the real one this time).
 
-ISOcountries <- read.csv("~/Dropbox/R Data/ISOcountries.csv")
-
+# Download the countries list (with their codes) and load it into R.
+urlCountries <- "https://dl.dropboxusercontent.com/s/c8nlins4davcnz8/ISOcountries.csv?token_hash=AAGb1r0-10fvR-q_eLY6-f5XtshKkYR0jXXFDHQ1mdOY3A&dl=1"
+download.file(urlCountries, destfile = "Data/ISOcountries.csv", method = "curl")
+ISOcountries <- read.csv("Data/ISOcountries.csv")
 head(ISOcountries)
 
+# Generate a vector which will have the same length that the number of contributors 
+codes <- sample(ISOcountries$codes, length(unique(contributorsdf$name)), replace = TRUE)  
 
-# Asignar un país a cada contribuyente
-
-countries <- sample(ISOcountries$codes, length(unique(contributorsdf$name)), replace = TRUE)  
-# Genera un vector de igual longitud que el número de contribuyentes.
-
+# Get a vector containing the contributors names without repetitions
 uniqueContributors <- unique(as.character(contributorsdf$name)) 
-# vector con los contribuyentes
 
-a <- data.frame(uniqueContributors, countries)  
-# Juntamos ambos vectores en un data.frame
+# Join both vectors into a data.frame and merge to ISOcountries to add the countries' names.
+countries <- data.frame(uniqueContributors, codes)
+countries <- merge(countries, ISOcountries, by = "codes")  
+head(countries)
 
-head(a)
+# Merge the 'countries' data.frame with the contributorsdf 
+contributorsdf <- merge(contributorsdf, countries, by.x = "name", by.y = "uniqueContributors")
+str(contributorsdf) # Two new variables have been added to the data.frame, 'codes' and 'countries'
 
-
-# Se combinan los dos data.frames
-contributorsdf <- merge(contributorsdf, a, by.x = "name", by.y = "uniqueContributors")  # Combina los dos data.frame por el nombre del contribuyente
-str(contributorsdf)
-
-==========================================
-	CÁLCULOS
-
-# Calcular commits por año
-# Separar columna date en mes-año-día
-
+# Split the 'date' variable in other two: 'year' and 'month'
 dates <- strsplit(as.character(contributorsdf$date), "-")
 contributorsdf$year <- sapply(dates, function(x) x[1])
 contributorsdf$month <- sapply(dates, function(x) x[2])
 rm(dates)
 
+# Subset the top 10 contributors
+freqCommits <- data.frame(table(contributorsdf$name))	# Get the frequency table of commits per contributor.
+names(freqCommits)  # The given names are not very intuitive.
+names(freqCommits) <- c("name", "Freq")  # Change the columns names.
 
-table(contributorsdf$year) # commits por año
+freqCommits <- freqCommits[order(-freqCommits$Freq), ]  # Sort the values in decreasing order.
+head(freqCommits)  # Have a look at the firsts rows 
 
+top10 <- as.character(freqCommits$name[1:10])  # Get a vector with the top 10 contributors names (from a factor, that is why 'as.character' should be used).
 
-mean(table(contributorsdf$year)) # media de commits por año en el periodo 2004-2013
+top10contributors <- contributorsdf[contributorsdf$name %in% top10, ]  # Subset the observations related to the top 10 contributors from the main data.frame.
 
-
-# Commits por mes y año
-
-table(contributorsdf$year, contributorsdf$month)
-
-
-# Esto a dataframe
-monthYear <- as.data.frame.matrix(table(contributorsdf$year, contributorsdf$month))
-
-colMeans(monthYear) # media por mes (en enero, una media de 497 commits en todos los años)
-
-rowMeans(monthYear) # media por mes por año (en 2004, una media de 32 commits por mes)
-
-
-# subset los 10 con más commits
-freqCommits <- data.frame(table(contributorsdf$name))	# commits por contributor
-freqCommits <- freqCommits[order(-freqCommits$Freq), ]
-head(freqCommits)
-
-
-top10 <- as.character(freqCommits$Var1[1:10])
-length(top10)
-
-
-top10contributors <- contributorsdf[contributorsdf$name %in% top10, ]
-str(top10contributors)
-
-
+unique(top10contributors$name)
 identical(sort(unique(top10contributors$name)), sort(top10))
-[1] TRUE
+
+rm(freqCommits, top10)  # Remove the unnecessary objects.
 
 
-# correlation
-
-nCommits <- read.csv("~/Dropbox/R Data/nCommits.csv")
-nCommits
-plot(nCommits$contributors, nCommits$commits)
-cor(nCommits$contributors, nCommits$commits)
-
-# =======================================
-# GRÁFICOS
 
 
-# Pintar cada commit
+# DATA ANALYSIS
 
+# Get frequency tables
+
+# number of commits per year
+table(contributorsdf$year)
+mean(table(contributorsdf$year)) # mean of commits per year for the period 2004-2013
+
+
+# number of commits per month and year
+freqYM <- table(contributorsdf$year, contributorsdf$month)
+freqYM
+
+margin.table(freqYM, 1)  # 'year' frequencies (summed over 'month') 
+margin.table(freqYM, 2)  # 'month' frequencies (summed over 'year')
+
+prop.table(freqYM)  # Cell percentages
+prop.table(freqYM, 1)  # Row percentages 
+prop.table(freqYM, 2)  # Column percentages
+
+colMeans(freqYM)  # Monthly means
+rowMeans(freqYM)  # Yearly means
+
+# Commits by contributor per year (only for the top ten contributors) 
+freqYC <- table(top10contributors$year, top10contributors$name)  
+colMeans(freqYC)  # Mean of commits per year by contributor
+
+# Cross tables
+
+xtabs(~name+year, data=top10contributors)  # Commits by contributor per year 
+xtabs(~name+month+year, data=top10contributors)  # Commits by contributor per year and month
+ftable(xtabs(~name+month+year, data=top10contributors))  # flat table: easy to read table
+
+# Correlation
+nContributors <- tapply(contributorsdf$name, contributorsdf$year, function(X) length(unique(X)))  # Get the number of unique contributors per year
+nCommits <- tapply(contributorsdf$name, contributorsdf$year, function(X) length(X))  # Get the number of commits per year
+e <- data.frame(cbind(nCommits, nContributors))
+e
+cor(e$nContributors, e$nCommits)
+
+
+
+# GRAPHICS
+
+
+# Plot every commit
 plot(contributorsdf$date, factor(contributorsdf$name))
 
 
-# Cambiar el aspecto
+# Plot every commit formating the plot
 plot(contributorsdf$date, factor(contributorsdf$name), 
 	 main = "Total Commits", 
 	 xlab = "Date", 
 	 ylab = "contributors",
 	 col = rgb(0,100,0,40,maxColorValue=255),
-	 pch = 18,
+	 pch = 18
 )
-# Ver ?par
+# See ?par 
 
 
 
-#Librería ggplot2
+#Library ggplot2 for nicer graphics (based on layers)
 library(ggplot2)
 
+# Plot the top ten contributors' commits
 p <- ggplot(top10contributors, aes(date, name))
 p + geom_point()
 p + geom_point(alpha = 0.2, size = 3, aes(colour = factor(name)), show_guide = FALSE) 
 
-
-
-
-# Graficar commits por mes
-
+# Plot commits per month 
+# Bargraph
 m <- ggplot(contributorsdf, aes(month))
 m + geom_bar(fill = "darkblue")
 
+# Stacked bars
+m <- ggplot(contributorsdf, aes(month, fill=year)) 
+m + geom_bar() + coord_flip()
 
+# Plot them in a grid
+m <- ggplot(contributorsdf, aes(month)) +  geom_bar(aes(fill=year))
+m + facet_grid(year ~ .)+ theme(legend.position = "none")
 
-
-ggplot(contributorsdf, aes(month, fill=year)) + geom_bar() + coord_flip()
-
-
-
-m <- ggplot(contributorsdf, aes(month)) +  geom_histogram(aes(fill=year))
-m + facet_grid(year ~ .)
-
-
-
+# Lines plot
 m <- ggplot(contributorsdf, aes(month, colour = year, group = year))
 m+geom_freqpoly()
 
+# Plot the number of commits ~ number of contributors and its regression line
+p <- ggplot(e, aes(nContributors, nCommits))
+p + geom_smooth(method='lm', colour = "#CC79A7", se = FALSE) + 
+	geom_point(alpha = 0.8, size = 5, colour = "#009E73") +
+	xlab("Number of contributors") +  # Set x-axis label
+	ylab("Number of commits") +   
+	annotate("text", label = "Correlation = 0.88", x = 700, y = 150, colour = "#CC79A7") +  # Prints the correlation index
+	theme(axis.title = element_text(size = rel(1.4), colour = "#006348"),  # Change the appearance
+		  axis.title.x = element_text(vjust = 0.1),
+		  axis.title.y = element_text(vjust = 0.25),
+		  axis.text = element_text(size = rel(1.2)),
+		  panel.background = element_rect(fill = "#F5F6CE")
+	)
 
 
-# Mapa
+
+# Plot a map
+
+# Download the necessary libraries
+if (!"sp" %in% installed.packages()) install.packages("sp")
+if (!"maptools" %in% installed.packages()) install.packages("maptools")
+
+# Load them into R
 library(sp)
 library(maptools)
-library(RColorBrewer)
 
-data(wrld_simpl)
+
+data(wrld_simpl)  # Get a World map where to plot the variable (number of commits by country this time)
 commitsMap <- wrld_simpl
 class(commitsMap)
 
-# Sacamos la tabla de frecuencias por pais
-countriesFreq <- as.data.frame(table(contributorsdf$countries))
+# Get the frequency table for the countries
+countriesFreq <- as.data.frame(table(contributorsdf$codes))
 head(countriesFreq)
 
 
-# Lo combinamos con commitsMap@data, el data frame de datos del SpatialPolygonsDataFrame
-head(commitsMap@data)
-
-
+# Merge the countries frequency table with the commitsMap@data, the 'data.frame' inside the SpatialPolygonsDataFrame
 commitsMap@data <- merge(commitsMap@data, countriesFreq, by.x = "ISO2", by.y = "Var1", all.x=T)
 
-head(commitsMap@data)
+head(commitsMap@data)  # A new variable has been added
+
+# Set a bunch of colors. (So many by default in the "RColorBrewer" library)
+colors <- c("#1D3140", "#1C3D4D","#194A58","#125862","#09666A","#047370","#0B8174","#1C8F76","#309D77","#46AA75","#5DB872","#76C46E","#91D069","#AEDB64","#CDE660","#EDEF5D")  # Copy pasted from http://tristen.ca/hcl-picker/
+
+# Plot the SpatialPolygonsDataFrame
+spplot(commitsMap, "Freq", col.regions = rev(colors), 
+	   par.settings = list(
+	   	panel.background = list(col="#CEE3F6"), 
+	   	add.line = list(col = "#F5F6CE", lwd = .2)))
 
 
-spplot(commitsMap, "Freq", col.regions = colorRampPalette(brewer.pal(9, "YlGnBu"))(17))
 
-
+# Save any plot as *.png
 png(file = "Images/commits_map.png", height = 480, width = (480*2))
-spplot(commitsMap, "Freq", col.regions = colorRampPalette(brewer.pal(9, "YlGnBu"))(17))
+spplot(commitsMap, "Freq", col.regions = rev(colors), 
+	   par.settings = list(
+	   	panel.background = list(col="#CEE3F6"), 
+	   	add.line = list(col = "#F5F6CE", lwd = .2)))
 dev.off()
 
-# Fuertehack contributors
+
+
+# Plot Fuertehack contributors
 
 people <- c("Fernando Guillén", "Juanjo Bazán", "Fernando Blat","Paco Guzman","Christos Zisopoulos","Alberto Perdomo")
-people
 
-peopleData <- contributorsdf[ contributorsdf$name %in% people, ]
-peopleData$name
+peopleData <- contributorsdf[contributorsdf$name %in% people, ]
 
-#png(file = "Images/fuertehaackCommiters.png", height = 480, width = (480*2))
 p <- ggplot(peopleData, aes(date, name))
-p + geom_point()
-p + geom_point(alpha = 0.8, size = 3, aes(colour = factor(name)), show_guide = FALSE) 
-dev.off()
+p + geom_point(alpha = 0.8, size = 4, aes(colour = factor(name)), show_guide = FALSE) 
